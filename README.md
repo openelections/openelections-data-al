@@ -5,7 +5,7 @@ Pre-processed results for Alabama elections
 
 Note: Developed in python3
 
-Create a python (virtualenv)[http://docs.python-guide.org/en/latest/dev/virtualenvs/]
+Create a python [virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 
 Install the required dependencies
 `pip install -r requirements.txt`
