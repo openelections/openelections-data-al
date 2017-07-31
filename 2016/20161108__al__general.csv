@@ -1,0 +1,1089 @@
+county,office,district,party,candidate,votes
+Total,President,,D,Hillary Clinton,"729,547"
+Autauga,President,,D,Hillary Clinton,"5,936"
+Baldwin,President,,D,Hillary Clinton,"18,458"
+Barbour,President,,D,Hillary Clinton,"4,871"
+Bibb,President,,D,Hillary Clinton,"1,874"
+Blount,President,,D,Hillary Clinton,"2,156"
+Bullock,President,,D,Hillary Clinton,"3,530"
+Butler,President,,D,Hillary Clinton,"3,726"
+Calhoun,President,,D,Hillary Clinton,"13,242"
+Chambers,President,,D,Hillary Clinton,"5,784"
+Cherokee,President,,D,Hillary Clinton,"1,547"
+Chilton,President,,D,Hillary Clinton,"2,911"
+Choctaw,President,,D,Hillary Clinton,"3,109"
+Clarke,President,,D,Hillary Clinton,"5,749"
+Clay,President,,D,Hillary Clinton,"1,237"
+Cleburne,President,,D,Hillary Clinton,684
+Coffee,President,,D,Hillary Clinton,"4,221"
+Colbert,President,,D,Hillary Clinton,"7,312"
+Conecuh,President,,D,Hillary Clinton,"3,080"
+Coosa,President,,D,Hillary Clinton,"1,782"
+Covington,President,,D,Hillary Clinton,"2,387"
+Crenshaw,President,,D,Hillary Clinton,"1,664"
+Cullman,President,,D,Hillary Clinton,"3,798"
+Dale,President,,D,Hillary Clinton,"4,413"
+Dallas,President,,D,Hillary Clinton,"12,836"
+DeKalb,President,,D,Hillary Clinton,"3,622"
+Elmore,President,,D,Hillary Clinton,"8,443"
+Escambia,President,,D,Hillary Clinton,"4,605"
+Etowah,President,,D,Hillary Clinton,"10,442"
+Fayette,President,,D,Hillary Clinton,"1,362"
+Franklin,President,,D,Hillary Clinton,"2,197"
+Geneva,President,,D,Hillary Clinton,"1,525"
+Greene,President,,D,Hillary Clinton,"4,013"
+Hale,President,,D,Hillary Clinton,"4,775"
+Henry,President,,D,Hillary Clinton,"2,292"
+Houston,President,,D,Hillary Clinton,"10,664"
+Jackson,President,,D,Hillary Clinton,"3,673"
+Jefferson,President,,D,Hillary Clinton,"156,873"
+Lamar,President,,D,Hillary Clinton,"1,036"
+Lauderdale,President,,D,Hillary Clinton,"9,952"
+Lawrence,President,,D,Hillary Clinton,"3,627"
+Lee,President,,D,Hillary Clinton,"21,230"
+Limestone,President,,D,Hillary Clinton,"9,468"
+Lowndes,President,,D,Hillary Clinton,"4,883"
+Macon,President,,D,Hillary Clinton,"7,566"
+Madison,President,,D,Hillary Clinton,"62,822"
+Marengo,President,,D,Hillary Clinton,"5,615"
+Marion,President,,D,Hillary Clinton,"1,432"
+Marshall,President,,D,Hillary Clinton,"4,917"
+Mobile,President,,D,Hillary Clinton,"72,186"
+Monroe,President,,D,Hillary Clinton,"4,332"
+Montgomery,President,,D,Hillary Clinton,"58,916"
+Morgan,President,,D,Hillary Clinton,"11,254"
+Perry,President,,D,Hillary Clinton,"3,824"
+Pickens,President,,D,Hillary Clinton,"3,972"
+Pike,President,,D,Hillary Clinton,"5,056"
+Randolph,President,,D,Hillary Clinton,"2,291"
+Russell,President,,D,Hillary Clinton,"9,579"
+St Clair,President,,D,Hillary Clinton,"5,589"
+Shelby,President,,D,Hillary Clinton,"22,977"
+Sumter,President,,D,Hillary Clinton,"4,746"
+Talladega,President,,D,Hillary Clinton,"12,121"
+Tallapoosa,President,,D,Hillary Clinton,"5,519"
+Tuscaloosa,President,,D,Hillary Clinton,"31,762"
+Walker,President,,D,Hillary Clinton,"4,497"
+Washington,President,,D,Hillary Clinton,"2,374"
+Wilcox,President,,D,Hillary Clinton,"4,339"
+Winston,President,,D,Hillary Clinton,872
+Total,President,,R,Donald J. Trump,"1,318,255"
+Autauga,President,,R,Donald J. Trump,"18,172"
+Baldwin,President,,R,Donald J. Trump,"72,883"
+Barbour,President,,R,Donald J. Trump,"5,454"
+Bibb,President,,R,Donald J. Trump,"6,738"
+Blount,President,,R,Donald J. Trump,"22,859"
+Bullock,President,,R,Donald J. Trump,"1,140"
+Butler,President,,R,Donald J. Trump,"4,901"
+Calhoun,President,,R,Donald J. Trump,"32,865"
+Chambers,President,,R,Donald J. Trump,"7,843"
+Cherokee,President,,R,Donald J. Trump,"8,953"
+Chilton,President,,R,Donald J. Trump,"15,081"
+Choctaw,President,,R,Donald J. Trump,"4,106"
+Clarke,President,,R,Donald J. Trump,"7,140"
+Clay,President,,R,Donald J. Trump,"5,245"
+Cleburne,President,,R,Donald J. Trump,"5,764"
+Coffee,President,,R,Donald J. Trump,"15,875"
+Colbert,President,,R,Donald J. Trump,"16,746"
+Conecuh,President,,R,Donald J. Trump,"3,420"
+Coosa,President,,R,Donald J. Trump,"3,381"
+Covington,President,,R,Donald J. Trump,"13,267"
+Crenshaw,President,,R,Donald J. Trump,"4,513"
+Cullman,President,,R,Donald J. Trump,"32,989"
+Dale,President,,R,Donald J. Trump,"13,808"
+Dallas,President,,R,Donald J. Trump,"5,789"
+DeKalb,President,,R,Donald J. Trump,"21,405"
+Elmore,President,,R,Donald J. Trump,"27,634"
+Escambia,President,,R,Donald J. Trump,"9,935"
+Etowah,President,,R,Donald J. Trump,"32,353"
+Fayette,President,,R,Donald J. Trump,"6,712"
+Franklin,President,,R,Donald J. Trump,"9,466"
+Geneva,President,,R,Donald J. Trump,"9,994"
+Greene,President,,R,Donald J. Trump,838
+Hale,President,,R,Donald J. Trump,"3,173"
+Henry,President,,R,Donald J. Trump,"5,632"
+Houston,President,,R,Donald J. Trump,"30,728"
+Jackson,President,,R,Donald J. Trump,"16,672"
+Jefferson,President,,R,Donald J. Trump,"134,768"
+Lamar,President,,R,Donald J. Trump,"5,823"
+Lauderdale,President,,R,Donald J. Trump,"27,899"
+Lawrence,President,,R,Donald J. Trump,"10,833"
+Lee,President,,R,Donald J. Trump,"34,617"
+Limestone,President,,R,Donald J. Trump,"29,067"
+Lowndes,President,,R,Donald J. Trump,"1,751"
+Macon,President,,R,Donald J. Trump,"1,431"
+Madison,President,,R,Donald J. Trump,"89,520"
+Marengo,President,,R,Donald J. Trump,"5,233"
+Marion,President,,R,Donald J. Trump,"11,274"
+Marshall,President,,R,Donald J. Trump,"29,233"
+Mobile,President,,R,Donald J. Trump,"95,116"
+Monroe,President,,R,Donald J. Trump,"5,795"
+Montgomery,President,,R,Donald J. Trump,"34,003"
+Morgan,President,,R,Donald J. Trump,"37,486"
+Perry,President,,R,Donald J. Trump,"1,407"
+Pickens,President,,R,Donald J. Trump,"5,456"
+Pike,President,,R,Donald J. Trump,"7,693"
+Randolph,President,,R,Donald J. Trump,"7,705"
+Russell,President,,R,Donald J. Trump,"9,210"
+St Clair,President,,R,Donald J. Trump,"31,651"
+Shelby,President,,R,Donald J. Trump,"73,020"
+Sumter,President,,R,Donald J. Trump,"1,581"
+Talladega,President,,R,Donald J. Trump,"20,614"
+Tallapoosa,President,,R,Donald J. Trump,"13,594"
+Tuscaloosa,President,,R,Donald J. Trump,"47,723"
+Walker,President,,R,Donald J. Trump,"24,266"
+Washington,President,,R,Donald J. Trump,"6,042"
+Wilcox,President,,R,Donald J. Trump,"1,742"
+Winston,President,,R,Donald J. Trump,"9,228"
+Total,President,,I,Gary Johnson,"44,467"
+Autauga,President,,I,Gary Johnson,546
+Baldwin,President,,I,Gary Johnson,"2,464"
+Barbour,President,,I,Gary Johnson,93
+Bibb,President,,I,Gary Johnson,124
+Blount,President,,I,Gary Johnson,338
+Bullock,President,,I,Gary Johnson,22
+Butler,President,,I,Gary Johnson,65
+Calhoun,President,,I,Gary Johnson,"1,116"
+Chambers,President,,I,Gary Johnson,168
+Cherokee,President,,I,Gary Johnson,147
+Chilton,President,,I,Gary Johnson,228
+Choctaw,President,,I,Gary Johnson,52
+Clarke,President,,I,Gary Johnson,99
+Clay,President,,I,Gary Johnson,93
+Cleburne,President,,I,Gary Johnson,90
+Coffee,President,,I,Gary Johnson,396
+Colbert,President,,I,Gary Johnson,511
+Conecuh,President,,I,Gary Johnson,51
+Coosa,President,,I,Gary Johnson,53
+Covington,President,,I,Gary Johnson,183
+Crenshaw,President,,I,Gary Johnson,65
+Cullman,President,,I,Gary Johnson,687
+Dale,President,,I,Gary Johnson,350
+Dallas,President,,I,Gary Johnson,96
+DeKalb,President,,I,Gary Johnson,458
+Elmore,President,,I,Gary Johnson,738
+Escambia,President,,I,Gary Johnson,188
+Etowah,President,,I,Gary Johnson,835
+Fayette,President,,I,Gary Johnson,109
+Franklin,President,,I,Gary Johnson,238
+Geneva,President,,I,Gary Johnson,149
+Greene,President,,I,Gary Johnson,13
+Hale,President,,I,Gary Johnson,54
+Henry,President,,I,Gary Johnson,91
+Houston,President,,I,Gary Johnson,779
+Jackson,President,,I,Gary Johnson,393
+Jefferson,President,,I,Gary Johnson,"6,645"
+Lamar,President,,I,Gary Johnson,62
+Lauderdale,President,,I,Gary Johnson,987
+Lawrence,President,,I,Gary Johnson,250
+Lee,President,,I,Gary Johnson,"2,030"
+Limestone,President,,I,Gary Johnson,"1,055"
+Lowndes,President,,I,Gary Johnson,32
+Macon,President,,I,Gary Johnson,69
+Madison,President,,I,Gary Johnson,"6,621"
+Marengo,President,,I,Gary Johnson,104
+Marion,President,,I,Gary Johnson,181
+Marshall,President,,I,Gary Johnson,678
+Mobile,President,,I,Gary Johnson,"3,291"
+Monroe,President,,I,Gary Johnson,88
+Montgomery,President,,I,Gary Johnson,"1,486"
+Morgan,President,,I,Gary Johnson,"1,168"
+Perry,President,,I,Gary Johnson,23
+Pickens,President,,I,Gary Johnson,49
+Pike,President,,I,Gary Johnson,257
+Randolph,President,,I,Gary Johnson,124
+Russell,President,,I,Gary Johnson,281
+St Clair,President,,I,Gary Johnson,684
+Shelby,President,,I,Gary Johnson,"2,965"
+Sumter,President,,I,Gary Johnson,57
+Talladega,President,,I,Gary Johnson,411
+Tallapoosa,President,,I,Gary Johnson,233
+Tuscaloosa,President,,I,Gary Johnson,"1,873"
+Walker,President,,I,Gary Johnson,455
+Washington,President,,I,Gary Johnson,73
+Wilcox,President,,I,Gary Johnson,22
+Winston,President,,I,Gary Johnson,131
+Total,President,,I,Jill Stein,"9,391"
+Autauga,President,,I,Jill Stein,105
+Baldwin,President,,I,Jill Stein,456
+Barbour,President,,I,Jill Stein,18
+Bibb,President,,I,Jill Stein,17
+Blount,President,,I,Jill Stein,89
+Bullock,President,,I,Jill Stein,10
+Butler,President,,I,Jill Stein,13
+Calhoun,President,,I,Jill Stein,262
+Chambers,President,,I,Jill Stein,44
+Cherokee,President,,I,Jill Stein,26
+Chilton,President,,I,Jill Stein,52
+Choctaw,President,,I,Jill Stein,6
+Clarke,President,,I,Jill Stein,17
+Clay,President,,I,Jill Stein,16
+Cleburne,President,,I,Jill Stein,20
+Coffee,President,,I,Jill Stein,104
+Colbert,President,,I,Jill Stein,107
+Conecuh,President,,I,Jill Stein,10
+Coosa,President,,I,Jill Stein,14
+Covington,President,,I,Jill Stein,36
+Crenshaw,President,,I,Jill Stein,14
+Cullman,President,,I,Jill Stein,134
+Dale,President,,I,Jill Stein,62
+Dallas,President,,I,Jill Stein,24
+DeKalb,President,,I,Jill Stein,152
+Elmore,President,,I,Jill Stein,112
+Escambia,President,,I,Jill Stein,37
+Etowah,President,,I,Jill Stein,164
+Fayette,President,,I,Jill Stein,24
+Franklin,President,,I,Jill Stein,54
+Geneva,President,,I,Jill Stein,24
+Greene,President,,I,Jill Stein,5
+Hale,President,,I,Jill Stein,12
+Henry,President,,I,Jill Stein,17
+Houston,President,,I,Jill Stein,144
+Jackson,President,,I,Jill Stein,90
+Jefferson,President,,I,Jill Stein,"1,554"
+Lamar,President,,I,Jill Stein,15
+Lauderdale,President,,I,Jill Stein,222
+Lawrence,President,,I,Jill Stein,31
+Lee,President,,I,Jill Stein,364
+Limestone,President,,I,Jill Stein,202
+Lowndes,President,,I,Jill Stein,11
+Macon,President,,I,Jill Stein,49
+Madison,President,,I,Jill Stein,"1,254"
+Marengo,President,,I,Jill Stein,13
+Marion,President,,I,Jill Stein,26
+Marshall,President,,I,Jill Stein,158
+Mobile,President,,I,Jill Stein,791
+Monroe,President,,I,Jill Stein,17
+Montgomery,President,,I,Jill Stein,490
+Morgan,President,,I,Jill Stein,218
+Perry,President,,I,Jill Stein,6
+Pickens,President,,I,Jill Stein,19
+Pike,President,,I,Jill Stein,48
+Randolph,President,,I,Jill Stein,19
+Russell,President,,I,Jill Stein,68
+St Clair,President,,I,Jill Stein,130
+Shelby,President,,I,Jill Stein,480
+Sumter,President,,I,Jill Stein,14
+Talladega,President,,I,Jill Stein,106
+Tallapoosa,President,,I,Jill Stein,52
+Tuscaloosa,President,,I,Jill Stein,390
+Walker,President,,I,Jill Stein,95
+Washington,President,,I,Jill Stein,22
+Wilcox,President,,I,Jill Stein,7
+Winston,President,,I,Jill Stein,29
+Total,President,,,Write-ins,"21,712"
+Autauga,President,,,Write-ins,214
+Baldwin,President,,,Write-ins,954
+Barbour,President,,,Write-ins,33
+Bibb,President,,,Write-ins,66
+Blount,President,,,Write-ins,146
+Bullock,President,,,Write-ins,8
+Butler,President,,,Write-ins,27
+Calhoun,President,,,Write-ins,379
+Chambers,President,,,Write-ins,61
+Cherokee,President,,,Write-ins,60
+Chilton,President,,,Write-ins,97
+Choctaw,President,,,Write-ins,19
+Clarke,President,,,Write-ins,26
+Clay,President,,,Write-ins,33
+Cleburne,President,,,Write-ins,35
+Coffee,President,,,Write-ins,171
+Colbert,President,,,Write-ins,239
+Conecuh,President,,,Write-ins,24
+Coosa,President,,,Write-ins,22
+Covington,President,,,Write-ins,67
+Crenshaw,President,,,Write-ins,11
+Cullman,President,,,Write-ins,265
+Dale,President,,,Write-ins,116
+Dallas,President,,,Write-ins,47
+DeKalb,President,,,Write-ins,189
+Elmore,President,,,Write-ins,333
+Escambia,President,,,Write-ins,80
+Etowah,President,,,Write-ins,370
+Fayette,President,,,Write-ins,42
+Franklin,President,,,Write-ins,85
+Geneva,President,,,Write-ins,66
+Greene,President,,,Write-ins,11
+Hale,President,,,Write-ins,26
+Henry,President,,,Write-ins,40
+Houston,President,,,Write-ins,324
+Jackson,President,,,Write-ins,156
+Jefferson,President,,,Write-ins,"4,351"
+Lamar,President,,,Write-ins,30
+Lauderdale,President,,,Write-ins,465
+Lawrence,President,,,Write-ins,88
+Lee,President,,,Write-ins,950
+Limestone,President,,,Write-ins,502
+Lowndes,President,,,Write-ins,7
+Macon,President,,,Write-ins,25
+Madison,President,,,Write-ins,"3,172"
+Marengo,President,,,Write-ins,29
+Marion,President,,,Write-ins,71
+Marshall,President,,,Write-ins,330
+Mobile,President,,,Write-ins,"1,353"
+Monroe,President,,,Write-ins,39
+Montgomery,President,,,Write-ins,983
+Morgan,President,,,Write-ins,518
+Perry,President,,,Write-ins,18
+Pickens,President,,,Write-ins,46
+Pike,President,,,Write-ins,114
+Randolph,President,,,Write-ins,48
+Russell,President,,,Write-ins,118
+St Clair,President,,,Write-ins,346
+Shelby,President,,,Write-ins,"1,812"
+Sumter,President,,,Write-ins,13
+Talladega,President,,,Write-ins,155
+Tallapoosa,President,,,Write-ins,88
+Tuscaloosa,President,,,Write-ins,952
+Walker,President,,,Write-ins,159
+Washington,President,,,Write-ins,22
+Wilcox,President,,,Write-ins,13
+Winston,President,,,Write-ins,53
+Total,U.S. Senate,,D,Ron Crumpton,"748,709"
+Autauga,U.S. Senate,,D,Ron Crumpton,"6,331"
+Baldwin,U.S. Senate,,D,Ron Crumpton,"19,145"
+Barbour,U.S. Senate,,D,Ron Crumpton,"4,777"
+Bibb,U.S. Senate,,D,Ron Crumpton,"2,082"
+Blount,U.S. Senate,,D,Ron Crumpton,"2,980"
+Bullock,U.S. Senate,,D,Ron Crumpton,"3,364"
+Butler,U.S. Senate,,D,Ron Crumpton,"3,663"
+Calhoun,U.S. Senate,,D,Ron Crumpton,"14,152"
+Chambers,U.S. Senate,,D,Ron Crumpton,"5,845"
+Cherokee,U.S. Senate,,D,Ron Crumpton,"1,915"
+Chilton,U.S. Senate,,D,Ron Crumpton,"3,327"
+Choctaw,U.S. Senate,,D,Ron Crumpton,"2,992"
+Clarke,U.S. Senate,,D,Ron Crumpton,"5,558"
+Clay,U.S. Senate,,D,Ron Crumpton,"1,377"
+Cleburne,U.S. Senate,,D,Ron Crumpton,847
+Coffee,U.S. Senate,,D,Ron Crumpton,"4,498"
+Colbert,U.S. Senate,,D,Ron Crumpton,"8,443"
+Conecuh,U.S. Senate,,D,Ron Crumpton,"3,006"
+Coosa,U.S. Senate,,D,Ron Crumpton,"1,788"
+Covington,U.S. Senate,,D,Ron Crumpton,"2,740"
+Crenshaw,U.S. Senate,,D,Ron Crumpton,"1,734"
+Cullman,U.S. Senate,,D,Ron Crumpton,"5,207"
+Dale,U.S. Senate,,D,Ron Crumpton,"4,625"
+Dallas,U.S. Senate,,D,Ron Crumpton,"12,388"
+DeKalb,U.S. Senate,,D,Ron Crumpton,"4,749"
+Elmore,U.S. Senate,,D,Ron Crumpton,"8,833"
+Escambia,U.S. Senate,,D,Ron Crumpton,"4,625"
+Etowah,U.S. Senate,,D,Ron Crumpton,"11,981"
+Fayette,U.S. Senate,,D,Ron Crumpton,"1,497"
+Franklin,U.S. Senate,,D,Ron Crumpton,"2,850"
+Geneva,U.S. Senate,,D,Ron Crumpton,"1,803"
+Greene,U.S. Senate,,D,Ron Crumpton,"3,834"
+Hale,U.S. Senate,,D,Ron Crumpton,"4,650"
+Henry,U.S. Senate,,D,Ron Crumpton,"2,366"
+Houston,U.S. Senate,,D,Ron Crumpton,"11,219"
+Jackson,U.S. Senate,,D,Ron Crumpton,"4,538"
+Jefferson,U.S. Senate,,D,Ron Crumpton,"156,574"
+Lamar,U.S. Senate,,D,Ron Crumpton,"1,125"
+Lauderdale,U.S. Senate,,D,Ron Crumpton,"11,652"
+Lawrence,U.S. Senate,,D,Ron Crumpton,"4,171"
+Lee,U.S. Senate,,D,Ron Crumpton,"21,475"
+Limestone,U.S. Senate,,D,Ron Crumpton,"10,233"
+Lowndes,U.S. Senate,,D,Ron Crumpton,"4,580"
+Macon,U.S. Senate,,D,Ron Crumpton,"7,442"
+Madison,U.S. Senate,,D,Ron Crumpton,"62,870"
+Marengo,U.S. Senate,,D,Ron Crumpton,"5,419"
+Marion,U.S. Senate,,D,Ron Crumpton,"1,961"
+Marshall,U.S. Senate,,D,Ron Crumpton,"5,898"
+Mobile,U.S. Senate,,D,Ron Crumpton,"71,602"
+Monroe,U.S. Senate,,D,Ron Crumpton,"4,255"
+Montgomery,U.S. Senate,,D,Ron Crumpton,"57,972"
+Morgan,U.S. Senate,,D,Ron Crumpton,"12,325"
+Perry,U.S. Senate,,D,Ron Crumpton,"3,656"
+Pickens,U.S. Senate,,D,Ron Crumpton,"3,908"
+Pike,U.S. Senate,,D,Ron Crumpton,"5,037"
+Randolph,U.S. Senate,,D,Ron Crumpton,"2,424"
+Russell,U.S. Senate,,D,Ron Crumpton,"9,487"
+St Clair,U.S. Senate,,D,Ron Crumpton,"6,635"
+Shelby,U.S. Senate,,D,Ron Crumpton,"24,483"
+Sumter,U.S. Senate,,D,Ron Crumpton,"4,611"
+Talladega,U.S. Senate,,D,Ron Crumpton,"12,632"
+Tallapoosa,U.S. Senate,,D,Ron Crumpton,"5,804"
+Tuscaloosa,U.S. Senate,,D,Ron Crumpton,"31,602"
+Walker,U.S. Senate,,D,Ron Crumpton,"5,558"
+Washington,U.S. Senate,,D,Ron Crumpton,"2,463"
+Wilcox,U.S. Senate,,D,Ron Crumpton,"3,857"
+Winston,U.S. Senate,,D,Ron Crumpton,"1,269"
+Total,U.S. Senate,,R,Richard Shelby,"1,335,104"
+Autauga,U.S. Senate,,R,Richard Shelby,"18,220"
+Baldwin,U.S. Senate,,R,Richard Shelby,"74,021"
+Barbour,U.S. Senate,,R,Richard Shelby,"5,436"
+Bibb,U.S. Senate,,R,Richard Shelby,"6,612"
+Blount,U.S. Senate,,R,Richard Shelby,"22,169"
+Bullock,U.S. Senate,,R,Richard Shelby,"1,167"
+Butler,U.S. Senate,,R,Richard Shelby,"4,840"
+Calhoun,U.S. Senate,,R,Richard Shelby,"32,976"
+Chambers,U.S. Senate,,R,Richard Shelby,"7,865"
+Cherokee,U.S. Senate,,R,Richard Shelby,"8,636"
+Chilton,U.S. Senate,,R,Richard Shelby,"14,582"
+Choctaw,U.S. Senate,,R,Richard Shelby,"4,035"
+Clarke,U.S. Senate,,R,Richard Shelby,"7,158"
+Clay,U.S. Senate,,R,Richard Shelby,"5,147"
+Cleburne,U.S. Senate,,R,Richard Shelby,"5,554"
+Coffee,U.S. Senate,,R,Richard Shelby,"15,745"
+Colbert,U.S. Senate,,R,Richard Shelby,"15,866"
+Conecuh,U.S. Senate,,R,Richard Shelby,"3,298"
+Coosa,U.S. Senate,,R,Richard Shelby,"3,378"
+Covington,U.S. Senate,,R,Richard Shelby,"12,690"
+Crenshaw,U.S. Senate,,R,Richard Shelby,"4,392"
+Cullman,U.S. Senate,,R,Richard Shelby,"32,001"
+Dale,U.S. Senate,,R,Richard Shelby,"13,652"
+Dallas,U.S. Senate,,R,Richard Shelby,"6,060"
+DeKalb,U.S. Senate,,R,Richard Shelby,"20,347"
+Elmore,U.S. Senate,,R,Richard Shelby,"27,591"
+Escambia,U.S. Senate,,R,Richard Shelby,"9,555"
+Etowah,U.S. Senate,,R,Richard Shelby,"31,441"
+Fayette,U.S. Senate,,R,Richard Shelby,"6,555"
+Franklin,U.S. Senate,,R,Richard Shelby,"8,670"
+Geneva,U.S. Senate,,R,Richard Shelby,"9,606"
+Greene,U.S. Senate,,R,Richard Shelby,918
+Hale,U.S. Senate,,R,Richard Shelby,"3,208"
+Henry,U.S. Senate,,R,Richard Shelby,"5,506"
+Houston,U.S. Senate,,R,Richard Shelby,"30,494"
+Jackson,U.S. Senate,,R,Richard Shelby,"15,742"
+Jefferson,U.S. Senate,,R,Richard Shelby,"144,136"
+Lamar,U.S. Senate,,R,Richard Shelby,"5,634"
+Lauderdale,U.S. Senate,,R,Richard Shelby,"27,092"
+Lawrence,U.S. Senate,,R,Richard Shelby,"10,254"
+Lee,U.S. Senate,,R,Richard Shelby,"36,684"
+Limestone,U.S. Senate,,R,Richard Shelby,"29,203"
+Lowndes,U.S. Senate,,R,Richard Shelby,"1,839"
+Macon,U.S. Senate,,R,Richard Shelby,"1,553"
+Madison,U.S. Senate,,R,Richard Shelby,"97,796"
+Marengo,U.S. Senate,,R,Richard Shelby,"5,294"
+Marion,U.S. Senate,,R,Richard Shelby,"10,753"
+Marshall,U.S. Senate,,R,Richard Shelby,"28,532"
+Mobile,U.S. Senate,,R,Richard Shelby,"97,911"
+Monroe,U.S. Senate,,R,Richard Shelby,"5,854"
+Montgomery,U.S. Senate,,R,Richard Shelby,"36,477"
+Morgan,U.S. Senate,,R,Richard Shelby,"37,448"
+Perry,U.S. Senate,,R,Richard Shelby,"1,496"
+Pickens,U.S. Senate,,R,Richard Shelby,"5,384"
+Pike,U.S. Senate,,R,Richard Shelby,"7,835"
+Randolph,U.S. Senate,,R,Richard Shelby,"7,454"
+Russell,U.S. Senate,,R,Richard Shelby,"9,408"
+St Clair,U.S. Senate,,R,Richard Shelby,"31,279"
+Shelby,U.S. Senate,,R,Richard Shelby,"75,344"
+Sumter,U.S. Senate,,R,Richard Shelby,"1,656"
+Talladega,U.S. Senate,,R,Richard Shelby,"20,446"
+Tallapoosa,U.S. Senate,,R,Richard Shelby,"13,401"
+Tuscaloosa,U.S. Senate,,R,Richard Shelby,"49,923"
+Walker,U.S. Senate,,R,Richard Shelby,"23,419"
+Washington,U.S. Senate,,R,Richard Shelby,"5,830"
+Wilcox,U.S. Senate,,R,Richard Shelby,"1,819"
+Winston,U.S. Senate,,R,Richard Shelby,"8,817"
+Total,U.S. Senate,,,Write-ins,"3,631"
+Autauga,U.S. Senate,,,Write-ins,62
+Baldwin,U.S. Senate,,,Write-ins,248
+Barbour,U.S. Senate,,,Write-ins,16
+Bibb,U.S. Senate,,,Write-ins,17
+Blount,U.S. Senate,,,Write-ins,48
+Bullock,U.S. Senate,,,Write-ins,6
+Butler,U.S. Senate,,,Write-ins,7
+Calhoun,U.S. Senate,,,Write-ins,69
+Chambers,U.S. Senate,,,Write-ins,18
+Cherokee,U.S. Senate,,,Write-ins,7
+Chilton,U.S. Senate,,,Write-ins,25
+Choctaw,U.S. Senate,,,Write-ins,8
+Clarke,U.S. Senate,,,Write-ins,14
+Clay,U.S. Senate,,,Write-ins,4
+Cleburne,U.S. Senate,,,Write-ins,6
+Coffee,U.S. Senate,,,Write-ins,49
+Colbert,U.S. Senate,,,Write-ins,28
+Conecuh,U.S. Senate,,,Write-ins,7
+Coosa,U.S. Senate,,,Write-ins,8
+Covington,U.S. Senate,,,Write-ins,36
+Crenshaw,U.S. Senate,,,Write-ins,11
+Cullman,U.S. Senate,,,Write-ins,57
+Dale,U.S. Senate,,,Write-ins,58
+Dallas,U.S. Senate,,,Write-ins,14
+DeKalb,U.S. Senate,,,Write-ins,27
+Elmore,U.S. Senate,,,Write-ins,102
+Escambia,U.S. Senate,,,Write-ins,17
+Etowah,U.S. Senate,,,Write-ins,84
+Fayette,U.S. Senate,,,Write-ins,13
+Franklin,U.S. Senate,,,Write-ins,14
+Geneva,U.S. Senate,,,Write-ins,28
+Greene,U.S. Senate,,,Write-ins,3
+Hale,U.S. Senate,,,Write-ins,5
+Henry,U.S. Senate,,,Write-ins,23
+Houston,U.S. Senate,,,Write-ins,120
+Jackson,U.S. Senate,,,Write-ins,21
+Jefferson,U.S. Senate,,,Write-ins,453
+Lamar,U.S. Senate,,,Write-ins,4
+Lauderdale,U.S. Senate,,,Write-ins,43
+Lawrence,U.S. Senate,,,Write-ins,16
+Lee,U.S. Senate,,,Write-ins,135
+Limestone,U.S. Senate,,,Write-ins,57
+Lowndes,U.S. Senate,,,Write-ins,7
+Macon,U.S. Senate,,,Write-ins,9
+Madison,U.S. Senate,,,Write-ins,324
+Marengo,U.S. Senate,,,Write-ins,5
+Marion,U.S. Senate,,,Write-ins,27
+Marshall,U.S. Senate,,,Write-ins,55
+Mobile,U.S. Senate,,,Write-ins,379
+Monroe,U.S. Senate,,,Write-ins,13
+Montgomery,U.S. Senate,,,Write-ins,162
+Morgan,U.S. Senate,,,Write-ins,57
+Perry,U.S. Senate,,,Write-ins,2
+Pickens,U.S. Senate,,,Write-ins,6
+Pike,U.S. Senate,,,Write-ins,27
+Randolph,U.S. Senate,,,Write-ins,9
+Russell,U.S. Senate,,,Write-ins,26
+St Clair,U.S. Senate,,,Write-ins,80
+Shelby,U.S. Senate,,,Write-ins,205
+Sumter,U.S. Senate,,,Write-ins,4
+Talladega,U.S. Senate,,,Write-ins,29
+Tallapoosa,U.S. Senate,,,Write-ins,17
+Tuscaloosa,U.S. Senate,,,Write-ins,130
+Walker,U.S. Senate,,,Write-ins,49
+Washington,U.S. Senate,,,Write-ins,5
+Wilcox,U.S. Senate,,,Write-ins,4
+Winston,U.S. Senate,,,Write-ins,12
+Total,U.S. House,1,R,Bradley Byrne,"208,083"
+Autauga,U.S. House,1,R,Bradley Byrne,
+Baldwin,U.S. House,1,R,Bradley Byrne,"76,995"
+Barbour,U.S. House,1,R,Bradley Byrne,
+Bibb,U.S. House,1,R,Bradley Byrne,
+Blount,U.S. House,1,R,Bradley Byrne,
+Bullock,U.S. House,1,R,Bradley Byrne,
+Butler,U.S. House,1,R,Bradley Byrne,
+Calhoun,U.S. House,1,R,Bradley Byrne,
+Chambers,U.S. House,1,R,Bradley Byrne,
+Cherokee,U.S. House,1,R,Bradley Byrne,
+Chilton,U.S. House,1,R,Bradley Byrne,
+Choctaw,U.S. House,1,R,Bradley Byrne,
+Clarke,U.S. House,1,R,Bradley Byrne,"2,848"
+Clay,U.S. House,1,R,Bradley Byrne,
+Cleburne,U.S. House,1,R,Bradley Byrne,
+Coffee,U.S. House,1,R,Bradley Byrne,
+Colbert,U.S. House,1,R,Bradley Byrne,
+Conecuh,U.S. House,1,R,Bradley Byrne,
+Coosa,U.S. House,1,R,Bradley Byrne,
+Covington,U.S. House,1,R,Bradley Byrne,
+Crenshaw,U.S. House,1,R,Bradley Byrne,
+Cullman,U.S. House,1,R,Bradley Byrne,
+Dale,U.S. House,1,R,Bradley Byrne,
+Dallas,U.S. House,1,R,Bradley Byrne,
+DeKalb,U.S. House,1,R,Bradley Byrne,
+Elmore,U.S. House,1,R,Bradley Byrne,
+Escambia,U.S. House,1,R,Bradley Byrne,"10,076"
+Etowah,U.S. House,1,R,Bradley Byrne,
+Fayette,U.S. House,1,R,Bradley Byrne,
+Franklin,U.S. House,1,R,Bradley Byrne,
+Geneva,U.S. House,1,R,Bradley Byrne,
+Greene,U.S. House,1,R,Bradley Byrne,
+Hale,U.S. House,1,R,Bradley Byrne,
+Henry,U.S. House,1,R,Bradley Byrne,
+Houston,U.S. House,1,R,Bradley Byrne,
+Jackson,U.S. House,1,R,Bradley Byrne,
+Jefferson,U.S. House,1,R,Bradley Byrne,
+Lamar,U.S. House,1,R,Bradley Byrne,
+Lauderdale,U.S. House,1,R,Bradley Byrne,
+Lawrence,U.S. House,1,R,Bradley Byrne,
+Lee,U.S. House,1,R,Bradley Byrne,
+Limestone,U.S. House,1,R,Bradley Byrne,
+Lowndes,U.S. House,1,R,Bradley Byrne,
+Macon,U.S. House,1,R,Bradley Byrne,
+Madison,U.S. House,1,R,Bradley Byrne,
+Marengo,U.S. House,1,R,Bradley Byrne,
+Marion,U.S. House,1,R,Bradley Byrne,
+Marshall,U.S. House,1,R,Bradley Byrne,
+Mobile,U.S. House,1,R,Bradley Byrne,"106,568"
+Monroe,U.S. House,1,R,Bradley Byrne,"5,910"
+Montgomery,U.S. House,1,R,Bradley Byrne,
+Morgan,U.S. House,1,R,Bradley Byrne,
+Perry,U.S. House,1,R,Bradley Byrne,
+Pickens,U.S. House,1,R,Bradley Byrne,
+Pike,U.S. House,1,R,Bradley Byrne,
+Randolph,U.S. House,1,R,Bradley Byrne,
+Russell,U.S. House,1,R,Bradley Byrne,
+St Clair,U.S. House,1,R,Bradley Byrne,
+Shelby,U.S. House,1,R,Bradley Byrne,
+Sumter,U.S. House,1,R,Bradley Byrne,
+Talladega,U.S. House,1,R,Bradley Byrne,
+Tallapoosa,U.S. House,1,R,Bradley Byrne,
+Tuscaloosa,U.S. House,1,R,Bradley Byrne,
+Walker,U.S. House,1,R,Bradley Byrne,
+Washington,U.S. House,1,R,Bradley Byrne,"5,686"
+Wilcox,U.S. House,1,R,Bradley Byrne,
+Winston,U.S. House,1,R,Bradley Byrne,
+Total,U.S. House,1,,Write-ins,"7,810"
+Autauga,U.S. House,1,,Write-ins,
+Baldwin,U.S. House,1,,Write-ins,"1,991"
+Barbour,U.S. House,1,,Write-ins,
+Bibb,U.S. House,1,,Write-ins,
+Blount,U.S. House,1,,Write-ins,
+Bullock,U.S. House,1,,Write-ins,
+Butler,U.S. House,1,,Write-ins,
+Calhoun,U.S. House,1,,Write-ins,
+Chambers,U.S. House,1,,Write-ins,
+Cherokee,U.S. House,1,,Write-ins,
+Chilton,U.S. House,1,,Write-ins,
+Choctaw,U.S. House,1,,Write-ins,
+Clarke,U.S. House,1,,Write-ins,44
+Clay,U.S. House,1,,Write-ins,
+Cleburne,U.S. House,1,,Write-ins,
+Coffee,U.S. House,1,,Write-ins,
+Colbert,U.S. House,1,,Write-ins,
+Conecuh,U.S. House,1,,Write-ins,
+Coosa,U.S. House,1,,Write-ins,
+Covington,U.S. House,1,,Write-ins,
+Crenshaw,U.S. House,1,,Write-ins,
+Cullman,U.S. House,1,,Write-ins,
+Dale,U.S. House,1,,Write-ins,
+Dallas,U.S. House,1,,Write-ins,
+DeKalb,U.S. House,1,,Write-ins,
+Elmore,U.S. House,1,,Write-ins,
+Escambia,U.S. House,1,,Write-ins,194
+Etowah,U.S. House,1,,Write-ins,
+Fayette,U.S. House,1,,Write-ins,
+Franklin,U.S. House,1,,Write-ins,
+Geneva,U.S. House,1,,Write-ins,
+Greene,U.S. House,1,,Write-ins,
+Hale,U.S. House,1,,Write-ins,
+Henry,U.S. House,1,,Write-ins,
+Houston,U.S. House,1,,Write-ins,
+Jackson,U.S. House,1,,Write-ins,
+Jefferson,U.S. House,1,,Write-ins,
+Lamar,U.S. House,1,,Write-ins,
+Lauderdale,U.S. House,1,,Write-ins,
+Lawrence,U.S. House,1,,Write-ins,
+Lee,U.S. House,1,,Write-ins,
+Limestone,U.S. House,1,,Write-ins,
+Lowndes,U.S. House,1,,Write-ins,
+Macon,U.S. House,1,,Write-ins,
+Madison,U.S. House,1,,Write-ins,
+Marengo,U.S. House,1,,Write-ins,
+Marion,U.S. House,1,,Write-ins,
+Marshall,U.S. House,1,,Write-ins,
+Mobile,U.S. House,1,,Write-ins,"5,360"
+Monroe,U.S. House,1,,Write-ins,146
+Montgomery,U.S. House,1,,Write-ins,
+Morgan,U.S. House,1,,Write-ins,
+Perry,U.S. House,1,,Write-ins,
+Pickens,U.S. House,1,,Write-ins,
+Pike,U.S. House,1,,Write-ins,
+Randolph,U.S. House,1,,Write-ins,
+Russell,U.S. House,1,,Write-ins,
+St Clair,U.S. House,1,,Write-ins,
+Shelby,U.S. House,1,,Write-ins,
+Sumter,U.S. House,1,,Write-ins,
+Talladega,U.S. House,1,,Write-ins,
+Tallapoosa,U.S. House,1,,Write-ins,
+Tuscaloosa,U.S. House,1,,Write-ins,
+Walker,U.S. House,1,,Write-ins,
+Washington,U.S. House,1,,Write-ins,75
+Wilcox,U.S. House,1,,Write-ins,
+Winston,U.S. House,1,,Write-ins,
+Total,U.S. House,2,D,Nathan Mathis,"112,089"
+Autauga,U.S. House,2,D,Nathan Mathis,"7,544"
+Baldwin,U.S. House,2,D,Nathan Mathis,
+Barbour,U.S. House,2,D,Nathan Mathis,"5,297"
+Bibb,U.S. House,2,D,Nathan Mathis,
+Blount,U.S. House,2,D,Nathan Mathis,
+Bullock,U.S. House,2,D,Nathan Mathis,"3,517"
+Butler,U.S. House,2,D,Nathan Mathis,"4,088"
+Calhoun,U.S. House,2,D,Nathan Mathis,
+Chambers,U.S. House,2,D,Nathan Mathis,
+Cherokee,U.S. House,2,D,Nathan Mathis,
+Chilton,U.S. House,2,D,Nathan Mathis,
+Choctaw,U.S. House,2,D,Nathan Mathis,
+Clarke,U.S. House,2,D,Nathan Mathis,
+Clay,U.S. House,2,D,Nathan Mathis,
+Cleburne,U.S. House,2,D,Nathan Mathis,
+Coffee,U.S. House,2,D,Nathan Mathis,"5,917"
+Colbert,U.S. House,2,D,Nathan Mathis,
+Conecuh,U.S. House,2,D,Nathan Mathis,"3,209"
+Coosa,U.S. House,2,D,Nathan Mathis,
+Covington,U.S. House,2,D,Nathan Mathis,"3,759"
+Crenshaw,U.S. House,2,D,Nathan Mathis,"2,217"
+Cullman,U.S. House,2,D,Nathan Mathis,
+Dale,U.S. House,2,D,Nathan Mathis,"6,071"
+Dallas,U.S. House,2,D,Nathan Mathis,
+DeKalb,U.S. House,2,D,Nathan Mathis,
+Elmore,U.S. House,2,D,Nathan Mathis,"10,573"
+Escambia,U.S. House,2,D,Nathan Mathis,
+Etowah,U.S. House,2,D,Nathan Mathis,
+Fayette,U.S. House,2,D,Nathan Mathis,
+Franklin,U.S. House,2,D,Nathan Mathis,
+Geneva,U.S. House,2,D,Nathan Mathis,"3,537"
+Greene,U.S. House,2,D,Nathan Mathis,
+Hale,U.S. House,2,D,Nathan Mathis,
+Henry,U.S. House,2,D,Nathan Mathis,"3,127"
+Houston,U.S. House,2,D,Nathan Mathis,"15,008"
+Jackson,U.S. House,2,D,Nathan Mathis,
+Jefferson,U.S. House,2,D,Nathan Mathis,
+Lamar,U.S. House,2,D,Nathan Mathis,
+Lauderdale,U.S. House,2,D,Nathan Mathis,
+Lawrence,U.S. House,2,D,Nathan Mathis,
+Lee,U.S. House,2,D,Nathan Mathis,
+Limestone,U.S. House,2,D,Nathan Mathis,
+Lowndes,U.S. House,2,D,Nathan Mathis,
+Macon,U.S. House,2,D,Nathan Mathis,
+Madison,U.S. House,2,D,Nathan Mathis,
+Marengo,U.S. House,2,D,Nathan Mathis,
+Marion,U.S. House,2,D,Nathan Mathis,
+Marshall,U.S. House,2,D,Nathan Mathis,
+Mobile,U.S. House,2,D,Nathan Mathis,
+Monroe,U.S. House,2,D,Nathan Mathis,
+Montgomery,U.S. House,2,D,Nathan Mathis,"32,417"
+Morgan,U.S. House,2,D,Nathan Mathis,
+Perry,U.S. House,2,D,Nathan Mathis,
+Pickens,U.S. House,2,D,Nathan Mathis,
+Pike,U.S. House,2,D,Nathan Mathis,"5,808"
+Randolph,U.S. House,2,D,Nathan Mathis,
+Russell,U.S. House,2,D,Nathan Mathis,
+St Clair,U.S. House,2,D,Nathan Mathis,
+Shelby,U.S. House,2,D,Nathan Mathis,
+Sumter,U.S. House,2,D,Nathan Mathis,
+Talladega,U.S. House,2,D,Nathan Mathis,
+Tallapoosa,U.S. House,2,D,Nathan Mathis,
+Tuscaloosa,U.S. House,2,D,Nathan Mathis,
+Walker,U.S. House,2,D,Nathan Mathis,
+Washington,U.S. House,2,D,Nathan Mathis,
+Wilcox,U.S. House,2,D,Nathan Mathis,
+Winston,U.S. House,2,D,Nathan Mathis,
+Total,U.S. House,2,R,Martha Roby,"134,886"
+Autauga,U.S. House,2,R,Martha Roby,"14,315"
+Baldwin,U.S. House,2,R,Martha Roby,
+Barbour,U.S. House,2,R,Martha Roby,"4,286"
+Bibb,U.S. House,2,R,Martha Roby,
+Blount,U.S. House,2,R,Martha Roby,
+Bullock,U.S. House,2,R,Martha Roby,889
+Butler,U.S. House,2,R,Martha Roby,"3,918"
+Calhoun,U.S. House,2,R,Martha Roby,
+Chambers,U.S. House,2,R,Martha Roby,
+Cherokee,U.S. House,2,R,Martha Roby,
+Chilton,U.S. House,2,R,Martha Roby,
+Choctaw,U.S. House,2,R,Martha Roby,
+Clarke,U.S. House,2,R,Martha Roby,
+Clay,U.S. House,2,R,Martha Roby,
+Cleburne,U.S. House,2,R,Martha Roby,
+Coffee,U.S. House,2,R,Martha Roby,"10,877"
+Colbert,U.S. House,2,R,Martha Roby,
+Conecuh,U.S. House,2,R,Martha Roby,"2,889"
+Coosa,U.S. House,2,R,Martha Roby,
+Covington,U.S. House,2,R,Martha Roby,"9,540"
+Crenshaw,U.S. House,2,R,Martha Roby,"3,287"
+Cullman,U.S. House,2,R,Martha Roby,
+Dale,U.S. House,2,R,Martha Roby,"8,988"
+Dallas,U.S. House,2,R,Martha Roby,
+DeKalb,U.S. House,2,R,Martha Roby,
+Elmore,U.S. House,2,R,Martha Roby,"20,519"
+Escambia,U.S. House,2,R,Martha Roby,
+Etowah,U.S. House,2,R,Martha Roby,
+Fayette,U.S. House,2,R,Martha Roby,
+Franklin,U.S. House,2,R,Martha Roby,
+Geneva,U.S. House,2,R,Martha Roby,"5,556"
+Greene,U.S. House,2,R,Martha Roby,
+Hale,U.S. House,2,R,Martha Roby,
+Henry,U.S. House,2,R,Martha Roby,"3,464"
+Houston,U.S. House,2,R,Martha Roby,"18,575"
+Jackson,U.S. House,2,R,Martha Roby,
+Jefferson,U.S. House,2,R,Martha Roby,
+Lamar,U.S. House,2,R,Martha Roby,
+Lauderdale,U.S. House,2,R,Martha Roby,
+Lawrence,U.S. House,2,R,Martha Roby,
+Lee,U.S. House,2,R,Martha Roby,
+Limestone,U.S. House,2,R,Martha Roby,
+Lowndes,U.S. House,2,R,Martha Roby,
+Macon,U.S. House,2,R,Martha Roby,
+Madison,U.S. House,2,R,Martha Roby,
+Marengo,U.S. House,2,R,Martha Roby,
+Marion,U.S. House,2,R,Martha Roby,
+Marshall,U.S. House,2,R,Martha Roby,
+Mobile,U.S. House,2,R,Martha Roby,
+Monroe,U.S. House,2,R,Martha Roby,
+Montgomery,U.S. House,2,R,Martha Roby,"21,736"
+Morgan,U.S. House,2,R,Martha Roby,
+Perry,U.S. House,2,R,Martha Roby,
+Pickens,U.S. House,2,R,Martha Roby,
+Pike,U.S. House,2,R,Martha Roby,"6,047"
+Randolph,U.S. House,2,R,Martha Roby,
+Russell,U.S. House,2,R,Martha Roby,
+St Clair,U.S. House,2,R,Martha Roby,
+Shelby,U.S. House,2,R,Martha Roby,
+Sumter,U.S. House,2,R,Martha Roby,
+Talladega,U.S. House,2,R,Martha Roby,
+Tallapoosa,U.S. House,2,R,Martha Roby,
+Tuscaloosa,U.S. House,2,R,Martha Roby,
+Walker,U.S. House,2,R,Martha Roby,
+Washington,U.S. House,2,R,Martha Roby,
+Wilcox,U.S. House,2,R,Martha Roby,
+Winston,U.S. House,2,R,Martha Roby,
+Total,U.S. House,2,,Write-ins,"29,609"
+Autauga,U.S. House,2,,Write-ins,"2,258"
+Baldwin,U.S. House,2,,Write-ins,
+Barbour,U.S. House,2,,Write-ins,463
+Bibb,U.S. House,2,,Write-ins,
+Blount,U.S. House,2,,Write-ins,
+Bullock,U.S. House,2,,Write-ins,80
+Butler,U.S. House,2,,Write-ins,321
+Calhoun,U.S. House,2,,Write-ins,
+Chambers,U.S. House,2,,Write-ins,
+Cherokee,U.S. House,2,,Write-ins,
+Chilton,U.S. House,2,,Write-ins,
+Choctaw,U.S. House,2,,Write-ins,
+Clarke,U.S. House,2,,Write-ins,
+Clay,U.S. House,2,,Write-ins,
+Cleburne,U.S. House,2,,Write-ins,
+Coffee,U.S. House,2,,Write-ins,"3,087"
+Colbert,U.S. House,2,,Write-ins,
+Conecuh,U.S. House,2,,Write-ins,43
+Coosa,U.S. House,2,,Write-ins,
+Covington,U.S. House,2,,Write-ins,"1,809"
+Crenshaw,U.S. House,2,,Write-ins,499
+Cullman,U.S. House,2,,Write-ins,
+Dale,U.S. House,2,,Write-ins,"2,940"
+Dallas,U.S. House,2,,Write-ins,
+DeKalb,U.S. House,2,,Write-ins,
+Elmore,U.S. House,2,,Write-ins,"4,611"
+Escambia,U.S. House,2,,Write-ins,
+Etowah,U.S. House,2,,Write-ins,
+Fayette,U.S. House,2,,Write-ins,
+Franklin,U.S. House,2,,Write-ins,
+Geneva,U.S. House,2,,Write-ins,"2,156"
+Greene,U.S. House,2,,Write-ins,
+Hale,U.S. House,2,,Write-ins,
+Henry,U.S. House,2,,Write-ins,"1,145"
+Houston,U.S. House,2,,Write-ins,"7,371"
+Jackson,U.S. House,2,,Write-ins,
+Jefferson,U.S. House,2,,Write-ins,
+Lamar,U.S. House,2,,Write-ins,
+Lauderdale,U.S. House,2,,Write-ins,
+Lawrence,U.S. House,2,,Write-ins,
+Lee,U.S. House,2,,Write-ins,
+Limestone,U.S. House,2,,Write-ins,
+Lowndes,U.S. House,2,,Write-ins,
+Macon,U.S. House,2,,Write-ins,
+Madison,U.S. House,2,,Write-ins,
+Marengo,U.S. House,2,,Write-ins,
+Marion,U.S. House,2,,Write-ins,
+Marshall,U.S. House,2,,Write-ins,
+Mobile,U.S. House,2,,Write-ins,
+Monroe,U.S. House,2,,Write-ins,
+Montgomery,U.S. House,2,,Write-ins,"2,111"
+Morgan,U.S. House,2,,Write-ins,
+Perry,U.S. House,2,,Write-ins,
+Pickens,U.S. House,2,,Write-ins,
+Pike,U.S. House,2,,Write-ins,715
+Randolph,U.S. House,2,,Write-ins,
+Russell,U.S. House,2,,Write-ins,
+St Clair,U.S. House,2,,Write-ins,
+Shelby,U.S. House,2,,Write-ins,
+Sumter,U.S. House,2,,Write-ins,
+Talladega,U.S. House,2,,Write-ins,
+Tallapoosa,U.S. House,2,,Write-ins,
+Tuscaloosa,U.S. House,2,,Write-ins,
+Walker,U.S. House,2,,Write-ins,
+Washington,U.S. House,2,,Write-ins,
+Wilcox,U.S. House,2,,Write-ins,
+Winston,U.S. House,2,,Write-ins,
+Total,U.S. House,3,D,Jesse Smith,"94,549"
+Autauga,U.S. House,3,D,Jesse Smith,
+Baldwin,U.S. House,3,D,Jesse Smith,
+Barbour,U.S. House,3,D,Jesse Smith,
+Bibb,U.S. House,3,D,Jesse Smith,
+Blount,U.S. House,3,D,Jesse Smith,
+Bullock,U.S. House,3,D,Jesse Smith,
+Butler,U.S. House,3,D,Jesse Smith,
+Calhoun,U.S. House,3,D,Jesse Smith,"14,000"
+Chambers,U.S. House,3,D,Jesse Smith,"5,796"
+Cherokee,U.S. House,3,D,Jesse Smith,"1,702"
+Chilton,U.S. House,3,D,Jesse Smith,
+Choctaw,U.S. House,3,D,Jesse Smith,
+Clarke,U.S. House,3,D,Jesse Smith,
+Clay,U.S. House,3,D,Jesse Smith,"1,317"
+Cleburne,U.S. House,3,D,Jesse Smith,769
+Coffee,U.S. House,3,D,Jesse Smith,
+Colbert,U.S. House,3,D,Jesse Smith,
+Conecuh,U.S. House,3,D,Jesse Smith,
+Coosa,U.S. House,3,D,Jesse Smith,
+Covington,U.S. House,3,D,Jesse Smith,
+Crenshaw,U.S. House,3,D,Jesse Smith,
+Cullman,U.S. House,3,D,Jesse Smith,
+Dale,U.S. House,3,D,Jesse Smith,
+Dallas,U.S. House,3,D,Jesse Smith,
+DeKalb,U.S. House,3,D,Jesse Smith,
+Elmore,U.S. House,3,D,Jesse Smith,
+Escambia,U.S. House,3,D,Jesse Smith,
+Etowah,U.S. House,3,D,Jesse Smith,
+Fayette,U.S. House,3,D,Jesse Smith,
+Franklin,U.S. House,3,D,Jesse Smith,
+Geneva,U.S. House,3,D,Jesse Smith,
+Greene,U.S. House,3,D,Jesse Smith,
+Hale,U.S. House,3,D,Jesse Smith,
+Henry,U.S. House,3,D,Jesse Smith,
+Houston,U.S. House,3,D,Jesse Smith,
+Jackson,U.S. House,3,D,Jesse Smith,
+Jefferson,U.S. House,3,D,Jesse Smith,
+Lamar,U.S. House,3,D,Jesse Smith,
+Lauderdale,U.S. House,3,D,Jesse Smith,
+Lawrence,U.S. House,3,D,Jesse Smith,
+Lee,U.S. House,3,D,Jesse Smith,"21,148"
+Limestone,U.S. House,3,D,Jesse Smith,
+Lowndes,U.S. House,3,D,Jesse Smith,
+Macon,U.S. House,3,D,Jesse Smith,"7,400"
+Madison,U.S. House,3,D,Jesse Smith,
+Marengo,U.S. House,3,D,Jesse Smith,
+Marion,U.S. House,3,D,Jesse Smith,
+Marshall,U.S. House,3,D,Jesse Smith,
+Mobile,U.S. House,3,D,Jesse Smith,
+Monroe,U.S. House,3,D,Jesse Smith,
+Montgomery,U.S. House,3,D,Jesse Smith,"6,804"
+Morgan,U.S. House,3,D,Jesse Smith,
+Perry,U.S. House,3,D,Jesse Smith,
+Pickens,U.S. House,3,D,Jesse Smith,
+Pike,U.S. House,3,D,Jesse Smith,
+Randolph,U.S. House,3,D,Jesse Smith,"2,389"
+Russell,U.S. House,3,D,Jesse Smith,"9,327"
+St Clair,U.S. House,3,D,Jesse Smith,"6,013"
+Shelby,U.S. House,3,D,Jesse Smith,
+Sumter,U.S. House,3,D,Jesse Smith,
+Talladega,U.S. House,3,D,Jesse Smith,"12,271"
+Tallapoosa,U.S. House,3,D,Jesse Smith,"5,613"
+Tuscaloosa,U.S. House,3,D,Jesse Smith,
+Walker,U.S. House,3,D,Jesse Smith,
+Washington,U.S. House,3,D,Jesse Smith,
+Wilcox,U.S. House,3,D,Jesse Smith,
+Winston,U.S. House,3,D,Jesse Smith,
+Total,U.S. House,3,R,Mike Rogers,"192,164"
+Autauga,U.S. House,3,R,Mike Rogers,
+Baldwin,U.S. House,3,R,Mike Rogers,
+Barbour,U.S. House,3,R,Mike Rogers,
+Bibb,U.S. House,3,R,Mike Rogers,
+Blount,U.S. House,3,R,Mike Rogers,
+Bullock,U.S. House,3,R,Mike Rogers,
+Butler,U.S. House,3,R,Mike Rogers,
+Calhoun,U.S. House,3,R,Mike Rogers,"33,175"
+Chambers,U.S. House,3,R,Mike Rogers,"7,907"
+Cherokee,U.S. House,3,R,Mike Rogers,"8,099"
+Chilton,U.S. House,3,R,Mike Rogers,
+Choctaw,U.S. House,3,R,Mike Rogers,
+Clarke,U.S. House,3,R,Mike Rogers,
+Clay,U.S. House,3,R,Mike Rogers,"5,231"
+Cleburne,U.S. House,3,R,Mike Rogers,"5,644"
+Coffee,U.S. House,3,R,Mike Rogers,
+Colbert,U.S. House,3,R,Mike Rogers,
+Conecuh,U.S. House,3,R,Mike Rogers,
+Coosa,U.S. House,3,R,Mike Rogers,
+Covington,U.S. House,3,R,Mike Rogers,
+Crenshaw,U.S. House,3,R,Mike Rogers,
+Cullman,U.S. House,3,R,Mike Rogers,
+Dale,U.S. House,3,R,Mike Rogers,
+Dallas,U.S. House,3,R,Mike Rogers,
+DeKalb,U.S. House,3,R,Mike Rogers,
+Elmore,U.S. House,3,R,Mike Rogers,
+Escambia,U.S. House,3,R,Mike Rogers,
+Etowah,U.S. House,3,R,Mike Rogers,
+Fayette,U.S. House,3,R,Mike Rogers,
+Franklin,U.S. House,3,R,Mike Rogers,
+Geneva,U.S. House,3,R,Mike Rogers,
+Greene,U.S. House,3,R,Mike Rogers,
+Hale,U.S. House,3,R,Mike Rogers,
+Henry,U.S. House,3,R,Mike Rogers,
+Houston,U.S. House,3,R,Mike Rogers,
+Jackson,U.S. House,3,R,Mike Rogers,
+Jefferson,U.S. House,3,R,Mike Rogers,
+Lamar,U.S. House,3,R,Mike Rogers,
+Lauderdale,U.S. House,3,R,Mike Rogers,
+Lawrence,U.S. House,3,R,Mike Rogers,
+Lee,U.S. House,3,R,Mike Rogers,"36,909"
+Limestone,U.S. House,3,R,Mike Rogers,
+Lowndes,U.S. House,3,R,Mike Rogers,
+Macon,U.S. House,3,R,Mike Rogers,"1,600"
+Madison,U.S. House,3,R,Mike Rogers,
+Marengo,U.S. House,3,R,Mike Rogers,
+Marion,U.S. House,3,R,Mike Rogers,
+Marshall,U.S. House,3,R,Mike Rogers,
+Mobile,U.S. House,3,R,Mike Rogers,
+Monroe,U.S. House,3,R,Mike Rogers,
+Montgomery,U.S. House,3,R,Mike Rogers,"10,378"
+Morgan,U.S. House,3,R,Mike Rogers,
+Perry,U.S. House,3,R,Mike Rogers,
+Pickens,U.S. House,3,R,Mike Rogers,
+Pike,U.S. House,3,R,Mike Rogers,
+Randolph,U.S. House,3,R,Mike Rogers,"7,512"
+Russell,U.S. House,3,R,Mike Rogers,"9,545"
+St Clair,U.S. House,3,R,Mike Rogers,"31,757"
+Shelby,U.S. House,3,R,Mike Rogers,
+Sumter,U.S. House,3,R,Mike Rogers,
+Talladega,U.S. House,3,R,Mike Rogers,"20,805"
+Tallapoosa,U.S. House,3,R,Mike Rogers,"13,602"
+Tuscaloosa,U.S. House,3,R,Mike Rogers,
+Walker,U.S. House,3,R,Mike Rogers,
+Washington,U.S. House,3,R,Mike Rogers,
+Wilcox,U.S. House,3,R,Mike Rogers,
+Winston,U.S. House,3,R,Mike Rogers,
+Total,U.S. House,3,,Write-ins,391
+Autauga,U.S. House,3,,Write-ins,
+Baldwin,U.S. House,3,,Write-ins,
+Barbour,U.S. House,3,,Write-ins,
+Bibb,U.S. House,3,,Write-ins,
+Blount,U.S. House,3,,Write-ins,
+Bullock,U.S. House,3,,Write-ins,
+Butler,U.S. House,3,,Write-ins,
+Calhoun,U.S. House,3,,Write-ins,75
+Chambers,U.S. House,3,,Write-ins,16
+Cherokee,U.S. House,3,,Write-ins,7
+Chilton,U.S. House,3,,Write-ins,
+Choctaw,U.S. House,3,,Write-ins,
+Clarke,U.S. House,3,,Write-ins,
+Clay,U.S. House,3,,Write-ins,4
+Cleburne,U.S. House,3,,Write-ins,4
+Coffee,U.S. House,3,,Write-ins,
+Colbert,U.S. House,3,,Write-ins,
+Conecuh,U.S. House,3,,Write-ins,
+Coosa,U.S. House,3,,Write-ins,
+Covington,U.S. House,3,,Write-ins,
+Crenshaw,U.S. House,3,,Write-ins,
+Cullman,U.S. House,3,,Write-ins,
+Dale,U.S. House,3,,Write-ins,
+Dallas,U.S. House,3,,Write-ins,
+DeKalb,U.S. House,3,,Write-ins,
+Elmore,U.S. House,3,,Write-ins,
+Escambia,U.S. House,3,,Write-ins,
+Etowah,U.S. House,3,,Write-ins,
+Fayette,U.S. House,3,,Write-ins,
+Franklin,U.S. House,3,,Write-ins,
+Geneva,U.S. House,3,,Write-ins,
+Greene,U.S. House,3,,Write-ins,
+Hale,U.S. House,3,,Write-ins,
+Henry,U.S. House,3,,Write-ins,
+Houston,U.S. House,3,,Write-ins,
+Jackson,U.S. House,3,,Write-ins,
+Jefferson,U.S. House,3,,Write-ins,
+Lamar,U.S. House,3,,Write-ins,
+Lauderdale,U.S. House,3,,Write-ins,
+Lawrence,U.S. House,3,,Write-ins,
+Lee,U.S. House,3,,Write-ins,113
+Limestone,U.S. House,3,,Write-ins,
+Lowndes,U.S. House,3,,Write-ins,
+Macon,U.S. House,3,,Write-ins,7
+Madison,U.S. House,3,,Write-ins,
+Marengo,U.S. House,3,,Write-ins,
+Marion,U.S. House,3,,Write-ins,
+Marshall,U.S. House,3,,Write-ins,
+Mobile,U.S. House,3,,Write-ins,
+Monroe,U.S. House,3,,Write-ins,
+Montgomery,U.S. House,3,,Write-ins,40
+Morgan,U.S. House,3,,Write-ins,
+Perry,U.S. House,3,,Write-ins,
+Pickens,U.S. House,3,,Write-ins,
+Pike,U.S. House,3,,Write-ins,
+Randolph,U.S. House,3,,Write-ins,10
+Russell,U.S. House,3,,Write-ins,24
+St Clair,U.S. House,3,,Write-ins,47
+Shelby,U.S. House,3,,Write-ins,
+Sumter,U.S. House,3,,Write-ins,
+Talladega,U.S. House,3,,Write-ins,28
+Tallapoosa,U.S. House,3,,Write-ins,16
+Tuscaloosa,U.S. House,3,,Write-ins,
+Walker,U.S. House,3,,Write-ins,
+Washington,U.S. House,3,,Write-ins,
+Wilcox,U.S. House,3,,Write-ins,
+Winston,U.S. House,3,,Write-ins,
