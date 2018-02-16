@@ -90,9 +90,14 @@ class XLSProcessor(object):
         self.supported = False
         self.statewide_dict = {}
 
-        self.office_map = {'President And Vice President Of The United States': 'President',
-                           'United States Representative': 'U.S. House',
-                           'United States Senator': 'U.S. Senate'}
+        self.office_map = {
+            'President And Vice President Of The United States': 'President',
+            'President Of The United States': 'President',
+            'United States Representative': 'U.S. House',
+            'United States Senator': 'U.S. Senate',
+            'State Senator': 'State Senate',
+            'State Representative': 'State House'
+            }
         self.candidate_map = {'Write-In': 'Write-ins'}
         self.valid_offices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'Lieutenant Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer',])
 
@@ -132,79 +137,125 @@ class XLSProcessor(object):
         xl = pd.ExcelFile(filename)
 
         # Read the first sheet
-        df = xl.parse(0)
-        # print(df.to_string())
+        df = xl.parse(0, header=None) # Leave out headers because the two formats use them differently
 
-        # Process spreadsheet differently depending on the first column
-        if df.columns.values[0] == 'Contest Title':
-
-            # Rename columns to match standard
-            df.rename(columns={ 'Party Code': 'party',
-                                'Party': 'party',
-                                'Candidate': 'candidate',
-                                'Candidate Name': 'candidate',
-                                }, inplace=True) # Some normalization to do
-
-            # Unpivot the spreadsheet
-            melted = pd.melt(df, id_vars=['Contest Title', 'party', 'candidate'], var_name='precinct', value_name='votes')
-
-            # Strip trailing spaces from all columns
-            for col in melted.columns:
-                if melted[col].dtype == 'object':
-                    melted[col] = melted[col].str.strip()
-
-            # Replace empty votes with 0
-            melted['votes'] = melted['votes'].fillna(0)
-
-            # A dictionary containing districted office names, and the exact string that precedes each district number
-            offices_with_districts = {
-                'UNITED STATES REPRESENTATIVE': 'UNITED STATES REPRESENTATIVE, '
-                , 'STATE SENATOR' : 'STATE SENATOR, DISTRICT NO. '
-                , 'STATE REPRESENTATIVE' : 'STATE REPRESENTATIVE, DISTRICT NO. '
-            }
-
-            melted['office'] = melted['Contest Title'] # duplicate the contest title into the office column
-            melted['district'] = np.nan
-
-            for office in offices_with_districts:
-
-                # Rows containing votes for this office
-                office_idx = melted[melted['Contest Title'].str.contains(office)].index
-
-                melted.loc[office_idx, 'office'] = office
-
-
-                # Extract district number from Contest Title
-
-                # Option A: Column-wise
-                # This is saving NULLs and I have no idea why
-                # melted.loc[office_idx, 'district'] = melted.loc[office_idx, 'Contest Title'].str.extract(offices_with_districts[office] + '(\d)', expand=True)
-
-                # Option B: Row-wise
-                # Slower but it works
-                for i in office_idx:
-                    regex_match = re.search('(\d+)', melted.loc[i, 'Contest Title'])
-                    melted.loc[i, 'district'] = regex_match.group(1)
-
-            melted.office = melted.office.str.title()
-            
-            # Normalize the office names
-            normalize_offices = lambda o: self.office_map[o] if o in self.office_map else o
-            melted.office = melted.office.map(normalize_offices)
-
-            # Drop non-statewide offices in place
-            mask = melted[~melted.office.isin(self.valid_offices)]
-            melted.drop(mask.index, inplace=True)
-
-            # Normalize pseudo-candidates
-            normalize_pseudocandidates = lambda c: self.candidate_map[c] if c in self.candidate_map else c
-            melted.candidate = melted.candidate.map(normalize_pseudocandidates)
-
-            self.statewide_dict[county] = melted[['precinct', 'office', 'district', 'party', 'candidate', 'votes']]
-
+        # Process spreadsheet differently depending on the first cell
+        firstCell = df.iloc[0, 0] # Contents of very first cell
+        print(f"{firstCell}")
+        if firstCell == 'Contest Title':
+            self.process_contest_title_excel_file(df, county)
+        elif np.isnan(firstCell) or firstCell in self.valid_offices:
+            self.process_blank_header_excel_file(df, county)
         else:
             print('Not yet able to process this county: {}'.format(county))
 
+
+    #
+    # This format is used in all 2016 xls files, and some of the earlier Excel files
+    #
+    def process_contest_title_excel_file(self, df, county):
+        return # Temp while writing the alternative branch
+
+        # Set header
+        df.columns = df.iloc[0] # set the columns to the first row
+        df.reindex(df.index.drop(0)) # reindex, dropping the now-duplicated first row
+        
+        # Rename columns to match standard
+        df.rename(columns={ 'Party Code': 'party',
+                            'Party': 'party',
+                            'Candidate': 'candidate',
+                            'Candidate Name': 'candidate',
+                            }, inplace=True) # Some normalization to do
+
+        # Unpivot the spreadsheet
+        melted = pd.melt(df, id_vars=['Contest Title', 'party', 'candidate'], var_name='precinct', value_name='votes')
+
+        # Strip trailing spaces from all columns
+        for col in melted.columns:
+            if melted[col].dtype == 'object':
+                melted[col] = melted[col].str.strip()
+
+        # Replace empty votes with 0
+        melted['votes'] = melted['votes'].fillna(0)
+
+        # A dictionary containing districted office names, and the exact string that precedes each district number
+        offices_with_districts = {
+            'UNITED STATES REPRESENTATIVE': 'UNITED STATES REPRESENTATIVE, '
+            , 'STATE SENATOR' : 'STATE SENATOR, DISTRICT NO. '
+            , 'STATE REPRESENTATIVE' : 'STATE REPRESENTATIVE, DISTRICT NO. '
+        }
+
+        melted['office'] = melted['Contest Title'] # duplicate the contest title into the office column
+        melted['district'] = np.nan
+
+        for office in offices_with_districts:
+
+            # Rows containing votes for this office
+            office_idx = melted[melted['Contest Title'].str.contains(office)].index
+
+            melted.loc[office_idx, 'office'] = office
+
+
+            # Extract district number from Contest Title
+
+            # Option A: Column-wise
+            # This is saving NULLs and I have no idea why
+            # melted.loc[office_idx, 'district'] = melted.loc[office_idx, 'Contest Title'].str.extract(offices_with_districts[office] + '(\d)', expand=True)
+
+            # Option B: Row-wise
+            # Slower but it works
+            for i in office_idx:
+                regex_match = re.search('(\d+)', melted.loc[i, 'Contest Title'])
+                melted.loc[i, 'district'] = regex_match.group(1)
+
+        melted.office = melted.office.str.title()
+        
+        # Normalize the office names
+        normalize_offices = lambda o: self.office_map[o] if o in self.office_map else o
+        melted.office = melted.office.map(normalize_offices)
+
+        # Drop non-statewide offices in place
+        mask = melted[~melted.office.isin(self.valid_offices)]
+        melted.drop(mask.index, inplace=True)
+
+        # Normalize pseudo-candidates
+        normalize_pseudocandidates = lambda c: self.candidate_map[c] if c in self.candidate_map else c
+        melted.candidate = melted.candidate.map(normalize_pseudocandidates)
+
+        self.statewide_dict[county] = melted[['precinct', 'office', 'district', 'party', 'candidate', 'votes']]
+
+    #
+    # This format is used in many 2014 files
+    #
+    def process_blank_header_excel_file(self, df, county):
+        # return # Temp while developing
+
+        # Forward-Fill offices to prep for MultiIndex
+        df.loc[[0]] = df.loc[[0]].ffill(axis=1)
+
+        # Transpose
+        df = df.transpose()
+
+        # Fix column headers
+        df.iloc[0, 0] = 'office'
+        df.iloc[0, 1] = 'candidate'
+        # print(df.iloc[:,0:2])
+
+        # Set header
+        df.columns = df.iloc[0] # set the columns to the first row
+        df.drop([0], inplace=True)
+
+        # Set multi-index
+        # df = df.set_index(['office', 'candidate'])
+
+        # Melt the spreadsheet into an OE-friendly format  
+        print(df.iloc[:, 0].head(5))      
+        melted = pd.melt(df, id_vars=['office', 'candidate'], var_name='precinct', value_name='votes')
+
+        # Replace empty votes with 0
+        melted['votes'] = melted['votes'].fillna(0)
+
+        print(melted.head(10))
 
     def process_csv_file(self, filename, county):
         print("process_csv_file not implemented yet")
