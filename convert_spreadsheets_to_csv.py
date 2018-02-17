@@ -94,9 +94,12 @@ class XLSProcessor(object):
             'President And Vice President Of The United States': 'President',
             'President Of The United States': 'President',
             'United States Representative': 'U.S. House',
+            'US Rep': 'U.S. House',
             'United States Senator': 'U.S. Senate',
             'State Senator': 'State Senate',
-            'State Representative': 'State House'
+            'State Sen': 'State Senate',
+            'State Representative': 'State House',
+            'State Rep': 'State House',
             }
         self.candidate_map = {'Write-In': 'Write-ins'}
         self.valid_offices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'Lieutenant Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer',])
@@ -154,7 +157,7 @@ class XLSProcessor(object):
     # This format is used in all 2016 xls files, and some of the earlier Excel files
     #
     def process_contest_title_excel_file(self, df, county):
-        return # Temp while writing the alternative branch
+        # return # Temp while writing the alternative branch
 
         # Set header
         df.columns = df.iloc[0] # set the columns to the first row
@@ -249,13 +252,85 @@ class XLSProcessor(object):
         # df = df.set_index(['office', 'candidate'])
 
         # Melt the spreadsheet into an OE-friendly format  
-        print(df.iloc[:, 0].head(5))      
+        # print(df.iloc[:, 0].head(5))      
         melted = pd.melt(df, id_vars=['office', 'candidate'], var_name='precinct', value_name='votes')
+
+        # Strip trailing spaces from all columns
+        for col in melted.columns:
+            if melted[col].dtype == 'object':
+                melted[col] = melted[col].str.strip()
 
         # Replace empty votes with 0
         melted['votes'] = melted['votes'].fillna(0)
 
-        print(melted.head(10))
+        # Create the new district column and fill with NaN
+        melted['district'] = np.nan
+        melted['party'] = ''
+
+        # Split out district names from offices
+        contests = melted["office"].drop_duplicates()
+
+        for contest in contests:
+            # print(f"--- {contest}")
+            office, district = self.identifyOfficeAndDistrict(contest)
+
+            if district:
+                melted.loc[melted['office'] == contest, 'district'] = district
+                melted.loc[melted['office'] == contest, 'office'] = office
+                # print(melted.loc[melted['office'] == office])
+
+        # Split out party names from candidates
+        candidates = melted["candidate"].drop_duplicates()
+
+        for origCandidate in candidates:
+            print(f"--- {origCandidate}")
+            candidate, party = self.identifyCandidateAndParty(origCandidate)
+            # print(f"{candidate})
+
+            if party:
+                melted.loc[melted['candidate'] == origCandidate, 'party'] = party
+                melted.loc[melted['candidate'] == origCandidate, 'candidate'] = candidate
+                print(melted.loc[melted['candidate'] == candidate])
+
+        # Normalize the office names
+        normalize_offices = lambda o: self.office_map[o] if o in self.office_map else o
+        melted.office = melted.office.map(normalize_offices)
+
+        # Drop non-statewide offices in place
+        mask = melted[~melted.office.isin(self.valid_offices)]
+        melted.drop(mask.index, inplace=True)
+
+        # Normalize pseudo-candidates
+        normalize_pseudocandidates = lambda c: self.candidate_map[c] if c in self.candidate_map else c
+        melted.candidate = melted.candidate.map(normalize_pseudocandidates)
+
+        self.statewide_dict[county] = melted[['precinct', 'office', 'district', 'party', 'candidate', 'votes']]
+
+    def identifyOfficeAndDistrict(self, contest):
+        (office, district) = (contest, None)
+        office_district = re.compile('[\W]+[Dd]ist[\W]+').split(contest)
+        
+        if len(office_district) > 1:
+            office, district = office_district
+
+        recognizedOffice = (office in self.office_map)
+
+        if recognizedOffice:
+            office = self.office_map[office]
+
+        return (office, district)
+
+    def identifyCandidateAndParty(self, origCandidate):
+        (candidate, party) = (origCandidate, None)
+
+        if not pd.isnull(origCandidate):
+            m = re.compile('\s\(\s*(\w)\s*\)\s*').search(origCandidate)
+
+            if m:
+                party = m.group(1)
+                candidate = origCandidate.replace(m.group(0), '')
+
+        return (candidate, party)
 
     def process_csv_file(self, filename, county):
         print("process_csv_file not implemented yet")
