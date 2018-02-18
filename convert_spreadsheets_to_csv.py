@@ -136,15 +136,17 @@ class XLSProcessor(object):
 
         # print(f"Results for {self.statewide_dict.keys()}")
 
+
     def process_excel_file(self, filename, county):
         xl = pd.ExcelFile(filename)
 
         # Read the first sheet
         df = xl.parse(0, header=None) # Leave out headers because the two formats use them differently
+        df = self.stripCellsDropEmptyRows(df)
 
         # Process spreadsheet differently depending on the first cell
         firstCell = df.iloc[0, 0] # Contents of very first cell
-        print(f"{firstCell}")
+        # print(f"{firstCell}")
         if firstCell == 'Contest Title':
             self.process_contest_title_excel_file(df, county)
         elif pd.isnull(firstCell) or firstCell in self.valid_offices:
@@ -170,44 +172,13 @@ class XLSProcessor(object):
                             'Candidate Name': 'candidate',
                             }, inplace=True) # Some normalization to do
 
-        # Clean the data
-        df = df.applymap(lambda x: x.strip() if type(x) is str else x) # Strip all cells
-        df = df.replace('', np.NaN, regex=True) # Replace empty cells with NaN
-        df.dropna(how='all', inplace=True) # Drop rows that only consist of NaN data
-
         # Unpivot the spreadsheet
         melted = pd.melt(df, id_vars=['Contest Title', 'party', 'candidate'], var_name='precinct', value_name='votes')
 
         melted.dropna(how='any', subset=['votes'], inplace=True) # Drop rows with na for votes
 
-        melted['office'] = melted['Contest Title'] # duplicate the contest title into the office column
-        melted['district'] = np.nan
-
-        # List of all contests
-        contests = melted["office"].drop_duplicates()
-
-        # Split out district names from offices
-        for contest in contests:
-            m = re.compile(r', (DISTRICT NO. )?(\d+)').search(contest)
-
-            if m:
-                # Set district to found number, trim office
-                melted.loc[melted['office'] == contest, 'district'] = m.group(2)
-                melted.loc[melted['office'] == contest, 'office'] = contest[:m.span()[0]] # Strip district number off contest
-
-        melted.office = melted.office.str.title()
-        
-        # Normalize the office names
-        normalize_offices = lambda o: self.office_map[o] if o in self.office_map else o
-        melted.office = melted.office.map(normalize_offices)
-
-        # Drop non-statewide offices in place
-        mask = melted[~melted.office.isin(self.valid_offices)]
-        melted.drop(mask.index, inplace=True)
-
-        # Normalize pseudo-candidates
-        normalize_pseudocandidates = lambda c: self.candidate_map[c] if c in self.candidate_map else c
-        melted.candidate = melted.candidate.map(normalize_pseudocandidates)
+        melted = self.populateOfficesAndDistricts(melted)
+        melted = self.normalizeOfficesAndCandidates(melted)
 
         self.statewide_dict[county] = melted[['precinct', 'office', 'district', 'party', 'candidate', 'votes']]
 
@@ -219,11 +190,6 @@ class XLSProcessor(object):
 
         # Forward-Fill offices to the right
         df.loc[[0]] = df.loc[[0]].ffill(axis=1)
-
-        # Clean the data
-        df = df.applymap(lambda x: x.strip() if type(x) is str else x) # Strip all cells
-        df = df.replace('', np.NaN, regex=True) # Replace empty cells with NaN
-        df.dropna(how='all', inplace=True) # Drop rows that only consist of NaN data
 
         # Transpose
         df = df.transpose()
@@ -275,19 +241,44 @@ class XLSProcessor(object):
         # Normalize name of "Total" pseudo-precinct
         melted.loc[melted["precinct"] == 'CALCULATED TOTALS', 'precinct'] = 'Total'
 
+        melted = self.normalizeOfficesAndCandidates(melted)
+
+        self.statewide_dict[county] = melted[['precinct', 'office', 'district', 'party', 'candidate', 'votes']]
+
+    def populateOfficesAndDistricts(self, df):
+        df['office'] = df['Contest Title'] # duplicate the contest title into the office column
+        df['district'] = np.nan
+
+        # List of all contests
+        contests = df["office"].drop_duplicates()
+
+        # Split out district names from offices
+        for contest in contests:
+            m = re.compile(r'[ ,] (DISTRICT NO. )?(\d+)').search(contest)
+
+            if m:
+                # Set district to found number, trim office
+                df.loc[df['office'] == contest, 'district'] = m.group(2)
+                df.loc[df['office'] == contest, 'office'] = contest[:m.span()[0]] # Strip district number off contest
+
+        return df
+
+    def normalizeOfficesAndCandidates(self, df):
+        df.office = df.office.str.title()
+        
         # Normalize the office names
         normalize_offices = lambda o: self.office_map[o] if o in self.office_map else o
-        melted.office = melted.office.map(normalize_offices)
+        df.office = df.office.map(normalize_offices)
 
         # Drop non-statewide offices in place
-        mask = melted[~melted.office.isin(self.valid_offices)]
-        melted.drop(mask.index, inplace=True)
+        mask = df[~df.office.isin(self.valid_offices)]
+        df.drop(mask.index, inplace=True)
 
         # Normalize pseudo-candidates
         normalize_pseudocandidates = lambda c: self.candidate_map[c] if c in self.candidate_map else c
-        melted.candidate = melted.candidate.map(normalize_pseudocandidates)
+        df.candidate = df.candidate.map(normalize_pseudocandidates)
 
-        self.statewide_dict[county] = melted[['precinct', 'office', 'district', 'party', 'candidate', 'votes']]
+        return df
 
     def identifyOfficeAndDistrict(self, contest):
         (office, district) = (contest, None)
@@ -319,8 +310,32 @@ class XLSProcessor(object):
 
         return (candidate, party)
 
+    # Clean the data
+    def stripCellsDropEmptyRows(self, df):
+        df = df.applymap(lambda x: x.strip() if type(x) is str else x) # Strip all cells
+        df = df.replace('', np.NaN, regex=True) # Replace empty cells with NaN
+        df = df.dropna(how='all') # Drop rows that only consist of NaN data
+
+        return df
+
     def process_csv_file(self, filename, county):
-        print("process_csv_file not implemented yet")
+        df = pd.read_csv(filename)
+
+        # Normalize column names
+        colNames = ['county', 'election_date', 'contest_number', 'candidate_number', 'votes', 'party', 'Contest Title', 'candidate', 'precinct', 'district_name']
+        df.columns = colNames
+
+        df = self.stripCellsDropEmptyRows(df)
+
+        # Drop "registered voters" and "ballots cast"
+        df = df.loc[df["contest_number"] >= 100]
+
+        df = self.populateOfficesAndDistricts(df)
+        df = self.normalizeOfficesAndCandidates(df)
+
+        df = df.sort_values(['precinct', 'office', 'district', 'party', 'candidate'], ascending=True)
+
+        self.statewide_dict[county] = df[['precinct', 'office', 'district', 'party', 'candidate', 'votes']]
 
     def save_presidential_vote_by_county(self, statewide, year):
         """Checks presidential vote by county
