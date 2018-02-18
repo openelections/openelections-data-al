@@ -147,7 +147,7 @@ class XLSProcessor(object):
         print(f"{firstCell}")
         if firstCell == 'Contest Title':
             self.process_contest_title_excel_file(df, county)
-        elif np.isnan(firstCell) or firstCell in self.valid_offices:
+        elif pd.isnull(firstCell) or firstCell in self.valid_offices:
             self.process_blank_header_excel_file(df, county)
         else:
             print('Not yet able to process this county: {}'.format(county))
@@ -170,16 +170,19 @@ class XLSProcessor(object):
                             'Candidate Name': 'candidate',
                             }, inplace=True) # Some normalization to do
 
+        # Clean the data
+        df = df.applymap(lambda x: x.strip() if type(x) is str else x) # Strip all cells
+        df = df.replace('', np.NaN, regex=True) # Replace empty cells with NaN
+        df.dropna(how='all', inplace=True) # Drop rows that only consist of NaN data
+
         # Unpivot the spreadsheet
         melted = pd.melt(df, id_vars=['Contest Title', 'party', 'candidate'], var_name='precinct', value_name='votes')
 
         # Strip trailing spaces from all columns
-        for col in melted.columns:
-            if melted[col].dtype == 'object':
-                melted[col] = melted[col].str.strip()
-
-        # Replace empty votes with 0
-        melted['votes'] = melted['votes'].fillna(0)
+        # for col in melted.columns:
+        #     if melted[col].dtype == 'object':
+        #         melted[col] = melted[col].str.strip()
+        melted.dropna(how='any', subset=['votes'], inplace=True) # Drop rows with na for votes
 
         # A dictionary containing districted office names, and the exact string that precedes each district number
         offices_with_districts = {
@@ -233,8 +236,13 @@ class XLSProcessor(object):
     def process_blank_header_excel_file(self, df, county):
         # return # Temp while developing
 
-        # Forward-Fill offices to prep for MultiIndex
+        # Forward-Fill offices to the right
         df.loc[[0]] = df.loc[[0]].ffill(axis=1)
+
+        # Clean the data
+        df = df.applymap(lambda x: x.strip() if type(x) is str else x) # Strip all cells
+        df = df.replace('', np.NaN, regex=True) # Replace empty cells with NaN
+        df.dropna(how='all', inplace=True) # Drop rows that only consist of NaN data
 
         # Transpose
         df = df.transpose()
@@ -242,7 +250,6 @@ class XLSProcessor(object):
         # Fix column headers
         df.iloc[0, 0] = 'office'
         df.iloc[0, 1] = 'candidate'
-        # print(df.iloc[:,0:2])
 
         # Set header
         df.columns = df.iloc[0] # set the columns to the first row
@@ -254,14 +261,19 @@ class XLSProcessor(object):
         # Melt the spreadsheet into an OE-friendly format  
         # print(df.iloc[:, 0].head(5))      
         melted = pd.melt(df, id_vars=['office', 'candidate'], var_name='precinct', value_name='votes')
+        # print("melted")
 
         # Strip trailing spaces from all columns
-        for col in melted.columns:
-            if melted[col].dtype == 'object':
-                melted[col] = melted[col].str.strip()
+        # for col in melted.columns:
+        #     if melted[col].dtype == 'object':
+        #         melted[col] = melted[col].str.strip()
+
+        # print(melted.head(10))
 
         # Replace empty votes with 0
-        melted['votes'] = melted['votes'].fillna(0)
+        # melted['votes'] = melted['votes'].fillna(0)
+
+        melted.dropna(how='any', subset=['votes'], inplace=True) # Drop rows with na for votes
 
         # Create the new district column and fill with NaN
         melted['district'] = np.nan
@@ -283,14 +295,17 @@ class XLSProcessor(object):
         candidates = melted["candidate"].drop_duplicates()
 
         for origCandidate in candidates:
-            print(f"--- {origCandidate}")
+            # print(f"--- {origCandidate}")
             candidate, party = self.identifyCandidateAndParty(origCandidate)
             # print(f"{candidate})
 
             if party:
                 melted.loc[melted['candidate'] == origCandidate, 'party'] = party
                 melted.loc[melted['candidate'] == origCandidate, 'candidate'] = candidate
-                print(melted.loc[melted['candidate'] == candidate])
+                # print(melted.loc[melted['candidate'] == candidate])
+
+        # Normalize name of "Total" pseudo-precinct
+        melted.loc[melted["precinct"] == 'CALCULATED TOTALS', 'precinct'] = 'Total'
 
         # Normalize the office names
         normalize_offices = lambda o: self.office_map[o] if o in self.office_map else o
@@ -308,23 +323,27 @@ class XLSProcessor(object):
 
     def identifyOfficeAndDistrict(self, contest):
         (office, district) = (contest, None)
-        office_district = re.compile('[\W]+[Dd]ist[\W]+').split(contest)
+
+        try:
+            office_district = re.compile('[\W]+[Dd]ist[\W]+').split(contest)
+    
+            if len(office_district) > 1:
+                office, district = office_district
+
+            recognizedOffice = (office in self.office_map)
+
+            if recognizedOffice:
+                office = self.office_map[office]
+        except:
+            print(f"Couldn't split contest '{contest}'")
         
-        if len(office_district) > 1:
-            office, district = office_district
-
-        recognizedOffice = (office in self.office_map)
-
-        if recognizedOffice:
-            office = self.office_map[office]
-
         return (office, district)
 
     def identifyCandidateAndParty(self, origCandidate):
         (candidate, party) = (origCandidate, None)
 
         if not pd.isnull(origCandidate):
-            m = re.compile('\s\(\s*(\w)\s*\)\s*').search(origCandidate)
+            m = re.compile('\s*\(\s*(\w)\s*\)\s*').search(origCandidate)
 
             if m:
                 party = m.group(1)
