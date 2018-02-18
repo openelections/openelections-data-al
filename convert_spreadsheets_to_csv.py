@@ -178,41 +178,22 @@ class XLSProcessor(object):
         # Unpivot the spreadsheet
         melted = pd.melt(df, id_vars=['Contest Title', 'party', 'candidate'], var_name='precinct', value_name='votes')
 
-        # Strip trailing spaces from all columns
-        # for col in melted.columns:
-        #     if melted[col].dtype == 'object':
-        #         melted[col] = melted[col].str.strip()
         melted.dropna(how='any', subset=['votes'], inplace=True) # Drop rows with na for votes
-
-        # A dictionary containing districted office names, and the exact string that precedes each district number
-        offices_with_districts = {
-            'UNITED STATES REPRESENTATIVE': 'UNITED STATES REPRESENTATIVE, '
-            , 'STATE SENATOR' : 'STATE SENATOR, DISTRICT NO. '
-            , 'STATE REPRESENTATIVE' : 'STATE REPRESENTATIVE, DISTRICT NO. '
-        }
 
         melted['office'] = melted['Contest Title'] # duplicate the contest title into the office column
         melted['district'] = np.nan
 
-        for office in offices_with_districts:
+        # List of all contests
+        contests = melted["office"].drop_duplicates()
 
-            # Rows containing votes for this office
-            office_idx = melted[melted['Contest Title'].str.contains(office)].index
+        # Split out district names from offices
+        for contest in contests:
+            m = re.compile(r', (DISTRICT NO. )?(\d+)').search(contest)
 
-            melted.loc[office_idx, 'office'] = office
-
-
-            # Extract district number from Contest Title
-
-            # Option A: Column-wise
-            # This is saving NULLs and I have no idea why
-            # melted.loc[office_idx, 'district'] = melted.loc[office_idx, 'Contest Title'].str.extract(offices_with_districts[office] + '(\d)', expand=True)
-
-            # Option B: Row-wise
-            # Slower but it works
-            for i in office_idx:
-                regex_match = re.search('(\d+)', melted.loc[i, 'Contest Title'])
-                melted.loc[i, 'district'] = regex_match.group(1)
+            if m:
+                # Set district to found number, trim office
+                melted.loc[melted['office'] == contest, 'district'] = m.group(2)
+                melted.loc[melted['office'] == contest, 'office'] = contest[:m.span()[0]] # Strip district number off contest
 
         melted.office = melted.office.str.title()
         
@@ -255,23 +236,10 @@ class XLSProcessor(object):
         df.columns = df.iloc[0] # set the columns to the first row
         df.drop([0], inplace=True)
 
-        # Set multi-index
-        # df = df.set_index(['office', 'candidate'])
-
         # Melt the spreadsheet into an OE-friendly format  
         # print(df.iloc[:, 0].head(5))      
         melted = pd.melt(df, id_vars=['office', 'candidate'], var_name='precinct', value_name='votes')
         # print("melted")
-
-        # Strip trailing spaces from all columns
-        # for col in melted.columns:
-        #     if melted[col].dtype == 'object':
-        #         melted[col] = melted[col].str.strip()
-
-        # print(melted.head(10))
-
-        # Replace empty votes with 0
-        # melted['votes'] = melted['votes'].fillna(0)
 
         melted.dropna(how='any', subset=['votes'], inplace=True) # Drop rows with na for votes
 
