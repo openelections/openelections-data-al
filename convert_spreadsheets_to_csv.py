@@ -85,8 +85,8 @@ class XLSProcessor(object):
     def __init__(self, inDirPath, outFilePath):
         self.path = inDirPath
         self.outFilePath = outFilePath
-        dirname = os.path.dirname(self.path)
-        self.year = dirname[:4]
+        (dirparent, deepest_dirname) = os.path.split(os.path.dirname(inDirPath))
+        self.year = deepest_dirname
         self.supported = False
         self.statewide_dict = {}
 
@@ -96,12 +96,13 @@ class XLSProcessor(object):
             'United States Representative': 'U.S. House',
             'US Rep': 'U.S. House',
             'United States Senator': 'U.S. Senate',
+            'Lt. Governor': 'Lieutenant Governor',
             'State Senator': 'State Senate',
             'State Sen': 'State Senate',
             'State Representative': 'State House',
             'State Rep': 'State House',
             }
-        self.candidate_map = {'Write-In': 'Write-ins'}
+        self.candidate_map = {'Write-In': 'Write-ins', 'Write-in': 'Write-ins'}
         self.valid_offices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'Lieutenant Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer',])
 
 
@@ -128,6 +129,7 @@ class XLSProcessor(object):
         statewide.drop('level_1', axis=1, inplace=True)
         statewide.rename(columns={'level_0' : 'county'}, inplace=True)
 
+        statewide = statewide.sort_values(['county', 'precinct', 'office', 'district', 'party', 'candidate'], ascending=True)
         statewide.to_csv(self.outFilePath, index=False, float_format='%.f')
         print('Output saved to: ' + self.outFilePath)
 
@@ -191,6 +193,11 @@ class XLSProcessor(object):
         # Forward-Fill offices to the right
         df.loc[[0]] = df.loc[[0]].ffill(axis=1)
 
+        # Remove bogus data in Clay 2014 :-(
+        print(self.year)
+        if county == 'Clay' and self.year == '2014':
+            df = df.drop(df.index[[21, 22, 23]]) # BARF!
+
         # Transpose
         df = df.transpose()
 
@@ -239,11 +246,33 @@ class XLSProcessor(object):
                 # print(melted.loc[melted['candidate'] == candidate])
 
         # Normalize name of "Total" pseudo-precinct
-        melted.loc[melted["precinct"] == 'CALCULATED TOTALS', 'precinct'] = 'Total'
+        melted.loc[melted["precinct"] == 'REPORTED TOTALS', 'precinct'] = 'Total'
+
+        # Drop any "CALCULATED TOTALS", which we can recalculate ourselves
+        melted = melted.drop(melted[melted["precinct"] == 'CALCULATED TOTALS'].index)
 
         melted = self.normalizeOfficesAndCandidates(melted)
 
         self.statewide_dict[county] = melted[['precinct', 'office', 'district', 'party', 'candidate', 'votes']]
+
+
+    def process_csv_file(self, filename, county):
+        df = pd.read_csv(filename)
+
+        # Normalize column names
+        colNames = ['county', 'election_date', 'contest_number', 'candidate_number', 'votes', 'party', 'Contest Title', 'candidate', 'precinct', 'district_name']
+        df.columns = colNames
+
+        df = self.stripCellsDropEmptyRows(df)
+
+        # Drop "registered voters" and "ballots cast"
+        df = df.loc[df["contest_number"] >= 100]
+
+        df = self.populateOfficesAndDistricts(df)
+        df = self.normalizeOfficesAndCandidates(df)
+
+        self.statewide_dict[county] = df[['precinct', 'office', 'district', 'party', 'candidate', 'votes']]
+
 
     def populateOfficesAndDistricts(self, df):
         df['office'] = df['Contest Title'] # duplicate the contest title into the office column
@@ -302,7 +331,7 @@ class XLSProcessor(object):
         (candidate, party) = (origCandidate, None)
 
         if not pd.isnull(origCandidate):
-            m = re.compile('\s*\(\s*(\w)\s*\)\s*').search(origCandidate)
+            m = re.compile('\s*\(\s*([\w\.]+)\s*\)\s*').search(origCandidate)
 
             if m:
                 party = m.group(1)
@@ -317,25 +346,6 @@ class XLSProcessor(object):
         df = df.dropna(how='all') # Drop rows that only consist of NaN data
 
         return df
-
-    def process_csv_file(self, filename, county):
-        df = pd.read_csv(filename)
-
-        # Normalize column names
-        colNames = ['county', 'election_date', 'contest_number', 'candidate_number', 'votes', 'party', 'Contest Title', 'candidate', 'precinct', 'district_name']
-        df.columns = colNames
-
-        df = self.stripCellsDropEmptyRows(df)
-
-        # Drop "registered voters" and "ballots cast"
-        df = df.loc[df["contest_number"] >= 100]
-
-        df = self.populateOfficesAndDistricts(df)
-        df = self.normalizeOfficesAndCandidates(df)
-
-        df = df.sort_values(['precinct', 'office', 'district', 'party', 'candidate'], ascending=True)
-
-        self.statewide_dict[county] = df[['precinct', 'office', 'district', 'party', 'candidate', 'votes']]
 
     def save_presidential_vote_by_county(self, statewide, year):
         """Checks presidential vote by county
