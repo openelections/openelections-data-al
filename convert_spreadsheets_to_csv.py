@@ -110,7 +110,7 @@ class XLSProcessor(object):
         print('Election: ' + self.path)
 
         for countyFile in glob.glob(f'{self.path}/*'):
-            print(countyFile)
+            # print(countyFile)
             m = re.match(r'\d{4}-(General|Primary)-(.*)\.(csv|xlsx|xls)', os.path.basename(countyFile))
 
             if m:
@@ -194,7 +194,6 @@ class XLSProcessor(object):
         df.loc[[0]] = df.loc[[0]].ffill(axis=1)
 
         # Remove bogus data in Clay 2014 :-(
-        print(self.year)
         if county == 'Clay' and self.year == '2014':
             df = df.drop(df.index[[21, 22, 23]]) # BARF!
 
