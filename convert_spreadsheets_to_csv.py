@@ -52,7 +52,7 @@ def main():
     # for election_dir in glob.glob('data/AL/*/'):
     processor = XLSProcessor(args.inDirPath, args.outFilePath)
 
-    if processor and processor.supported:
+    if processor: # and processor.supported:
         processor.process_election_directory()
 
 def parseArguments():
@@ -67,21 +67,6 @@ def parseArguments():
 
 
 class XLSProcessor(object):
-
-        # Return the appropriate subclass based on the path
-    def __new__(cls, inDirPath, outFilePath):
-        if cls is XLSProcessor:
-            (dirparent, deepest_dirname) = os.path.split(os.path.dirname(inDirPath))
-            m = re.match(r'(20\d\d)', deepest_dirname)
-            if m:
-                year = int(m.group(1))
-
-            if year >= 2014:
-                return super(XLSProcessor, cls).__new__(XLSProcessor_2014)
-
-        else:
-            return super(XLSProcessor, cls).__new__(cls, inDirPath, outFilePath)
-
     def __init__(self, inDirPath, outFilePath):
         self.path = inDirPath
         self.outFilePath = outFilePath
@@ -89,9 +74,11 @@ class XLSProcessor(object):
         self.year = deepest_dirname
         self.supported = False
         self.statewide_dict = {}
+        self.completeColumnNames = ['precinct', 'office', 'district', 'party', 'candidate', 'votes']
 
         self.office_map = {
             'President And Vice President Of The United States': 'President',
+            'President And Vice-President Of The United States': 'President',
             'President Of The United States': 'President',
             'United States Representative': 'U.S. House',
             'US Rep': 'U.S. House',
@@ -110,7 +97,7 @@ class XLSProcessor(object):
         print('Election: ' + self.path)
 
         for countyFile in glob.glob(f'{self.path}/*'):
-            # print(countyFile)
+            print(countyFile)
             m = re.match(r'\d{4}-(General|Primary)-(.*)\.(csv|xlsx|xls)', os.path.basename(countyFile))
 
             if m:
@@ -122,6 +109,9 @@ class XLSProcessor(object):
                     self.process_excel_file(countyFile, county_name)
                 elif m.group(3) == 'csv':
                     self.process_csv_file(countyFile, county_name)
+            else:
+                (county_name, ext) = os.path.basename(countyFile).split(os.extsep, 1)
+                self.process_excel_file(countyFile, county_name)
             # break # end after one, for debugging
 
         # Concat county results into one dataframe, and save to CSV
@@ -148,9 +138,12 @@ class XLSProcessor(object):
 
         # Process spreadsheet differently depending on the first cell
         firstCell = df.iloc[0, 0] # Contents of very first cell
+
         # print(f"{firstCell}")
         if firstCell == 'Contest Title':
             self.process_contest_title_excel_file(df, county)
+        elif firstCell == 'Table of Contents':
+            self.process_TOC_excel_file(xl, df, county)
         elif pd.isnull(firstCell) or firstCell in self.valid_offices:
             self.process_blank_header_excel_file(df, county)
         else:
@@ -182,7 +175,7 @@ class XLSProcessor(object):
         melted = self.populateOfficesAndDistricts(melted)
         melted = self.normalizeOfficesAndCandidates(melted)
 
-        self.statewide_dict[county] = melted[['precinct', 'office', 'district', 'party', 'candidate', 'votes']]
+        self.statewide_dict[county] = melted[self.completeColumnNames]
 
     #
     # This format is used in many 2014 files
@@ -201,8 +194,8 @@ class XLSProcessor(object):
         df = df.transpose()
 
         # Fix column headers
-        df.iloc[0, 0] = 'office'
-        df.iloc[0, 1] = 'candidate'
+        df.iat[0, 0] = 'office'
+        df.iat[0, 1] = 'candidate'
 
         # Set header
         df.columns = df.iloc[0] # set the columns to the first row
@@ -252,8 +245,58 @@ class XLSProcessor(object):
 
         melted = self.normalizeOfficesAndCandidates(melted)
 
-        self.statewide_dict[county] = melted[['precinct', 'office', 'district', 'party', 'candidate', 'votes']]
+        self.statewide_dict[county] = melted[self.completeColumnNames]
 
+
+    def process_TOC_excel_file(self, xl, firstSheetDF, county):
+        countyDF = pd.DataFrame()
+        for sheetName in self.relevant_sheets(firstSheetDF):
+            print(f"--> parse {county} sheet {sheetName}")
+            df = xl.parse(sheetName, header=None) # Leave out headers to define our own later
+            df = self.stripCellsDropEmptyRows(df)
+
+            # Drop duplicated office
+            office = df.iloc[0, 0]
+            m = re.compile("(FOR )?([\w, -]+) \(Vote For 1\)").search(office)
+            if m:
+                office = m.group(2)
+            
+            df.drop([0], inplace=True)
+
+            # Ignore superfluous "total" data
+            results = df.iloc[:, :-1:2]
+
+            # Fix naming of columns and totals
+            results.iat[0, 0] = 'precinct'
+            results.iat[-1, 0] = 'Total'
+            
+            # Set header
+            results.columns = results.iloc[0, :]
+            results = results[2:] # Drop the first two rows
+            
+            melted = pd.melt(results, id_vars=['precinct'], var_name='candidate', value_name='votes')
+            melted['Contest Title'] = office
+            melted['party'] = ''
+            # import pdb; pdb.set_trace()
+            melted = self.populateOfficesAndDistricts(melted)
+            melted = self.normalizeOfficesAndCandidates(melted)
+
+            countyDF = countyDF.append(melted[self.completeColumnNames])
+        
+        self.statewide_dict[county] = countyDF
+
+    def relevant_sheets(self, df):
+        relevantSheetNames = []
+
+        toc = df.iloc[0:, 0:2]
+        toc = toc.fillna('')
+        relevantOffices = ("FOR PRESIDENT AND VICE", "FOR UNITED STATES REPRESENTATIVE")
+
+        for index, value in toc.iterrows():
+            if value[1].startswith(relevantOffices):
+                relevantSheetNames.append(str(value[0]))
+
+        return relevantSheetNames
 
     def process_csv_file(self, filename, county):
         df = pd.read_csv(filename)
@@ -270,7 +313,7 @@ class XLSProcessor(object):
         df = self.populateOfficesAndDistricts(df)
         df = self.normalizeOfficesAndCandidates(df)
 
-        self.statewide_dict[county] = df[['precinct', 'office', 'district', 'party', 'candidate', 'votes']]
+        self.statewide_dict[county] = df[self.completeColumnNames]
 
 
     def populateOfficesAndDistricts(self, df):
@@ -293,7 +336,7 @@ class XLSProcessor(object):
 
     def normalizeOfficesAndCandidates(self, df):
         df.office = df.office.str.title()
-        
+
         # Normalize the office names
         normalize_offices = lambda o: self.office_map[o] if o in self.office_map else o
         df.office = df.office.map(normalize_offices)
@@ -388,11 +431,6 @@ class XLSProcessor(object):
             )
 
         us_house_districts.to_csv('{}_us_house_districts.csv'.format(year))
-
-class XLSProcessor_2014(XLSProcessor):
-    def __init__(self, inDirPath, outFilePath):
-        super().__init__(inDirPath, outFilePath)
-        self.supported = True ### WRONG…
 
 
 if __name__ == '__main__':
