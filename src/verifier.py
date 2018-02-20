@@ -34,6 +34,7 @@ def main():
 	for path in args.paths:
 		verifier = Verifier(path)
 		verifier.showPrimaryPartiesError = not args.mutePrimaryPartiesError
+		verifier.showPartiesError = not args.mutePartiesError
 		verifier.showXForDistrictError = not args.muteXForDistrictError
 		verifier.singleErrorMode = args.singleError
 
@@ -44,9 +45,10 @@ def main():
 def parseArguments():
 	parser = argparse.ArgumentParser(description='Verify openelections CSV files')
 	parser.add_argument('--mutePrimaryPartiesError', dest='mutePrimaryPartiesError', action='store_true')
+	parser.add_argument('--mutePartiesError', dest='mutePartiesError', action='store_true')
 	parser.add_argument('--muteXForDistrictError', dest='muteXForDistrictError', action='store_true')
 	parser.add_argument('--singleError', dest='singleError', action='store_true', help='Display only the first error in each file')
-	parser.set_defaults(mutePrimaryPartiesError=False, muteXForDistrictError=False)
+	parser.set_defaults(mutePrimaryPartiesError=False, mutePartiesError=False, muteXForDistrictError=False)
 	parser.add_argument('paths', metavar='path', type=str, nargs='+',
 					   help='path to a CSV file')
 
@@ -220,8 +222,9 @@ class Verifier(object):
 						break
 
 	def verifyParty(self, row):
-		if row['candidate'] not in Verifier.pseudocandidates and not row['party']:
-			self.printError("Party missing", row)
+		if self.showPartiesError:
+			if row['candidate'] not in Verifier.pseudocandidates and not row['party']:
+				self.printError("Party missing", row)
 
 	def verifyVotes(self, row):
 		if not self.verifyInteger(row['votes']):
@@ -260,7 +263,7 @@ class GeneralPrecinctVerifier(Verifier):
 
 class PrimaryPrecinctVerifier(Verifier):
 	def verifyParty(self, row):
-		if self.showPrimaryPartiesError:
+		if self.showPrimaryPartiesError and self.showPartiesError:
 			if not row['party']:
 				self.printError("Primary results must include a party for every row", row)
 
