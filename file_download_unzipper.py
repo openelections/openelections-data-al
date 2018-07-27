@@ -37,6 +37,7 @@ def download_to_folder(filename, file_url, statename='AL'):
         os.makedirs(download_destination)
 
     file_path = os.path.join(download_destination, filename)
+    print(f"Downloading {file_url}...")
     r = requests.get(file_url)
     with open(file_path, 'wb') as filename:
         filename.write(r.content)
@@ -50,15 +51,18 @@ def unzip_zip_files(datadir, destination_path=None):
     if not destination_path:
         destination_path = datadir
 
-    datadir_wild_card = '{0}/**'.format(datadir)
-    zip_files = [fn for fn in glob.glob(datadir_wild_card) if fn.endswith('.zip')]
+    zip_files = glob.glob(f'{datadir}/**/*.zip', recursive=True)
 
     for zip_file in zip_files:
-        zip_file_name = zip_file.split('/')[-1]
+        zip_file_name = os.path.basename(zip_file)
         folder_name = zip_file_name.replace('.zip', '').lower()
         zip_destination = os.path.join(destination_path, folder_name)
-        with zipfile.ZipFile(zip_file,"r") as zip_ref:
-            zip_ref.extractall(zip_destination)
+
+        try:
+            with zipfile.ZipFile(zip_file,"r") as zip_ref:
+                zip_ref.extractall(zip_destination)
+        except:
+            print(f"ERROR: Can't unzip {zip_file}")
 
 
 
@@ -67,7 +71,8 @@ if __name__ == '__main__':
     file_urls = open_files_to_download(csv_file)
     for electionname in file_urls:
         fileurl = electionname['zipurl']
-        filename = fileurl.split('/')[-1] # files the filename in the filepathe
+        filename = fileurl.split('/')[-1] # files the filename in the filepath
+        filename = filename.replace('.exe', '.zip') # Strangely, the 2004 general is saved as an .exe when it's really a .zip
         download_to_folder(filename, fileurl)
 
     unzip_zip_files('data/AL')
