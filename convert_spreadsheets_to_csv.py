@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+    #!/usr/local/bin/python3
 # -*- coding: utf-8 -*-
 
 # The MIT License (MIT)
@@ -11,15 +11,15 @@
 # copies of the Software, and to permit persons to whom the Software is
 # furnished to do so, subject to the following conditions:
 #
-# The above copyright notice and this permission notice shall be included in all 
+# The above copyright notice and this permission notice shall be included in all
 # copies or substantial portions of the Software.
 #
 # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 # IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 # AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
 
@@ -83,14 +83,22 @@ class XLSProcessor(object):
             'United States Representative': 'U.S. House',
             'US Rep': 'U.S. House',
             'United States Senator': 'U.S. Senate',
+            'Governor': 'Governor',
             'Lt. Governor': 'Lieutenant Governor',
+            'Attorney General': 'Attorney General',
+            'State Treasurer': 'State Treasurer',
+            'Commissioner Of Agriculture And Industries': 'Commissioner of Agriculture and Industries',
+            'Secretary Of State': 'Secretary of State',
+            'State Auditor': 'State Auditor',
             'State Senator': 'State Senate',
-            'State Sen': 'State Senate',
+            #'State Sen': 'State Senate',
             'State Representative': 'State House',
-            'State Rep': 'State House',
+            #'State Rep': 'State House',
+            'Ballots Cast - Total': 'Ballots Cast',
+            'STRAIGHT PARTY': 'Straight Party'
             }
         self.candidate_map = {'Write-In': 'Write-ins', 'Write-in': 'Write-ins'}
-        self.valid_offices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'Lieutenant Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer',])
+        self.valid_offices = frozenset(['Ballots Cast', 'Straight Party', 'President', 'U.S. Senate', 'U.S. House', 'Governor', 'Lieutenant Governor', 'Attorney General', 'State Treasurer', 'Commissioner of Agriculture and Industries', 'State Senate', 'State House', 'Secretary of State', 'State Auditor'])
 
 
     def process_election_directory(self):
@@ -159,7 +167,7 @@ class XLSProcessor(object):
         # Set header
         df.columns = df.iloc[0] # set the columns to the first row
         df.reindex(df.index.drop(0)) # reindex, dropping the now-duplicated first row
-        
+
         # Rename columns to match standard
         df.rename(columns={ 'Party Code': 'party',
                             'Party': 'party',
@@ -201,8 +209,8 @@ class XLSProcessor(object):
         df.columns = df.iloc[0] # set the columns to the first row
         df.drop([0], inplace=True)
 
-        # Melt the spreadsheet into an OE-friendly format  
-        # print(df.iloc[:, 0].head(5))      
+        # Melt the spreadsheet into an OE-friendly format
+        # print(df.iloc[:, 0].head(5))
         melted = pd.melt(df, id_vars=['office', 'candidate'], var_name='precinct', value_name='votes')
         # print("melted")
 
@@ -260,7 +268,7 @@ class XLSProcessor(object):
             m = re.compile("(FOR )?([\w, -]+) \(Vote For 1\)").search(office)
             if m:
                 office = m.group(2)
-            
+
             df.drop([0], inplace=True)
 
             # Ignore superfluous "total" data
@@ -269,11 +277,11 @@ class XLSProcessor(object):
             # Fix naming of columns and totals
             results.iat[0, 0] = 'precinct'
             results.iat[-1, 0] = 'Total'
-            
+
             # Set header
             results.columns = results.iloc[0, :]
             results = results[2:] # Drop the first two rows
-            
+
             melted = pd.melt(results, id_vars=['precinct'], var_name='candidate', value_name='votes')
             melted['Contest Title'] = office
             melted['party'] = ''
@@ -282,7 +290,7 @@ class XLSProcessor(object):
             melted = self.normalizeOfficesAndCandidates(melted)
 
             countyDF = countyDF.append(melted[self.completeColumnNames])
-        
+
         self.statewide_dict[county] = countyDF
 
     def relevant_sheets(self, df):
@@ -325,7 +333,7 @@ class XLSProcessor(object):
 
         # Split out district names from offices
         for contest in contests:
-            m = re.compile(r'[ ,] (DISTRICT NO. )?(\d+)').search(contest)
+            m = re.compile(r'[ ,] (DISTRICT )?(\d+)').search(contest)
 
             if m:
                 # Set district to found number, trim office
@@ -356,7 +364,7 @@ class XLSProcessor(object):
 
         try:
             office_district = re.compile('[\W]+[Dd]ist[\W]+').split(contest)
-    
+
             if len(office_district) > 1:
                 office, district = office_district
 
@@ -366,7 +374,7 @@ class XLSProcessor(object):
                 office = self.office_map[office]
         except:
             print(f"Couldn't split contest '{contest}'")
-        
+
         return (office, district)
 
     def identifyCandidateAndParty(self, origCandidate):
