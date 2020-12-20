@@ -77,6 +77,7 @@ class XLSProcessor(object):
         self.completeColumnNames = ['precinct', 'office', 'district', 'party', 'candidate', 'votes']
 
         self.office_map = {
+            'Registered Voters - Total': 'Registered Voters',
             'President And Vice President Of The United States': 'President',
             'President And Vice-President Of The United States': 'President',
             'President Of The United States': 'President',
@@ -98,7 +99,7 @@ class XLSProcessor(object):
             'STRAIGHT PARTY': 'Straight Party'
             }
         self.candidate_map = {'Write-In': 'Write-ins', 'Write-in': 'Write-ins'}
-        self.valid_offices = frozenset(['Ballots Cast', 'Straight Party', 'President', 'U.S. Senate', 'U.S. House', 'Governor', 'Lieutenant Governor', 'Attorney General', 'State Treasurer', 'Commissioner of Agriculture and Industries', 'State Senate', 'State House', 'Secretary of State', 'State Auditor'])
+        self.valid_offices = frozenset(['Registered Voters', 'Ballots Cast', 'Straight Party', 'President', 'U.S. Senate', 'U.S. House', 'Governor', 'Lieutenant Governor', 'Attorney General', 'State Treasurer', 'Commissioner of Agriculture and Industries', 'State Senate', 'State House', 'Secretary of State', 'State Auditor'])
 
 
     def process_election_directory(self):
