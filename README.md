@@ -1,4 +1,6 @@
-# openelections-data-al [![Build Status](https://github.com/openelections/openelections-data-al/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-al/actions)
+[![Build Status](https://github.com/openelections/openelections-data-al/actions/workflows/data_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-al/actions)
+[![Build Status](https://github.com/openelections/openelections-data-al/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-al/actions)
+# openelections-data-al
 Pre-processed results for Alabama elections
 
 ### Getting Started
