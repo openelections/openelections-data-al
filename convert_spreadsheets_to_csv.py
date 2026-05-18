@@ -373,7 +373,7 @@ class XLSProcessor(object):
 
             if recognizedOffice:
                 office = self.office_map[office]
-        except:
+        except Exception:
             print(f"Couldn't split contest '{contest}'")
 
         return (office, district)
