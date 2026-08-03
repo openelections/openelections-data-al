@@ -1,0 +1,545 @@
+county,precinct,office,district,party,candidate,votes
+Democratic,0001 ASHVILLE CITY HALL,Governor,,DEM,Unverified Candidate 1,15
+Democratic,0001 ASHVILLE CITY HALL,Governor,,DEM,Unverified Candidate 2,1
+Democratic,0001 ASHVILLE CITY HALL,Governor,,DEM,Unverified Candidate 3,2
+Democratic,0001 ASHVILLE CITY HALL,Governor,,DEM,Unverified Candidate 4,87
+Democratic,0001 ASHVILLE CITY HALL,Governor,,DEM,Unverified Candidate 5,1
+Democratic,0001 ASHVILLE CITY HALL,Governor,,DEM,Unverified Candidate 6,1
+Democratic,0001 ASHVILLE CITY HALL,Lieutenant Governor,,DEM,Unverified Candidate 1,71
+Democratic,0001 ASHVILLE CITY HALL,Lieutenant Governor,,DEM,Unverified Candidate 2,28
+Democratic,0001 ASHVILLE CITY HALL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,60
+Democratic,0001 ASHVILLE CITY HALL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,10
+Democratic,0001 ASHVILLE CITY HALL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 4,30
+Democratic,0001 ASHVILLE CITY HALL,U.S. Senate,,DEM,Unverified Candidate 1,21
+Democratic,0001 ASHVILLE CITY HALL,U.S. Senate,,DEM,Unverified Candidate 2,10
+Democratic,0001 ASHVILLE CITY HALL,U.S. Senate,,DEM,Unverified Candidate 3,59
+Democratic,0001 ASHVILLE CITY HALL,U.S. Senate,,DEM,Unverified Candidate 4,11
+Democratic,0002 SHOAL CREEK COMM. CTR.,Governor,,DEM,Unverified Candidate 1,1
+Democratic,0002 SHOAL CREEK COMM. CTR.,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0002 SHOAL CREEK COMM. CTR.,Governor,,DEM,Unverified Candidate 3,1
+Democratic,0002 SHOAL CREEK COMM. CTR.,Governor,,DEM,Unverified Candidate 4,7
+Democratic,0002 SHOAL CREEK COMM. CTR.,Governor,,DEM,Unverified Candidate 5,1
+Democratic,0002 SHOAL CREEK COMM. CTR.,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0002 SHOAL CREEK COMM. CTR.,Lieutenant Governor,,DEM,Unverified Candidate 1,6
+Democratic,0002 SHOAL CREEK COMM. CTR.,Lieutenant Governor,,DEM,Unverified Candidate 2,2
+Democratic,0002 SHOAL CREEK COMM. CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,0
+Democratic,0002 SHOAL CREEK COMM. CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,5
+Democratic,0002 SHOAL CREEK COMM. CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 4,3
+Democratic,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,DEM,Unverified Candidate 1,2
+Democratic,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,DEM,Unverified Candidate 2,3
+Democratic,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,DEM,Unverified Candidate 3,2
+Democratic,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,DEM,Unverified Candidate 4,1
+Democratic,0003 ODENVILLE CIVIC CTR.,Governor,,DEM,Unverified Candidate 1,18
+Democratic,0003 ODENVILLE CIVIC CTR.,Governor,,DEM,Unverified Candidate 2,3
+Democratic,0003 ODENVILLE CIVIC CTR.,Governor,,DEM,Unverified Candidate 3,11
+Democratic,0003 ODENVILLE CIVIC CTR.,Governor,,DEM,Unverified Candidate 4,90
+Democratic,0003 ODENVILLE CIVIC CTR.,Governor,,DEM,Unverified Candidate 5,5
+Democratic,0003 ODENVILLE CIVIC CTR.,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0003 ODENVILLE CIVIC CTR.,Lieutenant Governor,,DEM,Unverified Candidate 1,52
+Democratic,0003 ODENVILLE CIVIC CTR.,Lieutenant Governor,,DEM,Unverified Candidate 2,63
+Democratic,0003 ODENVILLE CIVIC CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,51
+Democratic,0003 ODENVILLE CIVIC CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,24
+Democratic,0003 ODENVILLE CIVIC CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 4,40
+Democratic,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,DEM,Unverified Candidate 1,45
+Democratic,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,DEM,Unverified Candidate 2,21
+Democratic,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,DEM,Unverified Candidate 3,29
+Democratic,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,DEM,Unverified Candidate 4,21
+Democratic,0004 SPRINGVILLE 1ST UNITED,Governor,,DEM,Unverified Candidate 1,17
+Democratic,0004 SPRINGVILLE 1ST UNITED,Governor,,DEM,Unverified Candidate 2,4
+Democratic,0004 SPRINGVILLE 1ST UNITED,Governor,,DEM,Unverified Candidate 3,12
+Democratic,0004 SPRINGVILLE 1ST UNITED,Governor,,DEM,Unverified Candidate 4,205
+Democratic,0004 SPRINGVILLE 1ST UNITED,Governor,,DEM,Unverified Candidate 5,12
+Democratic,0004 SPRINGVILLE 1ST UNITED,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0004 SPRINGVILLE 1ST UNITED,Lieutenant Governor,,DEM,Unverified Candidate 1,125
+Democratic,0004 SPRINGVILLE 1ST UNITED,Lieutenant Governor,,DEM,Unverified Candidate 2,117
+Democratic,0004 SPRINGVILLE 1ST UNITED,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,117
+Democratic,0004 SPRINGVILLE 1ST UNITED,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,44
+Democratic,0004 SPRINGVILLE 1ST UNITED,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 4,77
+Democratic,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,DEM,Unverified Candidate 1,74
+Democratic,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,DEM,Unverified Candidate 2,36
+Democratic,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,DEM,Unverified Candidate 3,77
+Democratic,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,DEM,Unverified Candidate 4,53
+Democratic,0005 FRIENDSHIP BAPTIST CH,Governor,,DEM,Unverified Candidate 1,5
+Democratic,0005 FRIENDSHIP BAPTIST CH,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0005 FRIENDSHIP BAPTIST CH,Governor,,DEM,Unverified Candidate 3,1
+Democratic,0005 FRIENDSHIP BAPTIST CH,Governor,,DEM,Unverified Candidate 4,29
+Democratic,0005 FRIENDSHIP BAPTIST CH,Governor,,DEM,Unverified Candidate 5,4
+Democratic,0005 FRIENDSHIP BAPTIST CH,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0005 FRIENDSHIP BAPTIST CH,Lieutenant Governor,,DEM,Unverified Candidate 1,18
+Democratic,0005 FRIENDSHIP BAPTIST CH,Lieutenant Governor,,DEM,Unverified Candidate 2,19
+Democratic,0005 FRIENDSHIP BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,9
+Democratic,0005 FRIENDSHIP BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,6
+Democratic,0005 FRIENDSHIP BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 4,22
+Democratic,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 1,9
+Democratic,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 2,4
+Democratic,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 3,11
+Democratic,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 4,12
+Democratic,0006 STEELE COMM. CTR.,Governor,,DEM,Unverified Candidate 1,0
+Democratic,0006 STEELE COMM. CTR.,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0006 STEELE COMM. CTR.,Governor,,DEM,Unverified Candidate 3,0
+Democratic,0006 STEELE COMM. CTR.,Governor,,DEM,Unverified Candidate 4,6
+Democratic,0006 STEELE COMM. CTR.,Governor,,DEM,Unverified Candidate 5,1
+Democratic,0006 STEELE COMM. CTR.,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0006 STEELE COMM. CTR.,Lieutenant Governor,,DEM,Unverified Candidate 1,5
+Democratic,0006 STEELE COMM. CTR.,Lieutenant Governor,,DEM,Unverified Candidate 2,1
+Democratic,0006 STEELE COMM. CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,1
+Democratic,0006 STEELE COMM. CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,0
+Democratic,0006 STEELE COMM. CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 4,5
+Democratic,0006 STEELE COMM. CTR.,U.S. Senate,,DEM,Unverified Candidate 1,0
+Democratic,0006 STEELE COMM. CTR.,U.S. Senate,,DEM,Unverified Candidate 2,6
+Democratic,0006 STEELE COMM. CTR.,U.S. Senate,,DEM,Unverified Candidate 3,0
+Democratic,0006 STEELE COMM. CTR.,U.S. Senate,,DEM,Unverified Candidate 4,0
+Democratic,0007 BRANCHVILLE CUMBERLAND,Governor,,DEM,Unverified Candidate 1,16
+Democratic,0007 BRANCHVILLE CUMBERLAND,Governor,,DEM,Unverified Candidate 2,1
+Democratic,0007 BRANCHVILLE CUMBERLAND,Governor,,DEM,Unverified Candidate 3,8
+Democratic,0007 BRANCHVILLE CUMBERLAND,Governor,,DEM,Unverified Candidate 4,97
+Democratic,0007 BRANCHVILLE CUMBERLAND,Governor,,DEM,Unverified Candidate 5,5
+Democratic,0007 BRANCHVILLE CUMBERLAND,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0007 BRANCHVILLE CUMBERLAND,Lieutenant Governor,,DEM,Unverified Candidate 1,51
+Democratic,0007 BRANCHVILLE CUMBERLAND,Lieutenant Governor,,DEM,Unverified Candidate 2,63
+Democratic,0007 BRANCHVILLE CUMBERLAND,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,40
+Democratic,0007 BRANCHVILLE CUMBERLAND,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,25
+Democratic,0007 BRANCHVILLE CUMBERLAND,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 4,46
+Democratic,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,DEM,Unverified Candidate 1,46
+Democratic,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,DEM,Unverified Candidate 2,13
+Democratic,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,DEM,Unverified Candidate 3,25
+Democratic,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,DEM,Unverified Candidate 4,30
+Democratic,0008 ARGO CITY HALL,Governor,,DEM,Unverified Candidate 1,28
+Democratic,0008 ARGO CITY HALL,Governor,,DEM,Unverified Candidate 2,2
+Democratic,0008 ARGO CITY HALL,Governor,,DEM,Unverified Candidate 3,11
+Democratic,0008 ARGO CITY HALL,Governor,,DEM,Unverified Candidate 4,312
+Democratic,0008 ARGO CITY HALL,Governor,,DEM,Unverified Candidate 5,7
+Democratic,0008 ARGO CITY HALL,Governor,,DEM,Unverified Candidate 6,1
+Democratic,0008 ARGO CITY HALL,Lieutenant Governor,,DEM,Unverified Candidate 1,157
+Democratic,0008 ARGO CITY HALL,Lieutenant Governor,,DEM,Unverified Candidate 2,183
+Democratic,0008 ARGO CITY HALL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,151
+Democratic,0008 ARGO CITY HALL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,59
+Democratic,0008 ARGO CITY HALL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,137
+Democratic,0008 ARGO CITY HALL,U.S. Senate,,DEM,Unverified Candidate 1,151
+Democratic,0008 ARGO CITY HALL,U.S. Senate,,DEM,Unverified Candidate 2,29
+Democratic,0008 ARGO CITY HALL,U.S. Senate,,DEM,Unverified Candidate 3,116
+Democratic,0008 ARGO CITY HALL,U.S. Senate,,DEM,Unverified Candidate 4,55
+Democratic,0009 RAGLAND TOWN HALL,Governor,,DEM,Unverified Candidate 1,13
+Democratic,0009 RAGLAND TOWN HALL,Governor,,DEM,Unverified Candidate 2,10
+Democratic,0009 RAGLAND TOWN HALL,Governor,,DEM,Unverified Candidate 3,6
+Democratic,0009 RAGLAND TOWN HALL,Governor,,DEM,Unverified Candidate 4,54
+Democratic,0009 RAGLAND TOWN HALL,Governor,,DEM,Unverified Candidate 5,2
+Democratic,0009 RAGLAND TOWN HALL,Governor,,DEM,Unverified Candidate 6,2
+Democratic,0009 RAGLAND TOWN HALL,Lieutenant Governor,,DEM,Unverified Candidate 1,37
+Democratic,0009 RAGLAND TOWN HALL,Lieutenant Governor,,DEM,Unverified Candidate 2,45
+Democratic,0009 RAGLAND TOWN HALL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,44
+Democratic,0009 RAGLAND TOWN HALL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,12
+Democratic,0009 RAGLAND TOWN HALL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,26
+Democratic,0009 RAGLAND TOWN HALL,U.S. Senate,,DEM,Unverified Candidate 1,35
+Democratic,0009 RAGLAND TOWN HALL,U.S. Senate,,DEM,Unverified Candidate 2,9
+Democratic,0009 RAGLAND TOWN HALL,U.S. Senate,,DEM,Unverified Candidate 3,22
+Democratic,0009 RAGLAND TOWN HALL,U.S. Senate,,DEM,Unverified Candidate 4,16
+Democratic,0010 WATTSVILLE VFD,Governor,,DEM,Unverified Candidate 1,4
+Democratic,0010 WATTSVILLE VFD,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0010 WATTSVILLE VFD,Governor,,DEM,Unverified Candidate 3,3
+Democratic,0010 WATTSVILLE VFD,Governor,,DEM,Unverified Candidate 4,16
+Democratic,0010 WATTSVILLE VFD,Governor,,DEM,Unverified Candidate 5,0
+Democratic,0010 WATTSVILLE VFD,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0010 WATTSVILLE VFD,Lieutenant Governor,,DEM,Unverified Candidate 1,14
+Democratic,0010 WATTSVILLE VFD,Lieutenant Governor,,DEM,Unverified Candidate 2,8
+Democratic,0010 WATTSVILLE VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,8
+Democratic,0010 WATTSVILLE VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,9
+Democratic,0010 WATTSVILLE VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,5
+Democratic,0010 WATTSVILLE VFD,U.S. Senate,,DEM,Unverified Candidate 1,10
+Democratic,0010 WATTSVILLE VFD,U.S. Senate,,DEM,Unverified Candidate 2,1
+Democratic,0010 WATTSVILLE VFD,U.S. Senate,,DEM,Unverified Candidate 3,6
+Democratic,0010 WATTSVILLE VFD,U.S. Senate,,DEM,Unverified Candidate 4,6
+Democratic,0011 POPLAR SPRGS CH,Governor,,DEM,Unverified Candidate 1,1
+Democratic,0011 POPLAR SPRGS CH,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0011 POPLAR SPRGS CH,Governor,,DEM,Unverified Candidate 3,0
+Democratic,0011 POPLAR SPRGS CH,Governor,,DEM,Unverified Candidate 4,18
+Democratic,0011 POPLAR SPRGS CH,Governor,,DEM,Unverified Candidate 5,0
+Democratic,0011 POPLAR SPRGS CH,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0011 POPLAR SPRGS CH,Lieutenant Governor,,DEM,Unverified Candidate 1,8
+Democratic,0011 POPLAR SPRGS CH,Lieutenant Governor,,DEM,Unverified Candidate 2,10
+Democratic,0011 POPLAR SPRGS CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,6
+Democratic,0011 POPLAR SPRGS CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,4
+Democratic,0011 POPLAR SPRGS CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,9
+Democratic,0011 POPLAR SPRGS CH,U.S. Senate,,DEM,Unverified Candidate 1,9
+Democratic,0011 POPLAR SPRGS CH,U.S. Senate,,DEM,Unverified Candidate 2,4
+Democratic,0011 POPLAR SPRGS CH,U.S. Senate,,DEM,Unverified Candidate 3,4
+Democratic,0011 POPLAR SPRGS CH,U.S. Senate,,DEM,Unverified Candidate 4,1
+Democratic,0012 CELEBRATIONS,Governor,,DEM,Unverified Candidate 1,6
+Democratic,0012 CELEBRATIONS,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0012 CELEBRATIONS,Governor,,DEM,Unverified Candidate 3,4
+Democratic,0012 CELEBRATIONS,Governor,,DEM,Unverified Candidate 4,59
+Democratic,0012 CELEBRATIONS,Governor,,DEM,Unverified Candidate 5,1
+Democratic,0012 CELEBRATIONS,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0012 CELEBRATIONS,Lieutenant Governor,,DEM,Unverified Candidate 1,41
+Democratic,0012 CELEBRATIONS,Lieutenant Governor,,DEM,Unverified Candidate 2,24
+Democratic,0012 CELEBRATIONS,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,27
+Democratic,0012 CELEBRATIONS,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,11
+Democratic,0012 CELEBRATIONS,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,24
+Democratic,0012 CELEBRATIONS,State Democratic Executive Committee,,DEM,Unverified Candidate 1,4
+Democratic,0012 CELEBRATIONS,State Democratic Executive Committee,,DEM,Unverified Candidate 1,37
+Democratic,0012 CELEBRATIONS,State Democratic Executive Committee,,DEM,Unverified Candidate 2,40
+Democratic,0012 CELEBRATIONS,State Democratic Executive Committee,,DEM,Unverified Candidate 2,18
+Democratic,0012 CELEBRATIONS,State Democratic Executive Committee,,DEM,Unverified Candidate 3,13
+Democratic,0012 CELEBRATIONS,U.S. Senate,,DEM,Unverified Candidate 1,18
+Democratic,0012 CELEBRATIONS,U.S. Senate,,DEM,Unverified Candidate 2,10
+Democratic,0012 CELEBRATIONS,U.S. Senate,,DEM,Unverified Candidate 3,27
+Democratic,0012 CELEBRATIONS,U.S. Senate,,DEM,Unverified Candidate 4,11
+Democratic,0013 NEW LONDON VFD,Governor,,DEM,Unverified Candidate 1,11
+Democratic,0013 NEW LONDON VFD,Governor,,DEM,Unverified Candidate 2,1
+Democratic,0013 NEW LONDON VFD,Governor,,DEM,Unverified Candidate 3,2
+Democratic,0013 NEW LONDON VFD,Governor,,DEM,Unverified Candidate 4,50
+Democratic,0013 NEW LONDON VFD,Governor,,DEM,Unverified Candidate 5,0
+Democratic,0013 NEW LONDON VFD,Governor,,DEM,Unverified Candidate 6,1
+Democratic,0013 NEW LONDON VFD,Lieutenant Governor,,DEM,Unverified Candidate 1,44
+Democratic,0013 NEW LONDON VFD,Lieutenant Governor,,DEM,Unverified Candidate 2,19
+Democratic,0013 NEW LONDON VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,37
+Democratic,0013 NEW LONDON VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,8
+Democratic,0013 NEW LONDON VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,19
+Democratic,0013 NEW LONDON VFD,U.S. Senate,,DEM,Unverified Candidate 1,21
+Democratic,0013 NEW LONDON VFD,U.S. Senate,,DEM,Unverified Candidate 2,8
+Democratic,0013 NEW LONDON VFD,U.S. Senate,,DEM,Unverified Candidate 3,27
+Democratic,0013 NEW LONDON VFD,U.S. Senate,,DEM,Unverified Candidate 4,9
+Democratic,0014 WOLF CREEK VFD,Governor,,DEM,Unverified Candidate 1,4
+Democratic,0014 WOLF CREEK VFD,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0014 WOLF CREEK VFD,Governor,,DEM,Unverified Candidate 3,0
+Democratic,0014 WOLF CREEK VFD,Governor,,DEM,Unverified Candidate 4,5
+Democratic,0014 WOLF CREEK VFD,Governor,,DEM,Unverified Candidate 5,0
+Democratic,0014 WOLF CREEK VFD,Governor,,DEM,Unverified Candidate 6,1
+Democratic,0014 WOLF CREEK VFD,Lieutenant Governor,,DEM,Unverified Candidate 1,6
+Democratic,0014 WOLF CREEK VFD,Lieutenant Governor,,DEM,Unverified Candidate 2,3
+Democratic,0014 WOLF CREEK VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,2
+Democratic,0014 WOLF CREEK VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,0
+Democratic,0014 WOLF CREEK VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,5
+Democratic,0014 WOLF CREEK VFD,U.S. Senate,,DEM,Unverified Candidate 1,2
+Democratic,0014 WOLF CREEK VFD,U.S. Senate,,DEM,Unverified Candidate 2,0
+Democratic,0014 WOLF CREEK VFD,U.S. Senate,,DEM,Unverified Candidate 3,2
+Democratic,0014 WOLF CREEK VFD,U.S. Senate,,DEM,Unverified Candidate 4,5
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,Governor,,DEM,Unverified Candidate 1,30
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,Governor,,DEM,Unverified Candidate 2,11
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,Governor,,DEM,Unverified Candidate 3,12
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,Governor,,DEM,Unverified Candidate 4,249
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,Governor,,DEM,Unverified Candidate 5,8
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,Governor,,DEM,Unverified Candidate 6,1
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,Lieutenant Governor,,DEM,Unverified Candidate 1,154
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,Lieutenant Governor,,DEM,Unverified Candidate 2,149
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,161
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,60
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,76
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,State Democratic Executive Committee,,DEM,Unverified Candidate 1,63
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,State Democratic Executive Committee,,DEM,Unverified Candidate 1,232
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,State Democratic Executive Committee,,DEM,Unverified Candidate 2,192
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,State Democratic Executive Committee,,DEM,Unverified Candidate 2,66
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,State Democratic Executive Committee,,DEM,Unverified Candidate 3,44
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,DEM,Unverified Candidate 1,85
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,DEM,Unverified Candidate 2,46
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,DEM,Unverified Candidate 3,129
+Democratic,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,DEM,Unverified Candidate 4,41
+Democratic,0016 COOK SPRGS BAPT CH,Governor,,DEM,Unverified Candidate 1,3
+Democratic,0016 COOK SPRGS BAPT CH,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0016 COOK SPRGS BAPT CH,Governor,,DEM,Unverified Candidate 3,1
+Democratic,0016 COOK SPRGS BAPT CH,Governor,,DEM,Unverified Candidate 4,23
+Democratic,0016 COOK SPRGS BAPT CH,Governor,,DEM,Unverified Candidate 5,0
+Democratic,0016 COOK SPRGS BAPT CH,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0016 COOK SPRGS BAPT CH,Lieutenant Governor,,DEM,Unverified Candidate 1,17
+Democratic,0016 COOK SPRGS BAPT CH,Lieutenant Governor,,DEM,Unverified Candidate 2,8
+Democratic,0016 COOK SPRGS BAPT CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,7
+Democratic,0016 COOK SPRGS BAPT CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,7
+Democratic,0016 COOK SPRGS BAPT CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,10
+Democratic,0016 COOK SPRGS BAPT CH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,4
+Democratic,0016 COOK SPRGS BAPT CH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,4
+Democratic,0016 COOK SPRGS BAPT CH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,0
+Democratic,0016 COOK SPRGS BAPT CH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,3
+Democratic,0016 COOK SPRGS BAPT CH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,8
+Democratic,0016 COOK SPRGS BAPT CH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,0
+Democratic,0016 COOK SPRGS BAPT CH,State Democratic Executive Committee,,DEM,Unverified Candidate 3,5
+Democratic,0016 COOK SPRGS BAPT CH,U.S. Senate,,DEM,Unverified Candidate 1,3
+Democratic,0016 COOK SPRGS BAPT CH,U.S. Senate,,DEM,Unverified Candidate 2,12
+Democratic,0016 COOK SPRGS BAPT CH,U.S. Senate,,DEM,Unverified Candidate 3,4
+Democratic,0016 COOK SPRGS BAPT CH,U.S. Senate,,DEM,Unverified Candidate 4,6
+Democratic,0017 MOODY CIVIC CTR.,Governor,,DEM,Unverified Candidate 1,38
+Democratic,0017 MOODY CIVIC CTR.,Governor,,DEM,Unverified Candidate 2,7
+Democratic,0017 MOODY CIVIC CTR.,Governor,,DEM,Unverified Candidate 3,22
+Democratic,0017 MOODY CIVIC CTR.,Governor,,DEM,Unverified Candidate 4,461
+Democratic,0017 MOODY CIVIC CTR.,Governor,,DEM,Unverified Candidate 5,8
+Democratic,0017 MOODY CIVIC CTR.,Governor,,DEM,Unverified Candidate 6,2
+Democratic,0017 MOODY CIVIC CTR.,Lieutenant Governor,,DEM,Unverified Candidate 1,274
+Democratic,0017 MOODY CIVIC CTR.,Lieutenant Governor,,DEM,Unverified Candidate 2,232
+Democratic,0017 MOODY CIVIC CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,220
+Democratic,0017 MOODY CIVIC CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,96
+Democratic,0017 MOODY CIVIC CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,194
+Democratic,0017 MOODY CIVIC CTR.,U.S. Senate,,DEM,Unverified Candidate 1,179
+Democratic,0017 MOODY CIVIC CTR.,U.S. Senate,,DEM,Unverified Candidate 2,81
+Democratic,0017 MOODY CIVIC CTR.,U.S. Senate,,DEM,Unverified Candidate 3,144
+Democratic,0017 MOODY CIVIC CTR.,U.S. Senate,,DEM,Unverified Candidate 4,111
+Democratic,0018 PINEDALE VFD,Governor,,DEM,Unverified Candidate 1,0
+Democratic,0018 PINEDALE VFD,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0018 PINEDALE VFD,Governor,,DEM,Unverified Candidate 3,1
+Democratic,0018 PINEDALE VFD,Governor,,DEM,Unverified Candidate 4,11
+Democratic,0018 PINEDALE VFD,Governor,,DEM,Unverified Candidate 5,1
+Democratic,0018 PINEDALE VFD,Governor,,DEM,Unverified Candidate 6,1
+Democratic,0018 PINEDALE VFD,Lieutenant Governor,,DEM,Unverified Candidate 1,10
+Democratic,0018 PINEDALE VFD,Lieutenant Governor,,DEM,Unverified Candidate 2,4
+Democratic,0018 PINEDALE VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,2
+Democratic,0018 PINEDALE VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,5
+Democratic,0018 PINEDALE VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,7
+Democratic,0018 PINEDALE VFD,U.S. Senate,,DEM,Unverified Candidate 1,4
+Democratic,0018 PINEDALE VFD,U.S. Senate,,DEM,Unverified Candidate 2,1
+Democratic,0018 PINEDALE VFD,U.S. Senate,,DEM,Unverified Candidate 3,5
+Democratic,0018 PINEDALE VFD,U.S. Senate,,DEM,Unverified Candidate 4,4
+Democratic,0019 CROPWELL BAPTIST CH,Governor,,DEM,Unverified Candidate 1,28
+Democratic,0019 CROPWELL BAPTIST CH,Governor,,DEM,Unverified Candidate 2,4
+Democratic,0019 CROPWELL BAPTIST CH,Governor,,DEM,Unverified Candidate 3,6
+Democratic,0019 CROPWELL BAPTIST CH,Governor,,DEM,Unverified Candidate 4,174
+Democratic,0019 CROPWELL BAPTIST CH,Governor,,DEM,Unverified Candidate 5,9
+Democratic,0019 CROPWELL BAPTIST CH,Governor,,DEM,Unverified Candidate 6,2
+Democratic,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,DEM,Unverified Candidate 1,117
+Democratic,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,DEM,Unverified Candidate 2,93
+Democratic,0019 CROPWELL BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,121
+Democratic,0019 CROPWELL BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,37
+Democratic,0019 CROPWELL BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,50
+Democratic,0019 CROPWELL BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,48
+Democratic,0019 CROPWELL BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,162
+Democratic,0019 CROPWELL BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,120
+Democratic,0019 CROPWELL BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,44
+Democratic,0019 CROPWELL BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 3,41
+Democratic,0019 CROPWELL BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 1,80
+Democratic,0019 CROPWELL BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 2,20
+Democratic,0019 CROPWELL BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 3,72
+Democratic,0019 CROPWELL BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 4,40
+Democratic,0020 RIVERSIDE COMM. CTR,Governor,,DEM,Unverified Candidate 1,7
+Democratic,0020 RIVERSIDE COMM. CTR,Governor,,DEM,Unverified Candidate 2,2
+Democratic,0020 RIVERSIDE COMM. CTR,Governor,,DEM,Unverified Candidate 3,3
+Democratic,0020 RIVERSIDE COMM. CTR,Governor,,DEM,Unverified Candidate 4,54
+Democratic,0020 RIVERSIDE COMM. CTR,Governor,,DEM,Unverified Candidate 5,0
+Democratic,0020 RIVERSIDE COMM. CTR,Governor,,DEM,Unverified Candidate 6,1
+Democratic,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,DEM,Unverified Candidate 1,29
+Democratic,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,DEM,Unverified Candidate 2,32
+Democratic,0020 RIVERSIDE COMM. CTR,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,34
+Democratic,0020 RIVERSIDE COMM. CTR,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,7
+Democratic,0020 RIVERSIDE COMM. CTR,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,21
+Democratic,0020 RIVERSIDE COMM. CTR,State Democratic Executive Committee,,DEM,Unverified Candidate 1,18
+Democratic,0020 RIVERSIDE COMM. CTR,State Democratic Executive Committee,,DEM,Unverified Candidate 1,47
+Democratic,0020 RIVERSIDE COMM. CTR,State Democratic Executive Committee,,DEM,Unverified Candidate 2,33
+Democratic,0020 RIVERSIDE COMM. CTR,State Democratic Executive Committee,,DEM,Unverified Candidate 2,15
+Democratic,0020 RIVERSIDE COMM. CTR,State Democratic Executive Committee,,DEM,Unverified Candidate 3,13
+Democratic,0020 RIVERSIDE COMM. CTR,U.S. Senate,,DEM,Unverified Candidate 1,16
+Democratic,0020 RIVERSIDE COMM. CTR,U.S. Senate,,DEM,Unverified Candidate 2,7
+Democratic,0020 RIVERSIDE COMM. CTR,U.S. Senate,,DEM,Unverified Candidate 3,21
+Democratic,0020 RIVERSIDE COMM. CTR,U.S. Senate,,DEM,Unverified Candidate 4,17
+Democratic,0021 FAIRVIEW CH,Governor,,DEM,Unverified Candidate 1,0
+Democratic,0021 FAIRVIEW CH,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0021 FAIRVIEW CH,Governor,,DEM,Unverified Candidate 3,0
+Democratic,0021 FAIRVIEW CH,Governor,,DEM,Unverified Candidate 4,5
+Democratic,0021 FAIRVIEW CH,Governor,,DEM,Unverified Candidate 5,0
+Democratic,0021 FAIRVIEW CH,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0021 FAIRVIEW CH,Lieutenant Governor,,DEM,Unverified Candidate 1,1
+Democratic,0021 FAIRVIEW CH,Lieutenant Governor,,DEM,Unverified Candidate 2,4
+Democratic,0021 FAIRVIEW CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,0
+Democratic,0021 FAIRVIEW CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,2
+Democratic,0021 FAIRVIEW CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,3
+Democratic,0021 FAIRVIEW CH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,1
+Democratic,0021 FAIRVIEW CH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,3
+Democratic,0021 FAIRVIEW CH,U.S. Senate,,DEM,Unverified Candidate 1,0
+Democratic,0021 FAIRVIEW CH,U.S. Senate,,DEM,Unverified Candidate 2,0
+Democratic,0021 FAIRVIEW CH,U.S. Senate,,DEM,Unverified Candidate 3,1
+Democratic,0021 FAIRVIEW CH,U.S. Senate,,DEM,Unverified Candidate 4,4
+Democratic,0022 GUM SPRGS CH,Governor,,DEM,Unverified Candidate 1,3
+Democratic,0022 GUM SPRGS CH,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0022 GUM SPRGS CH,Governor,,DEM,Unverified Candidate 3,0
+Democratic,0022 GUM SPRGS CH,Governor,,DEM,Unverified Candidate 4,5
+Democratic,0022 GUM SPRGS CH,Governor,,DEM,Unverified Candidate 5,0
+Democratic,0022 GUM SPRGS CH,Governor,,DEM,Unverified Candidate 6,1
+Democratic,0022 GUM SPRGS CH,Lieutenant Governor,,DEM,Unverified Candidate 1,7
+Democratic,0022 GUM SPRGS CH,Lieutenant Governor,,DEM,Unverified Candidate 2,2
+Democratic,0022 GUM SPRGS CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,2
+Democratic,0022 GUM SPRGS CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,1
+Democratic,0022 GUM SPRGS CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,6
+Democratic,0022 GUM SPRGS CH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,3
+Democratic,0022 GUM SPRGS CH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,3
+Democratic,0022 GUM SPRGS CH,U.S. Senate,,DEM,Unverified Candidate 1,3
+Democratic,0022 GUM SPRGS CH,U.S. Senate,,DEM,Unverified Candidate 2,3
+Democratic,0022 GUM SPRGS CH,U.S. Senate,,DEM,Unverified Candidate 3,1
+Democratic,0022 GUM SPRGS CH,U.S. Senate,,DEM,Unverified Candidate 4,2
+Democratic,0023 PRESCOTT BAPTIST CH,Governor,,DEM,Unverified Candidate 1,4
+Democratic,0023 PRESCOTT BAPTIST CH,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0023 PRESCOTT BAPTIST CH,Governor,,DEM,Unverified Candidate 3,1
+Democratic,0023 PRESCOTT BAPTIST CH,Governor,,DEM,Unverified Candidate 4,7
+Democratic,0023 PRESCOTT BAPTIST CH,Governor,,DEM,Unverified Candidate 5,1
+Democratic,0023 PRESCOTT BAPTIST CH,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,DEM,Unverified Candidate 1,7
+Democratic,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,DEM,Unverified Candidate 2,4
+Democratic,0023 PRESCOTT BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,4
+Democratic,0023 PRESCOTT BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,2
+Democratic,0023 PRESCOTT BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,6
+Democratic,0023 PRESCOTT BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,7
+Democratic,0023 PRESCOTT BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,5
+Democratic,0023 PRESCOTT BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 1,4
+Democratic,0023 PRESCOTT BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 2,2
+Democratic,0023 PRESCOTT BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 3,3
+Democratic,0023 PRESCOTT BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 4,3
+Democratic,0024 NEW HOPE BAPTIST CH,Governor,,DEM,Unverified Candidate 1,7
+Democratic,0024 NEW HOPE BAPTIST CH,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0024 NEW HOPE BAPTIST CH,Governor,,DEM,Unverified Candidate 3,2
+Democratic,0024 NEW HOPE BAPTIST CH,Governor,,DEM,Unverified Candidate 4,18
+Democratic,0024 NEW HOPE BAPTIST CH,Governor,,DEM,Unverified Candidate 5,4
+Democratic,0024 NEW HOPE BAPTIST CH,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,DEM,Unverified Candidate 1,15
+Democratic,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,DEM,Unverified Candidate 2,14
+Democratic,0024 NEW HOPE BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,4
+Democratic,0024 NEW HOPE BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,13
+Democratic,0024 NEW HOPE BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,13
+Democratic,0024 NEW HOPE BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,9
+Democratic,0024 NEW HOPE BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,15
+Democratic,0024 NEW HOPE BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,7
+Democratic,0024 NEW HOPE BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,14
+Democratic,0024 NEW HOPE BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 3,14
+Democratic,0024 NEW HOPE BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 1,7
+Democratic,0024 NEW HOPE BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 2,14
+Democratic,0024 NEW HOPE BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 3,4
+Democratic,0024 NEW HOPE BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 4,5
+Democratic,0025 NORTH VALLEY CH,Governor,,DEM,Unverified Candidate 1,45
+Democratic,0025 NORTH VALLEY CH,Governor,,DEM,Unverified Candidate 2,10
+Democratic,0025 NORTH VALLEY CH,Governor,,DEM,Unverified Candidate 3,28
+Democratic,0025 NORTH VALLEY CH,Governor,,DEM,Unverified Candidate 4,413
+Democratic,0025 NORTH VALLEY CH,Governor,,DEM,Unverified Candidate 5,4
+Democratic,0025 NORTH VALLEY CH,Governor,,DEM,Unverified Candidate 6,2
+Democratic,0025 NORTH VALLEY CH,Lieutenant Governor,,DEM,Unverified Candidate 1,151
+Democratic,0025 NORTH VALLEY CH,Lieutenant Governor,,DEM,Unverified Candidate 2,312
+Democratic,0025 NORTH VALLEY CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,185
+Democratic,0025 NORTH VALLEY CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,89
+Democratic,0025 NORTH VALLEY CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,188
+Democratic,0025 NORTH VALLEY CH,U.S. Senate,,DEM,Unverified Candidate 1,204
+Democratic,0025 NORTH VALLEY CH,U.S. Senate,,DEM,Unverified Candidate 2,50
+Democratic,0025 NORTH VALLEY CH,U.S. Senate,,DEM,Unverified Candidate 3,129
+Democratic,0025 NORTH VALLEY CH,U.S. Senate,,DEM,Unverified Candidate 4,85
+Democratic,0026 WHITES CHAPEL TOWN HALL,Governor,,DEM,Unverified Candidate 1,7
+Democratic,0026 WHITES CHAPEL TOWN HALL,Governor,,DEM,Unverified Candidate 2,1
+Democratic,0026 WHITES CHAPEL TOWN HALL,Governor,,DEM,Unverified Candidate 3,6
+Democratic,0026 WHITES CHAPEL TOWN HALL,Governor,,DEM,Unverified Candidate 4,41
+Democratic,0026 WHITES CHAPEL TOWN HALL,Governor,,DEM,Unverified Candidate 5,0
+Democratic,0026 WHITES CHAPEL TOWN HALL,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,DEM,Unverified Candidate 1,36
+Democratic,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,DEM,Unverified Candidate 2,19
+Democratic,0026 WHITES CHAPEL TOWN HALL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,24
+Democratic,0026 WHITES CHAPEL TOWN HALL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,8
+Democratic,0026 WHITES CHAPEL TOWN HALL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,18
+Democratic,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,DEM,Unverified Candidate 1,20
+Democratic,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,DEM,Unverified Candidate 2,7
+Democratic,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,DEM,Unverified Candidate 3,21
+Democratic,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,DEM,Unverified Candidate 4,7
+Democratic,0027 CHANDLER MT. COMM. CTR.,Governor,,DEM,Unverified Candidate 1,0
+Democratic,0027 CHANDLER MT. COMM. CTR.,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0027 CHANDLER MT. COMM. CTR.,Governor,,DEM,Unverified Candidate 3,0
+Democratic,0027 CHANDLER MT. COMM. CTR.,Governor,,DEM,Unverified Candidate 4,3
+Democratic,0027 CHANDLER MT. COMM. CTR.,Governor,,DEM,Unverified Candidate 5,1
+Democratic,0027 CHANDLER MT. COMM. CTR.,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,DEM,Unverified Candidate 1,2
+Democratic,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,DEM,Unverified Candidate 2,1
+Democratic,0027 CHANDLER MT. COMM. CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,0
+Democratic,0027 CHANDLER MT. COMM. CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,3
+Democratic,0027 CHANDLER MT. COMM. CTR.,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,1
+Democratic,0027 CHANDLER MT. COMM. CTR.,State Democratic Executive Committee,,DEM,Unverified Candidate 1,3
+Democratic,0027 CHANDLER MT. COMM. CTR.,State Democratic Executive Committee,,DEM,Unverified Candidate 2,1
+Democratic,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,DEM,Unverified Candidate 1,1
+Democratic,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,DEM,Unverified Candidate 2,2
+Democratic,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,DEM,Unverified Candidate 3,1
+Democratic,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,DEM,Unverified Candidate 4,0
+Democratic,0028 GALLANT VFD,Governor,,DEM,Unverified Candidate 1,0
+Democratic,0028 GALLANT VFD,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0028 GALLANT VFD,Governor,,DEM,Unverified Candidate 3,0
+Democratic,0028 GALLANT VFD,Governor,,DEM,Unverified Candidate 4,4
+Democratic,0028 GALLANT VFD,Governor,,DEM,Unverified Candidate 5,0
+Democratic,0028 GALLANT VFD,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0028 GALLANT VFD,Lieutenant Governor,,DEM,Unverified Candidate 1,3
+Democratic,0028 GALLANT VFD,Lieutenant Governor,,DEM,Unverified Candidate 2,1
+Democratic,0028 GALLANT VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,2
+Democratic,0028 GALLANT VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,0
+Democratic,0028 GALLANT VFD,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,2
+Democratic,0028 GALLANT VFD,State Democratic Executive Committee,,DEM,Unverified Candidate 1,3
+Democratic,0028 GALLANT VFD,State Democratic Executive Committee,,DEM,Unverified Candidate 2,1
+Democratic,0028 GALLANT VFD,U.S. Senate,,DEM,Unverified Candidate 1,0
+Democratic,0028 GALLANT VFD,U.S. Senate,,DEM,Unverified Candidate 2,1
+Democratic,0028 GALLANT VFD,U.S. Senate,,DEM,Unverified Candidate 3,1
+Democratic,0028 GALLANT VFD,U.S. Senate,,DEM,Unverified Candidate 4,2
+Democratic,0029 SLATE UNION CH,Governor,,DEM,Unverified Candidate 1,1
+Democratic,0029 SLATE UNION CH,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0029 SLATE UNION CH,Governor,,DEM,Unverified Candidate 3,0
+Democratic,0029 SLATE UNION CH,Governor,,DEM,Unverified Candidate 4,6
+Democratic,0029 SLATE UNION CH,Governor,,DEM,Unverified Candidate 5,0
+Democratic,0029 SLATE UNION CH,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0029 SLATE UNION CH,Lieutenant Governor,,DEM,Unverified Candidate 1,3
+Democratic,0029 SLATE UNION CH,Lieutenant Governor,,DEM,Unverified Candidate 2,3
+Democratic,0029 SLATE UNION CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,2
+Democratic,0029 SLATE UNION CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,3
+Democratic,0029 SLATE UNION CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,1
+Democratic,0029 SLATE UNION CH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,4
+Democratic,0029 SLATE UNION CH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,2
+Democratic,0029 SLATE UNION CH,U.S. Senate,,DEM,Unverified Candidate 1,0
+Democratic,0029 SLATE UNION CH,U.S. Senate,,DEM,Unverified Candidate 2,0
+Democratic,0029 SLATE UNION CH,U.S. Senate,,DEM,Unverified Candidate 3,4
+Democratic,0029 SLATE UNION CH,U.S. Senate,,DEM,Unverified Candidate 4,2
+Democratic,0030 CEDAR GROVE BAPTIST CH,Governor,,DEM,Unverified Candidate 1,12
+Democratic,0030 CEDAR GROVE BAPTIST CH,Governor,,DEM,Unverified Candidate 2,1
+Democratic,0030 CEDAR GROVE BAPTIST CH,Governor,,DEM,Unverified Candidate 3,3
+Democratic,0030 CEDAR GROVE BAPTIST CH,Governor,,DEM,Unverified Candidate 4,99
+Democratic,0030 CEDAR GROVE BAPTIST CH,Governor,,DEM,Unverified Candidate 5,2
+Democratic,0030 CEDAR GROVE BAPTIST CH,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,DEM,Unverified Candidate 1,63
+Democratic,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,DEM,Unverified Candidate 2,48
+Democratic,0030 CEDAR GROVE BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,53
+Democratic,0030 CEDAR GROVE BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,11
+Democratic,0030 CEDAR GROVE BAPTIST CH,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,44
+Democratic,0030 CEDAR GROVE BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,58
+Democratic,0030 CEDAR GROVE BAPTIST CH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,49
+Democratic,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 1,41
+Democratic,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 2,11
+Democratic,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 3,35
+Democratic,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,DEM,Unverified Candidate 4,25
+Democratic,0031 ABSENTEE,Governor,,DEM,Unverified Candidate 1,3
+Democratic,0031 ABSENTEE,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0031 ABSENTEE,Governor,,DEM,Unverified Candidate 3,1
+Democratic,0031 ABSENTEE,Governor,,DEM,Unverified Candidate 4,39
+Democratic,0031 ABSENTEE,Governor,,DEM,Unverified Candidate 5,3
+Democratic,0031 ABSENTEE,Governor,,DEM,Unverified Candidate 6,1
+Democratic,0031 ABSENTEE,Lieutenant Governor,,DEM,Unverified Candidate 1,28
+Democratic,0031 ABSENTEE,Lieutenant Governor,,DEM,Unverified Candidate 2,18
+Democratic,0031 ABSENTEE,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,20
+Democratic,0031 ABSENTEE,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,12
+Democratic,0031 ABSENTEE,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,15
+Democratic,0031 ABSENTEE,State Democratic Executive Committee,,DEM,Unverified Candidate 1,2
+Democratic,0031 ABSENTEE,State Democratic Executive Committee,,DEM,Unverified Candidate 1,7
+Democratic,0031 ABSENTEE,State Democratic Executive Committee,,DEM,Unverified Candidate 1,14
+Democratic,0031 ABSENTEE,State Democratic Executive Committee,,DEM,Unverified Candidate 1,1
+Democratic,0031 ABSENTEE,State Democratic Executive Committee,,DEM,Unverified Candidate 2,2
+Democratic,0031 ABSENTEE,State Democratic Executive Committee,,DEM,Unverified Candidate 2,12
+Democratic,0031 ABSENTEE,State Democratic Executive Committee,,DEM,Unverified Candidate 2,7
+Democratic,0031 ABSENTEE,State Democratic Executive Committee,,DEM,Unverified Candidate 2,0
+Democratic,0031 ABSENTEE,State Democratic Executive Committee,,DEM,Unverified Candidate 3,3
+Democratic,0031 ABSENTEE,U.S. Senate,,DEM,Unverified Candidate 1,10
+Democratic,0031 ABSENTEE,U.S. Senate,,DEM,Unverified Candidate 2,7
+Democratic,0031 ABSENTEE,U.S. Senate,,DEM,Unverified Candidate 3,18
+Democratic,0031 ABSENTEE,U.S. Senate,,DEM,Unverified Candidate 4,13
+Democratic,0032 PROVISIONAL,Governor,,DEM,Unverified Candidate 1,2
+Democratic,0032 PROVISIONAL,Governor,,DEM,Unverified Candidate 2,0
+Democratic,0032 PROVISIONAL,Governor,,DEM,Unverified Candidate 3,0
+Democratic,0032 PROVISIONAL,Governor,,DEM,Unverified Candidate 4,8
+Democratic,0032 PROVISIONAL,Governor,,DEM,Unverified Candidate 5,2
+Democratic,0032 PROVISIONAL,Governor,,DEM,Unverified Candidate 6,0
+Democratic,0032 PROVISIONAL,Lieutenant Governor,,DEM,Unverified Candidate 1,2
+Democratic,0032 PROVISIONAL,Lieutenant Governor,,DEM,Unverified Candidate 2,9
+Democratic,0032 PROVISIONAL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 1,4
+Democratic,0032 PROVISIONAL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 2,1
+Democratic,0032 PROVISIONAL,"Public Service Commission, Place No. 1",,DEM,Unverified Candidate 3,7
+Democratic,0032 PROVISIONAL,State Democratic Executive Committee,,DEM,Unverified Candidate 1,0
+Democratic,0032 PROVISIONAL,State Democratic Executive Committee,,DEM,Unverified Candidate 1,0
+Democratic,0032 PROVISIONAL,State Democratic Executive Committee,,DEM,Unverified Candidate 1,2
+Democratic,0032 PROVISIONAL,State Democratic Executive Committee,,DEM,Unverified Candidate 1,1
+Democratic,0032 PROVISIONAL,State Democratic Executive Committee,,DEM,Unverified Candidate 2,0
+Democratic,0032 PROVISIONAL,State Democratic Executive Committee,,DEM,Unverified Candidate 2,3
+Democratic,0032 PROVISIONAL,State Democratic Executive Committee,,DEM,Unverified Candidate 2,2
+Democratic,0032 PROVISIONAL,State Democratic Executive Committee,,DEM,Unverified Candidate 2,0
+Democratic,0032 PROVISIONAL,State Democratic Executive Committee,,DEM,Unverified Candidate 3,1
+Democratic,0032 PROVISIONAL,U.S. Senate,,DEM,Unverified Candidate 1,4
+Democratic,0032 PROVISIONAL,U.S. Senate,,DEM,Unverified Candidate 2,2
+Democratic,0032 PROVISIONAL,U.S. Senate,,DEM,Unverified Candidate 3,3
+Democratic,0032 PROVISIONAL,U.S. Senate,,DEM,Unverified Candidate 4,3

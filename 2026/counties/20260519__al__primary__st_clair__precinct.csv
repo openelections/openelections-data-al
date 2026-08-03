@@ -1,4 +1,10 @@
 county,precinct,office,district,party,candidate,votes
+St. Clair,0001 ASHVILLE CITY HALL,LIEUTENANT GOVERNOR,,DEM,Unverified Candidate 1,71
+St. Clair,0001 ASHVILLE CITY HALL,LIEUTENANT GOVERNOR,,DEM,Unverified Candidate 2,28
+St. Clair,0001 ASHVILLE CITY HALL,UNITED STATES SENATOR,,DEM,Unverified Candidate 1,21
+St. Clair,0001 ASHVILLE CITY HALL,UNITED STATES SENATOR,,DEM,Unverified Candidate 2,10
+St. Clair,0001 ASHVILLE CITY HALL,UNITED STATES SENATOR,,DEM,Unverified Candidate 3,59
+St. Clair,0001 ASHVILLE CITY HALL,UNITED STATES SENATOR,,DEM,Unverified Candidate 4,11
 St. Clair,0001 ASHVILLE CITY HALL,Attorney General,,REP,Katherine Robertson,80
 St. Clair,0001 ASHVILLE CITY HALL,Attorney General,,REP,Pamela L. Casey,115
 St. Clair,0001 ASHVILLE CITY HALL,Attorney General,,REP,Unverified Candidate 2,88
@@ -52,6 +58,12 @@ St. Clair,0001 ASHVILLE CITY HALL,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0001 ASHVILLE CITY HALL,U.S. Senate,,REP,Rodney Walker,15
 St. Clair,0001 ASHVILLE CITY HALL,U.S. Senate,,REP,Seth Burton,4
 St. Clair,0001 ASHVILLE CITY HALL,U.S. Senate,,REP,Steve Marshall,94
+St. Clair,0002 SHOAL CREEK COMM. CTR.,LIEUTENANT GOVERNOR,,DEM,Unverified Candidate 1,6
+St. Clair,0002 SHOAL CREEK COMM. CTR.,LIEUTENANT GOVERNOR,,DEM,Unverified Candidate 2,2
+St. Clair,0002 SHOAL CREEK COMM. CTR.,UNITED STATES SENATOR,,DEM,Unverified Candidate 1,2
+St. Clair,0002 SHOAL CREEK COMM. CTR.,UNITED STATES SENATOR,,DEM,Unverified Candidate 2,3
+St. Clair,0002 SHOAL CREEK COMM. CTR.,UNITED STATES SENATOR,,DEM,Unverified Candidate 3,2
+St. Clair,0002 SHOAL CREEK COMM. CTR.,UNITED STATES SENATOR,,DEM,Unverified Candidate 4,1
 St. Clair,0002 SHOAL CREEK COMM. CTR.,Attorney General,,REP,Katherine Robertson,63
 St. Clair,0002 SHOAL CREEK COMM. CTR.,Attorney General,,REP,Pamela L. Casey,57
 St. Clair,0002 SHOAL CREEK COMM. CTR.,Attorney General,,REP,Unverified Candidate 2,43
@@ -105,6 +117,12 @@ St. Clair,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,3
 St. Clair,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,REP,Rodney Walker,9
 St. Clair,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,REP,Seth Burton,7
 St. Clair,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,REP,Steve Marshall,55
+St. Clair,0003 ODENVILLE CIVIC CTR.,LIEUTENANT GOVERNOR,,DEM,Unverified Candidate 1,52
+St. Clair,0003 ODENVILLE CIVIC CTR.,LIEUTENANT GOVERNOR,,DEM,Unverified Candidate 2,63
+St. Clair,0003 ODENVILLE CIVIC CTR.,UNITED STATES SENATOR,,DEM,Unverified Candidate 1,45
+St. Clair,0003 ODENVILLE CIVIC CTR.,UNITED STATES SENATOR,,DEM,Unverified Candidate 2,21
+St. Clair,0003 ODENVILLE CIVIC CTR.,UNITED STATES SENATOR,,DEM,Unverified Candidate 3,29
+St. Clair,0003 ODENVILLE CIVIC CTR.,UNITED STATES SENATOR,,DEM,Unverified Candidate 4,21
 St. Clair,0003 ODENVILLE CIVIC CTR.,Attorney General,,REP,Katherine Robertson,214
 St. Clair,0003 ODENVILLE CIVIC CTR.,Attorney General,,REP,Pamela L. Casey,171
 St. Clair,0003 ODENVILLE CIVIC CTR.,Attorney General,,REP,Unverified Candidate 2,155
@@ -160,6 +178,20 @@ St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,REP,Morgan Murphy,8
 St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,REP,Rodney Walker,15
 St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,REP,Seth Burton,9
 St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,REP,Steve Marshall,166
+St. Clair,0004 SPRINGVILLE 1ST UNITED,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,125
+St. Clair,0004 SPRINGVILLE 1ST UNITED,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,117
+St. Clair,0004 SPRINGVILLE 1ST UNITED,UNITED STATES SENATOR,,DEM,Unverified Candidate 1,74
+St. Clair,0004 SPRINGVILLE 1ST UNITED,UNITED STATES SENATOR,,DEM,Unverified Candidate 2,36
+St. Clair,0004 SPRINGVILLE 1ST UNITED,UNITED STATES SENATOR,,DEM,Unverified Candidate 3,77
+St. Clair,0004 SPRINGVILLE 1ST UNITED,UNITED STATES SENATOR,,DEM,Unverified Candidate 4,53
 St. Clair,0004 SPRINGVILLE 1ST UNITED,Attorney General,,REP,Katherine Robertson,435
 St. Clair,0004 SPRINGVILLE 1ST UNITED,Attorney General,,REP,Pamela L. Casey,393
 St. Clair,0004 SPRINGVILLE 1ST UNITED,Attorney General,,REP,Unverified Candidate 2,398
@@ -215,6 +247,20 @@ St. Clair,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,REP,Morgan Murphy,10
 St. Clair,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,REP,Rodney Walker,19
 St. Clair,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,REP,Seth Burton,30
 St. Clair,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,REP,Steve Marshall,316
+St. Clair,0005 FRIENDSHIP BAPTIST CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,18
+St. Clair,0005 FRIENDSHIP BAPTIST CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,19
+St. Clair,0005 FRIENDSHIP BAPTIST CH,UNITED STATES SENATOR,,DEM,Unverified Candidate 1,9
+St. Clair,0005 FRIENDSHIP BAPTIST CH,UNITED STATES SENATOR,,DEM,Unverified Candidate 2,4
+St. Clair,0005 FRIENDSHIP BAPTIST CH,UNITED STATES SENATOR,,DEM,Unverified Candidate 3,11
+St. Clair,0005 FRIENDSHIP BAPTIST CH,UNITED STATES SENATOR,,DEM,Unverified Candidate 4,12
 St. Clair,0005 FRIENDSHIP BAPTIST CH,Attorney General,,REP,Katherine Robertson,161
 St. Clair,0005 FRIENDSHIP BAPTIST CH,Attorney General,,REP,Pamela L. Casey,156
 St. Clair,0005 FRIENDSHIP BAPTIST CH,Attorney General,,REP,Unverified Candidate 2,126
@@ -270,6 +316,16 @@ St. Clair,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,REP,Morgan Murphy,4
 St. Clair,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,REP,Rodney Walker,9
 St. Clair,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,REP,Seth Burton,8
 St. Clair,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,REP,Steve Marshall,131
+St. Clair,0006 STEELE COMM. CTR.,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,5
+St. Clair,0006 STEELE COMM. CTR.,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,1
 St. Clair,0006 STEELE COMM. CTR.,Attorney General,,REP,Katherine Robertson,63
 St. Clair,0006 STEELE COMM. CTR.,Attorney General,,REP,Pamela L. Casey,52
 St. Clair,0006 STEELE COMM. CTR.,Attorney General,,REP,Unverified Candidate 2,61
@@ -323,6 +379,16 @@ St. Clair,0006 STEELE COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,1
 St. Clair,0006 STEELE COMM. CTR.,U.S. Senate,,REP,Rodney Walker,8
 St. Clair,0006 STEELE COMM. CTR.,U.S. Senate,,REP,Seth Burton,2
 St. Clair,0006 STEELE COMM. CTR.,U.S. Senate,,REP,Steve Marshall,47
+St. Clair,0007 BRANCHVILLE CUMBERLAND,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,51
+St. Clair,0007 BRANCHVILLE CUMBERLAND,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,63
 St. Clair,0007 BRANCHVILLE CUMBERLAND,Attorney General,,REP,Katherine Robertson,169
 St. Clair,0007 BRANCHVILLE CUMBERLAND,Attorney General,,REP,Pamela L. Casey,159
 St. Clair,0007 BRANCHVILLE CUMBERLAND,Attorney General,,REP,Unverified Candidate 2,126
@@ -378,6 +444,16 @@ St. Clair,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,REP,Morgan Murphy,7
 St. Clair,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,REP,Rodney Walker,9
 St. Clair,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,REP,Seth Burton,6
 St. Clair,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,REP,Steve Marshall,162
+St. Clair,0008 ARGO CITY HALL,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,157
+St. Clair,0008 ARGO CITY HALL,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,183
 St. Clair,0008 ARGO CITY HALL,Attorney General,,REP,Katherine Robertson,187
 St. Clair,0008 ARGO CITY HALL,Attorney General,,REP,Pamela L. Casey,114
 St. Clair,0008 ARGO CITY HALL,Attorney General,,REP,Unverified Candidate 2,185
@@ -433,6 +509,16 @@ St. Clair,0008 ARGO CITY HALL,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0008 ARGO CITY HALL,U.S. Senate,,REP,Rodney Walker,11
 St. Clair,0008 ARGO CITY HALL,U.S. Senate,,REP,Seth Burton,8
 St. Clair,0008 ARGO CITY HALL,U.S. Senate,,REP,Steve Marshall,121
+St. Clair,0009 RAGLAND TOWN HALL,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,37
+St. Clair,0009 RAGLAND TOWN HALL,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,45
 St. Clair,0009 RAGLAND TOWN HALL,Attorney General,,REP,Katherine Robertson,180
 St. Clair,0009 RAGLAND TOWN HALL,Attorney General,,REP,Pamela L. Casey,146
 St. Clair,0009 RAGLAND TOWN HALL,Attorney General,,REP,Unverified Candidate 2,136
@@ -486,6 +572,16 @@ St. Clair,0009 RAGLAND TOWN HALL,U.S. Senate,,REP,Morgan Murphy,9
 St. Clair,0009 RAGLAND TOWN HALL,U.S. Senate,,REP,Rodney Walker,21
 St. Clair,0009 RAGLAND TOWN HALL,U.S. Senate,,REP,Seth Burton,27
 St. Clair,0009 RAGLAND TOWN HALL,U.S. Senate,,REP,Steve Marshall,165
+St. Clair,0010 WATTSVILLE VFD,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,14
+St. Clair,0010 WATTSVILLE VFD,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,8
 St. Clair,0010 WATTSVILLE VFD,Attorney General,,REP,Katherine Robertson,117
 St. Clair,0010 WATTSVILLE VFD,Attorney General,,REP,Pamela L. Casey,82
 St. Clair,0010 WATTSVILLE VFD,Attorney General,,REP,Unverified Candidate 2,79
@@ -541,6 +637,16 @@ St. Clair,0010 WATTSVILLE VFD,U.S. Senate,,REP,Morgan Murphy,5
 St. Clair,0010 WATTSVILLE VFD,U.S. Senate,,REP,Rodney Walker,13
 St. Clair,0010 WATTSVILLE VFD,U.S. Senate,,REP,Seth Burton,8
 St. Clair,0010 WATTSVILLE VFD,U.S. Senate,,REP,Steve Marshall,77
+St. Clair,0011 POPLAR SPRGS CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,8
+St. Clair,0011 POPLAR SPRGS CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,10
 St. Clair,0011 POPLAR SPRGS CH,Attorney General,,REP,Katherine Robertson,53
 St. Clair,0011 POPLAR SPRGS CH,Attorney General,,REP,Pamela L. Casey,69
 St. Clair,0011 POPLAR SPRGS CH,Attorney General,,REP,Unverified Candidate 2,48
@@ -594,6 +700,16 @@ St. Clair,0011 POPLAR SPRGS CH,U.S. Senate,,REP,Morgan Murphy,1
 St. Clair,0011 POPLAR SPRGS CH,U.S. Senate,,REP,Rodney Walker,2
 St. Clair,0011 POPLAR SPRGS CH,U.S. Senate,,REP,Seth Burton,5
 St. Clair,0011 POPLAR SPRGS CH,U.S. Senate,,REP,Steve Marshall,32
+St. Clair,0012 CELEBRATIONS,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,41
+St. Clair,0012 CELEBRATIONS,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,24
 St. Clair,0012 CELEBRATIONS,Attorney General,,REP,Katherine Robertson,221
 St. Clair,0012 CELEBRATIONS,Attorney General,,REP,Pamela L. Casey,107
 St. Clair,0012 CELEBRATIONS,Attorney General,,REP,Unverified Candidate 2,158
@@ -647,6 +763,16 @@ St. Clair,0012 CELEBRATIONS,U.S. Senate,,REP,Morgan Murphy,3
 St. Clair,0012 CELEBRATIONS,U.S. Senate,,REP,Rodney Walker,7
 St. Clair,0012 CELEBRATIONS,U.S. Senate,,REP,Seth Burton,3
 St. Clair,0012 CELEBRATIONS,U.S. Senate,,REP,Steve Marshall,139
+St. Clair,0013 NEW LONDON VFD,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,44
+St. Clair,0013 NEW LONDON VFD,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,19
 St. Clair,0013 NEW LONDON VFD,Attorney General,,REP,Katherine Robertson,110
 St. Clair,0013 NEW LONDON VFD,Attorney General,,REP,Pamela L. Casey,66
 St. Clair,0013 NEW LONDON VFD,Attorney General,,REP,Unverified Candidate 2,74
@@ -700,6 +826,16 @@ St. Clair,0013 NEW LONDON VFD,U.S. Senate,,REP,Morgan Murphy,4
 St. Clair,0013 NEW LONDON VFD,U.S. Senate,,REP,Rodney Walker,4
 St. Clair,0013 NEW LONDON VFD,U.S. Senate,,REP,Seth Burton,2
 St. Clair,0013 NEW LONDON VFD,U.S. Senate,,REP,Steve Marshall,75
+St. Clair,0014 WOLF CREEK VFD,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,6
+St. Clair,0014 WOLF CREEK VFD,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,3
 St. Clair,0014 WOLF CREEK VFD,Attorney General,,REP,Katherine Robertson,68
 St. Clair,0014 WOLF CREEK VFD,Attorney General,,REP,Pamela L. Casey,20
 St. Clair,0014 WOLF CREEK VFD,Attorney General,,REP,Unverified Candidate 2,27
@@ -753,6 +889,16 @@ St. Clair,0014 WOLF CREEK VFD,U.S. Senate,,REP,Morgan Murphy,3
 St. Clair,0014 WOLF CREEK VFD,U.S. Senate,,REP,Rodney Walker,0
 St. Clair,0014 WOLF CREEK VFD,U.S. Senate,,REP,Seth Burton,2
 St. Clair,0014 WOLF CREEK VFD,U.S. Senate,,REP,Steve Marshall,44
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,154
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,149
 St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Attorney General,,REP,Katherine Robertson,163
 St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Attorney General,,REP,Pamela L. Casey,104
 St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Attorney General,,REP,Unverified Candidate 2,130
@@ -804,6 +950,16 @@ St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,REP,Morgan Murphy,9
 St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,REP,Rodney Walker,9
 St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,REP,Seth Burton,10
 St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,REP,Steve Marshall,100
+St. Clair,0016 COOK SPRGS BAPT CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,17
+St. Clair,0016 COOK SPRGS BAPT CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,8
 St. Clair,0016 COOK SPRGS BAPT CH,Attorney General,,REP,Katherine Robertson,80
 St. Clair,0016 COOK SPRGS BAPT CH,Attorney General,,REP,Pamela L. Casey,77
 St. Clair,0016 COOK SPRGS BAPT CH,Attorney General,,REP,Unverified Candidate 2,79
@@ -861,6 +1017,16 @@ St. Clair,0016 COOK SPRGS BAPT CH,U.S. Senate,,REP,Morgan Murphy,3
 St. Clair,0016 COOK SPRGS BAPT CH,U.S. Senate,,REP,Rodney Walker,9
 St. Clair,0016 COOK SPRGS BAPT CH,U.S. Senate,,REP,Seth Burton,4
 St. Clair,0016 COOK SPRGS BAPT CH,U.S. Senate,,REP,Steve Marshall,68
+St. Clair,0017 MOODY CIVIC CTR.,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,274
+St. Clair,0017 MOODY CIVIC CTR.,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,232
 St. Clair,0017 MOODY CIVIC CTR.,Attorney General,,REP,Katherine Robertson,441
 St. Clair,0017 MOODY CIVIC CTR.,Attorney General,,REP,Pamela L. Casey,322
 St. Clair,0017 MOODY CIVIC CTR.,Attorney General,,REP,Unverified Candidate 2,363
@@ -916,6 +1082,16 @@ St. Clair,0017 MOODY CIVIC CTR.,U.S. Senate,,REP,Morgan Murphy,11
 St. Clair,0017 MOODY CIVIC CTR.,U.S. Senate,,REP,Rodney Walker,24
 St. Clair,0017 MOODY CIVIC CTR.,U.S. Senate,,REP,Seth Burton,27
 St. Clair,0017 MOODY CIVIC CTR.,U.S. Senate,,REP,Steve Marshall,340
+St. Clair,0018 PINEDALE VFD,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,10
+St. Clair,0018 PINEDALE VFD,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,4
 St. Clair,0018 PINEDALE VFD,Attorney General,,REP,Katherine Robertson,55
 St. Clair,0018 PINEDALE VFD,Attorney General,,REP,Pamela L. Casey,41
 St. Clair,0018 PINEDALE VFD,Attorney General,,REP,Unverified Candidate 2,54
@@ -969,6 +1145,16 @@ St. Clair,0018 PINEDALE VFD,U.S. Senate,,REP,Morgan Murphy,1
 St. Clair,0018 PINEDALE VFD,U.S. Senate,,REP,Rodney Walker,4
 St. Clair,0018 PINEDALE VFD,U.S. Senate,,REP,Seth Burton,0
 St. Clair,0018 PINEDALE VFD,U.S. Senate,,REP,Steve Marshall,33
+St. Clair,0019 CROPWELL BAPTIST CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,117
+St. Clair,0019 CROPWELL BAPTIST CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,93
 St. Clair,0019 CROPWELL BAPTIST CH,Attorney General,,REP,Katherine Robertson,396
 St. Clair,0019 CROPWELL BAPTIST CH,Attorney General,,REP,Pamela L. Casey,204
 St. Clair,0019 CROPWELL BAPTIST CH,Attorney General,,REP,Unverified Candidate 2,344
@@ -1020,6 +1206,16 @@ St. Clair,0019 CROPWELL BAPTIST CH,U.S. Senate,,REP,Morgan Murphy,8
 St. Clair,0019 CROPWELL BAPTIST CH,U.S. Senate,,REP,Rodney Walker,25
 St. Clair,0019 CROPWELL BAPTIST CH,U.S. Senate,,REP,Seth Burton,15
 St. Clair,0019 CROPWELL BAPTIST CH,U.S. Senate,,REP,Steve Marshall,342
+St. Clair,0020 RIVERSIDE COMM. CTR,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,29
+St. Clair,0020 RIVERSIDE COMM. CTR,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,32
 St. Clair,0020 RIVERSIDE COMM. CTR,Attorney General,,REP,Katherine Robertson,112
 St. Clair,0020 RIVERSIDE COMM. CTR,Attorney General,,REP,Pamela L. Casey,57
 St. Clair,0020 RIVERSIDE COMM. CTR,Attorney General,,REP,Unverified Candidate 2,79
@@ -1071,6 +1267,16 @@ St. Clair,0020 RIVERSIDE COMM. CTR,U.S. Senate,,REP,Morgan Murphy,3
 St. Clair,0020 RIVERSIDE COMM. CTR,U.S. Senate,,REP,Rodney Walker,7
 St. Clair,0020 RIVERSIDE COMM. CTR,U.S. Senate,,REP,Seth Burton,3
 St. Clair,0020 RIVERSIDE COMM. CTR,U.S. Senate,,REP,Steve Marshall,87
+St. Clair,0021 FAIRVIEW CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,1
+St. Clair,0021 FAIRVIEW CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,4
 St. Clair,0021 FAIRVIEW CH,Attorney General,,REP,Katherine Robertson,53
 St. Clair,0021 FAIRVIEW CH,Attorney General,,REP,Pamela L. Casey,28
 St. Clair,0021 FAIRVIEW CH,Attorney General,,REP,Unverified Candidate 2,21
@@ -1124,6 +1330,16 @@ St. Clair,0021 FAIRVIEW CH,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0021 FAIRVIEW CH,U.S. Senate,,REP,Rodney Walker,3
 St. Clair,0021 FAIRVIEW CH,U.S. Senate,,REP,Seth Burton,5
 St. Clair,0021 FAIRVIEW CH,U.S. Senate,,REP,Steve Marshall,41
+St. Clair,0022 GUM SPRGS CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,7
+St. Clair,0022 GUM SPRGS CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,2
 St. Clair,0022 GUM SPRGS CH,Attorney General,,REP,Katherine Robertson,50
 St. Clair,0022 GUM SPRGS CH,Attorney General,,REP,Pamela L. Casey,57
 St. Clair,0022 GUM SPRGS CH,Attorney General,,REP,Unverified Candidate 2,55
@@ -1177,6 +1393,16 @@ St. Clair,0022 GUM SPRGS CH,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0022 GUM SPRGS CH,U.S. Senate,,REP,Rodney Walker,8
 St. Clair,0022 GUM SPRGS CH,U.S. Senate,,REP,Seth Burton,3
 St. Clair,0022 GUM SPRGS CH,U.S. Senate,,REP,Steve Marshall,35
+St. Clair,0023 PRESCOTT BAPTIST CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,7
+St. Clair,0023 PRESCOTT BAPTIST CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,4
 St. Clair,0023 PRESCOTT BAPTIST CH,Attorney General,,REP,Katherine Robertson,57
 St. Clair,0023 PRESCOTT BAPTIST CH,Attorney General,,REP,Pamela L. Casey,31
 St. Clair,0023 PRESCOTT BAPTIST CH,Attorney General,,REP,Unverified Candidate 2,85
@@ -1232,6 +1458,16 @@ St. Clair,0023 PRESCOTT BAPTIST CH,U.S. Senate,,REP,Morgan Murphy,1
 St. Clair,0023 PRESCOTT BAPTIST CH,U.S. Senate,,REP,Rodney Walker,6
 St. Clair,0023 PRESCOTT BAPTIST CH,U.S. Senate,,REP,Seth Burton,4
 St. Clair,0023 PRESCOTT BAPTIST CH,U.S. Senate,,REP,Steve Marshall,52
+St. Clair,0024 NEW HOPE BAPTIST CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,15
+St. Clair,0024 NEW HOPE BAPTIST CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,14
 St. Clair,0024 NEW HOPE BAPTIST CH,Attorney General,,REP,Katherine Robertson,97
 St. Clair,0024 NEW HOPE BAPTIST CH,Attorney General,,REP,Pamela L. Casey,51
 St. Clair,0024 NEW HOPE BAPTIST CH,Attorney General,,REP,Unverified Candidate 2,50
@@ -1285,6 +1521,16 @@ St. Clair,0024 NEW HOPE BAPTIST CH,U.S. Senate,,REP,Morgan Murphy,1
 St. Clair,0024 NEW HOPE BAPTIST CH,U.S. Senate,,REP,Rodney Walker,6
 St. Clair,0024 NEW HOPE BAPTIST CH,U.S. Senate,,REP,Seth Burton,0
 St. Clair,0024 NEW HOPE BAPTIST CH,U.S. Senate,,REP,Steve Marshall,57
+St. Clair,0025 NORTH VALLEY CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,151
+St. Clair,0025 NORTH VALLEY CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,312
 St. Clair,0025 NORTH VALLEY CH,Attorney General,,REP,Katherine Robertson,171
 St. Clair,0025 NORTH VALLEY CH,Attorney General,,REP,Pamela L. Casey,113
 St. Clair,0025 NORTH VALLEY CH,Attorney General,,REP,Unverified Candidate 2,149
@@ -1340,6 +1586,16 @@ St. Clair,0025 NORTH VALLEY CH,U.S. Senate,,REP,Morgan Murphy,9
 St. Clair,0025 NORTH VALLEY CH,U.S. Senate,,REP,Rodney Walker,9
 St. Clair,0025 NORTH VALLEY CH,U.S. Senate,,REP,Seth Burton,5
 St. Clair,0025 NORTH VALLEY CH,U.S. Senate,,REP,Steve Marshall,101
+St. Clair,0026 WHITES CHAPEL TOWN HALL,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,36
+St. Clair,0026 WHITES CHAPEL TOWN HALL,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,19
 St. Clair,0026 WHITES CHAPEL TOWN HALL,Attorney General,,REP,Katherine Robertson,74
 St. Clair,0026 WHITES CHAPEL TOWN HALL,Attorney General,,REP,Pamela L. Casey,43
 St. Clair,0026 WHITES CHAPEL TOWN HALL,Attorney General,,REP,Unverified Candidate 2,41
@@ -1395,6 +1651,16 @@ St. Clair,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,REP,Morgan Murphy,3
 St. Clair,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,REP,Rodney Walker,1
 St. Clair,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,REP,Seth Burton,2
 St. Clair,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,REP,Steve Marshall,46
+St. Clair,0027 CHANDLER MT. COMM. CTR.,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,2
+St. Clair,0027 CHANDLER MT. COMM. CTR.,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,1
 St. Clair,0027 CHANDLER MT. COMM. CTR.,Attorney General,,REP,Katherine Robertson,17
 St. Clair,0027 CHANDLER MT. COMM. CTR.,Attorney General,,REP,Pamela L. Casey,21
 St. Clair,0027 CHANDLER MT. COMM. CTR.,Attorney General,,REP,Unverified Candidate 2,17
@@ -1448,6 +1714,16 @@ St. Clair,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,0
 St. Clair,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,REP,Rodney Walker,0
 St. Clair,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,REP,Seth Burton,1
 St. Clair,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,REP,Steve Marshall,14
+St. Clair,0028 GALLANT VFD,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,3
+St. Clair,0028 GALLANT VFD,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,1
 St. Clair,0028 GALLANT VFD,Attorney General,,REP,Katherine Robertson,16
 St. Clair,0028 GALLANT VFD,Attorney General,,REP,Pamela L. Casey,24
 St. Clair,0028 GALLANT VFD,Attorney General,,REP,Unverified Candidate 2,10
@@ -1501,6 +1777,16 @@ St. Clair,0028 GALLANT VFD,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0028 GALLANT VFD,U.S. Senate,,REP,Rodney Walker,0
 St. Clair,0028 GALLANT VFD,U.S. Senate,,REP,Seth Burton,1
 St. Clair,0028 GALLANT VFD,U.S. Senate,,REP,Steve Marshall,16
+St. Clair,0029 SLATE UNION CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,3
+St. Clair,0029 SLATE UNION CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,3
 St. Clair,0029 SLATE UNION CH,Attorney General,,REP,Katherine Robertson,73
 St. Clair,0029 SLATE UNION CH,Attorney General,,REP,Pamela L. Casey,81
 St. Clair,0029 SLATE UNION CH,Attorney General,,REP,Unverified Candidate 2,53
@@ -1554,6 +1840,16 @@ St. Clair,0029 SLATE UNION CH,U.S. Senate,,REP,Morgan Murphy,4
 St. Clair,0029 SLATE UNION CH,U.S. Senate,,REP,Rodney Walker,6
 St. Clair,0029 SLATE UNION CH,U.S. Senate,,REP,Seth Burton,3
 St. Clair,0029 SLATE UNION CH,U.S. Senate,,REP,Steve Marshall,54
+St. Clair,0030 CEDAR GROVE BAPTIST CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,63
+St. Clair,0030 CEDAR GROVE BAPTIST CH,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,48
 St. Clair,0030 CEDAR GROVE BAPTIST CH,Attorney General,,REP,Katherine Robertson,122
 St. Clair,0030 CEDAR GROVE BAPTIST CH,Attorney General,,REP,Pamela L. Casey,54
 St. Clair,0030 CEDAR GROVE BAPTIST CH,Attorney General,,REP,Unverified Candidate 2,86
@@ -1609,6 +1905,16 @@ St. Clair,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,REP,Rodney Walker,4
 St. Clair,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,REP,Seth Burton,5
 St. Clair,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,REP,Steve Marshall,83
+St. Clair,0031 ABSENTEE,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,28
+St. Clair,0031 ABSENTEE,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,18
 St. Clair,0031 ABSENTEE,Attorney General,,REP,Katherine Robertson,64
 St. Clair,0031 ABSENTEE,Attorney General,,REP,Pamela L. Casey,64
 St. Clair,0031 ABSENTEE,Attorney General,,REP,Unverified Candidate 2,62
@@ -1666,6 +1972,16 @@ St. Clair,0031 ABSENTEE,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0031 ABSENTEE,U.S. Senate,,REP,Rodney Walker,2
 St. Clair,0031 ABSENTEE,U.S. Senate,,REP,Seth Burton,7
 St. Clair,0031 ABSENTEE,U.S. Senate,,REP,Steve Marshall,71
+St. Clair,0032 PROVISIONAL,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 1,2
+St. Clair,0032 PROVISIONAL,"PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR",,DEM,Unverified Candidate 2,9
 St. Clair,0032 PROVISIONAL,Attorney General,,REP,Katherine Robertson,4
 St. Clair,0032 PROVISIONAL,Attorney General,,REP,Pamela L. Casey,2
 St. Clair,0032 PROVISIONAL,Attorney General,,REP,Unverified Candidate 2,0

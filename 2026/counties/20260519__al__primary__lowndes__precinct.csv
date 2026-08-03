@@ -1,8 +1,30 @@
 county,precinct,office,district,party,candidate,votes
-Lowndes,0001 WHITE HALL TOWN HALL,Proposed Statewide Amendment 1,,,No,153
-Lowndes,0001 WHITE HALL TOWN HALL,Proposed Statewide Amendment 1,,,Yes,307
-Lowndes,0001 WHITE HALL TOWN HALL,Proposed Statewide Amendment 2,,,No,120
-Lowndes,0001 WHITE HALL TOWN HALL,Proposed Statewide Amendment 2,,,Yes,327
+Lowndes,0001 WHITE HALL TOWN HALL,Governor,,DEM,"Chad ""Chig"" Martin",10
+Lowndes,0001 WHITE HALL TOWN HALL,Governor,,DEM,Doug Jones,291
+Lowndes,0001 WHITE HALL TOWN HALL,Governor,,DEM,Jamel J. Brown,70
+Lowndes,0001 WHITE HALL TOWN HALL,Governor,,DEM,"Nathan ""Nate"" Mathis",4
+Lowndes,0001 WHITE HALL TOWN HALL,Governor,,DEM,Will Boyd,45
+Lowndes,0001 WHITE HALL TOWN HALL,Governor,,DEM,Yolanda Rochelle Flowers,14
+Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,DEM,Darryl D. Perryman,151
+Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,DEM,Phillip Ensler,251
+Lowndes,0001 WHITE HALL TOWN HALL,Lowndes County Coroner,,DEM,Unverified Candidate 1,384
+Lowndes,0001 WHITE HALL TOWN HALL,Lowndes County Coroner,,DEM,Unverified Candidate 2,46
+Lowndes,0001 WHITE HALL TOWN HALL,"Member, Lowndes County Board of Education, District No. 1",,DEM,Unverified Candidate 1,233
+Lowndes,0001 WHITE HALL TOWN HALL,"Member, Lowndes County Board of Education, District No. 1",,DEM,Unverified Candidate 2,202
+Lowndes,0001 WHITE HALL TOWN HALL,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 1,163
+Lowndes,0001 WHITE HALL TOWN HALL,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 2,195
+Lowndes,0001 WHITE HALL TOWN HALL,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 3,92
+Lowndes,0001 WHITE HALL TOWN HALL,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,297
+Lowndes,0001 WHITE HALL TOWN HALL,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,48
+Lowndes,0001 WHITE HALL TOWN HALL,"Public Service Commission, Place No. 1",,DEM,John Northrop,27
+Lowndes,0001 WHITE HALL TOWN HALL,State Democratic Executive Committee,,DEM,Unverified Candidate 1,202
+Lowndes,0001 WHITE HALL TOWN HALL,State Democratic Executive Committee,,DEM,Unverified Candidate 2,146
+Lowndes,0001 WHITE HALL TOWN HALL,State House,69.0,DEM,Kelvin J Lawrence,357
+Lowndes,0001 WHITE HALL TOWN HALL,State House,69.0,DEM,Marshae R. Madison,72
+Lowndes,0001 WHITE HALL TOWN HALL,U.S. Senate,,DEM,Dakarai Larriett,55
+Lowndes,0001 WHITE HALL TOWN HALL,U.S. Senate,,DEM,Everett Wess,230
+Lowndes,0001 WHITE HALL TOWN HALL,U.S. Senate,,DEM,Kyle Sweetser,46
+Lowndes,0001 WHITE HALL TOWN HALL,U.S. Senate,,DEM,Mark S. Wheeler II,51
 Lowndes,0001 WHITE HALL TOWN HALL,Attorney General,,REP,Jay Mitchell,11
 Lowndes,0001 WHITE HALL TOWN HALL,Attorney General,,REP,Katherine Robertson,10
 Lowndes,0001 WHITE HALL TOWN HALL,Attorney General,,REP,Pamela L. Casey,7
@@ -10,14 +32,24 @@ Lowndes,0001 WHITE HALL TOWN HALL,Commissioner of Agriculture and Industries,,RE
 Lowndes,0001 WHITE HALL TOWN HALL,Commissioner of Agriculture and Industries,,REP,Cory Hill,6
 Lowndes,0001 WHITE HALL TOWN HALL,Commissioner of Agriculture and Industries,,REP,Jack Williams,5
 Lowndes,0001 WHITE HALL TOWN HALL,Governor,,REP,"""Alabama"" Will Santivasci",0
+Lowndes,0001 WHITE HALL TOWN HALL,Governor,,REP,"""Alabama"" Will Santivasci",0
+Lowndes,0001 WHITE HALL TOWN HALL,Governor,,REP,Ken McFeeters,3
 Lowndes,0001 WHITE HALL TOWN HALL,Governor,,REP,Ken McFeeters,3
 Lowndes,0001 WHITE HALL TOWN HALL,Governor,,REP,Thomas Tuberville,28
+Lowndes,0001 WHITE HALL TOWN HALL,Governor,,REP,Thomas Tuberville,28
+Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,John Wahl,10
+Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,John Wahl,10
+Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
 Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
 Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,Rick Pate,11
 Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,Rick Pate,11
 Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,Stewart Hill Tankersley,4
+Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,Stewart Hill Tankersley,4
+Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,Wes Allen,5
 Lowndes,0001 WHITE HALL TOWN HALL,Lieutenant Governor,,REP,Wes Allen,5
 Lowndes,0001 WHITE HALL TOWN HALL,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,9
 Lowndes,0001 WHITE HALL TOWN HALL,"Public Service Commission, Place No. 1",,REP,Matt Gentry,20
@@ -39,10 +71,35 @@ Lowndes,0001 WHITE HALL TOWN HALL,U.S. Senate,,REP,Morgan Murphy,1
 Lowndes,0001 WHITE HALL TOWN HALL,U.S. Senate,,REP,Rodney Walker,0
 Lowndes,0001 WHITE HALL TOWN HALL,U.S. Senate,,REP,Seth Burton,1
 Lowndes,0001 WHITE HALL TOWN HALL,U.S. Senate,,REP,Steve Marshall,7
-Lowndes,0002 LOWNDESBORO CME CHURCH,Proposed Statewide Amendment 1,,,No,40
-Lowndes,0002 LOWNDESBORO CME CHURCH,Proposed Statewide Amendment 1,,,Yes,223
-Lowndes,0002 LOWNDESBORO CME CHURCH,Proposed Statewide Amendment 2,,,No,129
-Lowndes,0002 LOWNDESBORO CME CHURCH,Proposed Statewide Amendment 2,,,Yes,121
+Lowndes,0001 WHITE HALL TOWN HALL,Proposed Statewide Amendment 1,,,No,153
+Lowndes,0001 WHITE HALL TOWN HALL,Proposed Statewide Amendment 1,,,Yes,307
+Lowndes,0001 WHITE HALL TOWN HALL,Proposed Statewide Amendment 2,,,No,120
+Lowndes,0001 WHITE HALL TOWN HALL,Proposed Statewide Amendment 2,,,Yes,327
+Lowndes,0002 LOWNDESBORO CME CHURCH,Governor,,DEM,"Chad ""Chig"" Martin",13
+Lowndes,0002 LOWNDESBORO CME CHURCH,Governor,,DEM,Doug Jones,70
+Lowndes,0002 LOWNDESBORO CME CHURCH,Governor,,DEM,Jamel J. Brown,11
+Lowndes,0002 LOWNDESBORO CME CHURCH,Governor,,DEM,Will Boyd,15
+Lowndes,0002 LOWNDESBORO CME CHURCH,Governor,,DEM,Yolanda Rochelle Flowers,3
+Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,DEM,Darryl D. Perryman,46
+Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,DEM,Phillip Ensler,55
+Lowndes,0002 LOWNDESBORO CME CHURCH,Lowndes County Coroner,,DEM,Unverified Candidate 1,102
+Lowndes,0002 LOWNDESBORO CME CHURCH,Lowndes County Coroner,,DEM,Unverified Candidate 2,30
+Lowndes,0002 LOWNDESBORO CME CHURCH,"Member, Lowndes County Board of Education, District No. 1",,DEM,Unverified Candidate 1,56
+Lowndes,0002 LOWNDESBORO CME CHURCH,"Member, Lowndes County Board of Education, District No. 1",,DEM,Unverified Candidate 2,86
+Lowndes,0002 LOWNDESBORO CME CHURCH,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 1,21
+Lowndes,0002 LOWNDESBORO CME CHURCH,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 2,157
+Lowndes,0002 LOWNDESBORO CME CHURCH,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 3,12
+Lowndes,0002 LOWNDESBORO CME CHURCH,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,43
+Lowndes,0002 LOWNDESBORO CME CHURCH,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,32
+Lowndes,0002 LOWNDESBORO CME CHURCH,"Public Service Commission, Place No. 1",,DEM,John Northrop,17
+Lowndes,0002 LOWNDESBORO CME CHURCH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,53
+Lowndes,0002 LOWNDESBORO CME CHURCH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,34
+Lowndes,0002 LOWNDESBORO CME CHURCH,State House,69.0,DEM,Kelvin J Lawrence,101
+Lowndes,0002 LOWNDESBORO CME CHURCH,State House,69.0,DEM,Marshae R. Madison,36
+Lowndes,0002 LOWNDESBORO CME CHURCH,U.S. Senate,,DEM,Dakarai Larriett,12
+Lowndes,0002 LOWNDESBORO CME CHURCH,U.S. Senate,,DEM,Everett Wess,27
+Lowndes,0002 LOWNDESBORO CME CHURCH,U.S. Senate,,DEM,Kyle Sweetser,17
+Lowndes,0002 LOWNDESBORO CME CHURCH,U.S. Senate,,DEM,Mark S. Wheeler II,42
 Lowndes,0002 LOWNDESBORO CME CHURCH,Attorney General,,REP,Jay Mitchell,23
 Lowndes,0002 LOWNDESBORO CME CHURCH,Attorney General,,REP,Katherine Robertson,43
 Lowndes,0002 LOWNDESBORO CME CHURCH,Attorney General,,REP,Pamela L. Casey,17
@@ -50,14 +107,24 @@ Lowndes,0002 LOWNDESBORO CME CHURCH,Commissioner of Agriculture and Industries,,
 Lowndes,0002 LOWNDESBORO CME CHURCH,Commissioner of Agriculture and Industries,,REP,Cory Hill,21
 Lowndes,0002 LOWNDESBORO CME CHURCH,Commissioner of Agriculture and Industries,,REP,Jack Williams,30
 Lowndes,0002 LOWNDESBORO CME CHURCH,Governor,,REP,"""Alabama"" Will Santivasci",2
+Lowndes,0002 LOWNDESBORO CME CHURCH,Governor,,REP,"""Alabama"" Will Santivasci",2
+Lowndes,0002 LOWNDESBORO CME CHURCH,Governor,,REP,Ken McFeeters,4
 Lowndes,0002 LOWNDESBORO CME CHURCH,Governor,,REP,Ken McFeeters,4
 Lowndes,0002 LOWNDESBORO CME CHURCH,Governor,,REP,Thomas Tuberville,83
+Lowndes,0002 LOWNDESBORO CME CHURCH,Governor,,REP,Thomas Tuberville,83
+Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,John Wahl,7
+Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,John Wahl,7
+Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
 Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
 Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,Pat Bishop,1
+Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,Pat Bishop,1
+Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,Rick Pate,70
 Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,Rick Pate,70
 Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,1
+Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,1
+Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,Wes Allen,9
 Lowndes,0002 LOWNDESBORO CME CHURCH,Lieutenant Governor,,REP,Wes Allen,9
 Lowndes,0002 LOWNDESBORO CME CHURCH,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,22
 Lowndes,0002 LOWNDESBORO CME CHURCH,"Public Service Commission, Place No. 1",,REP,Matt Gentry,55
@@ -79,10 +146,31 @@ Lowndes,0002 LOWNDESBORO CME CHURCH,U.S. Senate,,REP,Morgan Murphy,0
 Lowndes,0002 LOWNDESBORO CME CHURCH,U.S. Senate,,REP,Rodney Walker,2
 Lowndes,0002 LOWNDESBORO CME CHURCH,U.S. Senate,,REP,Seth Burton,2
 Lowndes,0002 LOWNDESBORO CME CHURCH,U.S. Senate,,REP,Steve Marshall,28
-Lowndes,0003 BETHEL CHURCH,Proposed Statewide Amendment 1,,,No,55
-Lowndes,0003 BETHEL CHURCH,Proposed Statewide Amendment 1,,,Yes,120
-Lowndes,0003 BETHEL CHURCH,Proposed Statewide Amendment 2,,,No,37
-Lowndes,0003 BETHEL CHURCH,Proposed Statewide Amendment 2,,,Yes,137
+Lowndes,0002 LOWNDESBORO CME CHURCH,Proposed Statewide Amendment 1,,,No,40
+Lowndes,0002 LOWNDESBORO CME CHURCH,Proposed Statewide Amendment 1,,,Yes,223
+Lowndes,0002 LOWNDESBORO CME CHURCH,Proposed Statewide Amendment 2,,,No,129
+Lowndes,0002 LOWNDESBORO CME CHURCH,Proposed Statewide Amendment 2,,,Yes,121
+Lowndes,0003 BETHEL CHURCH,Governor,,DEM,"Chad ""Chig"" Martin",0
+Lowndes,0003 BETHEL CHURCH,Governor,,DEM,Doug Jones,138
+Lowndes,0003 BETHEL CHURCH,Governor,,DEM,Jamel J. Brown,13
+Lowndes,0003 BETHEL CHURCH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Lowndes,0003 BETHEL CHURCH,Governor,,DEM,Will Boyd,12
+Lowndes,0003 BETHEL CHURCH,Governor,,DEM,Yolanda Rochelle Flowers,3
+Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,DEM,Darryl D. Perryman,70
+Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,DEM,Phillip Ensler,84
+Lowndes,0003 BETHEL CHURCH,Lowndes County Coroner,,DEM,Unverified Candidate 1,134
+Lowndes,0003 BETHEL CHURCH,Lowndes County Coroner,,DEM,Unverified Candidate 2,25
+Lowndes,0003 BETHEL CHURCH,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,122
+Lowndes,0003 BETHEL CHURCH,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,14
+Lowndes,0003 BETHEL CHURCH,"Public Service Commission, Place No. 1",,DEM,John Northrop,5
+Lowndes,0003 BETHEL CHURCH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,90
+Lowndes,0003 BETHEL CHURCH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,40
+Lowndes,0003 BETHEL CHURCH,State House,69.0,DEM,Kelvin J Lawrence,156
+Lowndes,0003 BETHEL CHURCH,State House,69.0,DEM,Marshae R. Madison,10
+Lowndes,0003 BETHEL CHURCH,U.S. Senate,,DEM,Dakarai Larriett,32
+Lowndes,0003 BETHEL CHURCH,U.S. Senate,,DEM,Everett Wess,69
+Lowndes,0003 BETHEL CHURCH,U.S. Senate,,DEM,Kyle Sweetser,16
+Lowndes,0003 BETHEL CHURCH,U.S. Senate,,DEM,Mark S. Wheeler II,25
 Lowndes,0003 BETHEL CHURCH,Attorney General,,REP,Jay Mitchell,0
 Lowndes,0003 BETHEL CHURCH,Attorney General,,REP,Katherine Robertson,21
 Lowndes,0003 BETHEL CHURCH,Attorney General,,REP,Pamela L. Casey,0
@@ -90,14 +178,24 @@ Lowndes,0003 BETHEL CHURCH,Commissioner of Agriculture and Industries,,REP,Chris
 Lowndes,0003 BETHEL CHURCH,Commissioner of Agriculture and Industries,,REP,Cory Hill,11
 Lowndes,0003 BETHEL CHURCH,Commissioner of Agriculture and Industries,,REP,Jack Williams,6
 Lowndes,0003 BETHEL CHURCH,Governor,,REP,"""Alabama"" Will Santivasci",1
+Lowndes,0003 BETHEL CHURCH,Governor,,REP,"""Alabama"" Will Santivasci",1
+Lowndes,0003 BETHEL CHURCH,Governor,,REP,Ken McFeeters,2
 Lowndes,0003 BETHEL CHURCH,Governor,,REP,Ken McFeeters,2
 Lowndes,0003 BETHEL CHURCH,Governor,,REP,Thomas Tuberville,19
+Lowndes,0003 BETHEL CHURCH,Governor,,REP,Thomas Tuberville,19
+Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,John Wahl,2
+Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,John Wahl,2
+Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,Rick Pate,10
 Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,Rick Pate,10
 Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,Wes Allen,10
 Lowndes,0003 BETHEL CHURCH,Lieutenant Governor,,REP,Wes Allen,10
 Lowndes,0003 BETHEL CHURCH,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,4
 Lowndes,0003 BETHEL CHURCH,"Public Service Commission, Place No. 1",,REP,Matt Gentry,15
@@ -119,10 +217,31 @@ Lowndes,0003 BETHEL CHURCH,U.S. Senate,,REP,Morgan Murphy,0
 Lowndes,0003 BETHEL CHURCH,U.S. Senate,,REP,Rodney Walker,0
 Lowndes,0003 BETHEL CHURCH,U.S. Senate,,REP,Seth Burton,0
 Lowndes,0003 BETHEL CHURCH,U.S. Senate,,REP,Steve Marshall,9
-Lowndes,0004 MOSSES TOWN HALL,Proposed Statewide Amendment 1,,,No,143
-Lowndes,0004 MOSSES TOWN HALL,Proposed Statewide Amendment 1,,,Yes,205
-Lowndes,0004 MOSSES TOWN HALL,Proposed Statewide Amendment 2,,,No,90
-Lowndes,0004 MOSSES TOWN HALL,Proposed Statewide Amendment 2,,,Yes,252
+Lowndes,0003 BETHEL CHURCH,Proposed Statewide Amendment 1,,,No,55
+Lowndes,0003 BETHEL CHURCH,Proposed Statewide Amendment 1,,,Yes,120
+Lowndes,0003 BETHEL CHURCH,Proposed Statewide Amendment 2,,,No,37
+Lowndes,0003 BETHEL CHURCH,Proposed Statewide Amendment 2,,,Yes,137
+Lowndes,0004 MOSSES TOWN HALL,Governor,,DEM,"Chad ""Chig"" Martin",4
+Lowndes,0004 MOSSES TOWN HALL,Governor,,DEM,Doug Jones,301
+Lowndes,0004 MOSSES TOWN HALL,Governor,,DEM,Jamel J. Brown,39
+Lowndes,0004 MOSSES TOWN HALL,Governor,,DEM,"Nathan ""Nate"" Mathis",2
+Lowndes,0004 MOSSES TOWN HALL,Governor,,DEM,Will Boyd,24
+Lowndes,0004 MOSSES TOWN HALL,Governor,,DEM,Yolanda Rochelle Flowers,17
+Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,DEM,Darryl D. Perryman,133
+Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,DEM,Phillip Ensler,200
+Lowndes,0004 MOSSES TOWN HALL,Lowndes County Coroner,,DEM,Unverified Candidate 1,260
+Lowndes,0004 MOSSES TOWN HALL,Lowndes County Coroner,,DEM,Unverified Candidate 2,119
+Lowndes,0004 MOSSES TOWN HALL,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,268
+Lowndes,0004 MOSSES TOWN HALL,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,25
+Lowndes,0004 MOSSES TOWN HALL,"Public Service Commission, Place No. 1",,DEM,John Northrop,20
+Lowndes,0004 MOSSES TOWN HALL,State Democratic Executive Committee,,DEM,Unverified Candidate 1,116
+Lowndes,0004 MOSSES TOWN HALL,State Democratic Executive Committee,,DEM,Unverified Candidate 2,128
+Lowndes,0004 MOSSES TOWN HALL,State House,69.0,DEM,Kelvin J Lawrence,315
+Lowndes,0004 MOSSES TOWN HALL,State House,69.0,DEM,Marshae R. Madison,67
+Lowndes,0004 MOSSES TOWN HALL,U.S. Senate,,DEM,Dakarai Larriett,44
+Lowndes,0004 MOSSES TOWN HALL,U.S. Senate,,DEM,Everett Wess,205
+Lowndes,0004 MOSSES TOWN HALL,U.S. Senate,,DEM,Kyle Sweetser,31
+Lowndes,0004 MOSSES TOWN HALL,U.S. Senate,,DEM,Mark S. Wheeler II,32
 Lowndes,0004 MOSSES TOWN HALL,Attorney General,,REP,Jay Mitchell,3
 Lowndes,0004 MOSSES TOWN HALL,Attorney General,,REP,Katherine Robertson,2
 Lowndes,0004 MOSSES TOWN HALL,Attorney General,,REP,Pamela L. Casey,3
@@ -130,14 +249,24 @@ Lowndes,0004 MOSSES TOWN HALL,Commissioner of Agriculture and Industries,,REP,Ch
 Lowndes,0004 MOSSES TOWN HALL,Commissioner of Agriculture and Industries,,REP,Cory Hill,1
 Lowndes,0004 MOSSES TOWN HALL,Commissioner of Agriculture and Industries,,REP,Jack Williams,3
 Lowndes,0004 MOSSES TOWN HALL,Governor,,REP,"""Alabama"" Will Santivasci",2
+Lowndes,0004 MOSSES TOWN HALL,Governor,,REP,"""Alabama"" Will Santivasci",2
+Lowndes,0004 MOSSES TOWN HALL,Governor,,REP,Ken McFeeters,1
 Lowndes,0004 MOSSES TOWN HALL,Governor,,REP,Ken McFeeters,1
 Lowndes,0004 MOSSES TOWN HALL,Governor,,REP,Thomas Tuberville,5
+Lowndes,0004 MOSSES TOWN HALL,Governor,,REP,Thomas Tuberville,5
+Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,George Childress,1
 Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,George Childress,1
 Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,John Wahl,2
+Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,John Wahl,2
+Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,2
 Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,2
 Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,Pat Bishop,3
+Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,Pat Bishop,3
+Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,Rick Pate,2
 Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,Rick Pate,2
 Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,Stewart Hill Tankersley,2
+Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,Stewart Hill Tankersley,2
+Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,Wes Allen,2
 Lowndes,0004 MOSSES TOWN HALL,Lieutenant Governor,,REP,Wes Allen,2
 Lowndes,0004 MOSSES TOWN HALL,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,2
 Lowndes,0004 MOSSES TOWN HALL,"Public Service Commission, Place No. 1",,REP,Matt Gentry,4
@@ -159,10 +288,31 @@ Lowndes,0004 MOSSES TOWN HALL,U.S. Senate,,REP,Morgan Murphy,2
 Lowndes,0004 MOSSES TOWN HALL,U.S. Senate,,REP,Rodney Walker,1
 Lowndes,0004 MOSSES TOWN HALL,U.S. Senate,,REP,Seth Burton,1
 Lowndes,0004 MOSSES TOWN HALL,U.S. Senate,,REP,Steve Marshall,4
-Lowndes,0005 NEW SALEM CHURCH,Proposed Statewide Amendment 1,,,No,63
-Lowndes,0005 NEW SALEM CHURCH,Proposed Statewide Amendment 1,,,Yes,131
-Lowndes,0005 NEW SALEM CHURCH,Proposed Statewide Amendment 2,,,No,51
-Lowndes,0005 NEW SALEM CHURCH,Proposed Statewide Amendment 2,,,Yes,141
+Lowndes,0004 MOSSES TOWN HALL,Proposed Statewide Amendment 1,,,No,143
+Lowndes,0004 MOSSES TOWN HALL,Proposed Statewide Amendment 1,,,Yes,205
+Lowndes,0004 MOSSES TOWN HALL,Proposed Statewide Amendment 2,,,No,90
+Lowndes,0004 MOSSES TOWN HALL,Proposed Statewide Amendment 2,,,Yes,252
+Lowndes,0005 NEW SALEM CHURCH,Governor,,DEM,"Chad ""Chig"" Martin",1
+Lowndes,0005 NEW SALEM CHURCH,Governor,,DEM,Doug Jones,122
+Lowndes,0005 NEW SALEM CHURCH,Governor,,DEM,Jamel J. Brown,12
+Lowndes,0005 NEW SALEM CHURCH,Governor,,DEM,"Nathan ""Nate"" Mathis",2
+Lowndes,0005 NEW SALEM CHURCH,Governor,,DEM,Will Boyd,15
+Lowndes,0005 NEW SALEM CHURCH,Governor,,DEM,Yolanda Rochelle Flowers,5
+Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,DEM,Darryl D. Perryman,76
+Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,DEM,Phillip Ensler,77
+Lowndes,0005 NEW SALEM CHURCH,Lowndes County Coroner,,DEM,Unverified Candidate 1,131
+Lowndes,0005 NEW SALEM CHURCH,Lowndes County Coroner,,DEM,Unverified Candidate 2,25
+Lowndes,0005 NEW SALEM CHURCH,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,106
+Lowndes,0005 NEW SALEM CHURCH,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,24
+Lowndes,0005 NEW SALEM CHURCH,"Public Service Commission, Place No. 1",,DEM,John Northrop,10
+Lowndes,0005 NEW SALEM CHURCH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,91
+Lowndes,0005 NEW SALEM CHURCH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,48
+Lowndes,0005 NEW SALEM CHURCH,State House,69.0,DEM,Kelvin J Lawrence,123
+Lowndes,0005 NEW SALEM CHURCH,State House,69.0,DEM,Marshae R. Madison,35
+Lowndes,0005 NEW SALEM CHURCH,U.S. Senate,,DEM,Dakarai Larriett,25
+Lowndes,0005 NEW SALEM CHURCH,U.S. Senate,,DEM,Everett Wess,85
+Lowndes,0005 NEW SALEM CHURCH,U.S. Senate,,DEM,Kyle Sweetser,16
+Lowndes,0005 NEW SALEM CHURCH,U.S. Senate,,DEM,Mark S. Wheeler II,19
 Lowndes,0005 NEW SALEM CHURCH,Attorney General,,REP,Jay Mitchell,8
 Lowndes,0005 NEW SALEM CHURCH,Attorney General,,REP,Katherine Robertson,23
 Lowndes,0005 NEW SALEM CHURCH,Attorney General,,REP,Pamela L. Casey,13
@@ -170,14 +320,24 @@ Lowndes,0005 NEW SALEM CHURCH,Commissioner of Agriculture and Industries,,REP,Ch
 Lowndes,0005 NEW SALEM CHURCH,Commissioner of Agriculture and Industries,,REP,Cory Hill,18
 Lowndes,0005 NEW SALEM CHURCH,Commissioner of Agriculture and Industries,,REP,Jack Williams,10
 Lowndes,0005 NEW SALEM CHURCH,Governor,,REP,"""Alabama"" Will Santivasci",0
+Lowndes,0005 NEW SALEM CHURCH,Governor,,REP,"""Alabama"" Will Santivasci",0
+Lowndes,0005 NEW SALEM CHURCH,Governor,,REP,Ken McFeeters,4
 Lowndes,0005 NEW SALEM CHURCH,Governor,,REP,Ken McFeeters,4
 Lowndes,0005 NEW SALEM CHURCH,Governor,,REP,Thomas Tuberville,42
+Lowndes,0005 NEW SALEM CHURCH,Governor,,REP,Thomas Tuberville,42
+Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,John Wahl,3
+Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,John Wahl,3
+Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,Rick Pate,35
 Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,Rick Pate,35
 Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,Wes Allen,9
 Lowndes,0005 NEW SALEM CHURCH,Lieutenant Governor,,REP,Wes Allen,9
 Lowndes,0005 NEW SALEM CHURCH,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,11
 Lowndes,0005 NEW SALEM CHURCH,"Public Service Commission, Place No. 1",,REP,Matt Gentry,29
@@ -199,10 +359,38 @@ Lowndes,0005 NEW SALEM CHURCH,U.S. Senate,,REP,Morgan Murphy,0
 Lowndes,0005 NEW SALEM CHURCH,U.S. Senate,,REP,Rodney Walker,0
 Lowndes,0005 NEW SALEM CHURCH,U.S. Senate,,REP,Seth Burton,1
 Lowndes,0005 NEW SALEM CHURCH,U.S. Senate,,REP,Steve Marshall,24
-Lowndes,0006 HAYNEVILLE C.H. ANNEX,Proposed Statewide Amendment 1,,,No,88
-Lowndes,0006 HAYNEVILLE C.H. ANNEX,Proposed Statewide Amendment 1,,,Yes,264
-Lowndes,0006 HAYNEVILLE C.H. ANNEX,Proposed Statewide Amendment 2,,,No,109
-Lowndes,0006 HAYNEVILLE C.H. ANNEX,Proposed Statewide Amendment 2,,,Yes,231
+Lowndes,0005 NEW SALEM CHURCH,Proposed Statewide Amendment 1,,,No,63
+Lowndes,0005 NEW SALEM CHURCH,Proposed Statewide Amendment 1,,,Yes,131
+Lowndes,0005 NEW SALEM CHURCH,Proposed Statewide Amendment 2,,,No,51
+Lowndes,0005 NEW SALEM CHURCH,Proposed Statewide Amendment 2,,,Yes,141
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Governor,,DEM,"Chad ""Chig"" Martin",1
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Governor,,DEM,Doug Jones,261
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Governor,,DEM,Jamel J. Brown,30
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Governor,,DEM,"Nathan ""Nate"" Mathis",4
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Governor,,DEM,Will Boyd,23
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Governor,,DEM,Yolanda Rochelle Flowers,5
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,DEM,Darryl D. Perryman,97
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,DEM,Phillip Ensler,182
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lowndes County Coroner,,DEM,Unverified Candidate 1,276
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lowndes County Coroner,,DEM,Unverified Candidate 2,54
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Member, Lowndes County Board of Education, District No. 1",,DEM,Unverified Candidate 1,0
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Member, Lowndes County Board of Education, District No. 1",,DEM,Unverified Candidate 2,0
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Member, Lowndes County Board of Education. District No. 5",,DEM,Unverified Candidate 1,129
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Member, Lowndes County Board of Education. District No. 5",,DEM,Unverified Candidate 2,202
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 1,0
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 2,0
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 3,0
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,191
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,34
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Public Service Commission, Place No. 1",,DEM,John Northrop,27
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,State Democratic Executive Committee,,DEM,Unverified Candidate 1,138
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,State Democratic Executive Committee,,DEM,Unverified Candidate 2,105
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,State House,69.0,DEM,Kelvin J Lawrence,272
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,State House,69.0,DEM,Marshae R. Madison,60
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,U.S. Senate,,DEM,Dakarai Larriett,65
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,U.S. Senate,,DEM,Everett Wess,131
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,U.S. Senate,,DEM,Kyle Sweetser,36
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,U.S. Senate,,DEM,Mark S. Wheeler II,30
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Attorney General,,REP,Jay Mitchell,10
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Attorney General,,REP,Katherine Robertson,24
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Attorney General,,REP,Pamela L. Casey,10
@@ -210,14 +398,24 @@ Lowndes,0006 HAYNEVILLE C.H. ANNEX,Commissioner of Agriculture and Industries,,R
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Commissioner of Agriculture and Industries,,REP,Cory Hill,10
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Commissioner of Agriculture and Industries,,REP,Jack Williams,21
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Governor,,REP,"""Alabama"" Will Santivasci",1
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Governor,,REP,"""Alabama"" Will Santivasci",1
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Governor,,REP,Ken McFeeters,0
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Governor,,REP,Ken McFeeters,0
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Governor,,REP,Thomas Tuberville,44
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Governor,,REP,Thomas Tuberville,44
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,George Childress,1
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,George Childress,1
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,John Wahl,3
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,John Wahl,3
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,Rick Pate,37
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,Rick Pate,37
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,Wes Allen,4
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,Lieutenant Governor,,REP,Wes Allen,4
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,15
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Public Service Commission, Place No. 1",,REP,Matt Gentry,25
@@ -239,10 +437,38 @@ Lowndes,0006 HAYNEVILLE C.H. ANNEX,U.S. Senate,,REP,Morgan Murphy,0
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,U.S. Senate,,REP,Rodney Walker,0
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,U.S. Senate,,REP,Seth Burton,1
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,U.S. Senate,,REP,Steve Marshall,14
-Lowndes,0007 BURKEVILLE VFD,Proposed Statewide Amendment 1,,,No,55
-Lowndes,0007 BURKEVILLE VFD,Proposed Statewide Amendment 1,,,Yes,189
-Lowndes,0007 BURKEVILLE VFD,Proposed Statewide Amendment 2,,,No,74
-Lowndes,0007 BURKEVILLE VFD,Proposed Statewide Amendment 2,,,Yes,169
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Proposed Statewide Amendment 1,,,No,88
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Proposed Statewide Amendment 1,,,Yes,264
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Proposed Statewide Amendment 2,,,No,109
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,Proposed Statewide Amendment 2,,,Yes,231
+Lowndes,0007 BURKEVILLE VFD,Governor,,DEM,"Chad ""Chig"" Martin",1
+Lowndes,0007 BURKEVILLE VFD,Governor,,DEM,Doug Jones,184
+Lowndes,0007 BURKEVILLE VFD,Governor,,DEM,Jamel J. Brown,8
+Lowndes,0007 BURKEVILLE VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",6
+Lowndes,0007 BURKEVILLE VFD,Governor,,DEM,Will Boyd,18
+Lowndes,0007 BURKEVILLE VFD,Governor,,DEM,Yolanda Rochelle Flowers,6
+Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,77
+Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,DEM,Phillip Ensler,127
+Lowndes,0007 BURKEVILLE VFD,Lowndes County Coroner,,DEM,Unverified Candidate 1,170
+Lowndes,0007 BURKEVILLE VFD,Lowndes County Coroner,,DEM,Unverified Candidate 2,44
+Lowndes,0007 BURKEVILLE VFD,"Member, Lowndes County Board of Education, District No. 1",,DEM,Unverified Candidate 1,2
+Lowndes,0007 BURKEVILLE VFD,"Member, Lowndes County Board of Education, District No. 1",,DEM,Unverified Candidate 2,10
+Lowndes,0007 BURKEVILLE VFD,"Member, Lowndes County Board of Education. District No. 5",,DEM,Unverified Candidate 1,57
+Lowndes,0007 BURKEVILLE VFD,"Member, Lowndes County Board of Education. District No. 5",,DEM,Unverified Candidate 2,138
+Lowndes,0007 BURKEVILLE VFD,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 1,2
+Lowndes,0007 BURKEVILLE VFD,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 2,10
+Lowndes,0007 BURKEVILLE VFD,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 3,1
+Lowndes,0007 BURKEVILLE VFD,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,142
+Lowndes,0007 BURKEVILLE VFD,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,30
+Lowndes,0007 BURKEVILLE VFD,"Public Service Commission, Place No. 1",,DEM,John Northrop,15
+Lowndes,0007 BURKEVILLE VFD,State Democratic Executive Committee,,DEM,Unverified Candidate 1,82
+Lowndes,0007 BURKEVILLE VFD,State Democratic Executive Committee,,DEM,Unverified Candidate 2,99
+Lowndes,0007 BURKEVILLE VFD,State House,69.0,DEM,Kelvin J Lawrence,168
+Lowndes,0007 BURKEVILLE VFD,State House,69.0,DEM,Marshae R. Madison,50
+Lowndes,0007 BURKEVILLE VFD,U.S. Senate,,DEM,Dakarai Larriett,46
+Lowndes,0007 BURKEVILLE VFD,U.S. Senate,,DEM,Everett Wess,94
+Lowndes,0007 BURKEVILLE VFD,U.S. Senate,,DEM,Kyle Sweetser,20
+Lowndes,0007 BURKEVILLE VFD,U.S. Senate,,DEM,Mark S. Wheeler II,36
 Lowndes,0007 BURKEVILLE VFD,Attorney General,,REP,Jay Mitchell,9
 Lowndes,0007 BURKEVILLE VFD,Attorney General,,REP,Katherine Robertson,9
 Lowndes,0007 BURKEVILLE VFD,Attorney General,,REP,Pamela L. Casey,11
@@ -250,14 +476,24 @@ Lowndes,0007 BURKEVILLE VFD,Commissioner of Agriculture and Industries,,REP,Chri
 Lowndes,0007 BURKEVILLE VFD,Commissioner of Agriculture and Industries,,REP,Cory Hill,12
 Lowndes,0007 BURKEVILLE VFD,Commissioner of Agriculture and Industries,,REP,Jack Williams,8
 Lowndes,0007 BURKEVILLE VFD,Governor,,REP,"""Alabama"" Will Santivasci",0
+Lowndes,0007 BURKEVILLE VFD,Governor,,REP,"""Alabama"" Will Santivasci",0
+Lowndes,0007 BURKEVILLE VFD,Governor,,REP,Ken McFeeters,1
 Lowndes,0007 BURKEVILLE VFD,Governor,,REP,Ken McFeeters,1
 Lowndes,0007 BURKEVILLE VFD,Governor,,REP,Thomas Tuberville,27
+Lowndes,0007 BURKEVILLE VFD,Governor,,REP,Thomas Tuberville,27
+Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,John Wahl,6
+Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,John Wahl,6
+Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,Pat Bishop,1
+Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,Pat Bishop,1
+Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,Rick Pate,18
 Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,Rick Pate,18
 Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,Wes Allen,4
 Lowndes,0007 BURKEVILLE VFD,Lieutenant Governor,,REP,Wes Allen,4
 Lowndes,0007 BURKEVILLE VFD,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,6
 Lowndes,0007 BURKEVILLE VFD,"Public Service Commission, Place No. 1",,REP,Matt Gentry,17
@@ -279,10 +515,33 @@ Lowndes,0007 BURKEVILLE VFD,U.S. Senate,,REP,Morgan Murphy,0
 Lowndes,0007 BURKEVILLE VFD,U.S. Senate,,REP,Rodney Walker,2
 Lowndes,0007 BURKEVILLE VFD,U.S. Senate,,REP,Seth Burton,1
 Lowndes,0007 BURKEVILLE VFD,U.S. Senate,,REP,Steve Marshall,15
-Lowndes,0008 LILY BAPTIST CHURCH,Proposed Statewide Amendment 1,,,No,20
-Lowndes,0008 LILY BAPTIST CHURCH,Proposed Statewide Amendment 1,,,Yes,59
-Lowndes,0008 LILY BAPTIST CHURCH,Proposed Statewide Amendment 2,,,No,26
-Lowndes,0008 LILY BAPTIST CHURCH,Proposed Statewide Amendment 2,,,Yes,48
+Lowndes,0007 BURKEVILLE VFD,Proposed Statewide Amendment 1,,,No,55
+Lowndes,0007 BURKEVILLE VFD,Proposed Statewide Amendment 1,,,Yes,189
+Lowndes,0007 BURKEVILLE VFD,Proposed Statewide Amendment 2,,,No,74
+Lowndes,0007 BURKEVILLE VFD,Proposed Statewide Amendment 2,,,Yes,169
+Lowndes,0008 LILY BAPTIST CHURCH,Governor,,DEM,"Chad ""Chig"" Martin",1
+Lowndes,0008 LILY BAPTIST CHURCH,Governor,,DEM,Doug Jones,42
+Lowndes,0008 LILY BAPTIST CHURCH,Governor,,DEM,Jamel J. Brown,0
+Lowndes,0008 LILY BAPTIST CHURCH,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+Lowndes,0008 LILY BAPTIST CHURCH,Governor,,DEM,Will Boyd,3
+Lowndes,0008 LILY BAPTIST CHURCH,Governor,,DEM,Yolanda Rochelle Flowers,0
+Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,DEM,Darryl D. Perryman,13
+Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,DEM,Phillip Ensler,31
+Lowndes,0008 LILY BAPTIST CHURCH,Lowndes County Coroner,,DEM,Unverified Candidate 1,52
+Lowndes,0008 LILY BAPTIST CHURCH,Lowndes County Coroner,,DEM,Unverified Candidate 2,4
+Lowndes,0008 LILY BAPTIST CHURCH,"Member, Lowndes County Board of Education. District No. 5",,DEM,Unverified Candidate 1,15
+Lowndes,0008 LILY BAPTIST CHURCH,"Member, Lowndes County Board of Education. District No. 5",,DEM,Unverified Candidate 2,37
+Lowndes,0008 LILY BAPTIST CHURCH,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,27
+Lowndes,0008 LILY BAPTIST CHURCH,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,8
+Lowndes,0008 LILY BAPTIST CHURCH,"Public Service Commission, Place No. 1",,DEM,John Northrop,5
+Lowndes,0008 LILY BAPTIST CHURCH,State Democratic Executive Committee,,DEM,Unverified Candidate 1,29
+Lowndes,0008 LILY BAPTIST CHURCH,State Democratic Executive Committee,,DEM,Unverified Candidate 2,7
+Lowndes,0008 LILY BAPTIST CHURCH,State House,69.0,DEM,Kelvin J Lawrence,43
+Lowndes,0008 LILY BAPTIST CHURCH,State House,69.0,DEM,Marshae R. Madison,10
+Lowndes,0008 LILY BAPTIST CHURCH,U.S. Senate,,DEM,Dakarai Larriett,3
+Lowndes,0008 LILY BAPTIST CHURCH,U.S. Senate,,DEM,Everett Wess,24
+Lowndes,0008 LILY BAPTIST CHURCH,U.S. Senate,,DEM,Kyle Sweetser,4
+Lowndes,0008 LILY BAPTIST CHURCH,U.S. Senate,,DEM,Mark S. Wheeler II,9
 Lowndes,0008 LILY BAPTIST CHURCH,Attorney General,,REP,Jay Mitchell,6
 Lowndes,0008 LILY BAPTIST CHURCH,Attorney General,,REP,Katherine Robertson,13
 Lowndes,0008 LILY BAPTIST CHURCH,Attorney General,,REP,Pamela L. Casey,4
@@ -290,14 +549,24 @@ Lowndes,0008 LILY BAPTIST CHURCH,Commissioner of Agriculture and Industries,,REP
 Lowndes,0008 LILY BAPTIST CHURCH,Commissioner of Agriculture and Industries,,REP,Cory Hill,9
 Lowndes,0008 LILY BAPTIST CHURCH,Commissioner of Agriculture and Industries,,REP,Jack Williams,5
 Lowndes,0008 LILY BAPTIST CHURCH,Governor,,REP,"""Alabama"" Will Santivasci",2
+Lowndes,0008 LILY BAPTIST CHURCH,Governor,,REP,"""Alabama"" Will Santivasci",2
+Lowndes,0008 LILY BAPTIST CHURCH,Governor,,REP,Ken McFeeters,0
 Lowndes,0008 LILY BAPTIST CHURCH,Governor,,REP,Ken McFeeters,0
 Lowndes,0008 LILY BAPTIST CHURCH,Governor,,REP,Thomas Tuberville,22
+Lowndes,0008 LILY BAPTIST CHURCH,Governor,,REP,Thomas Tuberville,22
+Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,John Wahl,3
+Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,John Wahl,3
+Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,Rick Pate,8
 Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,Rick Pate,8
 Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,3
+Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,3
+Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,Wes Allen,9
 Lowndes,0008 LILY BAPTIST CHURCH,Lieutenant Governor,,REP,Wes Allen,9
 Lowndes,0008 LILY BAPTIST CHURCH,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,3
 Lowndes,0008 LILY BAPTIST CHURCH,"Public Service Commission, Place No. 1",,REP,Matt Gentry,18
@@ -319,10 +588,31 @@ Lowndes,0008 LILY BAPTIST CHURCH,U.S. Senate,,REP,Morgan Murphy,1
 Lowndes,0008 LILY BAPTIST CHURCH,U.S. Senate,,REP,Rodney Walker,1
 Lowndes,0008 LILY BAPTIST CHURCH,U.S. Senate,,REP,Seth Burton,0
 Lowndes,0008 LILY BAPTIST CHURCH,U.S. Senate,,REP,Steve Marshall,5
-Lowndes,0009 CALHOUN VOL FIRE,Proposed Statewide Amendment 1,,,No,63
-Lowndes,0009 CALHOUN VOL FIRE,Proposed Statewide Amendment 1,,,Yes,95
-Lowndes,0009 CALHOUN VOL FIRE,Proposed Statewide Amendment 2,,,No,60
-Lowndes,0009 CALHOUN VOL FIRE,Proposed Statewide Amendment 2,,,Yes,93
+Lowndes,0008 LILY BAPTIST CHURCH,Proposed Statewide Amendment 1,,,No,20
+Lowndes,0008 LILY BAPTIST CHURCH,Proposed Statewide Amendment 1,,,Yes,59
+Lowndes,0008 LILY BAPTIST CHURCH,Proposed Statewide Amendment 2,,,No,26
+Lowndes,0008 LILY BAPTIST CHURCH,Proposed Statewide Amendment 2,,,Yes,48
+Lowndes,0009 CALHOUN VOL FIRE,Governor,,DEM,"Chad ""Chig"" Martin",0
+Lowndes,0009 CALHOUN VOL FIRE,Governor,,DEM,Doug Jones,144
+Lowndes,0009 CALHOUN VOL FIRE,Governor,,DEM,Jamel J. Brown,13
+Lowndes,0009 CALHOUN VOL FIRE,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Lowndes,0009 CALHOUN VOL FIRE,Governor,,DEM,Will Boyd,9
+Lowndes,0009 CALHOUN VOL FIRE,Governor,,DEM,Yolanda Rochelle Flowers,7
+Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,DEM,Darryl D. Perryman,80
+Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,DEM,Phillip Ensler,65
+Lowndes,0009 CALHOUN VOL FIRE,Lowndes County Coroner,,DEM,Unverified Candidate 1,155
+Lowndes,0009 CALHOUN VOL FIRE,Lowndes County Coroner,,DEM,Unverified Candidate 2,22
+Lowndes,0009 CALHOUN VOL FIRE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,108
+Lowndes,0009 CALHOUN VOL FIRE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,14
+Lowndes,0009 CALHOUN VOL FIRE,"Public Service Commission, Place No. 1",,DEM,John Northrop,7
+Lowndes,0009 CALHOUN VOL FIRE,State Democratic Executive Committee,,DEM,Unverified Candidate 1,73
+Lowndes,0009 CALHOUN VOL FIRE,State Democratic Executive Committee,,DEM,Unverified Candidate 2,49
+Lowndes,0009 CALHOUN VOL FIRE,State House,69.0,DEM,Kelvin J Lawrence,142
+Lowndes,0009 CALHOUN VOL FIRE,State House,69.0,DEM,Marshae R. Madison,38
+Lowndes,0009 CALHOUN VOL FIRE,U.S. Senate,,DEM,Dakarai Larriett,39
+Lowndes,0009 CALHOUN VOL FIRE,U.S. Senate,,DEM,Everett Wess,59
+Lowndes,0009 CALHOUN VOL FIRE,U.S. Senate,,DEM,Kyle Sweetser,17
+Lowndes,0009 CALHOUN VOL FIRE,U.S. Senate,,DEM,Mark S. Wheeler II,19
 Lowndes,0009 CALHOUN VOL FIRE,Attorney General,,REP,Jay Mitchell,0
 Lowndes,0009 CALHOUN VOL FIRE,Attorney General,,REP,Katherine Robertson,1
 Lowndes,0009 CALHOUN VOL FIRE,Attorney General,,REP,Pamela L. Casey,0
@@ -330,14 +620,24 @@ Lowndes,0009 CALHOUN VOL FIRE,Commissioner of Agriculture and Industries,,REP,Ch
 Lowndes,0009 CALHOUN VOL FIRE,Commissioner of Agriculture and Industries,,REP,Cory Hill,0
 Lowndes,0009 CALHOUN VOL FIRE,Commissioner of Agriculture and Industries,,REP,Jack Williams,1
 Lowndes,0009 CALHOUN VOL FIRE,Governor,,REP,"""Alabama"" Will Santivasci",0
+Lowndes,0009 CALHOUN VOL FIRE,Governor,,REP,"""Alabama"" Will Santivasci",0
+Lowndes,0009 CALHOUN VOL FIRE,Governor,,REP,Ken McFeeters,0
 Lowndes,0009 CALHOUN VOL FIRE,Governor,,REP,Ken McFeeters,0
 Lowndes,0009 CALHOUN VOL FIRE,Governor,,REP,Thomas Tuberville,1
+Lowndes,0009 CALHOUN VOL FIRE,Governor,,REP,Thomas Tuberville,1
+Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,John Wahl,0
+Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,John Wahl,0
+Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,Rick Pate,1
 Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,Rick Pate,1
 Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,Wes Allen,0
 Lowndes,0009 CALHOUN VOL FIRE,Lieutenant Governor,,REP,Wes Allen,0
 Lowndes,0009 CALHOUN VOL FIRE,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,0
 Lowndes,0009 CALHOUN VOL FIRE,"Public Service Commission, Place No. 1",,REP,Matt Gentry,1
@@ -359,10 +659,31 @@ Lowndes,0009 CALHOUN VOL FIRE,U.S. Senate,,REP,Morgan Murphy,0
 Lowndes,0009 CALHOUN VOL FIRE,U.S. Senate,,REP,Rodney Walker,0
 Lowndes,0009 CALHOUN VOL FIRE,U.S. Senate,,REP,Seth Burton,0
 Lowndes,0009 CALHOUN VOL FIRE,U.S. Senate,,REP,Steve Marshall,0
-Lowndes,0010 FT. DEPOSIT ARMORY,Proposed Statewide Amendment 1,,,No,98
-Lowndes,0010 FT. DEPOSIT ARMORY,Proposed Statewide Amendment 1,,,Yes,166
-Lowndes,0010 FT. DEPOSIT ARMORY,Proposed Statewide Amendment 2,,,No,76
-Lowndes,0010 FT. DEPOSIT ARMORY,Proposed Statewide Amendment 2,,,Yes,187
+Lowndes,0009 CALHOUN VOL FIRE,Proposed Statewide Amendment 1,,,No,63
+Lowndes,0009 CALHOUN VOL FIRE,Proposed Statewide Amendment 1,,,Yes,95
+Lowndes,0009 CALHOUN VOL FIRE,Proposed Statewide Amendment 2,,,No,60
+Lowndes,0009 CALHOUN VOL FIRE,Proposed Statewide Amendment 2,,,Yes,93
+Lowndes,0010 FT. DEPOSIT ARMORY,Governor,,DEM,"Chad ""Chig"" Martin",1
+Lowndes,0010 FT. DEPOSIT ARMORY,Governor,,DEM,Doug Jones,166
+Lowndes,0010 FT. DEPOSIT ARMORY,Governor,,DEM,Jamel J. Brown,53
+Lowndes,0010 FT. DEPOSIT ARMORY,Governor,,DEM,"Nathan ""Nate"" Mathis",2
+Lowndes,0010 FT. DEPOSIT ARMORY,Governor,,DEM,Will Boyd,9
+Lowndes,0010 FT. DEPOSIT ARMORY,Governor,,DEM,Yolanda Rochelle Flowers,5
+Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,DEM,Darryl D. Perryman,91
+Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,DEM,Phillip Ensler,120
+Lowndes,0010 FT. DEPOSIT ARMORY,Lowndes County Coroner,,DEM,Unverified Candidate 1,209
+Lowndes,0010 FT. DEPOSIT ARMORY,Lowndes County Coroner,,DEM,Unverified Candidate 2,27
+Lowndes,0010 FT. DEPOSIT ARMORY,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,149
+Lowndes,0010 FT. DEPOSIT ARMORY,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,26
+Lowndes,0010 FT. DEPOSIT ARMORY,"Public Service Commission, Place No. 1",,DEM,John Northrop,16
+Lowndes,0010 FT. DEPOSIT ARMORY,State Democratic Executive Committee,,DEM,Unverified Candidate 1,146
+Lowndes,0010 FT. DEPOSIT ARMORY,State Democratic Executive Committee,,DEM,Unverified Candidate 2,55
+Lowndes,0010 FT. DEPOSIT ARMORY,State House,69.0,DEM,Kelvin J Lawrence,188
+Lowndes,0010 FT. DEPOSIT ARMORY,State House,69.0,DEM,Marshae R. Madison,48
+Lowndes,0010 FT. DEPOSIT ARMORY,U.S. Senate,,DEM,Dakarai Larriett,29
+Lowndes,0010 FT. DEPOSIT ARMORY,U.S. Senate,,DEM,Everett Wess,121
+Lowndes,0010 FT. DEPOSIT ARMORY,U.S. Senate,,DEM,Kyle Sweetser,27
+Lowndes,0010 FT. DEPOSIT ARMORY,U.S. Senate,,DEM,Mark S. Wheeler II,22
 Lowndes,0010 FT. DEPOSIT ARMORY,Attorney General,,REP,Jay Mitchell,17
 Lowndes,0010 FT. DEPOSIT ARMORY,Attorney General,,REP,Katherine Robertson,16
 Lowndes,0010 FT. DEPOSIT ARMORY,Attorney General,,REP,Pamela L. Casey,12
@@ -370,14 +691,24 @@ Lowndes,0010 FT. DEPOSIT ARMORY,Commissioner of Agriculture and Industries,,REP,
 Lowndes,0010 FT. DEPOSIT ARMORY,Commissioner of Agriculture and Industries,,REP,Cory Hill,12
 Lowndes,0010 FT. DEPOSIT ARMORY,Commissioner of Agriculture and Industries,,REP,Jack Williams,10
 Lowndes,0010 FT. DEPOSIT ARMORY,Governor,,REP,"""Alabama"" Will Santivasci",1
+Lowndes,0010 FT. DEPOSIT ARMORY,Governor,,REP,"""Alabama"" Will Santivasci",1
+Lowndes,0010 FT. DEPOSIT ARMORY,Governor,,REP,Ken McFeeters,1
 Lowndes,0010 FT. DEPOSIT ARMORY,Governor,,REP,Ken McFeeters,1
 Lowndes,0010 FT. DEPOSIT ARMORY,Governor,,REP,Thomas Tuberville,43
+Lowndes,0010 FT. DEPOSIT ARMORY,Governor,,REP,Thomas Tuberville,43
+Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,John Wahl,11
+Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,John Wahl,11
+Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,Rick Pate,16
 Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,Rick Pate,16
 Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,Wes Allen,18
 Lowndes,0010 FT. DEPOSIT ARMORY,Lieutenant Governor,,REP,Wes Allen,18
 Lowndes,0010 FT. DEPOSIT ARMORY,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,12
 Lowndes,0010 FT. DEPOSIT ARMORY,"Public Service Commission, Place No. 1",,REP,Matt Gentry,28
@@ -399,10 +730,31 @@ Lowndes,0010 FT. DEPOSIT ARMORY,U.S. Senate,,REP,Morgan Murphy,0
 Lowndes,0010 FT. DEPOSIT ARMORY,U.S. Senate,,REP,Rodney Walker,0
 Lowndes,0010 FT. DEPOSIT ARMORY,U.S. Senate,,REP,Seth Burton,0
 Lowndes,0010 FT. DEPOSIT ARMORY,U.S. Senate,,REP,Steve Marshall,20
-Lowndes,0011 SANDY RIDGE COMM CTR,Proposed Statewide Amendment 1,,,No,18
-Lowndes,0011 SANDY RIDGE COMM CTR,Proposed Statewide Amendment 1,,,Yes,145
-Lowndes,0011 SANDY RIDGE COMM CTR,Proposed Statewide Amendment 2,,,No,57
-Lowndes,0011 SANDY RIDGE COMM CTR,Proposed Statewide Amendment 2,,,Yes,96
+Lowndes,0010 FT. DEPOSIT ARMORY,Proposed Statewide Amendment 1,,,No,98
+Lowndes,0010 FT. DEPOSIT ARMORY,Proposed Statewide Amendment 1,,,Yes,166
+Lowndes,0010 FT. DEPOSIT ARMORY,Proposed Statewide Amendment 2,,,No,76
+Lowndes,0010 FT. DEPOSIT ARMORY,Proposed Statewide Amendment 2,,,Yes,187
+Lowndes,0011 SANDY RIDGE COMM CTR,Governor,,DEM,"Chad ""Chig"" Martin",0
+Lowndes,0011 SANDY RIDGE COMM CTR,Governor,,DEM,Doug Jones,74
+Lowndes,0011 SANDY RIDGE COMM CTR,Governor,,DEM,Jamel J. Brown,4
+Lowndes,0011 SANDY RIDGE COMM CTR,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Lowndes,0011 SANDY RIDGE COMM CTR,Governor,,DEM,Will Boyd,4
+Lowndes,0011 SANDY RIDGE COMM CTR,Governor,,DEM,Yolanda Rochelle Flowers,2
+Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,DEM,Darryl D. Perryman,29
+Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,DEM,Phillip Ensler,46
+Lowndes,0011 SANDY RIDGE COMM CTR,Lowndes County Coroner,,DEM,Unverified Candidate 1,74
+Lowndes,0011 SANDY RIDGE COMM CTR,Lowndes County Coroner,,DEM,Unverified Candidate 2,11
+Lowndes,0011 SANDY RIDGE COMM CTR,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,50
+Lowndes,0011 SANDY RIDGE COMM CTR,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,10
+Lowndes,0011 SANDY RIDGE COMM CTR,"Public Service Commission, Place No. 1",,DEM,John Northrop,11
+Lowndes,0011 SANDY RIDGE COMM CTR,State Democratic Executive Committee,,DEM,Unverified Candidate 1,52
+Lowndes,0011 SANDY RIDGE COMM CTR,State Democratic Executive Committee,,DEM,Unverified Candidate 2,14
+Lowndes,0011 SANDY RIDGE COMM CTR,State House,69.0,DEM,Kelvin J Lawrence,66
+Lowndes,0011 SANDY RIDGE COMM CTR,State House,69.0,DEM,Marshae R. Madison,18
+Lowndes,0011 SANDY RIDGE COMM CTR,U.S. Senate,,DEM,Dakarai Larriett,31
+Lowndes,0011 SANDY RIDGE COMM CTR,U.S. Senate,,DEM,Everett Wess,22
+Lowndes,0011 SANDY RIDGE COMM CTR,U.S. Senate,,DEM,Kyle Sweetser,11
+Lowndes,0011 SANDY RIDGE COMM CTR,U.S. Senate,,DEM,Mark S. Wheeler II,11
 Lowndes,0011 SANDY RIDGE COMM CTR,Attorney General,,REP,Jay Mitchell,24
 Lowndes,0011 SANDY RIDGE COMM CTR,Attorney General,,REP,Katherine Robertson,36
 Lowndes,0011 SANDY RIDGE COMM CTR,Attorney General,,REP,Pamela L. Casey,18
@@ -410,14 +762,24 @@ Lowndes,0011 SANDY RIDGE COMM CTR,Commissioner of Agriculture and Industries,,RE
 Lowndes,0011 SANDY RIDGE COMM CTR,Commissioner of Agriculture and Industries,,REP,Cory Hill,27
 Lowndes,0011 SANDY RIDGE COMM CTR,Commissioner of Agriculture and Industries,,REP,Jack Williams,13
 Lowndes,0011 SANDY RIDGE COMM CTR,Governor,,REP,"""Alabama"" Will Santivasci",1
+Lowndes,0011 SANDY RIDGE COMM CTR,Governor,,REP,"""Alabama"" Will Santivasci",1
+Lowndes,0011 SANDY RIDGE COMM CTR,Governor,,REP,Ken McFeeters,2
 Lowndes,0011 SANDY RIDGE COMM CTR,Governor,,REP,Ken McFeeters,2
 Lowndes,0011 SANDY RIDGE COMM CTR,Governor,,REP,Thomas Tuberville,74
+Lowndes,0011 SANDY RIDGE COMM CTR,Governor,,REP,Thomas Tuberville,74
+Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,George Childress,1
 Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,George Childress,1
 Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,John Wahl,11
+Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,John Wahl,11
+Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,Rick Pate,32
 Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,Rick Pate,32
 Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,4
+Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,4
+Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,Wes Allen,30
 Lowndes,0011 SANDY RIDGE COMM CTR,Lieutenant Governor,,REP,Wes Allen,30
 Lowndes,0011 SANDY RIDGE COMM CTR,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,15
 Lowndes,0011 SANDY RIDGE COMM CTR,"Public Service Commission, Place No. 1",,REP,Matt Gentry,53
@@ -439,10 +801,31 @@ Lowndes,0011 SANDY RIDGE COMM CTR,U.S. Senate,,REP,Morgan Murphy,1
 Lowndes,0011 SANDY RIDGE COMM CTR,U.S. Senate,,REP,Rodney Walker,1
 Lowndes,0011 SANDY RIDGE COMM CTR,U.S. Senate,,REP,Seth Burton,2
 Lowndes,0011 SANDY RIDGE COMM CTR,U.S. Senate,,REP,Steve Marshall,34
-Lowndes,0012 BURKVILLE FS #2,Proposed Statewide Amendment 1,,,No,41
-Lowndes,0012 BURKVILLE FS #2,Proposed Statewide Amendment 1,,,Yes,190
-Lowndes,0012 BURKVILLE FS #2,Proposed Statewide Amendment 2,,,No,99
-Lowndes,0012 BURKVILLE FS #2,Proposed Statewide Amendment 2,,,Yes,125
+Lowndes,0011 SANDY RIDGE COMM CTR,Proposed Statewide Amendment 1,,,No,18
+Lowndes,0011 SANDY RIDGE COMM CTR,Proposed Statewide Amendment 1,,,Yes,145
+Lowndes,0011 SANDY RIDGE COMM CTR,Proposed Statewide Amendment 2,,,No,57
+Lowndes,0011 SANDY RIDGE COMM CTR,Proposed Statewide Amendment 2,,,Yes,96
+Lowndes,0012 BURKVILLE FS #2,Governor,,DEM,"Chad ""Chig"" Martin",4
+Lowndes,0012 BURKVILLE FS #2,Governor,,DEM,Doug Jones,88
+Lowndes,0012 BURKVILLE FS #2,Governor,,DEM,Jamel J. Brown,11
+Lowndes,0012 BURKVILLE FS #2,Governor,,DEM,"Nathan ""Nate"" Mathis",6
+Lowndes,0012 BURKVILLE FS #2,Governor,,DEM,Will Boyd,6
+Lowndes,0012 BURKVILLE FS #2,Governor,,DEM,Yolanda Rochelle Flowers,6
+Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,DEM,Darryl D. Perryman,57
+Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,DEM,Phillip Ensler,57
+Lowndes,0012 BURKVILLE FS #2,Lowndes County Coroner,,DEM,Unverified Candidate 1,106
+Lowndes,0012 BURKVILLE FS #2,Lowndes County Coroner,,DEM,Unverified Candidate 2,17
+Lowndes,0012 BURKVILLE FS #2,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,64
+Lowndes,0012 BURKVILLE FS #2,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,24
+Lowndes,0012 BURKVILLE FS #2,"Public Service Commission, Place No. 1",,DEM,John Northrop,13
+Lowndes,0012 BURKVILLE FS #2,State Democratic Executive Committee,,DEM,Unverified Candidate 1,50
+Lowndes,0012 BURKVILLE FS #2,State Democratic Executive Committee,,DEM,Unverified Candidate 2,43
+Lowndes,0012 BURKVILLE FS #2,State House,69.0,DEM,Kelvin J Lawrence,93
+Lowndes,0012 BURKVILLE FS #2,State House,69.0,DEM,Marshae R. Madison,27
+Lowndes,0012 BURKVILLE FS #2,U.S. Senate,,DEM,Dakarai Larriett,23
+Lowndes,0012 BURKVILLE FS #2,U.S. Senate,,DEM,Everett Wess,28
+Lowndes,0012 BURKVILLE FS #2,U.S. Senate,,DEM,Kyle Sweetser,23
+Lowndes,0012 BURKVILLE FS #2,U.S. Senate,,DEM,Mark S. Wheeler II,32
 Lowndes,0012 BURKVILLE FS #2,Attorney General,,REP,Jay Mitchell,29
 Lowndes,0012 BURKVILLE FS #2,Attorney General,,REP,Katherine Robertson,52
 Lowndes,0012 BURKVILLE FS #2,Attorney General,,REP,Pamela L. Casey,23
@@ -450,14 +833,24 @@ Lowndes,0012 BURKVILLE FS #2,Commissioner of Agriculture and Industries,,REP,Chr
 Lowndes,0012 BURKVILLE FS #2,Commissioner of Agriculture and Industries,,REP,Cory Hill,44
 Lowndes,0012 BURKVILLE FS #2,Commissioner of Agriculture and Industries,,REP,Jack Williams,36
 Lowndes,0012 BURKVILLE FS #2,Governor,,REP,"""Alabama"" Will Santivasci",2
+Lowndes,0012 BURKVILLE FS #2,Governor,,REP,"""Alabama"" Will Santivasci",2
+Lowndes,0012 BURKVILLE FS #2,Governor,,REP,Ken McFeeters,2
 Lowndes,0012 BURKVILLE FS #2,Governor,,REP,Ken McFeeters,2
 Lowndes,0012 BURKVILLE FS #2,Governor,,REP,Thomas Tuberville,99
+Lowndes,0012 BURKVILLE FS #2,Governor,,REP,Thomas Tuberville,99
+Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,George Childress,2
 Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,George Childress,2
 Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,John Wahl,21
+Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,John Wahl,21
+Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
 Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
 Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,Rick Pate,40
 Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,Rick Pate,40
 Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,Stewart Hill Tankersley,7
+Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,Stewart Hill Tankersley,7
+Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,Wes Allen,32
 Lowndes,0012 BURKVILLE FS #2,Lieutenant Governor,,REP,Wes Allen,32
 Lowndes,0012 BURKVILLE FS #2,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,15
 Lowndes,0012 BURKVILLE FS #2,"Public Service Commission, Place No. 1",,REP,Matt Gentry,80
@@ -479,10 +872,38 @@ Lowndes,0012 BURKVILLE FS #2,U.S. Senate,,REP,Morgan Murphy,0
 Lowndes,0012 BURKVILLE FS #2,U.S. Senate,,REP,Rodney Walker,4
 Lowndes,0012 BURKVILLE FS #2,U.S. Senate,,REP,Seth Burton,2
 Lowndes,0012 BURKVILLE FS #2,U.S. Senate,,REP,Steve Marshall,32
-Lowndes,0013 ABSENTEE,Proposed Statewide Amendment 1,,,No,4
-Lowndes,0013 ABSENTEE,Proposed Statewide Amendment 1,,,Yes,126
-Lowndes,0013 ABSENTEE,Proposed Statewide Amendment 2,,,No,46
-Lowndes,0013 ABSENTEE,Proposed Statewide Amendment 2,,,Yes,79
+Lowndes,0012 BURKVILLE FS #2,Proposed Statewide Amendment 1,,,No,41
+Lowndes,0012 BURKVILLE FS #2,Proposed Statewide Amendment 1,,,Yes,190
+Lowndes,0012 BURKVILLE FS #2,Proposed Statewide Amendment 2,,,No,99
+Lowndes,0012 BURKVILLE FS #2,Proposed Statewide Amendment 2,,,Yes,125
+Lowndes,0013 ABSENTEE,Governor,,DEM,"Chad ""Chig"" Martin",1
+Lowndes,0013 ABSENTEE,Governor,,DEM,Doug Jones,103
+Lowndes,0013 ABSENTEE,Governor,,DEM,Jamel J. Brown,1
+Lowndes,0013 ABSENTEE,Governor,,DEM,"Nathan ""Nate"" Mathis",2
+Lowndes,0013 ABSENTEE,Governor,,DEM,Will Boyd,18
+Lowndes,0013 ABSENTEE,Governor,,DEM,Yolanda Rochelle Flowers,4
+Lowndes,0013 ABSENTEE,Lieutenant Governor,,DEM,Darryl D. Perryman,46
+Lowndes,0013 ABSENTEE,Lieutenant Governor,,DEM,Phillip Ensler,50
+Lowndes,0013 ABSENTEE,Lowndes County Coroner,,DEM,Unverified Candidate 1,116
+Lowndes,0013 ABSENTEE,Lowndes County Coroner,,DEM,Unverified Candidate 2,24
+Lowndes,0013 ABSENTEE,"Member, Lowndes County Board of Education, District No. 1",,DEM,Unverified Candidate 1,30
+Lowndes,0013 ABSENTEE,"Member, Lowndes County Board of Education, District No. 1",,DEM,Unverified Candidate 2,23
+Lowndes,0013 ABSENTEE,"Member, Lowndes County Board of Education. District No. 5",,DEM,Unverified Candidate 1,34
+Lowndes,0013 ABSENTEE,"Member, Lowndes County Board of Education. District No. 5",,DEM,Unverified Candidate 2,19
+Lowndes,0013 ABSENTEE,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 1,23
+Lowndes,0013 ABSENTEE,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 2,28
+Lowndes,0013 ABSENTEE,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 3,4
+Lowndes,0013 ABSENTEE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,59
+Lowndes,0013 ABSENTEE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,15
+Lowndes,0013 ABSENTEE,"Public Service Commission, Place No. 1",,DEM,John Northrop,12
+Lowndes,0013 ABSENTEE,State Democratic Executive Committee,,DEM,Unverified Candidate 1,37
+Lowndes,0013 ABSENTEE,State Democratic Executive Committee,,DEM,Unverified Candidate 2,56
+Lowndes,0013 ABSENTEE,State House,69.0,DEM,Kelvin J Lawrence,115
+Lowndes,0013 ABSENTEE,State House,69.0,DEM,Marshae R. Madison,24
+Lowndes,0013 ABSENTEE,U.S. Senate,,DEM,Dakarai Larriett,17
+Lowndes,0013 ABSENTEE,U.S. Senate,,DEM,Everett Wess,41
+Lowndes,0013 ABSENTEE,U.S. Senate,,DEM,Kyle Sweetser,8
+Lowndes,0013 ABSENTEE,U.S. Senate,,DEM,Mark S. Wheeler II,19
 Lowndes,0013 ABSENTEE,Attorney General,,REP,Jay Mitchell,3
 Lowndes,0013 ABSENTEE,Attorney General,,REP,Katherine Robertson,9
 Lowndes,0013 ABSENTEE,Attorney General,,REP,Pamela L. Casey,3
@@ -490,14 +911,24 @@ Lowndes,0013 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Christina 
 Lowndes,0013 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Cory Hill,5
 Lowndes,0013 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Jack Williams,5
 Lowndes,0013 ABSENTEE,Governor,,REP,"""Alabama"" Will Santivasci",0
+Lowndes,0013 ABSENTEE,Governor,,REP,"""Alabama"" Will Santivasci",0
+Lowndes,0013 ABSENTEE,Governor,,REP,Ken McFeeters,0
 Lowndes,0013 ABSENTEE,Governor,,REP,Ken McFeeters,0
 Lowndes,0013 ABSENTEE,Governor,,REP,Thomas Tuberville,14
+Lowndes,0013 ABSENTEE,Governor,,REP,Thomas Tuberville,14
+Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,John Wahl,0
+Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,John Wahl,0
+Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,Rick Pate,7
 Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,Rick Pate,7
 Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,Wes Allen,8
 Lowndes,0013 ABSENTEE,Lieutenant Governor,,REP,Wes Allen,8
 Lowndes,0013 ABSENTEE,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,6
 Lowndes,0013 ABSENTEE,"Public Service Commission, Place No. 1",,REP,Matt Gentry,8
@@ -519,10 +950,38 @@ Lowndes,0013 ABSENTEE,U.S. Senate,,REP,Morgan Murphy,0
 Lowndes,0013 ABSENTEE,U.S. Senate,,REP,Rodney Walker,0
 Lowndes,0013 ABSENTEE,U.S. Senate,,REP,Seth Burton,1
 Lowndes,0013 ABSENTEE,U.S. Senate,,REP,Steve Marshall,7
-Lowndes,0014 PROVISIONAL,Proposed Statewide Amendment 1,,,No,3
-Lowndes,0014 PROVISIONAL,Proposed Statewide Amendment 1,,,Yes,4
-Lowndes,0014 PROVISIONAL,Proposed Statewide Amendment 2,,,No,3
-Lowndes,0014 PROVISIONAL,Proposed Statewide Amendment 2,,,Yes,4
+Lowndes,0013 ABSENTEE,Proposed Statewide Amendment 1,,,No,4
+Lowndes,0013 ABSENTEE,Proposed Statewide Amendment 1,,,Yes,126
+Lowndes,0013 ABSENTEE,Proposed Statewide Amendment 2,,,No,46
+Lowndes,0013 ABSENTEE,Proposed Statewide Amendment 2,,,Yes,79
+Lowndes,0014 PROVISIONAL,Governor,,DEM,"Chad ""Chig"" Martin",0
+Lowndes,0014 PROVISIONAL,Governor,,DEM,Doug Jones,2
+Lowndes,0014 PROVISIONAL,Governor,,DEM,Jamel J. Brown,1
+Lowndes,0014 PROVISIONAL,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Lowndes,0014 PROVISIONAL,Governor,,DEM,Will Boyd,1
+Lowndes,0014 PROVISIONAL,Governor,,DEM,Yolanda Rochelle Flowers,2
+Lowndes,0014 PROVISIONAL,Lieutenant Governor,,DEM,Darryl D. Perryman,2
+Lowndes,0014 PROVISIONAL,Lieutenant Governor,,DEM,Phillip Ensler,5
+Lowndes,0014 PROVISIONAL,Lowndes County Coroner,,DEM,Unverified Candidate 1,8
+Lowndes,0014 PROVISIONAL,Lowndes County Coroner,,DEM,Unverified Candidate 2,0
+Lowndes,0014 PROVISIONAL,"Member, Lowndes County Board of Education, District No. 1",,DEM,Unverified Candidate 1,3
+Lowndes,0014 PROVISIONAL,"Member, Lowndes County Board of Education, District No. 1",,DEM,Unverified Candidate 2,0
+Lowndes,0014 PROVISIONAL,"Member, Lowndes County Board of Education. District No. 5",,DEM,Unverified Candidate 1,1
+Lowndes,0014 PROVISIONAL,"Member, Lowndes County Board of Education. District No. 5",,DEM,Unverified Candidate 2,0
+Lowndes,0014 PROVISIONAL,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 1,2
+Lowndes,0014 PROVISIONAL,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 2,1
+Lowndes,0014 PROVISIONAL,"Member, Lowndes County Commission, District No. 1",,DEM,Unverified Candidate 3,0
+Lowndes,0014 PROVISIONAL,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,6
+Lowndes,0014 PROVISIONAL,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,0
+Lowndes,0014 PROVISIONAL,"Public Service Commission, Place No. 1",,DEM,John Northrop,0
+Lowndes,0014 PROVISIONAL,State Democratic Executive Committee,,DEM,Unverified Candidate 1,2
+Lowndes,0014 PROVISIONAL,State Democratic Executive Committee,,DEM,Unverified Candidate 2,1
+Lowndes,0014 PROVISIONAL,State House,69.0,DEM,Kelvin J Lawrence,7
+Lowndes,0014 PROVISIONAL,State House,69.0,DEM,Marshae R. Madison,1
+Lowndes,0014 PROVISIONAL,U.S. Senate,,DEM,Dakarai Larriett,0
+Lowndes,0014 PROVISIONAL,U.S. Senate,,DEM,Everett Wess,2
+Lowndes,0014 PROVISIONAL,U.S. Senate,,DEM,Kyle Sweetser,2
+Lowndes,0014 PROVISIONAL,U.S. Senate,,DEM,Mark S. Wheeler II,0
 Lowndes,0014 PROVISIONAL,Attorney General,,REP,Jay Mitchell,0
 Lowndes,0014 PROVISIONAL,Attorney General,,REP,Katherine Robertson,1
 Lowndes,0014 PROVISIONAL,Attorney General,,REP,Pamela L. Casey,0
@@ -530,14 +989,24 @@ Lowndes,0014 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Christi
 Lowndes,0014 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Cory Hill,0
 Lowndes,0014 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Jack Williams,0
 Lowndes,0014 PROVISIONAL,Governor,,REP,"""Alabama"" Will Santivasci",0
+Lowndes,0014 PROVISIONAL,Governor,,REP,"""Alabama"" Will Santivasci",0
+Lowndes,0014 PROVISIONAL,Governor,,REP,Ken McFeeters,0
 Lowndes,0014 PROVISIONAL,Governor,,REP,Ken McFeeters,0
 Lowndes,0014 PROVISIONAL,Governor,,REP,Thomas Tuberville,1
+Lowndes,0014 PROVISIONAL,Governor,,REP,Thomas Tuberville,1
+Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,George Childress,0
 Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,John Wahl,0
+Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,John Wahl,0
+Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
 Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
 Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,Pat Bishop,0
+Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,Rick Pate,0
 Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,Rick Pate,0
 Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,Wes Allen,0
 Lowndes,0014 PROVISIONAL,Lieutenant Governor,,REP,Wes Allen,0
 Lowndes,0014 PROVISIONAL,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,0
 Lowndes,0014 PROVISIONAL,"Public Service Commission, Place No. 1",,REP,Matt Gentry,1
@@ -559,3 +1028,7 @@ Lowndes,0014 PROVISIONAL,U.S. Senate,,REP,Morgan Murphy,0
 Lowndes,0014 PROVISIONAL,U.S. Senate,,REP,Rodney Walker,0
 Lowndes,0014 PROVISIONAL,U.S. Senate,,REP,Seth Burton,0
 Lowndes,0014 PROVISIONAL,U.S. Senate,,REP,Steve Marshall,0
+Lowndes,0014 PROVISIONAL,Proposed Statewide Amendment 1,,,No,3
+Lowndes,0014 PROVISIONAL,Proposed Statewide Amendment 1,,,Yes,4
+Lowndes,0014 PROVISIONAL,Proposed Statewide Amendment 2,,,No,3
+Lowndes,0014 PROVISIONAL,Proposed Statewide Amendment 2,,,Yes,4
