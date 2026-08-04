@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Vision path (plan step 3): convert the "NAME HEADING CANVASS" matrix PDFs — the
 ones `convert_precinct_pdfs.py` can't touch — into precinct-level CSVs.
@@ -34,6 +35,9 @@ pure token garbage on Apple Silicon (Ollama 0.32.1).
 Usage:
     python convert_canvass_pdfs.py <pdf> [<pdf> ...] [--dpi 200] [--validate-only]
     python convert_canvass_pdfs.py "2026 AL Republican.../Butler.../Butler County Canvas Report.pdf"
+
+
+TODO: Houston, Lauderdale, Madison and Shelby
 """
 
 import argparse
