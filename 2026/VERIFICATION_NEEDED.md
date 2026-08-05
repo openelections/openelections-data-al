@@ -1,64 +1,80 @@
-# 2026 AL GOP Primary — Rows Needing Verification
+# 2026 AL Primary — Rows Needing Verification
 
-Generated from 43 processed counties. Three sections below: **party coverage** (does this county's PDF contain both parties' results or only one), **failed-checksum contests** (real data written, but the extracted precinct rows don't sum to the document's own printed total), and **unresolved candidate columns** (real vote counts written under a placeholder name because no candidate in the county CSV matched that column's total). Neither of the last two categories was dropped from the CSVs — this doc is a punch list for reviewing them against the source PDFs, not a list of missing data.
+Generated from 53 processed county CSVs in `2026/counties` (the `20260519__al__primary__democratic__precinct.csv` file is not a county and is excluded — see anomalies below). Three sections follow: **party coverage** (does this county's CSV contain both parties' results or only one), **failed-checksum contests** (real data written, but the extracted precinct rows don't sum to the document's own printed total), and **unresolved candidate columns** (real vote counts written under a placeholder name because no candidate in the county CSV matched that column's total). Neither of the last two categories was dropped from the CSVs — this doc is a punch list for reviewing them against the source PDFs, not a list of missing data.
+
+The party-coverage and unresolved-candidate tables below were regenerated directly from the current CSVs in `2026/counties`; the failed-checksum section is carried forward from the conversion run logs (it cannot be reconstructed from the CSVs alone). Since the last revision, Calhoun, Elmore, Franklin, Hale, Jefferson, Macon, Montgomery, Talladega, Tallapoosa, Tuscaloosa, Walker were added, Morgan was removed (no file), and several previously split "merged-column" rows (Marshall, St. Clair, Etowah, Clarke) were consolidated in the CSVs into single per-candidate totals; Shelby resolved five former placeholders.
+
+## Data-quality anomalies in the CSVs themselves
+
+- **Democratic (file):** `20260519__al__primary__democratic__precinct.csv` is not a county file — its `county` column reads `Democratic` for every row (a statewide Democratic extract referencing precincts in multiple counties). Excluded from the per-county tables below.
+- **Franklin:** non-conforming CSV — columns are ['county', 'precinct', 'office', 'votes'] (expected the 7-column OpenElections format); no party/candidate data, so it is excluded from the unresolved-candidate table and its party coverage is unknown.
+- **Montgomery:** contains a stray non-DEM/REP party value ['party'] (an embedded duplicate header row mid-file — should be removed).
+- **St. Clair:** contains a multi-line office label (`PM / ALABAMA DEMOCRATIC P / LIEUTENANT GOVERNOR`, a parsing artifact with embedded newlines) plus un-normalized uppercase DEM offices (`LIEUTENANT GOVERNOR`, `UNITED STATES SENATOR`).
+- **Tuscaloosa:** U.S. House district is rendered as `['4.0']` (a float string, should be the integer `4`).
 
 ## Party coverage by county
 
-Which party sections actually appear in each county's source PDF — a county showing only REP isn't missing data, its document simply has no DEM section (confirmed on Bullock, for example: no Democratic contest exists anywhere in the file). `?` means neither party could be confirmed for that county at all, worth a manual look.
+Which party sections actually appear in each county's source data — a county showing only REP isn't missing data, its document simply has no DEM section (confirmed on Bullock, for example: no Democratic contest exists anywhere in the file). `?` means neither party could be confirmed for that county, worth a manual look.
 
 | County | REP | DEM | Coverage |
 |---|---|---|---|
-| Butler | ✓ | ✓ | Both |
+| Baldwin | ✓ | ✓ | Both |
+| Barbour | ✓ | ✓ | Both |
+| Blount | ✓ | ✓ | Both |
 | Bullock | ✓ |  | REP only |
-| Coosa | ✓ | ✓ | Both |
-| Dale | ✓ | ✓ | Both |
-| Perry | ✓ |  | REP only |
-| Lowndes | ✓ | ✓ | Both |
-| Marion | ✓ | ✓ | Both |
-| Henry | ✓ | ✓ | Both |
-| Pickens | ✓ | ✓ | Both |
-| Limestone | ✓ | ✓ | Both |
-| St. Clair | ✓ |  | REP only |
-| Marengo | ✓ | ✓ | Both |
+| Butler | ✓ | ✓ | Both |
+| Calhoun | ✓ | ✓ | Both |
+| Chambers | ✓ | ✓ | Both |
+| Chilton | ✓ | ✓ | Both |
 | Clarke | ✓ | ✓ | Both |
-| Lamar | ✓ | ✓ | Both |
+| Cleburne | ✓ | ✓ | Both |
 | Coffee | ✓ | ✓ | Both |
 | Colbert | ✓ | ✓ | Both |
+| Coosa | ✓ | ✓ | Both |
 | Covington | ✓ | ✓ | Both |
-| Cleburne | ✓ | ✓ | Both |
-| Escambia | ✓ | ✓ | Both |
-| Marshall | ✓ | ✓ | Both |
-| Barbour | ✓ | ✓ | Both |
-| Etowah | ✓ | ✓ | Both |
-| Lawrence | ✓ |  | REP only |
-| Monroe | ✓ | ✓ | Both |
-| Pike | ✓ | ✓ | Both |
-| Dallas | ✓ | ✓ | Both |
-| Russell | ✓ | ✓ | Both |
-| Blount | ✓ | ✓ | Both |
-| Geneva | ✓ | ✓ | Both |
-| Winston | ✓ | ✓ | Both |
-| Washington | ✓ | ✓ | Both |
-| Lee | ✓ | ✓ | Both |
-| Morgan | ✓ | ✓ | Both |
-| Chilton | ✓ | ✓ | Both |
-| Jackson | ✓ | ✓ | Both |
-| Baldwin | ✓ | ✓ | Both |
-| Chambers | ✓ | ✓ | Both |
 | Cullman | ✓ | ✓ | Both |
+| Dale | ✓ | ✓ | Both |
+| Dallas | ✓ | ✓ | Both |
 | DeKalb | ✓ | ✓ | Both |
+| Elmore | ✓ | ✓ | Both |
+| Escambia | ✓ | ✓ | Both |
+| Etowah | ✓ | ✓ | Both |
+| Franklin |  |  | ? (no party data) |
+| Geneva | ✓ | ✓ | Both |
+| Hale | ✓ |  | REP only |
+| Henry | ✓ | ✓ | Both |
 | Houston | ✓ | ✓ | Both |
+| Jackson | ✓ | ✓ | Both |
+| Jefferson | ✓ | ✓ | Both |
+| Lamar | ✓ | ✓ | Both |
 | Lauderdale | ✓ | ✓ | Both |
+| Lawrence | ✓ |  | REP only |
+| Lee | ✓ | ✓ | Both |
+| Limestone | ✓ | ✓ | Both |
+| Lowndes | ✓ | ✓ | Both |
+| Macon | ✓ | ✓ | Both |
 | Madison | ✓ | ✓ | Both |
+| Marengo | ✓ | ✓ | Both |
+| Marion | ✓ | ✓ | Both |
+| Marshall | ✓ | ✓ | Both |
+| Monroe | ✓ | ✓ | Both |
+| Montgomery | ✓ | ✓ | Both |
+| Perry | ✓ |  | REP only |
+| Pickens | ✓ | ✓ | Both |
+| Pike | ✓ | ✓ | Both |
+| Russell | ✓ | ✓ | Both |
 | Shelby | ✓ | ✓ | Both |
+| St. Clair | ✓ | ✓ | Both |
+| Talladega | ✓ | ✓ | Both |
+| Tallapoosa | ✓ | ✓ | Both |
+| Tuscaloosa | ✓ |  | REP only |
+| Walker | ✓ | ✓ | Both |
+| Washington | ✓ | ✓ | Both |
+| Winston | ✓ | ✓ | Both |
 
-**38 counties have both parties, 5 REP-only, 0 DEM-only** (of 43 processed).
-
-*Updated: Added Democratic precinct results to Geneva, Lamar, Limestone, Lowndes, Marshall, and Shelby from Democratic Party Results PDFs.*
+**47 counties have both parties, 5 REP-only, 0 DEM-only, 1 with no party data** (of 53 county files).
 
 ## Failed-checksum contests
-
-> **Note:** Baldwin, Chambers, Cullman, DeKalb, Houston, Lauderdale, Madison, and Shelby are not listed in this section. Their checksum status (computed precinct sums vs. the PDF's printed totals row) is captured in the conversion script's run log, not in the written CSVs, so it could not be recovered from the CSV output alone. The party-coverage and unresolved-candidate sections below were updated from the CSVs.
 
 | County | Office | Party | Computed | Printed | Note |
 |---|---|---|---|---|---|
@@ -136,6 +152,8 @@ Which party sections actually appear in each county's source PDF — a county sh
 
 > **Resolved (not data errors):** Lamar SECRETARY OF STATE, Lee LEE COUNTY SHERIFF, and Lee STATE AUDITOR were flagged here with `computed == printed` — the failure was a duplicate precinct row, not a numeric mismatch. Lamar precinct `0007 CREWS COMMUNITY CHU.` and Lee precinct `0002 COVINGTON PARK COMM.` had each been split across a page break into two rows per candidate; the duplicate rows have been merged (votes summed) so each `(precinct, candidate)` is now unique. Contest totals are unchanged; `verifier.py` no longer flags duplication on these files.
 
+> **Counties not listed above** either passed the checksum check or had their status recorded only in the conversion script's run log (not recoverable from the CSVs alone). That includes the 11 counties added since this section was written — Calhoun, Elmore, Franklin, Hale, Jefferson, Macon, Montgomery, Talladega, Tallapoosa, Tuscaloosa, and Walker — for which no checksum analysis has been run yet. Morgan, which appeared here previously, has been removed: no `20260519__al__primary__morgan__precinct.csv` exists in `2026/counties`.
+
 ## Unresolved candidate columns ("Unverified Candidate N")
 
 One row per candidate *column* that never matched anyone in the county CSV (county-wide total shown, not per-precinct — the precinct-level rows are in the CSVs themselves under this placeholder name). This is real, checksummed vote data; only the candidate's identity is unconfirmed.
@@ -167,8 +185,7 @@ One row per candidate *column* that never matched anyone in the county CSV (coun
 | Chilton | Circuit Court Judge, 19Th Judicial Circuit, Place No |  | REP | Unverified Candidate 2 | 1477 | 20 |
 | Chilton | Circuit Court Judge, 19Th Judicial Circuit, Place No |  | REP | Unverified Candidate 3 | 1948 | 20 |
 | Clarke | Lieutenant Governor |  | REP | Unverified Candidate 8 | 24 | 2 |
-| Clarke | State Democratic Executive Committee |  | DEM | Unverified Candidate 2 | 173 | 7 |
-| Clarke | State Democratic Executive Committee |  | DEM | Unverified Candidate 2 | 338 | 19 |
+| Clarke | State Democratic Executive Committee |  | DEM | Unverified Candidate 2 | 511 | 19 |
 | Cleburne | Lieutenant Governor |  | DEM | Unverified Candidate 1 | 81 | 15 |
 | Cleburne | Lieutenant Governor |  | DEM | Unverified Candidate 2 | 66 | 15 |
 | Colbert | Governor |  | DEM | Unverified Candidate 2 | 77 | 36 |
@@ -184,6 +201,7 @@ One row per candidate *column* that never matched anyone in the county CSV (coun
 | Cullman | City of Cullman |  | REP | Unverified Candidate 3 | 1246 | 6 |
 | Cullman | City of Cullman |  | REP | Unverified Candidate 4 | 1145 | 6 |
 | Cullman | Cullman County Republican Executive Committee, At La |  | REP | Unverified Candidate 1 | 6780 | 51 |
+| Cullman | Cullman County Republican Executive Committee, At La |  | REP | Unverified Candidate 10 | 4015 | 51 |
 | Cullman | Cullman County Republican Executive Committee, At La |  | REP | Unverified Candidate 2 | 4207 | 51 |
 | Cullman | Cullman County Republican Executive Committee, At La |  | REP | Unverified Candidate 3 | 7541 | 51 |
 | Cullman | Cullman County Republican Executive Committee, At La |  | REP | Unverified Candidate 4 | 6469 | 51 |
@@ -192,7 +210,6 @@ One row per candidate *column* that never matched anyone in the county CSV (coun
 | Cullman | Cullman County Republican Executive Committee, At La |  | REP | Unverified Candidate 7 | 5335 | 51 |
 | Cullman | Cullman County Republican Executive Committee, At La |  | REP | Unverified Candidate 8 | 4476 | 51 |
 | Cullman | Cullman County Republican Executive Committee, At La |  | REP | Unverified Candidate 9 | 5508 | 51 |
-| Cullman | Cullman County Republican Executive Committee, At La |  | REP | Unverified Candidate 10 | 4015 | 51 |
 | Cullman | Cullman County Republican Executive Committee, East |  | REP | Unverified Candidate 1 | 5860 | 51 |
 | Cullman | Cullman County Republican Executive Committee, East |  | REP | Unverified Candidate 2 | 3002 | 51 |
 | Cullman | Cullman County Republican Executive Committee, East |  | REP | Unverified Candidate 3 | 5177 | 51 |
@@ -216,10 +233,10 @@ One row per candidate *column* that never matched anyone in the county CSV (coun
 | Cullman | State Republican Executive Committee, Cullman County |  | REP | Unverified Candidate 2 | 7701 | 51 |
 | Cullman | State Republican Executive Committee, Cullman County |  | REP | Unverified Candidate 3 | 3526 | 51 |
 | Cullman | U.S. House | 4 | DEM | Unverified Candidate 3 | 342 | 49 |
-| Cullman | U.S. House | 4 | REP | Unverified Candidate 3 | 71 | 1 |
 | Cullman | U.S. House | 4 | DEM | Unverified Candidate 4 | 1 | 1 |
-| Cullman | U.S. House | 4 | REP | Unverified Candidate 4 | 24 | 1 |
 | Cullman | U.S. House | 4 | DEM | Unverified Candidate 5 | 0 | 1 |
+| Cullman | U.S. House | 4 | REP | Unverified Candidate 3 | 71 | 1 |
+| Cullman | U.S. House | 4 | REP | Unverified Candidate 4 | 24 | 1 |
 | Cullman | West Point / District No. 1 |  | REP | Unverified Candidate 1 | 1313 | 10 |
 | Cullman | West Point / District No. 1 |  | REP | Unverified Candidate 2 | 886 | 10 |
 | Dallas | Commissioner of Agriculture and Industries |  | REP | Unverified Candidate 3 | 212 | 19 |
@@ -286,12 +303,12 @@ One row per candidate *column* that never matched anyone in the county CSV (coun
 | DeKalb | State Treasurer |  | REP | Unverified Candidate 2 | 1883 | 46 |
 | DeKalb | U.S. House | 4 | REP | Unverified Candidate 1 | 5246 | 46 |
 | DeKalb | U.S. House | 4 | REP | Unverified Candidate 2 | 1747 | 46 |
-| DeKalb | U.S. Senate |  | REP | Unverified Candidate 1 | 120 | 46 |
 | DeKalb | U.S. Senate |  | DEM | Unverified Candidate 2 | 253 | 46 |
-| DeKalb | U.S. Senate |  | REP | Unverified Candidate 2 | 68 | 46 |
 | DeKalb | U.S. Senate |  | DEM | Unverified Candidate 3 | 193 | 46 |
-| DeKalb | U.S. Senate |  | REP | Unverified Candidate 3 | 1949 | 46 |
 | DeKalb | U.S. Senate |  | DEM | Unverified Candidate 4 | 262 | 46 |
+| DeKalb | U.S. Senate |  | REP | Unverified Candidate 1 | 120 | 46 |
+| DeKalb | U.S. Senate |  | REP | Unverified Candidate 2 | 68 | 46 |
+| DeKalb | U.S. Senate |  | REP | Unverified Candidate 3 | 1949 | 46 |
 | DeKalb | U.S. Senate |  | REP | Unverified Candidate 4 | 2065 | 46 |
 | DeKalb | U.S. Senate |  | REP | Unverified Candidate 5 | 2600 | 46 |
 | DeKalb | U.S. Senate |  | REP | Unverified Candidate 6 | 48 | 46 |
@@ -301,13 +318,35 @@ One row per candidate *column* that never matched anyone in the county CSV (coun
 | Escambia | State Senate | 22 | REP | Unverified Candidate 2 | 1261 | 31 |
 | Etowah | Etowah County School District |  | REP | Unverified Candidate 1 | 2761 | 19 |
 | Etowah | Etowah County School District |  | REP | Unverified Candidate 2 | 5552 | 19 |
-| Etowah | State Republican Executive Committee, Etowah County, |  | REP | Unverified Candidate 1 | 6059 | 21 |
-| Etowah | State Republican Executive Committee, Etowah County, |  | REP | Unverified Candidate 1 | 8058 | 21 |
-| Etowah | State Republican Executive Committee, Etowah County, |  | REP | Unverified Candidate 2 | 3641 | 21 |
-| Etowah | State Republican Executive Committee, Etowah County, |  | REP | Unverified Candidate 2 | 2055 | 21 |
+| Etowah | State Republican Executive Committee, Etowah County, |  | REP | Unverified Candidate 1 | 14117 | 21 |
+| Etowah | State Republican Executive Committee, Etowah County, |  | REP | Unverified Candidate 2 | 5696 | 21 |
 | Etowah | U.S. House | 3 | REP | Unverified Candidate 2 | 9361 | 21 |
+| Houston | Member, Houston County Commission, District No. 1 |  | DEM | Unverified Candidate 1 | 693 | 11 |
+| Houston | Member, Houston County Commission, District No. 1 |  | DEM | Unverified Candidate 2 | 986 | 11 |
+| Houston | State Democratic Executive Committee |  | DEM | Unverified Candidate 2 | 805 | 9 |
 | Jackson | School Board |  | REP | Unverified Candidate 1 | 1898 | 32 |
 | Jackson | School Board |  | REP | Unverified Candidate 2 | 2571 | 32 |
+| Lauderdale | Attorney General |  | REP | Unverified Candidate 3 | 3147 | 33 |
+| Lauderdale | Commissioner of Agriculture Ano Industries |  | REP | Unverified Candidate 1 | 3087 | 33 |
+| Lauderdale | Commissioner of Agriculture Ano Industries |  | REP | Unverified Candidate 2 | 2658 | 33 |
+| Lauderdale | Commissioner of Agriculture Ano Industries |  | REP | Unverified Candidate 3 | 2168 | 33 |
+| Lauderdale | Lauderdale Cdunty Republican Executive Committee, Pl |  | REP | Unverified Candidate 1 | 2022 | 15 |
+| Lauderdale | Lauderdale Cdunty Republican Executive Committee, Pl |  | REP | Unverified Candidate 2 | 795 | 15 |
+| Lauderdale | Lauderdale County Coroner |  | REP | Unverified Candidate 2 | 2431 | 11 |
+| Lauderdale | Lauderdale County Republican Executive Committee, Pl |  | REP | Unverified Candidate 1 | 9654 | 33 |
+| Lauderdale | Lauderdale County Republican Executive Committee, Pl |  | REP | Unverified Candidate 2 | 7 | 1 |
+| Lauderdale | Lauderdale County Republican Executive Committee, Pl |  | REP | Unverified Candidate 3 | 3575 | 33 |
+| Lauderdale | Lauderdale County Republican Executive Committee, Pl |  | REP | Unverified Candidate 4 | 3193 | 25 |
+| Lauderdale | Lauderdale County Republican Executive Committee, Pl District No. 1 |  | REP | Unverified Candidate 1 | 6318 | 18 |
+| Lauderdale | Lauderdale County Republican Executive Committee, Pl District No. 1 |  | REP | Unverified Candidate 2 | 5750 | 18 |
+| Lauderdale | Lauderdale County Republican Executive Committee, Pl District No. 2 |  | REP | Unverified Candidate 1 | 3426 | 22 |
+| Lauderdale | Lauderdale County Republican Executive Committee, Pl District No. 2 |  | REP | Unverified Candidate 2 | 1990 | 22 |
+| Lauderdale | Lauoerdale County Republican Executive Committee, Pl |  | REP | Unverified Candidate 1 | 3966 | 33 |
+| Lauderdale | Lauoerdale County Republican Executive Committee, Pl |  | REP | Unverified Candidate 2 | 3745 | 33 |
+| Lauderdale | Public Service Commission, Place No. 1 |  | DEM | Unverified Candidate 2 | 644 | 33 |
+| Lauderdale | State Republican Executive Committee, Lauderdale Cou |  | REP | Unverified Candidate 1 | 16051 | 33 |
+| Lauderdale | State Republican Executive Committee, Lauderdale Cou |  | REP | Unverified Candidate 2 | 11607 | 33 |
+| Lauderdale | State Republican Executive Committee, Lauderdale Cou |  | REP | Unverified Candidate 3 | 2950 | 16 |
 | Lawrence | Lawrence County Sheriff |  | REP | Unverified Candidate 2 | 154 | 4 |
 | Lawrence | Lawrence County Sheriff |  | REP | Unverified Candidate 3 | 2870 | 27 |
 | Lawrence | Member, Lawrence County Gop Executive Committee, District No. 3 |  | REP | Unverified Candidate 1 | 525 | 9 |
@@ -335,154 +374,22 @@ One row per candidate *column* that never matched anyone in the county CSV (coun
 | Lee | U.S. Senate |  | DEM | Unverified Candidate 2 | 1139 | 27 |
 | Lee | U.S. Senate |  | DEM | Unverified Candidate 3 | 2581 | 27 |
 | Lee | U.S. Senate |  | DEM | Unverified Candidate 4 | 1406 | 27 |
-| Limestone | Attorney General |  | REP | Unverified Candidate 4 | 1 | 28 |
-| Limestone | Attorney General |  | REP | Unverified Candidate 5 | 722 | 28 |
-| Limestone | Chairman, Limestone County Commission |  | REP | Unverified Candidate 4 | 0 | 17 |
-| Limestone | Chairman, Limestone County Commission |  | REP | Unverified Candidate 5 | 337 | 17 |
-| Limestone | Commissioner of Agriculture and Industries |  | REP | Unverified Candidate 4 | 1 | 28 |
-| Limestone | Commissioner of Agriculture and Industries |  | REP | Unverified Candidate 5 | 1540 | 28 |
-| Limestone | Governor |  | REP | Unverified Candidate 4 | 3 | 28 |
-| Limestone | Governor |  | REP | Unverified Candidate 5 | 342 | 28 |
 | Limestone | Lieutenant Governor |  | REP | Unverified Candidate 8 | 4 | 28 |
 | Limestone | Lieutenant Governor |  | REP | Unverified Candidate 9 | 431 | 28 |
-| Limestone | Member, Limestone County Commission, District No 1 |  | REP | Unverified Candidate 4 | 0 | 12 |
-| Limestone | Member, Limestone County Commission, District No 1 |  | REP | Unverified Candidate 5 | 349 | 12 |
-| Limestone | Proposed Statewide Amendment 1 |  |  | Unverified Candidate 1 | 14147 | 28 |
-| Limestone | Proposed Statewide Amendment 1 |  |  | Unverified Candidate 2 | 2612 | 28 |
-| Limestone | Proposed Statewide Amendment 1 |  |  | Unverified Candidate 3 | 13 | 28 |
-| Limestone | Proposed Statewide Amendment 1 |  |  | Unverified Candidate 4 | 565 | 28 |
-| Limestone | Proposed Statewide Amendment 2 |  |  | Unverified Candidate 1 | 8760 | 28 |
-| Limestone | Proposed Statewide Amendment 2 |  |  | Unverified Candidate 2 | 7525 | 28 |
-| Limestone | Proposed Statewide Amendment 2 |  |  | Unverified Candidate 3 | 3 | 28 |
-| Limestone | Proposed Statewide Amendment 2 |  |  | Unverified Candidate 4 | 1049 | 28 |
-| Limestone | Public Service Commission, Place No 1 |  | REP | Unverified Candidate 3 | 1 | 28 |
-| Limestone | Public Service Commission, Place No 1 |  | REP | Unverified Candidate 4 | 1783 | 28 |
-| Limestone | Public Service Commission, Place No 2 |  | REP | Unverified Candidate 5 | 2 | 28 |
-| Limestone | Public Service Commission, Place No 2 |  | REP | Unverified Candidate 6 | 1695 | 28 |
-| Limestone | Secretary of State |  | REP | Unverified Candidate 4 | 0 | 28 |
-| Limestone | Secretary of State |  | REP | Unverified Candidate 5 | 1514 | 28 |
-| Limestone | State Auditor |  | REP | Unverified Candidate 3 | 0 | 28 |
-| Limestone | State Auditor |  | REP | Unverified Candidate 4 | 1230 | 28 |
-| Limestone | State Board of Education | 8 | REP | Unverified Candidate 4 | 1 | 24 |
-| Limestone | State Board of Education | 8 | REP | Unverified Candidate 5 | 1363 | 24 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 1 |  | REP | Unverified Candidate 1 | 675 | 28 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 1 |  | REP | Unverified Candidate 2 | 1481 | 28 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 1 |  | REP | Unverified Candidate 3 | 521 | 28 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 1 |  | REP | Unverified Candidate 4 | 1462 | 28 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 1 |  | REP | Unverified Candidate 5 | 5255 | 28 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 1 |  | REP | Unverified Candidate 6 | 4 | 28 |
 | Limestone | State Republican Exec Comm, Limestone Co - Pl No 1 |  | REP | Unverified Candidate 7 | 2024 | 28 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 2 |  | REP | Unverified Candidate 1 | 1529 | 26 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 2 |  | REP | Unverified Candidate 2 | 4304 | 26 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 2 |  | REP | Unverified Candidate 3 | 1589 | 26 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 2 |  | REP | Unverified Candidate 4 | 2 | 26 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 2 |  | REP | Unverified Candidate 5 | 2296 | 26 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 3 |  | REP | Unverified Candidate 1 | 7838 | 28 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 3 |  | REP | Unverified Candidate 2 | 1447 | 28 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 3 |  | REP | Unverified Candidate 3 | 0 | 2 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 3 |  | REP | Unverified Candidate 4 | 295 | 28 |
-| Limestone | State Republican Exec Comm, Limestone Co - Pl No 3 |  | REP | Unverified Candidate 5 | 1842 | 26 |
-| Limestone | State Republican Exec Comm. Limestone Co - Pl No 4 |  | REP | Unverified Candidate 1 | 3160 | 25 |
-| Limestone | State Republican Exec Comm. Limestone Co - Pl No 4 |  | REP | Unverified Candidate 2 | 3661 | 25 |
-| Limestone | State Republican Exec Comm. Limestone Co - Pl No 4 |  | REP | Unverified Candidate 3 | 0 | 25 |
-| Limestone | State Republican Exec Comm. Limestone Co - Pl No 4 |  | REP | Unverified Candidate 4 | 2510 | 25 |
-| Limestone | State Treasurer |  | REP | Unverified Candidate 3 | 1 | 28 |
-| Limestone | State Treasurer |  | REP | Unverified Candidate 4 | 1283 | 28 |
-| Limestone | U.S. Senate |  | REP | Unverified Candidate 2 | 295 | 28 |
 | Limestone | U.S. Senate |  | REP | Unverified Candidate 8 | 8 | 28 |
 | Limestone | U.S. Senate |  | REP | Unverified Candidate 9 | 481 | 28 |
-| Marengo | Governor |  | REP | Unverified Candidate 4 | 47 | 1 |
-| Marengo | Marengo County Coroner |  | DEM | Unverified Candidate 1 | 2519 | 20 |
-| Marengo | Marengo County Coroner |  | DEM | Unverified Candidate 2 | 1222 | 20 |
-| Marengo | Marengo County Revenue Commissioner |  | DEM | Unverified Candidate 1 | 1670 | 20 |
-| Marengo | Marengo County Revenue Commissioner |  | DEM | Unverified Candidate 2 | 2759 | 20 |
-| Marengo | Member, Marengo County Commission, District No. 3 |  | DEM | Unverified Candidate 1 | 443 | 6 |
-| Marengo | Member, Marengo County Commission, District No. 3 |  | DEM | Unverified Candidate 2 | 476 | 6 |
-| Marengo | Member, Marengo County Commission, District No. 5 |  | DEM | Unverified Candidate 1 | 474 | 9 |
-| Marengo | Member, Marengo County Commission, District No. 5 |  | DEM | Unverified Candidate 2 | 396 | 9 |
-| Marengo | Member, Marengo County Commission, District No. 5 |  | DEM | Unverified Candidate 3 | 80 | 1 |
-| Marshall | County Sch |  | REP | Unverified Candidate 1 | 3337 | 31 |
-| Marshall | County Sch |  | REP | Unverified Candidate 1 | 2873 | 31 |
-| Marshall | County Sch |  | REP | Unverified Candidate 2 | 2610 | 31 |
-| Marshall | County Sch |  | REP | Unverified Candidate 2 | 2613 | 31 |
-| Marshall | County Sch |  | REP | Unverified Candidate 3 | 1221 | 31 |
-| Marshall | County Sch |  | REP | Unverified Candidate 3 | 699 | 31 |
-| Marshall | State Republican Executive Committee, Marshall Count |  | REP | Unverified Candidate 1 | 3789 | 31 |
-| Marshall | State Republican Executive Committee, Marshall Count |  | REP | Unverified Candidate 1 | 8908 | 31 |
-| Marshall | State Republican Executive Committee, Marshall Count |  | REP | Unverified Candidate 1 | 4143 | 31 |
-| Marshall | State Republican Executive Committee, Marshall Count |  | REP | Unverified Candidate 1 | 3501 | 31 |
-| Marshall | State Republican Executive Committee, Marshall Count |  | REP | Unverified Candidate 2 | 6586 | 31 |
-| Marshall | State Republican Executive Committee, Marshall Count |  | REP | Unverified Candidate 2 | 2230 | 31 |
-| Marshall | State Republican Executive Committee, Marshall Count |  | REP | Unverified Candidate 2 | 5481 | 31 |
-| Marshall | State Republican Executive Committee, Marshall Count |  | REP | Unverified Candidate 2 | 6464 | 31 |
-| Monroe | Monroe County Sheriff |  | REP | Unverified Candidate 2 | 1697 | 29 |
-| Pickens | Member, Pickens County Commission, District No. 1 |  | REP | Unverified Candidate 1 | 246 | 9 |
-| Pickens | Member, Pickens County Commission, District No. 1 |  | REP | Unverified Candidate 2 | 418 | 9 |
-| Pickens | Member, Pickens County Commission, District No. 3 |  | REP | Unverified Candidate 1 | 472 | 6 |
-| Pickens | Member, Pickens County Commission, District No. 3 |  | REP | Unverified Candidate 2 | 495 | 6 |
-| Pickens | Member, Pickens County Commission, District No. 4 |  | DEM | Unverified Candidate 1 | 253 | 8 |
-| Pickens | Member, Pickens County Commission, District No. 4 |  | DEM | Unverified Candidate 2 | 371 | 8 |
-| Pickens | Member, Pickens County Commission, District No. 5 |  | REP | Unverified Candidate 1 | 377 | 7 |
-| Pickens | Member, Pickens County Commission, District No. 5 |  | REP | Unverified Candidate 2 | 316 | 7 |
-| Pike | Governor |  | DEM | Unverified Candidate 2 | 263 | 36 |
-| Pike | Governor |  | DEM | Unverified Candidate 3 | 169 | 36 |
-| Pike | Governor |  | DEM | Unverified Candidate 4 | 1711 | 36 |
-| Pike | Governor |  | DEM | Unverified Candidate 5 | 45 | 36 |
-| Pike | Governor |  | DEM | Unverified Candidate 6 | 26 | 36 |
-| Russell | Lieutenant Governor |  | REP | Unverified Candidate 2 | 118 | 20 |
-| Russell | Lieutenant Governor |  | REP | Unverified Candidate 3 | 50 | 20 |
-| Russell | Lieutenant Governor |  | REP | Unverified Candidate 4 | 140 | 20 |
-| Russell | Lieutenant Governor |  | REP | Unverified Candidate 5 | 38 | 20 |
-| Russell | Lieutenant Governor |  | REP | Unverified Candidate 6 | 125 | 20 |
-| Russell | Lieutenant Governor |  | REP | Unverified Candidate 7 | 1063 | 20 |
-| Russell | Secretary of State |  | REP | Unverified Candidate 2 | 446 | 20 |
-| Russell | State Senate | 27 | REP | Unverified Candidate 2 | 543 | 7 |
-| St. Clair | Attorney General |  | REP | Unverified Candidate 2 | 3382 | 32 |
-| St. Clair | County (All) |  | REP | Unverified Candidate 1 | 4275 | 25 |
-| St. Clair | County (All) |  | REP | Unverified Candidate 2 | 2321 | 25 |
-| St. Clair | State Republican Executive Committee, St.Clair Count |  | REP | Unverified Candidate 1 | 4751 | 32 |
-| St. Clair | State Republican Executive Committee, St.Clair Count |  | REP | Unverified Candidate 1 | 3792 | 32 |
-| St. Clair | State Republican Executive Committee, St.Clair Count |  | REP | Unverified Candidate 1 | 6643 | 32 |
-| St. Clair | State Republican Executive Committee, St.Clair Count |  | REP | Unverified Candidate 2 | 2850 | 32 |
-| St. Clair | State Republican Executive Committee, St.Clair Count |  | REP | Unverified Candidate 2 | 6037 | 32 |
-| St. Clair | State Republican Executive Committee, St.Clair Count |  | REP | Unverified Candidate 2 | 2842 | 32 |
-| St. Clair | State Republican Executive Committee, St.Clair Count |  | REP | Unverified Candidate 3 | 1859 | 32 |
-| St. Clair | U.S. House | 3 | REP | Unverified Candidate 3 | 2586 | 7 |
-| Washington | Attorney General |  | REP | Unverified Candidate 2 | 1060 | 21 |
-| Washington | Commissioner of Agriculture and Industries |  | REP | Unverified Candidate 4 | 414 | 12 |
-| Washington | Commissioner of Agriculture and Industries |  | REP | Unverified Candidate 5 | 1110 | 12 |
-| Washington | Governor |  | REP | Unverified Candidate 2 | 189 | 21 |
-| Washington | Governor |  | REP | Unverified Candidate 3 | 3129 | 21 |
-| Washington | Governor |  | DEM | Unverified Candidate 6 | 11 | 20 |
-| Washington | Lieutenant Governor |  | REP | Unverified Candidate 8 | 466 | 8 |
-| Washington | State Auditor |  | REP | Unverified Candidate 2 | 2197 | 21 |
-| Washington | State House | 65 | REP | Unverified Candidate 2 | 1351 | 11 |
-| Washington | State House | 65 | REP | Unverified Candidate 3 | 1078 | 10 |
-| Winston | U.S. Senate |  | DEM | Unverified Candidate 4 | 45 | 20 |
-| Houston | Member, Houston County Commission, District No. 1 |  | DEM | Unverified Candidate 1 | 693 | 11 |
-| Houston | Member, Houston County Commission, District No. 1 |  | DEM | Unverified Candidate 2 | 986 | 11 |
-| Houston | State Democratic Executive Committee |  | DEM | Unverified Candidate 2 | 805 | 9 |
-| Lauderdale | Attorney General |  | REP | Unverified Candidate 3 | 3147 | 33 |
-| Lauderdale | Commissioner of Agriculture Ano Industries |  | REP | Unverified Candidate 1 | 3087 | 33 |
-| Lauderdale | Commissioner of Agriculture Ano Industries |  | REP | Unverified Candidate 2 | 2658 | 33 |
-| Lauderdale | Commissioner of Agriculture Ano Industries |  | REP | Unverified Candidate 3 | 2168 | 33 |
-| Lauderdale | Lauderdale Cdunty Republican Executive Committee, Pl |  | REP | Unverified Candidate 1 | 2022 | 15 |
-| Lauderdale | Lauderdale Cdunty Republican Executive Committee, Pl |  | REP | Unverified Candidate 2 | 795 | 15 |
-| Lauderdale | Lauderdale County Coroner |  | REP | Unverified Candidate 2 | 2431 | 11 |
-| Lauderdale | Lauderdale County Republican Executive Committee, Pl |  | REP | Unverified Candidate 1 | 9654 | 33 |
-| Lauderdale | Lauderdale County Republican Executive Committee, Pl |  | REP | Unverified Candidate 2 | 7 | 1 |
-| Lauderdale | Lauderdale County Republican Executive Committee, Pl |  | REP | Unverified Candidate 3 | 3575 | 33 |
-| Lauderdale | Lauderdale County Republican Executive Committee, Pl |  | REP | Unverified Candidate 4 | 3193 | 25 |
-| Lauderdale | Lauderdale County Republican Executive Committee, Pl District No. 1 |  | REP | Unverified Candidate 1 | 6318 | 18 |
-| Lauderdale | Lauderdale County Republican Executive Committee, Pl District No. 1 |  | REP | Unverified Candidate 2 | 5750 | 18 |
-| Lauderdale | Lauderdale County Republican Executive Committee, Pl District No. 2 |  | REP | Unverified Candidate 1 | 3426 | 22 |
-| Lauderdale | Lauderdale County Republican Executive Committee, Pl District No. 2 |  | REP | Unverified Candidate 2 | 1990 | 22 |
-| Lauderdale | Lauoerdale County Republican Executive Committee, Pl |  | REP | Unverified Candidate 1 | 3966 | 33 |
-| Lauderdale | Lauoerdale County Republican Executive Committee, Pl |  | REP | Unverified Candidate 2 | 3745 | 33 |
-| Lauderdale | Public Service Commission, Place No. 1 |  | DEM | Unverified Candidate 2 | 644 | 33 |
-| Lauderdale | State Republican Executive Committee, Lauderdale Cou |  | REP | Unverified Candidate 1 | 16051 | 33 |
-| Lauderdale | State Republican Executive Committee, Lauderdale Cou |  | REP | Unverified Candidate 2 | 11607 | 33 |
-| Lauderdale | State Republican Executive Committee, Lauderdale Cou |  | REP | Unverified Candidate 3 | 2950 | 16 |
+| Lowndes | Lowndes County Coroner |  | DEM | Unverified Candidate 1 | 2177 | 14 |
+| Lowndes | Lowndes County Coroner |  | DEM | Unverified Candidate 2 | 448 | 14 |
+| Lowndes | Member, Lowndes County Board of Education, District No. 1 |  | DEM | Unverified Candidate 1 | 324 | 6 |
+| Lowndes | Member, Lowndes County Board of Education, District No. 1 |  | DEM | Unverified Candidate 2 | 321 | 6 |
+| Lowndes | Member, Lowndes County Board of Education. District No. 5 |  | DEM | Unverified Candidate 1 | 236 | 5 |
+| Lowndes | Member, Lowndes County Board of Education. District No. 5 |  | DEM | Unverified Candidate 2 | 396 | 5 |
+| Lowndes | Member, Lowndes County Commission, District No. 1 |  | DEM | Unverified Candidate 1 | 211 | 6 |
+| Lowndes | Member, Lowndes County Commission, District No. 1 |  | DEM | Unverified Candidate 2 | 391 | 6 |
+| Lowndes | Member, Lowndes County Commission, District No. 1 |  | DEM | Unverified Candidate 3 | 109 | 6 |
+| Lowndes | State Democratic Executive Committee |  | DEM | Unverified Candidate 1 | 1161 | 14 |
+| Lowndes | State Democratic Executive Committee |  | DEM | Unverified Candidate 2 | 825 | 14 |
 | Madison | Districts 4 & 6, Place No. 2 |  | REP | Unverified Candidate 1 | 2207 | 31 |
 | Madison | Districts 4 & 6, Place No. 2 |  | REP | Unverified Candidate 2 | 2473 | 31 |
 | Madison | Governor |  | DEM | Unverified Candidate 7 | 2 | 3 |
@@ -511,18 +418,109 @@ One row per candidate *column* that never matched anyone in the county CSV (coun
 | Madison | State Republican Executive Committee, District No. 3 |  | REP | Unverified Candidate 1 | 2182 | 17 |
 | Madison | State Republican Executive Committee, District No. 3 |  | REP | Unverified Candidate 2 | 3077 | 17 |
 | Madison | State Senate | 2 | DEM | Unverified Candidate 4 | 102 | 1 |
-| Shelby | Commissioner of Agriculture and Industries |  | REP | Unverified Candidate 2 | 8210 | 40 |
+| Marengo | Governor |  | REP | Unverified Candidate 4 | 47 | 1 |
+| Marengo | Marengo County Coroner |  | DEM | Unverified Candidate 1 | 2519 | 20 |
+| Marengo | Marengo County Coroner |  | DEM | Unverified Candidate 2 | 1222 | 20 |
+| Marengo | Marengo County Revenue Commissioner |  | DEM | Unverified Candidate 1 | 1670 | 20 |
+| Marengo | Marengo County Revenue Commissioner |  | DEM | Unverified Candidate 2 | 2759 | 20 |
+| Marengo | Member, Marengo County Commission, District No. 3 |  | DEM | Unverified Candidate 1 | 443 | 6 |
+| Marengo | Member, Marengo County Commission, District No. 3 |  | DEM | Unverified Candidate 2 | 476 | 6 |
+| Marengo | Member, Marengo County Commission, District No. 5 |  | DEM | Unverified Candidate 1 | 474 | 9 |
+| Marengo | Member, Marengo County Commission, District No. 5 |  | DEM | Unverified Candidate 2 | 396 | 9 |
+| Marengo | Member, Marengo County Commission, District No. 5 |  | DEM | Unverified Candidate 3 | 80 | 1 |
+| Marshall | County Sch |  | REP | Unverified Candidate 1 | 6210 | 31 |
+| Marshall | County Sch |  | REP | Unverified Candidate 2 | 5223 | 31 |
+| Marshall | County Sch |  | REP | Unverified Candidate 3 | 1920 | 31 |
+| Marshall | State Republican Executive Committee, Marshall Count |  | REP | Unverified Candidate 1 | 20341 | 31 |
+| Marshall | State Republican Executive Committee, Marshall Count |  | REP | Unverified Candidate 2 | 20761 | 31 |
+| Monroe | Monroe County Sheriff |  | REP | Unverified Candidate 2 | 1697 | 29 |
+| Pickens | Member, Pickens County Commission, District No. 1 |  | REP | Unverified Candidate 1 | 246 | 9 |
+| Pickens | Member, Pickens County Commission, District No. 1 |  | REP | Unverified Candidate 2 | 418 | 9 |
+| Pickens | Member, Pickens County Commission, District No. 3 |  | REP | Unverified Candidate 1 | 472 | 6 |
+| Pickens | Member, Pickens County Commission, District No. 3 |  | REP | Unverified Candidate 2 | 495 | 6 |
+| Pickens | Member, Pickens County Commission, District No. 4 |  | DEM | Unverified Candidate 1 | 253 | 8 |
+| Pickens | Member, Pickens County Commission, District No. 4 |  | DEM | Unverified Candidate 2 | 371 | 8 |
+| Pickens | Member, Pickens County Commission, District No. 5 |  | REP | Unverified Candidate 1 | 377 | 7 |
+| Pickens | Member, Pickens County Commission, District No. 5 |  | REP | Unverified Candidate 2 | 316 | 7 |
+| Pike | Governor |  | DEM | Unverified Candidate 2 | 263 | 36 |
+| Pike | Governor |  | DEM | Unverified Candidate 3 | 169 | 36 |
+| Pike | Governor |  | DEM | Unverified Candidate 4 | 1711 | 36 |
+| Pike | Governor |  | DEM | Unverified Candidate 5 | 45 | 36 |
+| Pike | Governor |  | DEM | Unverified Candidate 6 | 26 | 36 |
+| Russell | Lieutenant Governor |  | REP | Unverified Candidate 2 | 118 | 20 |
+| Russell | Lieutenant Governor |  | REP | Unverified Candidate 3 | 50 | 20 |
+| Russell | Lieutenant Governor |  | REP | Unverified Candidate 4 | 140 | 20 |
+| Russell | Lieutenant Governor |  | REP | Unverified Candidate 5 | 38 | 20 |
+| Russell | Lieutenant Governor |  | REP | Unverified Candidate 6 | 125 | 20 |
+| Russell | Lieutenant Governor |  | REP | Unverified Candidate 7 | 1063 | 20 |
+| Russell | Secretary of State |  | REP | Unverified Candidate 2 | 446 | 20 |
+| Russell | State Senate | 27 | REP | Unverified Candidate 2 | 543 | 7 |
 | Shelby | Member, Shelby County Board of Education, Place No. District No. 2 |  | REP | Unverified Candidate 1 | 6649 | 39 |
-| Shelby | Member, Shelby County Board of Education, Place No. District No. 2 |  | REP | Unverified Candidate 2 | 7308 | 39 |
 | Shelby | Shelby County Sheriff |  | REP | Unverified Candidate 1 | 7072 | 40 |
-| Shelby | Shelby County Sheriff |  | REP | Unverified Candidate 2 | 17070 | 40 |
 | Shelby | State Republican Executive Committee, Shelby County, |  | REP | Unverified Candidate 1 | 38585 | 40 |
-| Shelby | State Republican Executive Committee, Shelby County, |  | REP | Unverified Candidate 2 | 47116 | 40 |
 | Shelby | State Republican Executive Committee, Shelby County, |  | REP | Unverified Candidate 3 | 23384 | 40 |
 | Shelby | State Republican Executive Committee, Shelby County, |  | REP | Unverified Candidate 4 | 50 | 1 |
 | Shelby | Superintendent, Shelby County Board of Education District No. 2 |  | REP | Unverified Candidate 1 | 7152 | 39 |
-| Shelby | Superintendent, Shelby County Board of Education District No. 2 |  | REP | Unverified Candidate 2 | 7517 | 39 |
+| St. Clair | Attorney General |  | REP | Unverified Candidate 2 | 3382 | 32 |
+| St. Clair | County (All) |  | REP | Unverified Candidate 1 | 4275 | 25 |
+| St. Clair | County (All) |  | REP | Unverified Candidate 2 | 2321 | 25 |
+| St. Clair | LIEUTENANT GOVERNOR |  | DEM | Unverified Candidate 1 | 129 | 3 |
+| St. Clair | LIEUTENANT GOVERNOR |  | DEM | Unverified Candidate 2 | 93 | 3 |
+| St. Clair | PM
 
-**380 candidate columns** across 146 county/office combinations.
+ALABAMA DEMOCRATIC P
 
-> **Note:** Houston, Lauderdale, Madison, and Shelby (the four counties added since the last revision) were updated from the CSV output alone, so — like Baldwin, Chambers, Cullman, and DeKalb above — their unresolved-candidate rows use the merged-column convention: when several contest columns in the PDF share one office label, they are summed into a single row rather than split into separate columns. Perry's two former `Member, Perry County Commission, District No. 3` rows were removed: the current Perry CSV contains no such office and no `Unverified Candidate` entries, so those placeholders have been resolved.
+LIEUTENANT GOVERNOR |  | DEM | Unverified Candidate 1 | 1425 | 29 |
+| St. Clair | PM
+
+ALABAMA DEMOCRATIC P
+
+LIEUTENANT GOVERNOR |  | DEM | Unverified Candidate 2 | 1445 | 29 |
+| St. Clair | State Republican Executive Committee, St.Clair Count |  | REP | Unverified Candidate 1 | 15186 | 32 |
+| St. Clair | State Republican Executive Committee, St.Clair Count |  | REP | Unverified Candidate 2 | 11729 | 32 |
+| St. Clair | State Republican Executive Committee, St.Clair Count |  | REP | Unverified Candidate 3 | 1859 | 32 |
+| St. Clair | U.S. House | 3 | REP | Unverified Candidate 3 | 2586 | 7 |
+| St. Clair | UNITED STATES SENATOR |  | DEM | Unverified Candidate 1 | 151 | 5 |
+| St. Clair | UNITED STATES SENATOR |  | DEM | Unverified Candidate 2 | 74 | 5 |
+| St. Clair | UNITED STATES SENATOR |  | DEM | Unverified Candidate 3 | 178 | 5 |
+| St. Clair | UNITED STATES SENATOR |  | DEM | Unverified Candidate 4 | 98 | 5 |
+| Tuscaloosa | Attorney General |  | REP | Unverified Candidate 1 | 1965 | 49 |
+| Tuscaloosa | Attorney General |  | REP | Unverified Candidate 2 | 3771 | 49 |
+| Tuscaloosa | Attorney General |  | REP | Unverified Candidate 3 | 5433 | 49 |
+| Tuscaloosa | Attorney General |  | REP | Unverified Candidate 4 | 7449 | 49 |
+| Tuscaloosa | Attorney General |  | REP | Unverified Candidate 5 | 2228 | 49 |
+| Tuscaloosa | Attorney General |  | REP | Unverified Candidate 6 | 969 | 49 |
+| Tuscaloosa | Attorney General |  | REP | Unverified Candidate 7 | 8091 | 49 |
+| Tuscaloosa | Attorney General |  | REP | Unverified Candidate 8 | 2875 | 49 |
+| Tuscaloosa | Governor |  | REP | Unverified Candidate 1 | 578 | 6 |
+| Tuscaloosa | Governor |  | REP | Unverified Candidate 2 | 10923 | 6 |
+| Tuscaloosa | Governor |  | REP | Unverified Candidate 3 | 836 | 5 |
+| Tuscaloosa | Lieutenant Governor |  | REP | Unverified Candidate 1 | 206 | 40 |
+| Tuscaloosa | Lieutenant Governor |  | REP | Unverified Candidate 2 | 104 | 40 |
+| Tuscaloosa | Lieutenant Governor |  | REP | Unverified Candidate 3 | 538 | 40 |
+| Tuscaloosa | Lieutenant Governor |  | REP | Unverified Candidate 4 | 153 | 40 |
+| Tuscaloosa | Lieutenant Governor |  | REP | Unverified Candidate 5 | 436 | 40 |
+| Tuscaloosa | Tuscaloosa County Sheriff |  | REP | Unverified Candidate 1 | 222 | 51 |
+| Tuscaloosa | Tuscaloosa County Sheriff |  | REP | Unverified Candidate 2 | 227 | 52 |
+| Tuscaloosa | Tuscaloosa County Sheriff |  | REP | Unverified Candidate 3 | 4201 | 52 |
+| Tuscaloosa | Tuscaloosa County Sheriff |  | REP | Unverified Candidate 4 | 3149 | 52 |
+| Tuscaloosa | Tuscaloosa County Sheriff |  | REP | Unverified Candidate 5 | 4020 | 52 |
+| Tuscaloosa | Tuscaloosa County Sheriff |  | REP | Unverified Candidate 6 | 103 | 52 |
+| Tuscaloosa | Tuscaloosa County Sheriff |  | REP | Unverified Candidate 7 | 241 | 51 |
+| Tuscaloosa | U.S. House | 4.0 | REP | Unverified Candidate 1 | 5580 | 33 |
+| Tuscaloosa | U.S. House | 4.0 | REP | Unverified Candidate 2 | 1151 | 33 |
+| Washington | Attorney General |  | REP | Unverified Candidate 2 | 1060 | 21 |
+| Washington | Commissioner of Agriculture and Industries |  | REP | Unverified Candidate 4 | 414 | 12 |
+| Washington | Commissioner of Agriculture and Industries |  | REP | Unverified Candidate 5 | 1110 | 12 |
+| Washington | Governor |  | DEM | Unverified Candidate 6 | 11 | 20 |
+| Washington | Governor |  | REP | Unverified Candidate 2 | 189 | 21 |
+| Washington | Governor |  | REP | Unverified Candidate 3 | 3129 | 21 |
+| Washington | Lieutenant Governor |  | REP | Unverified Candidate 8 | 466 | 8 |
+| Washington | State Auditor |  | REP | Unverified Candidate 2 | 2197 | 21 |
+| Washington | State House | 65 | REP | Unverified Candidate 2 | 1351 | 11 |
+| Washington | State House | 65 | REP | Unverified Candidate 3 | 1078 | 10 |
+| Winston | U.S. Senate |  | DEM | Unverified Candidate 4 | 45 | 20 |
+
+**352 candidate columns** across 142 county/office combinations in 32 counties.
+
+> **Note:** Where a county's PDF presented several contest columns sharing one office label, the current CSVs sum them into a single per-candidate row (Marshall `County Sch` and `State Republican Executive Committee`; St. Clair `State Republican Executive Committee, St.Clair Count`; Etowah `State Republican Executive Committee, Etowah County`; Clarke `State Democratic Executive Committee`). The county-wide totals are unchanged from the previously documented split rows; they are simply consolidated. St. Clair now also carries Democratic `LIEUTENANT GOVERNOR` and `UNITED STATES SENATOR` placeholder columns, and Lowndes gained several Democratic county-office placeholders — both are new since the last revision.
