@@ -10,6 +10,7 @@ The party-coverage and unresolved-candidate tables below were regenerated direct
 - **Franklin:** non-conforming CSV — columns are ['county', 'precinct', 'office', 'votes'] (expected the 7-column OpenElections format); no party/candidate data, so it is excluded from the unresolved-candidate table and its party coverage is unknown.
 - **Montgomery:** contains a stray non-DEM/REP party value ['party'] (an embedded duplicate header row mid-file — should be removed).
 - **St. Clair:** regenerated from Canvas Report PDF (Republican results only); no Democratic section exists in the source document.
+- **Madison:** 6 candidate-totals still mismatch the certified county file after OCR repair (down from 25). Two Public Service Commission contests remain: **PSC Place 1 REP** (Oden Δ-3552, Gentry Δ-8047) is structural column drift — Gentry votes bled into the Oden column across continuation pages; the two-read reconciliation's 10 disagreements don't sum to the 670 deficit, so it needs per-row column realignment, not digit-noise repair. **PSC Place 2 REP** (Andrews Δ-90, Woodall Δ-128, Beeker Δ-126, Zeigler Δ-227) is already 97-98% correct in the CSV; the CANVAS read is broken on Zeigler (4981 vs 11995) and the Democratic-PDF has correct printed totals but only 44 of 81 precincts recovered (stitch failure), so improving it needs per-column sourcing or a DEM-PDF stitch fix. Every other Madison contest is authority-verified.
 - **Tuscaloosa:** U.S. House district is rendered as `['4.0']` (a float string, should be the integer `4`).
 
 ## Party coverage by county

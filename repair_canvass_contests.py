@@ -683,7 +683,7 @@ def cmd_analyze(args):
         if not pdfs:
             print(f"skip (no PDFs): {target}", file=sys.stderr)
             continue
-        county = detect_county(pdfs[0])
+        county = args.county or detect_county(pdfs[0])
         print(f"\n=== {county} ({os.path.basename(target)}) model={args.model or 'nuextract'} dpi={args.dpi} ===")
         results = analyze(pdfs, args.dpi, extract_fn, county_df, county=county)
         n_pass = n_fail = n_none = 0
@@ -711,7 +711,7 @@ def cmd_repair(args):
         if not pdfs:
             print(f"skip (no PDFs): {target}", file=sys.stderr)
             continue
-        county = detect_county(pdfs[0])
+        county = args.county or detect_county(pdfs[0])
         print(f"\n=== REPAIR {county} model={args.model or 'nuextract'} dpi={args.dpi} ===")
         restrict = None
         if args.only_mismatched:
@@ -865,6 +865,9 @@ def main():
     a.add_argument("--model", default=None,
                    help="backend: 'paddleocr', 'nuextract' (default), or a claude model id")
     a.add_argument("--dpi", type=int, default=200)
+    a.add_argument("--county", default=None,
+                   help="override county detection (needed for flat dirs like "
+                        "'Democratic Party Results/<County>.pdf')")
     a.set_defaults(func=cmd_analyze)
 
     r = sub.add_parser("repair", help="re-extract failing contests and merge passing ones")
@@ -872,6 +875,9 @@ def main():
     r.add_argument("--model", default=None,
                    help="backend: 'paddleocr', 'nuextract' (default), or a claude model id")
     r.add_argument("--dpi", type=int, default=300)
+    r.add_argument("--county", default=None,
+                   help="override county detection (needed for flat dirs like "
+                        "'Democratic Party Results/<County>.pdf')")
     r.add_argument("--correction", action="store_true",
                    help="claude backend only: send cached nuextract markdown for correction")
     r.add_argument("--dry-run", action="store_true")

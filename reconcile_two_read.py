@@ -112,6 +112,29 @@ def _map_columns(hint, certified, tol_frac=0.02, tol_min=3):
     return targets if all(t is not None for t in targets) else None
 
 
+def _match_columns_loose(hint, certified, tol_frac=0.05, tol_min=8):
+    """Like _map_columns but allows `hint` to have MORE columns than `certified`
+    — the extras are spurious OCR columns (a colspan artifact with a tiny sum and
+    a blank printed total, common on Madison's continuation pages). Returns
+    (keep_indices, unmatched_certified): keep_indices are the hint columns that
+    map to a certified value, in original order; unmatched_certified is the list
+    of certified values no column matched (non-empty means we can't reconcile)."""
+    remaining = list(certified)
+    match = {}
+    for i, p in enumerate(hint):
+        if p is not None and p in remaining:
+            match[i] = p
+            remaining.remove(p)
+    for i, p in enumerate(hint):
+        if i in match or p is None:
+            continue
+        cands = [v for v in remaining if abs(v - p) <= max(tol_min, int(tol_frac * max(v, 1)))]
+        if len(set(cands)) == 1:
+            match[i] = cands[0]
+            remaining.remove(cands[0])
+    return sorted(match), remaining
+
+
 def _column_targets(printed, certified, sums_a=None):
     """Target certified value per column. Try the printed TOTALS row first (it's
     the document's own claim), then fall back to read-A's per-column sums with a
@@ -156,13 +179,14 @@ def reconcile_contest(cA, cB, targets):
             B.setdefault(_norm(name), list(vals[:ncol]))
 
     notes, applied = [], 0
-    grid = {k: list(v[1]) for k, v in A.items()}
+    grid = {k: [(x if x is not None else 0) for x in v[1]] for k, v in A.items()}
     for j in range(ncol):
         deficit = targets[j] - sum(grid[k][j] for k in grid)
         if deficit == 0:
             continue
-        disagreements = [(k, B[k][j] - grid[k][j]) for k in grid
-                         if k in B and B[k][j] != grid[k][j]]
+        disagreements = [(k, (B[k][j] if B[k][j] is not None else 0) - grid[k][j])
+                         for k in grid
+                         if k in B and B[k][j] is not None and B[k][j] != grid[k][j]]
         hit = _subset_delta(disagreements, deficit)
         if hit is None:
             notes.append(f"col{j}: deficit {deficit} not reconcilable "
@@ -212,6 +236,24 @@ def reconcile_county(pdf_path, county, county_df, dpi=400, dry_run=False):
         ncol_a = len(cA["totals"]) if cA.get("totals") else 0
         sums_a = ([sum(v[i] for _, _, v in cA["prec"] if i < len(v) and v[i] is not None)
                    for i in range(ncol_a)] if ncol_a else None)
+        # Spurious-column handling: read-A sometimes has MORE columns than the
+        # certified file has candidates (a colspan artifact on continuation pages
+        # leaves a phantom column with a tiny sum and a blank printed total). The
+        # certified file is the authority on candidate count, so drop the columns
+        # that don't map to any certified value before reconciling.
+        dropped = []
+        if sums_a is not None and len(sums_a) > len(certified):
+            keep, unmatched = _match_columns_loose(sums_a, certified)
+            if unmatched or len(keep) != len(certified):
+                log.append(f"  SKIP {office} [{cA.get('party')}]: columns don't map to "
+                           f"certified totals ({len(sums_a)} cols, {len(certified)} certified)")
+                continue
+            dropped = [i for i in range(len(sums_a)) if i not in keep]
+            cA["prec"] = [(code, nm, [v[i] if i < len(v) else None for i in keep])
+                          for code, nm, v in cA["prec"]]
+            cA["totals"] = [cA["totals"][i] if i < len(cA["totals"]) else None for i in keep]
+            sums_a = [sums_a[i] for i in keep]
+            ncol_a = len(keep)
         targets = _column_targets(cA["totals"], certified, sums_a=sums_a)
         if targets is None:
             log.append(f"  SKIP {office} [{cA.get('party')}]: columns don't map to certified totals")
@@ -220,6 +262,12 @@ def reconcile_county(pdf_path, county, county_df, dpi=400, dry_run=False):
         if cB is None:
             log.append(f"  SKIP {office} [{cA.get('party')}]: contest absent from second read")
             continue
+        if dropped:
+            cB["prec"] = [(code, nm, [v[i] if i < len(v) else None for i in keep])
+                          for code, nm, v in cB["prec"]]
+        if dropped:
+            log.append(f"  note: {office} [{cA.get('party')}]: dropped spurious column(s) "
+                       f"{dropped} (no matching certified candidate)")
         rows, notes = reconcile_contest(cA, cB, targets)
         if rows is None:
             log.append(f"  FAIL {office} [{cA.get('party')}]: {notes[-1]}")
