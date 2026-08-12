@@ -134,6 +134,14 @@ PRECINCT = re.compile(r"^(\d{3,4})\s*(.*)")
 # actually a precinct row.
 PRECINCT_OCR_FALLBACK = re.compile(r"^([OQDJ])(\d{3})\s*(.*)")
 VOTEFOR = re.compile(r"\(VOTE\s*FOR\)", re.I)
+# Alternate office anchor for the "DISTRICT CANVASS" report layout (e.g.
+# Tuscaloosa), which — unlike the "NAME HEADING CANVASS" layout — prints no
+# "(VOTE FOR) 1" line under each office. Instead the office title sits just
+# above a bare "<counted> OF <total> Precinct" line (e.g. "54 OF 55 Precinct"),
+# so that marker serves the same role _office_above() keys off of. Anchored to
+# the line start so it does NOT also match a summary page's parenthetical
+# "(WITH 55 OF 55 Precinct COUNTED)".
+PRECINCT_MARKER = re.compile(r"^\s*\d+\s+OF\s+\d+\s+Precinct", re.I)
 CONTINUED = re.compile(r"CONTINUED FROM PREVIOUS PAGE", re.I)
 # The model sometimes emits the totals row as plain text instead of a table row.
 TOTALS_TEXT = re.compile(r"^CANDIDATE\s+TOTALS((?:\s+[\d,]+)+)\s*$", re.I | re.M)
@@ -147,9 +155,20 @@ PLAIN_PRECINCT_TEXT = re.compile(r"^(\d{3,4})\s+(.+?)\s+((?:-?\d+\s+)*-?\d+)\s*$
 TOTALS_CELL = re.compile(r"CANDIDATE\s+TOTALS", re.I)
 CHROME = re.compile(
     r"NAME HEADING|CANDIDATE HEADING|OFFICAL|OFFICIAL REPORT|RUN DATE|VOTE FOR|"
-    r"CONTINUED|SUMMARY REPORT|REPORT-EL|PRIMARY ELECTION|ALABAMA\s+(REPUBLICAN|DEMOCRATIC)",
+    r"CONTINUED|SUMMARY REPORT|REPORT-EL|PRIMARY ELECTION|ALABAMA\s+(REPUBLICAN|DEMOCRATIC)|"
+    # DISTRICT CANVASS page chrome: the layout prints "DISTRICT CANVASS",
+    # "PRINTED <date>", and a "PAGE 011.011.01" line above each office. Without
+    # skipping these, _office_above() latches onto "PAGE 011.011.01" as the
+    # office on continuation pages where the real title isn't repeated.
+    r"DISTRICT CANVASS|PRINTED|PAGE\s+\d",
     re.I,
 )
+# DISTRICT CANVASS tables prepend per-precinct statistics columns — Registered
+# Voters, Ballots Cast, Turnout Percentage — before the candidate columns. They
+# are real numbers (not blanks), so the leading-None stripping can't remove them;
+# they must be dropped by header detection or they masquerade as the first two or
+# three candidates and wreck the column alignment and checksum.
+STAT_COL_RE = re.compile(r"REGISTERED\s+VOTERS|BALLOTS\s+CAST|TURNOUT", re.I)
 CAPS_LINE = re.compile(r"^#*\s*([A-Z][A-Z0-9 ,.'&\"/()-]{4,})\s*$")
 # Some counties (e.g. Bullock) never print an inline (DEM)/(REP) marker at all —
 # party is declared once, as page-header text like "ALABAMA REPUBLICAN P".
@@ -270,7 +289,12 @@ def parse_page(txt, page):
     lines = txt.split("\n")
     offices, off = [], 0
     for i, ln in enumerate(lines):
-        if VOTEFOR.search(ln):
+        # Two office anchors for two report layouts: "(VOTE FOR)" (NAME HEADING
+        # CANVASS) and a line-leading "N OF M Precinct" (DISTRICT CANVASS). A
+        # given page uses one or the other, and their line shapes don't overlap,
+        # so recognizing both here is additive — it never double-detects on the
+        # layouts that already worked.
+        if VOTEFOR.search(ln) or PRECINCT_MARKER.search(ln):
             offices.append((off, _office_above(lines, i)))
         off += len(ln) + 1
 
@@ -312,6 +336,11 @@ def parse_page(txt, page):
         # fall back to it only when nothing else claimed the totals.
         thead_m = re.search(r"<thead>(.*?)</thead>", tbl, re.S)
         totals_in_thead = bool(thead_m and TOTALS_CELL.search(thead_m.group(1)))
+        # DISTRICT CANVASS: count the leading statistics columns (Registered
+        # Voters / Ballots Cast / Turnout) from the header so they can be sliced
+        # off every data and totals row below. NAME HEADING tables have none, so
+        # lead_skip stays 0 and nothing changes for them.
+        lead_skip = len(STAT_COL_RE.findall(thead_m.group(1))) if thead_m else 0
         for tr in ROW.findall(tbl):
             cells = [re.sub(r"<.*?>", "", c).strip() for c in CELL.findall(tr)]
             if not cells:
@@ -330,7 +359,12 @@ def parse_page(txt, page):
             for c in cells[1:]:
                 parts = c.split()
                 raw_tokens.extend(parts) if len(parts) > 1 else raw_tokens.append(c)
-            vals = _strip_leading_none([_num(t) for t in raw_tokens])
+            raw_vals = [_num(t) for t in raw_tokens]
+            if lead_skip:
+                # drop the leading RegVoters/BallotsCast/Turnout columns before
+                # any None-stripping, so candidate columns start at index 0
+                raw_vals = raw_vals[lead_skip:]
+            vals = _strip_leading_none(raw_vals)
             pm = PRECINCT.match(label)
             if not pm:
                 pm_ocr = PRECINCT_OCR_FALLBACK.match(label)
@@ -669,8 +703,9 @@ def process(pdf_paths, dpi, county_df, validate_only, extract_fn=extract_pages, 
     processed would be silently discarded.
 
     extract_fn is injectable (defaulting to this module's Ollama/nuextract3
-    extract_pages) so an alternate backend — e.g. an OpenRouter vision model,
-    see convert_canvass_pdfs_openrouter.py — can reuse every parsing/checksum/
+    extract_pages) so an alternate backend — PaddleOCR-VL
+    (convert_canvass_pdfs_paddleocr.py) or Anthropic Claude
+    (convert_canvass_pdfs_claude.py) — can reuse every parsing/checksum/
     naming/never-drop rule below unchanged. Swap only the extraction step and
     every future fix to this function benefits both instead of needing to be
     ported between two copies.

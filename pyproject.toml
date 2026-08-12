@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.12"
 dependencies = [
+    "llm>=0.32",
     "mlx-vlm>=0.6.7",
     "natural-pdf>=0.6.5",
     "ollama>=0.6.2",
