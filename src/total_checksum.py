@@ -102,7 +102,7 @@ class TotalChecker(object):
 
 						if self.singleError:
 							break
-				except:
+				except Exception:
 					# If we can't find the total, just skip
 					# print(f'No file total available for {index}')
 					pass

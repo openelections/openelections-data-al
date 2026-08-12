@@ -61,7 +61,7 @@ def unzip_zip_files(datadir, destination_path=None):
         try:
             with zipfile.ZipFile(zip_file,"r") as zip_ref:
                 zip_ref.extractall(zip_destination)
-        except:
+        except Exception:
             print(f"ERROR: Can't unzip {zip_file}")
 
 
