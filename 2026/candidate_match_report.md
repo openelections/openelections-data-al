@@ -1,0 +1,182 @@
+# Candidate Match Report
+
+_(dry run — no files were modified)_
+
+## Baldwin (20260519__al__primary__baldwin__precinct.csv)
+- Governor (district -, DEM) matched to "Governor" [county.csv, score 1.00]
+  - OK: `Chad "Chig" Martin` verified (137 votes matches official Chad "Chig" Martin)
+  - OK: `Doug Jones` verified (5401 votes matches official Doug Jones)
+  - OK: `Jamel J. Brown` verified (138 votes matches official Jamel J. Brown)
+  - OK: `Nathan "Nate" Mathis` verified (70 votes matches official Nathan "Nate" Mathis)
+  - OK: `Will Boyd` verified (557 votes matches official Will Boyd)
+  - OK: `Yolanda Rochelle Flowers` verified (335 votes matches official Yolanda Rochelle Flowers)
+- Lieutenant Governor (district -, DEM) matched to "Lieutenant Governor" [county.csv, score 1.00]
+  - OK: `Darryl D. Perryman` verified (2394 votes matches official Darryl D. Perryman)
+  - OK: `Phillip Ensler` verified (3766 votes matches official Phillip Ensler)
+- Public Service Commission, Place No. 1 (district -, DEM) matched to "Public Service Commissioner, Place 1" [county.csv, score 0.97]
+  - OK: `James O. Gordon` verified (2812 votes matches official James O. Gordon)
+  - OK: `Jeff Ramsey` verified (1850 votes matches official Jeff Ramsey)
+  - OK: `John Northrop` verified (1318 votes matches official John Northrop)
+- State Democratic Executive Committee (district -, DEM) matched to "State Democratic Executive Committee" [county.csv, score 1.00]
+  - OK: `Edward Harris` verified (97 votes matches official Edward Harris)
+  - OK: `Joannee P. Barnes` verified (47 votes matches official Joannee P. Barnes)
+  - OK: `Talika Palmer` verified (114 votes matches official Talika Palmer)
+  - OK: `Tony L. Cherry` verified (54 votes matches official Tony L. Cherry)
+  - OK: `Ashley Sharpe` verified (856 votes matches official Ashley Sharpe)
+  - OK: `Pam Skaggs` verified (270 votes matches official Pam Skaggs)
+  - OK: `Jason Tollefson` verified (706 votes matches official Jason Tollefson)
+  - OK: `Michelle Tollefson` verified (729 votes matches official Michelle Tollefson)
+  - OK: `Sebrena Williams` verified (1075 votes matches official Sebrena Williams)
+  - OK: `Willie J Williams II` verified (1077 votes matches official Willie J Williams II)
+  - OK: `Kenny Nelson` verified (101 votes matches official Kenny Nelson)
+  - OK: `Larry Washington` verified (100 votes matches official Larry Washington)
+- U.S. Senate (district -, DEM) matched to "U.S. Senate" [county.csv, score 1.00]
+  - OK: `Dakarai Larriett` verified (1977 votes matches official Dakarai Larriett)
+  - OK: `Everett Wess` verified (1616 votes matches official Everett Wess)
+  - OK: `Kyle Sweetser` verified (1329 votes matches official Kyle Sweetser)
+  - OK: `Mark S. Wheeler II` verified (1266 votes matches official Mark S. Wheeler II)
+- Attorney General (district -, REP) matched to "Attorney General" [county.csv, score 1.00]
+  - OK: `Jay Mitchell` verified (9357 votes matches official Jay Mitchell)
+  - OK: `Katherine Robertson` verified (14016 votes matches official Katherine Robertson)
+  - OK: `Pamela L. Casey` verified (7352 votes matches official Pamela L. Casey)
+- Baldwin County Sheriff (district -, REP) matched to "Baldwin County Sheriff" [county.csv, score 0.75]
+  - MISMATCH: `Anthony E. Lowery` has 16214 votes but official Anthony E. Lowery shows 16540 (left unchanged)
+  - MISMATCH: `Matt Mckenzie` has 15074 votes but official Matt Mckenzie shows 15345 (left unchanged)
+- Circuit Court Judge, 28Th Judicial Circuit, Place No (district -, REP) matched to "Circuit Court Judge, 28th Judicial Circuit, Place No. 7" [county.csv, score 0.83]
+  - MATCHED: `Unverified Candidate 1` (11243 votes) -> `Jeremiah Giles` (exact total)
+  - UNRESOLVED: `Unverified Candidate 2` (4475 votes) — no official match found (possible artifact/write-in; left as placeholder)
+  - UNRESOLVED: `Unverified Candidate 3` (14431 votes) — no official match found (possible artifact/write-in; left as placeholder)
+  - (unclaimed official candidates: Kristi Hagood)
+  - BALLOT: no matching ballot office for the remaining placeholder(s)
+- Commissioner of Agriculture and Industries (district -, REP) matched to "Commissioner of Agriculture and Industries" [county.csv, score 0.88]
+  - OK: `Christina Woerner McInnis` verified (18866 votes matches official Christina Woerner McInnis)
+  - OK: `Cory Hill` verified (5742 votes matches official Cory Hill)
+  - UNRESOLVED: `Unverified Candidate 3` (4379 votes) — no official match found (possible artifact/write-in; left as placeholder)
+  - UNRESOLVED: `Unverified Candidate 4` (898 votes) — no official match found (possible artifact/write-in; left as placeholder)
+  - (unclaimed official candidates: Jack Williams)
+  - BALLOT: "FOR COMMISSIONER OF AGRICULTURE AND INDUSTRIES" has 3 candidate(s) but contest has 4 column(s) — counts differ, left as placeholder(s)
+- District Court Judge, Baldwin County, Place No. 1 (district -, REP) matched to "District Court Judge, Baldwin County, Place No. 1" [county.csv, score 0.75]
+  - MISMATCH: `Grant Blackburn` has 14287 votes but official Grant Blackburn shows 14674 (left unchanged)
+  - MISMATCH: `William "Liam" Scully` has 13709 votes but official William "Liam" Scully shows 14264 (left unchanged)
+  - UNRESOLVED: `Unverified Candidate 3` (390 votes) — no official match found (possible artifact/write-in; left as placeholder)
+  - UNRESOLVED: `Unverified Candidate 4` (555 votes) — no official match found (possible artifact/write-in; left as placeholder)
+  - BALLOT: "FOR DISTRICT COURT JUDGE, BALDWIN COUNTY, PLACE 1" has 2 candidate(s) but contest has 4 column(s) — counts differ, left as placeholder(s)
+- Governor (district -, REP) matched to "Governor" [county.csv, score 1.00]
+  - OK: `"Alabama" Will Santivasci` verified (1956 votes matches official "Alabama" Will Santivasci)
+  - OK: `Ken McFeeters` verified (3704 votes matches official Ken McFeeters)
+  - OK: `Thomas Tuberville` verified (27062 votes matches official Thomas Tuberville)
+- Lieutenant Governor (district -, REP) matched to "Lieutenant Governor" [county.csv, score 1.00]
+  - OK: `George Childress` verified (1252 votes matches official George Childress)
+  - OK: `John Wahl` verified (15102 votes matches official John Wahl)
+  - OK: `Nicole Jones Wadsworth` verified (2329 votes matches official Nicole Jones Wadsworth)
+  - OK: `Pat Bishop` verified (1198 votes matches official Pat Bishop)
+  - OK: `Rick Pate` verified (1923 votes matches official Rick Pate)
+  - OK: `Stewart Hill Tankersley` verified (698 votes matches official Stewart Hill Tankersley)
+  - OK: `Wes Allen` verified (8874 votes matches official Wes Allen)
+- Member, Baldwin County Commission, District No. 1 (district -, REP) matched to "Member, Baldwin County Commission, District No. 1" [county.csv, score 1.00]
+  - OK: `James E. "Jeb" Ball` verified (13266 votes matches official James E. "Jeb" Ball)
+  - OK: `Richard Cox` verified (14203 votes matches official Richard Cox)
+- Member, Baldwin County Commission, District No. 2 (district -, REP) matched to "Member, Baldwin County Commission, District No. 2" [county.csv, score 1.00]
+  - OK: `Angelo Fermo` verified (14211 votes matches official Angelo Fermo)
+  - OK: `Kyle J. Henderson` verified (13893 votes matches official Kyle J. Henderson)
+- Member, Baldwin County Commission, District No. 3 (district -, REP) matched to "Member, Baldwin County Commission, District No. 3" [county.csv, score 1.00]
+  - OK: `Billie Jo Underwood` verified (15521 votes matches official Billie Jo Underwood)
+  - OK: `Kevin Brock` verified (8133 votes matches official Kevin Brock)
+  - OK: `Philip Dembowski` verified (5244 votes matches official Philip Dembowski)
+- Member, Baldwin County Commission, District No. 4 (district -, REP) matched to "Member, Baldwin County Commission, District No. 4" [county.csv, score 1.00]
+  - OK: `Brett Gaar` verified (8263 votes matches official Brett Gaar)
+  - OK: `John "Tater" Harris` verified (13592 votes matches official John "Tater" Harris)
+  - OK: `Tracey Gambill` verified (6816 votes matches official Tracey Gambill)
+- Public Service Commission, Place No. 1 (district -, REP) matched to "Public Service Commission, Place No. 1" [county.csv, score 0.75]
+  - MISMATCH: `Matt Gentry` has 22500 votes but official Matt Gentry shows 22510 (left unchanged)
+  - MISMATCH: `Jeremy H. Oden` has 3792 votes but official Jeremy H. Oden shows 5239 (left unchanged)
+  - UNRESOLVED: `Unverified Candidate 3` (1447 votes) — no official match found (possible artifact/write-in; left as placeholder)
+  - BALLOT: "FOR STATE REPUBLICAN EXECUTIVE COMMITTEE, BALDWIN COUNTY, PLACE NO. 1" has 2 candidate(s) but contest has 3 column(s) — counts differ, left as placeholder(s)
+- Public Service Commission, Place No. 2 (district -, REP) matched to "Public Service Commission, Place No. 2" [county.csv, score 0.94]
+  - OK: `Brent Woodall` verified (4743 votes matches official Brent Woodall)
+  - MISMATCH: `Chris Beeker` has 4712 votes but official Chris Beeker shows 4762 (left unchanged)
+  - OK: `Jim Zig Zeigler` verified (15091 votes matches official Jim Zig Zeigler)
+  - OK: `Priscilla Andrews` verified (4113 votes matches official Priscilla Andrews)
+- Secretary of State (district -, REP) matched to "Secretary of State" [county.csv, score 0.81]
+  - OK: `Caroleene Dobson` verified (20566 votes matches official Caroleene Dobson)
+  - MISMATCH: `Glenda S. Jackson` has 3641 votes but official Glenda S. Jackson shows 2855 (left unchanged)
+  - MISMATCH: `Christopher Christian Horn` has 4438 votes but official Christopher Christian Horn shows 5884 (left unchanged)
+  - UNRESOLVED: `Unverified Candidate 4` (660 votes) — no official match found (possible artifact/write-in; left as placeholder)
+  - BALLOT: "FOR SECRETARY OF STATE" has 3 candidate(s) but contest has 4 column(s) — counts differ, left as placeholder(s)
+- State Auditor (district -, REP) matched to "State Auditor" [county.csv, score 1.00]
+  - OK: `Andrew Sorrell` verified (18971 votes matches official Andrew Sorrell)
+  - OK: `Derek Chen` verified (9775 votes matches official Derek Chen)
+- State House (district 65, REP) matched to "State House" [county.csv, score 1.00]
+  - OK: `Dee Ann Campbell` verified (436 votes matches official Dee Ann Campbell)
+  - OK: `John Knapp` verified (450 votes matches official John Knapp)
+- State Republican Executive Committee, Baldwin County (district -, REP): NO CONTEST MATCH (best score 0.35)
+  - BALLOT: "FOR STATE REPUBLICAN EXECUTIVE COMMITTEE, BALDWIN COUNTY, PLACE NO. 1" has 2 candidate(s) but contest has 3 column(s) — counts differ, left as placeholder(s)
+- State Senate (district 22, REP) matched to "State Senate" [county.csv, score 1.00]
+  - OK: `Greg Albritton` verified (3491 votes matches official Greg Albritton)
+  - OK: `Terry L. Waters` verified (5607 votes matches official Terry L. Waters)
+- State Treasurer (district -, REP) matched to "State Treasurer" [county.csv, score 1.00]
+  - OK: `Steve Lolley` verified (9322 votes matches official Steve Lolley)
+  - OK: `Young Boozer` verified (20812 votes matches official Young Boozer)
+- U.S. House (district 1, REP) matched to "U.S. House" [county.csv, score 0.75]
+  - MISMATCH: `Austin Sidwell` has 3500 votes but official Austin Sidwell shows 3556 (left unchanged)
+  - MISMATCH: `James (Jimmy) Dees` has 1526 votes but official James (Jimmy) Dees shows 1571 (left unchanged)
+  - MISMATCH: `James Richardson` has 642 votes but official James Richardson shows 664 (left unchanged)
+  - MISMATCH: `Jerry Carl` has 14718 votes but official Jerry Carl shows 15095 (left unchanged)
+  - MISMATCH: `John Mills` has 874 votes but official John Mills shows 908 (left unchanged)
+  - MISMATCH: `Joshua McKee` has 2273 votes but official Joshua McKee shows 2332 (left unchanged)
+  - MISMATCH: `Rhett Marques` has 6782 votes but official Rhett Marques shows 6966 (left unchanged)
+- U.S. Senate (district -, REP) matched to "U.S. Senate" [county.csv, score 0.96]
+  - OK: `Barry Moore` verified (16123 votes matches official Barry Moore)
+  - OK: `Dale Shelton Deas Jr.` verified (1166 votes matches official Dale Shelton Deas Jr.)
+  - OK: `Jared Hudson` verified (5797 votes matches official Jared Hudson)
+  - OK: `Morgan Murphy` verified (604 votes matches official Morgan Murphy)
+  - OK: `Rodney Walker` verified (1307 votes matches official Rodney Walker)
+  - OK: `Seth Burton` verified (1051 votes matches official Seth Burton)
+  - MISMATCH: `Steve Marshall` has 5421 votes but official Steve Marshall shows 5422 (left unchanged)
+- State House (district 95, REP) matched to "State House" [county.csv, score 1.00]
+  - OK: `Elijah Davidson` verified (1451 votes matches official Elijah Davidson)
+  - OK: `Frances Holk-Jones` verified (3238 votes matches official Frances Holk-Jones)
+  - OK: `Joe Freeman` verified (2935 votes matches official Joe Freeman)
+- State Senate (district 32, REP) matched to "State Senate" [county.csv, score 1.00]
+  - OK: `Chris Elliott` verified (14594 votes matches official Chris Elliott)
+  - OK: `Mike Vandenheuvel` verified (5460 votes matches official Mike Vandenheuvel)
+- State House (district 96, REP) matched to "State House" [county.csv, score 1.00]
+  - OK: `Danielle Duggar` verified (2957 votes matches official Danielle Duggar)
+  - MATCHED: `Unverified Candidate 2` (2796 votes) -> `Matt Simpson` (exact total)
+- Member, Baldwin County Board of Education. District No. 5 (district -, REP) matched to "Member, Baldwin County Board of Education, District No.5" [county.csv, score 1.00]
+  - OK: `Jason P. Woerner` verified (2269 votes matches official Jason P. Woerner)
+  - OK: `Whitney Scapecchi` verified (1243 votes matches official Whitney Scapecchi)
+
+## 20260519__al__primary__democratic__precinct.csv
+  - SKIPPED (non-conforming / not a county file)
+
+## 20260519__al__primary__franklin__precinct.csv
+  - SKIPPED (non-conforming / not a county file)
+
+## Tuscaloosa (20260519__al__primary__tuscaloosa__precinct.csv)
+- Attorney General (district -, REP) matched to "Attorney General" [county.csv, score 0.75]
+  - MISMATCH: `Pamela L. Casey` has 5433 votes but official Pamela L. Casey shows 2147 (left unchanged)
+  - MISMATCH: `Jay Mitchell` has 7449 votes but official Jay Mitchell shows 4097 (left unchanged)
+  - MISMATCH: `Katherine Robertson` has 8091 votes but official Katherine Robertson shows 5940 (left unchanged)
+  - UNRESOLVED: `Unverified Candidate 1` (1965 votes) — no official match found (possible artifact/write-in; left as placeholder)
+  - UNRESOLVED: `Unverified Candidate 2` (3771 votes) — no official match found (possible artifact/write-in; left as placeholder)
+  - UNRESOLVED: `Unverified Candidate 5` (2228 votes) — no official match found (possible artifact/write-in; left as placeholder)
+  - UNRESOLVED: `Unverified Candidate 6` (969 votes) — no official match found (possible artifact/write-in; left as placeholder)
+  - UNRESOLVED: `Unverified Candidate 8` (2875 votes) — no official match found (possible artifact/write-in; left as placeholder)
+  - BALLOT: "FOR ATTORNEY GENERAL" has 3 candidate(s) but contest has 8 column(s) — counts differ, left as placeholder(s)
+- Tuscaloosa County Sheriff (district -, REP): NO CONTEST MATCH (best score 0.17)
+  - BALLOT: no matching ballot office for the remaining placeholder(s)
+- U.S. House (district 4, REP) matched to "U.S. House" [county.csv, score 0.75]
+  - MISMATCH: `Robert B. Aderholt` has 5580 votes but official Robert B Aderholt shows 5582 (left unchanged)
+  - MISMATCH: `Tommy Barnes` has 1151 votes but official Tommy Barnes shows 1152 (left unchanged)
+- Governor (district -, REP) matched to "Governor" [county.csv, score 0.75]
+  - MISMATCH: `Ken McFeeters` has 578 votes but official Ken McFeeters shows 1164 (left unchanged)
+  - MISMATCH: `Thomas Tuberville` has 10923 votes but official Thomas Tuberville shows 10883 (left unchanged)
+  - MISMATCH: `"Alabama" Will Santivasci` has 836 votes but official "Alabama" Will Santivasci shows 509 (left unchanged)
+- Lieutenant Governor (district -, REP) matched to "Lieutenant Governor" [county.csv, score 0.75]
+  - MISMATCH: `Wes Allen` has 206 votes but official Wes Allen shows 6562 (left unchanged)
+  - MISMATCH: `Pat Bishop` has 104 votes but official Pat Bishop shows 240 (left unchanged)
+  - MISMATCH: `George Childress` has 538 votes but official George Childress shows 117 (left unchanged)
+  - MISMATCH: `Rick Pate` has 153 votes but official Rick Pate shows 634 (left unchanged)
+  - MISMATCH: `Stewart Hill Tankersley` has 436 votes but official Stewart Hill Tankersley shows 171 (left unchanged)
+  - (unclaimed official candidates: John Wahl, Nicole Jones Wadsworth)

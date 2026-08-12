@@ -32,15 +32,18 @@ Lee,0001 BEULAH BAPTIST,Governor,,REP,"""Alabama"" Will Santivasci",16
 Lee,0001 BEULAH BAPTIST,Governor,,REP,Ken McFeeters,36
 Lee,0001 BEULAH BAPTIST,Governor,,REP,Thomas Tuberville,438
 Lee,0001 BEULAH BAPTIST,Lee County Coroner,,REP,Brian Allen,180
+Lee,0001 BEULAH BAPTIST,Lee County Coroner,,REP,Daniel Sexton,258
 Lee,0001 BEULAH BAPTIST,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",283
 Lee,0001 BEULAH BAPTIST,Lee County Sheriff,,REP,Jay Jones,205
-Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,George Childress,25
-Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,John Wahl,35
-Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,Nicole Jones Wadsworth,12
-Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,Pat Bishop,117
-Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,Rick Pate,14
-Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,Stewart Hill Tankersley,44
-Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,Unverified Candidate 7,205
+Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,George Childress,14
+Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,John Wahl,205
+Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,Nicole Jones Wadsworth,35
+Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,Pat Bishop,25
+Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,Rick Pate,44
+Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,Stewart Hill Tankersley,12
+Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,REP,Wes Allen,117
+Lee,0001 BEULAH BAPTIST,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,120
+Lee,0001 BEULAH BAPTIST,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,338
 Lee,0001 BEULAH BAPTIST,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,102
 Lee,0001 BEULAH BAPTIST,"Public Service Commission, Place No. 1",,REP,Matt Gentry,315
 Lee,0001 BEULAH BAPTIST,"Public Service Commission, Place No. 2",,REP,Brent Woodall,94
@@ -69,8 +72,8 @@ Lee,0002 COVINGTON PARK COMM.,Proposed Statewide Amendment 1,,,No,84
 Lee,0002 COVINGTON PARK COMM.,Proposed Statewide Amendment 1,,,Yes,605
 Lee,0002 COVINGTON PARK COMM.,Proposed Statewide Amendment 2,,,No,157
 Lee,0002 COVINGTON PARK COMM.,Proposed Statewide Amendment 2,,,Yes,523
-Lee,0002 COVINGTON PARK COMM.,District No. B3,,DEM,Unverified Candidate 1,428
-Lee,0002 COVINGTON PARK COMM.,District No. B3,,DEM,Unverified Candidate 2,127
+Lee,0002 COVINGTON PARK COMM.,District No. B3,,DEM,Ciara Thomas,127
+Lee,0002 COVINGTON PARK COMM.,District No. B3,,DEM,Patsy B Parker,428
 Lee,0002 COVINGTON PARK COMM.,Governor,,DEM,"Chad ""Chig"" Martin",5
 Lee,0002 COVINGTON PARK COMM.,Governor,,DEM,Doug Jones,452
 Lee,0002 COVINGTON PARK COMM.,Governor,,DEM,Jamel J. Brown,50
@@ -99,12 +102,12 @@ Lee,0002 COVINGTON PARK COMM.,Lee County Coroner,,REP,Daniel Sexton,57
 Lee,0002 COVINGTON PARK COMM.,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",211
 Lee,0002 COVINGTON PARK COMM.,Lee County Sheriff,,REP,Jay Jones,402
 Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,REP,George Childress,3
-Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,REP,John Wahl,11
-Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,4
-Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,REP,Pat Bishop,35
-Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,REP,Rick Pate,3
-Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,REP,Stewart Hill Tankersley,18
-Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,REP,Unverified Candidate 7,44
+Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,REP,John Wahl,44
+Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,11
+Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,REP,Pat Bishop,3
+Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,REP,Rick Pate,18
+Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,REP,Stewart Hill Tankersley,4
+Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,REP,Wes Allen,35
 Lee,0002 COVINGTON PARK COMM.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,38
 Lee,0002 COVINGTON PARK COMM.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,63
 Lee,0002 COVINGTON PARK COMM.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,24
@@ -133,8 +136,8 @@ Lee,0003 OPELIKA LEARNING CTR,Proposed Statewide Amendment 1,,,No,227
 Lee,0003 OPELIKA LEARNING CTR,Proposed Statewide Amendment 1,,,Yes,1059
 Lee,0003 OPELIKA LEARNING CTR,Proposed Statewide Amendment 2,,,No,420
 Lee,0003 OPELIKA LEARNING CTR,Proposed Statewide Amendment 2,,,Yes,836
-Lee,0003 OPELIKA LEARNING CTR,District No. B3,,DEM,Unverified Candidate 1,605
-Lee,0003 OPELIKA LEARNING CTR,District No. B3,,DEM,Unverified Candidate 2,250
+Lee,0003 OPELIKA LEARNING CTR,District No. B3,,DEM,Ciara Thomas,250
+Lee,0003 OPELIKA LEARNING CTR,District No. B3,,DEM,Patsy B Parker,605
 Lee,0003 OPELIKA LEARNING CTR,Governor,,DEM,"Chad ""Chig"" Martin",13
 Lee,0003 OPELIKA LEARNING CTR,Governor,,DEM,Doug Jones,596
 Lee,0003 OPELIKA LEARNING CTR,Governor,,DEM,Jamel J. Brown,82
@@ -167,13 +170,15 @@ Lee,0003 OPELIKA LEARNING CTR,Lee County Coroner,,REP,Brian Allen,134
 Lee,0003 OPELIKA LEARNING CTR,Lee County Coroner,,REP,Daniel Sexton,226
 Lee,0003 OPELIKA LEARNING CTR,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",281
 Lee,0003 OPELIKA LEARNING CTR,Lee County Sheriff,,REP,Jay Jones,160
-Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,George Childress,18
-Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,John Wahl,36
-Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,16
-Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,Pat Bishop,108
-Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,Rick Pate,7
-Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,45
-Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,Unverified Candidate 7,150
+Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,George Childress,7
+Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,John Wahl,150
+Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,36
+Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,Pat Bishop,18
+Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,Rick Pate,45
+Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,16
+Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,REP,Wes Allen,108
+Lee,0003 OPELIKA LEARNING CTR,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,0
+Lee,0003 OPELIKA LEARNING CTR,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,0
 Lee,0003 OPELIKA LEARNING CTR,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,91
 Lee,0003 OPELIKA LEARNING CTR,"Public Service Commission, Place No. 1",,REP,Matt Gentry,253
 Lee,0003 OPELIKA LEARNING CTR,"Public Service Commission, Place No. 2",,REP,Brent Woodall,79
@@ -204,8 +209,8 @@ Lee,0004 DENSON DRIVE REC CTR,Proposed Statewide Amendment 1,,,No,135
 Lee,0004 DENSON DRIVE REC CTR,Proposed Statewide Amendment 1,,,Yes,703
 Lee,0004 DENSON DRIVE REC CTR,Proposed Statewide Amendment 2,,,No,348
 Lee,0004 DENSON DRIVE REC CTR,Proposed Statewide Amendment 2,,,Yes,454
-Lee,0004 DENSON DRIVE REC CTR,District No. B3,,DEM,Unverified Candidate 1,40
-Lee,0004 DENSON DRIVE REC CTR,District No. B3,,DEM,Unverified Candidate 2,34
+Lee,0004 DENSON DRIVE REC CTR,District No. B3,,DEM,Ciara Thomas,34
+Lee,0004 DENSON DRIVE REC CTR,District No. B3,,DEM,Patsy B Parker,40
 Lee,0004 DENSON DRIVE REC CTR,Governor,,DEM,"Chad ""Chig"" Martin",5
 Lee,0004 DENSON DRIVE REC CTR,Governor,,DEM,Doug Jones,164
 Lee,0004 DENSON DRIVE REC CTR,Governor,,DEM,Jamel J. Brown,15
@@ -238,13 +243,15 @@ Lee,0004 DENSON DRIVE REC CTR,Lee County Coroner,,REP,Brian Allen,197
 Lee,0004 DENSON DRIVE REC CTR,Lee County Coroner,,REP,Daniel Sexton,326
 Lee,0004 DENSON DRIVE REC CTR,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",286
 Lee,0004 DENSON DRIVE REC CTR,Lee County Sheriff,,REP,Jay Jones,378
-Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,George Childress,25
-Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,John Wahl,52
-Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,22
-Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,Pat Bishop,195
-Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,Rick Pate,22
-Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,67
-Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,Unverified Candidate 7,188
+Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,George Childress,22
+Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,John Wahl,188
+Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,52
+Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,Pat Bishop,25
+Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,Rick Pate,67
+Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,22
+Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,REP,Wes Allen,195
+Lee,0004 DENSON DRIVE REC CTR,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,205
+Lee,0004 DENSON DRIVE REC CTR,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,221
 Lee,0004 DENSON DRIVE REC CTR,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,134
 Lee,0004 DENSON DRIVE REC CTR,"Public Service Commission, Place No. 1",,REP,Matt Gentry,334
 Lee,0004 DENSON DRIVE REC CTR,"Public Service Commission, Place No. 2",,REP,Brent Woodall,83
@@ -276,8 +283,8 @@ Lee,0005 EAMC EDUCATION CTR,Proposed Statewide Amendment 1,,,No,225
 Lee,0005 EAMC EDUCATION CTR,Proposed Statewide Amendment 1,,,Yes,1556
 Lee,0005 EAMC EDUCATION CTR,Proposed Statewide Amendment 2,,,No,637
 Lee,0005 EAMC EDUCATION CTR,Proposed Statewide Amendment 2,,,Yes,1063
-Lee,0005 EAMC EDUCATION CTR,District No. B3,,DEM,Unverified Candidate 1,130
-Lee,0005 EAMC EDUCATION CTR,District No. B3,,DEM,Unverified Candidate 2,130
+Lee,0005 EAMC EDUCATION CTR,District No. B3,,DEM,Ciara Thomas,130
+Lee,0005 EAMC EDUCATION CTR,District No. B3,,DEM,Patsy B Parker,130
 Lee,0005 EAMC EDUCATION CTR,Governor,,DEM,"Chad ""Chig"" Martin",9
 Lee,0005 EAMC EDUCATION CTR,Governor,,DEM,Doug Jones,340
 Lee,0005 EAMC EDUCATION CTR,Governor,,DEM,Jamel J. Brown,23
@@ -310,15 +317,17 @@ Lee,0005 EAMC EDUCATION CTR,Lee County Coroner,,REP,Brian Allen,394
 Lee,0005 EAMC EDUCATION CTR,Lee County Coroner,,REP,Daniel Sexton,696
 Lee,0005 EAMC EDUCATION CTR,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",695
 Lee,0005 EAMC EDUCATION CTR,Lee County Sheriff,,REP,Jay Jones,685
-Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,George Childress,40
-Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,John Wahl,79
-Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,41
-Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,Pat Bishop,413
-Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,Rick Pate,26
-Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,119
-Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,Unverified Candidate 7,529
+Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,George Childress,26
+Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,John Wahl,529
+Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,79
+Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,Pat Bishop,40
+Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,Rick Pate,119
+Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,41
+Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,REP,Wes Allen,413
 Lee,0005 EAMC EDUCATION CTR,"Member, Lee County Commission, District No. 2",,REP,Angela Shepherd,118
 Lee,0005 EAMC EDUCATION CTR,"Member, Lee County Commission, District No. 2",,REP,Ross Morris,170
+Lee,0005 EAMC EDUCATION CTR,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,296
+Lee,0005 EAMC EDUCATION CTR,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,341
 Lee,0005 EAMC EDUCATION CTR,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,297
 Lee,0005 EAMC EDUCATION CTR,"Public Service Commission, Place No. 1",,REP,Matt Gentry,792
 Lee,0005 EAMC EDUCATION CTR,"Public Service Commission, Place No. 2",,REP,Brent Woodall,179
@@ -352,8 +361,8 @@ Lee,0006 OPELIKA SPORTSPLEX,Proposed Statewide Amendment 1,,,No,326
 Lee,0006 OPELIKA SPORTSPLEX,Proposed Statewide Amendment 1,,,Yes,2307
 Lee,0006 OPELIKA SPORTSPLEX,Proposed Statewide Amendment 2,,,No,1083
 Lee,0006 OPELIKA SPORTSPLEX,Proposed Statewide Amendment 2,,,Yes,1452
-Lee,0006 OPELIKA SPORTSPLEX,District No. B3,,DEM,Unverified Candidate 1,10
-Lee,0006 OPELIKA SPORTSPLEX,District No. B3,,DEM,Unverified Candidate 2,1
+Lee,0006 OPELIKA SPORTSPLEX,District No. B3,,DEM,Ciara Thomas,1
+Lee,0006 OPELIKA SPORTSPLEX,District No. B3,,DEM,Patsy B Parker,10
 Lee,0006 OPELIKA SPORTSPLEX,Governor,,DEM,"Chad ""Chig"" Martin",18
 Lee,0006 OPELIKA SPORTSPLEX,Governor,,DEM,Doug Jones,525
 Lee,0006 OPELIKA SPORTSPLEX,Governor,,DEM,Jamel J. Brown,33
@@ -386,13 +395,15 @@ Lee,0006 OPELIKA SPORTSPLEX,Lee County Coroner,,REP,Brian Allen,580
 Lee,0006 OPELIKA SPORTSPLEX,Lee County Coroner,,REP,Daniel Sexton,1126
 Lee,0006 OPELIKA SPORTSPLEX,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",1160
 Lee,0006 OPELIKA SPORTSPLEX,Lee County Sheriff,,REP,Jay Jones,823
-Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,George Childress,74
-Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,John Wahl,129
-Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,Nicole Jones Wadsworth,64
-Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,Pat Bishop,643
-Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,Rick Pate,62
-Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,Stewart Hill Tankersley,169
-Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,Unverified Candidate 7,660
+Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,George Childress,62
+Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,John Wahl,660
+Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,Nicole Jones Wadsworth,129
+Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,Pat Bishop,74
+Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,Rick Pate,169
+Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,Stewart Hill Tankersley,64
+Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,REP,Wes Allen,643
+Lee,0006 OPELIKA SPORTSPLEX,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,815
+Lee,0006 OPELIKA SPORTSPLEX,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,828
 Lee,0006 OPELIKA SPORTSPLEX,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,418
 Lee,0006 OPELIKA SPORTSPLEX,"Public Service Commission, Place No. 1",,REP,Matt Gentry,1202
 Lee,0006 OPELIKA SPORTSPLEX,"Public Service Commission, Place No. 2",,REP,Brent Woodall,319
@@ -448,13 +459,13 @@ Lee,0007 WAVERLY LOCAL REST,Lee County Coroner,,REP,Brian Allen,45
 Lee,0007 WAVERLY LOCAL REST,Lee County Coroner,,REP,Daniel Sexton,70
 Lee,0007 WAVERLY LOCAL REST,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",69
 Lee,0007 WAVERLY LOCAL REST,Lee County Sheriff,,REP,Jay Jones,66
-Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,REP,George Childress,8
-Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,REP,John Wahl,5
+Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,REP,George Childress,3
+Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,REP,John Wahl,65
 Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,REP,Nicole Jones Wadsworth,5
-Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,REP,Pat Bishop,36
-Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,REP,Rick Pate,3
-Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,REP,Stewart Hill Tankersley,10
-Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,REP,Unverified Candidate 7,65
+Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,REP,Pat Bishop,8
+Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,REP,Rick Pate,10
+Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,REP,Stewart Hill Tankersley,5
+Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,REP,Wes Allen,36
 Lee,0007 WAVERLY LOCAL REST,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,24
 Lee,0007 WAVERLY LOCAL REST,"Public Service Commission, Place No. 1",,REP,Matt Gentry,95
 Lee,0007 WAVERLY LOCAL REST,"Public Service Commission, Place No. 2",,REP,Brent Woodall,14
@@ -513,13 +524,13 @@ Lee,0008 MT ZION FAMILY CTR,Lee County Coroner,,REP,Brian Allen,54
 Lee,0008 MT ZION FAMILY CTR,Lee County Coroner,,REP,Daniel Sexton,52
 Lee,0008 MT ZION FAMILY CTR,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",70
 Lee,0008 MT ZION FAMILY CTR,Lee County Sheriff,,REP,Jay Jones,58
-Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,George Childress,2
-Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,John Wahl,8
-Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
-Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,Pat Bishop,37
-Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,Rick Pate,3
-Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,20
-Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,Unverified Candidate 7,39
+Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,George Childress,3
+Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,John Wahl,39
+Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,8
+Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,Pat Bishop,2
+Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,Rick Pate,20
+Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,1
+Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,REP,Wes Allen,37
 Lee,0008 MT ZION FAMILY CTR,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,31
 Lee,0008 MT ZION FAMILY CTR,"Public Service Commission, Place No. 1",,REP,Matt Gentry,71
 Lee,0008 MT ZION FAMILY CTR,"Public Service Commission, Place No. 2",,REP,Brent Woodall,18
@@ -578,13 +589,13 @@ Lee,0009 BOYKIN GYM,Lee County Coroner,,REP,Brian Allen,15
 Lee,0009 BOYKIN GYM,Lee County Coroner,,REP,Daniel Sexton,24
 Lee,0009 BOYKIN GYM,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",26
 Lee,0009 BOYKIN GYM,Lee County Sheriff,,REP,Jay Jones,15
-Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,George Childress,6
-Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,John Wahl,3
-Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
-Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,Pat Bishop,12
-Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,Rick Pate,1
-Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,Stewart Hill Tankersley,3
-Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,Unverified Candidate 7,14
+Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,George Childress,1
+Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,John Wahl,14
+Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,Nicole Jones Wadsworth,3
+Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,Pat Bishop,6
+Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,Rick Pate,3
+Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,Stewart Hill Tankersley,1
+Lee,0009 BOYKIN GYM,Lieutenant Governor,,REP,Wes Allen,12
 Lee,0009 BOYKIN GYM,"Member, Lee County Commission, District No. 2",,REP,Angela Shepherd,0
 Lee,0009 BOYKIN GYM,"Member, Lee County Commission, District No. 2",,REP,Ross Morris,0
 Lee,0009 BOYKIN GYM,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,10
@@ -648,12 +659,13 @@ Lee,0010 FRANK BROWN REC. CTR,Lee County Coroner,,REP,Brian Allen,109
 Lee,0010 FRANK BROWN REC. CTR,Lee County Coroner,,REP,Daniel Sexton,223
 Lee,0010 FRANK BROWN REC. CTR,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",176
 Lee,0010 FRANK BROWN REC. CTR,Lee County Sheriff,,REP,Jay Jones,298
-Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,REP,George Childress,28
-Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,REP,John Wahl,61
-Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,14
-Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,REP,Pat Bishop,116
-Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,REP,Rick Pate,14
-Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,REP,Unverified Candidate 7,120
+Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,REP,George Childress,14
+Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,REP,John Wahl,120
+Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,61
+Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,REP,Pat Bishop,28
+Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,REP,Rick Pate,58
+Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,14
+Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,REP,Wes Allen,116
 Lee,0010 FRANK BROWN REC. CTR,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,94
 Lee,0010 FRANK BROWN REC. CTR,"Public Service Commission, Place No. 1",,REP,Matt Gentry,252
 Lee,0010 FRANK BROWN REC. CTR,"Public Service Commission, Place No. 2",,REP,Brent Woodall,52
@@ -715,13 +727,15 @@ Lee,0011 EMBRACE CHURCH,Lee County Coroner,,REP,Brian Allen,418
 Lee,0011 EMBRACE CHURCH,Lee County Coroner,,REP,Daniel Sexton,779
 Lee,0011 EMBRACE CHURCH,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",716
 Lee,0011 EMBRACE CHURCH,Lee County Sheriff,,REP,Jay Jones,838
-Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,George Childress,68
-Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,John Wahl,130
-Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,71
-Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,Pat Bishop,440
-Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,Rick Pate,37
-Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,171
-Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,Unverified Candidate 7,472
+Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,George Childress,37
+Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,John Wahl,472
+Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,130
+Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,Pat Bishop,68
+Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,Rick Pate,171
+Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,71
+Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,REP,Wes Allen,440
+Lee,0011 EMBRACE CHURCH,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,41
+Lee,0011 EMBRACE CHURCH,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,30
 Lee,0011 EMBRACE CHURCH,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,305
 Lee,0011 EMBRACE CHURCH,"Public Service Commission, Place No. 1",,REP,Matt Gentry,877
 Lee,0011 EMBRACE CHURCH,"Public Service Commission, Place No. 2",,REP,Brent Woodall,209
@@ -778,13 +792,13 @@ Lee,0012 CHURCH OF HIGHLANDS,Lee County Coroner,,REP,Brian Allen,147
 Lee,0012 CHURCH OF HIGHLANDS,Lee County Coroner,,REP,Daniel Sexton,217
 Lee,0012 CHURCH OF HIGHLANDS,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",189
 Lee,0012 CHURCH OF HIGHLANDS,Lee County Sheriff,,REP,Jay Jones,288
-Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,George Childress,26
-Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,John Wahl,53
-Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,Nicole Jones Wadsworth,16
-Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,Pat Bishop,118
-Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,Rick Pate,11
-Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,Stewart Hill Tankersley,79
-Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,Unverified Candidate 7,120
+Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,George Childress,11
+Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,John Wahl,120
+Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,Nicole Jones Wadsworth,53
+Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,Pat Bishop,26
+Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,Rick Pate,79
+Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,Stewart Hill Tankersley,16
+Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,REP,Wes Allen,118
 Lee,0012 CHURCH OF HIGHLANDS,"Member, Lee County Commission, District No. 2",,REP,Angela Shepherd,28
 Lee,0012 CHURCH OF HIGHLANDS,"Member, Lee County Commission, District No. 2",,REP,Ross Morris,32
 Lee,0012 CHURCH OF HIGHLANDS,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,77
@@ -848,12 +862,13 @@ Lee,0013 DEAN ROAD REC CTR,Lee County Coroner,,REP,Brian Allen,162
 Lee,0013 DEAN ROAD REC CTR,Lee County Coroner,,REP,Daniel Sexton,239
 Lee,0013 DEAN ROAD REC CTR,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",184
 Lee,0013 DEAN ROAD REC CTR,Lee County Sheriff,,REP,Jay Jones,390
-Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,REP,George Childress,28
-Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,REP,John Wahl,50
-Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,18
-Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,REP,Pat Bishop,161
-Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,REP,Rick Pate,16
-Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,REP,Unverified Candidate 7,140
+Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,REP,George Childress,16
+Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,REP,John Wahl,140
+Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,50
+Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,REP,Pat Bishop,28
+Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,REP,Rick Pate,78
+Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,18
+Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,REP,Wes Allen,161
 Lee,0013 DEAN ROAD REC CTR,"Member, Lee County Commission, District No. 2",,REP,Angela Shepherd,136
 Lee,0013 DEAN ROAD REC CTR,"Member, Lee County Commission, District No. 2",,REP,Ross Morris,204
 Lee,0013 DEAN ROAD REC CTR,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,118
@@ -915,13 +930,13 @@ Lee,0014 PARKWAY BAPT CHURCH,Lee County Coroner,,REP,Brian Allen,129
 Lee,0014 PARKWAY BAPT CHURCH,Lee County Coroner,,REP,Daniel Sexton,265
 Lee,0014 PARKWAY BAPT CHURCH,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",202
 Lee,0014 PARKWAY BAPT CHURCH,Lee County Sheriff,,REP,Jay Jones,370
-Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,George Childress,23
-Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,John Wahl,60
-Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,32
-Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,Pat Bishop,143
-Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,Rick Pate,20
-Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,71
-Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,Unverified Candidate 7,146
+Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,George Childress,20
+Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,John Wahl,146
+Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,60
+Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,Pat Bishop,23
+Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,Rick Pate,71
+Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,32
+Lee,0014 PARKWAY BAPT CHURCH,Lieutenant Governor,,REP,Wes Allen,143
 Lee,0014 PARKWAY BAPT CHURCH,"Member, Lee County Commission, District No. 2",,REP,Angela Shepherd,196
 Lee,0014 PARKWAY BAPT CHURCH,"Member, Lee County Commission, District No. 2",,REP,Ross Morris,268
 Lee,0014 PARKWAY BAPT CHURCH,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,136
@@ -952,8 +967,8 @@ Lee,0015 LAKE WILMORE REC CENTER,Proposed Statewide Amendment 1,,,No,274
 Lee,0015 LAKE WILMORE REC CENTER,Proposed Statewide Amendment 1,,,Yes,2091
 Lee,0015 LAKE WILMORE REC CENTER,Proposed Statewide Amendment 2,,,No,897
 Lee,0015 LAKE WILMORE REC CENTER,Proposed Statewide Amendment 2,,,Yes,1356
-Lee,0015 LAKE WILMORE REC CENTER,District No. B3,,DEM,Unverified Candidate 1,20
-Lee,0015 LAKE WILMORE REC CENTER,District No. B3,,DEM,Unverified Candidate 2,14
+Lee,0015 LAKE WILMORE REC CENTER,District No. B3,,DEM,Ciara Thomas,14
+Lee,0015 LAKE WILMORE REC CENTER,District No. B3,,DEM,Patsy B Parker,20
 Lee,0015 LAKE WILMORE REC CENTER,Governor,,DEM,"Chad ""Chig"" Martin",3
 Lee,0015 LAKE WILMORE REC CENTER,Governor,,DEM,Doug Jones,340
 Lee,0015 LAKE WILMORE REC CENTER,Governor,,DEM,Jamel J. Brown,15
@@ -986,17 +1001,20 @@ Lee,0015 LAKE WILMORE REC CENTER,Governor,,REP,"""Alabama"" Will Santivasci",105
 Lee,0015 LAKE WILMORE REC CENTER,Governor,,REP,Ken McFeeters,271
 Lee,0015 LAKE WILMORE REC CENTER,Governor,,REP,Thomas Tuberville,1605
 Lee,0015 LAKE WILMORE REC CENTER,Lee County Coroner,,REP,Brian Allen,540
+Lee,0015 LAKE WILMORE REC CENTER,Lee County Coroner,,REP,Daniel Sexton,859
 Lee,0015 LAKE WILMORE REC CENTER,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",686
 Lee,0015 LAKE WILMORE REC CENTER,Lee County Sheriff,,REP,Jay Jones,1331
-Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,George Childress,47
-Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,John Wahl,138
-Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,Nicole Jones Wadsworth,88
-Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,Pat Bishop,552
-Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,Rick Pate,44
-Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,Stewart Hill Tankersley,328
-Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,Unverified Candidate 7,582
+Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,George Childress,44
+Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,John Wahl,582
+Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,Nicole Jones Wadsworth,138
+Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,Pat Bishop,47
+Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,Rick Pate,328
+Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,Stewart Hill Tankersley,88
+Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,REP,Wes Allen,552
 Lee,0015 LAKE WILMORE REC CENTER,"Member, Lee County Commission, District No. 2",,REP,Angela Shepherd,638
 Lee,0015 LAKE WILMORE REC CENTER,"Member, Lee County Commission, District No. 2",,REP,Ross Morris,1009
+Lee,0015 LAKE WILMORE REC CENTER,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,4
+Lee,0015 LAKE WILMORE REC CENTER,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,6
 Lee,0015 LAKE WILMORE REC CENTER,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,440
 Lee,0015 LAKE WILMORE REC CENTER,"Public Service Commission, Place No. 1",,REP,Matt Gentry,1016
 Lee,0015 LAKE WILMORE REC CENTER,"Public Service Commission, Place No. 2",,REP,Brent Woodall,257
@@ -1058,13 +1076,13 @@ Lee,0016 WIRE RD SOCCER COMPLEX,Lee County Coroner,,REP,Brian Allen,274
 Lee,0016 WIRE RD SOCCER COMPLEX,Lee County Coroner,,REP,Daniel Sexton,452
 Lee,0016 WIRE RD SOCCER COMPLEX,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",447
 Lee,0016 WIRE RD SOCCER COMPLEX,Lee County Sheriff,,REP,Jay Jones,466
-Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,George Childress,44
-Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,John Wahl,84
-Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,Nicole Jones Wadsworth,26
-Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,Pat Bishop,260
-Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,Rick Pate,34
-Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,Stewart Hill Tankersley,113
-Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,Unverified Candidate 7,265
+Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,George Childress,34
+Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,John Wahl,265
+Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,Nicole Jones Wadsworth,84
+Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,Pat Bishop,44
+Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,Rick Pate,113
+Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,Stewart Hill Tankersley,26
+Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,REP,Wes Allen,260
 Lee,0016 WIRE RD SOCCER COMPLEX,"Member, Lee County Commission, District No. 2",,REP,Angela Shepherd,69
 Lee,0016 WIRE RD SOCCER COMPLEX,"Member, Lee County Commission, District No. 2",,REP,Ross Morris,130
 Lee,0016 WIRE RD SOCCER COMPLEX,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,177
@@ -1095,8 +1113,8 @@ Lee,0017 PROVIDENCE BAPT CHU,Proposed Statewide Amendment 1,,,No,137
 Lee,0017 PROVIDENCE BAPT CHU,Proposed Statewide Amendment 1,,,Yes,983
 Lee,0017 PROVIDENCE BAPT CHU,Proposed Statewide Amendment 2,,,No,504
 Lee,0017 PROVIDENCE BAPT CHU,Proposed Statewide Amendment 2,,,Yes,568
-Lee,0017 PROVIDENCE BAPT CHU,District No. B3,,DEM,Unverified Candidate 1,125
-Lee,0017 PROVIDENCE BAPT CHU,District No. B3,,DEM,Unverified Candidate 2,88
+Lee,0017 PROVIDENCE BAPT CHU,District No. B3,,DEM,Ciara Thomas,88
+Lee,0017 PROVIDENCE BAPT CHU,District No. B3,,DEM,Patsy B Parker,125
 Lee,0017 PROVIDENCE BAPT CHU,Governor,,DEM,"Chad ""Chig"" Martin",4
 Lee,0017 PROVIDENCE BAPT CHU,Governor,,DEM,Doug Jones,143
 Lee,0017 PROVIDENCE BAPT CHU,Governor,,DEM,Jamel J. Brown,21
@@ -1132,13 +1150,15 @@ Lee,0017 PROVIDENCE BAPT CHU,Lee County Coroner,,REP,Brian Allen,268
 Lee,0017 PROVIDENCE BAPT CHU,Lee County Coroner,,REP,Daniel Sexton,552
 Lee,0017 PROVIDENCE BAPT CHU,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",598
 Lee,0017 PROVIDENCE BAPT CHU,Lee County Sheriff,,REP,Jay Jones,326
-Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,George Childress,50
-Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,John Wahl,65
-Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,Nicole Jones Wadsworth,31
-Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,Pat Bishop,277
-Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,Rick Pate,28
-Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,Stewart Hill Tankersley,85
-Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,Unverified Candidate 7,306
+Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,George Childress,28
+Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,John Wahl,306
+Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,Nicole Jones Wadsworth,65
+Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,Pat Bishop,50
+Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,Rick Pate,85
+Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,Stewart Hill Tankersley,31
+Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,REP,Wes Allen,277
+Lee,0017 PROVIDENCE BAPT CHU,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,305
+Lee,0017 PROVIDENCE BAPT CHU,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,435
 Lee,0017 PROVIDENCE BAPT CHU,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,194
 Lee,0017 PROVIDENCE BAPT CHU,"Public Service Commission, Place No. 1",,REP,Matt Gentry,570
 Lee,0017 PROVIDENCE BAPT CHU,"Public Service Commission, Place No. 2",,REP,Brent Woodall,195
@@ -1202,13 +1222,15 @@ Lee,0018 LEE COUNTY LEARNING,Lee County Coroner,,REP,Brian Allen,118
 Lee,0018 LEE COUNTY LEARNING,Lee County Coroner,,REP,Daniel Sexton,228
 Lee,0018 LEE COUNTY LEARNING,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",309
 Lee,0018 LEE COUNTY LEARNING,Lee County Sheriff,,REP,Jay Jones,90
-Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,REP,George Childress,24
-Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,REP,John Wahl,14
+Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,REP,George Childress,4
+Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,REP,John Wahl,158
 Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,REP,Nicole Jones Wadsworth,14
-Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,REP,Pat Bishop,107
-Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,REP,Rick Pate,4
-Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,REP,Stewart Hill Tankersley,34
-Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,REP,Unverified Candidate 7,158
+Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,REP,Pat Bishop,24
+Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,REP,Rick Pate,34
+Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,REP,Stewart Hill Tankersley,14
+Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,REP,Wes Allen,107
+Lee,0018 LEE COUNTY LEARNING,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,167
+Lee,0018 LEE COUNTY LEARNING,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,184
 Lee,0018 LEE COUNTY LEARNING,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,78
 Lee,0018 LEE COUNTY LEARNING,"Public Service Commission, Place No. 1",,REP,Matt Gentry,250
 Lee,0018 LEE COUNTY LEARNING,"Public Service Commission, Place No. 2",,REP,Brent Woodall,81
@@ -1277,13 +1299,15 @@ Lee,0019 SALEM/CRAWFORD FD 2,Lee County Coroner,,REP,Brian Allen,94
 Lee,0019 SALEM/CRAWFORD FD 2,Lee County Coroner,,REP,Daniel Sexton,213
 Lee,0019 SALEM/CRAWFORD FD 2,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",239
 Lee,0019 SALEM/CRAWFORD FD 2,Lee County Sheriff,,REP,Jay Jones,103
-Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,George Childress,22
-Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,John Wahl,15
-Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,Nicole Jones Wadsworth,13
-Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,Pat Bishop,120
-Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,Rick Pate,14
-Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,Stewart Hill Tankersley,22
-Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,Unverified Candidate 7,106
+Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,George Childress,14
+Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,John Wahl,106
+Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,Nicole Jones Wadsworth,15
+Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,Pat Bishop,22
+Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,Rick Pate,22
+Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,Stewart Hill Tankersley,13
+Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,REP,Wes Allen,120
+Lee,0019 SALEM/CRAWFORD FD 2,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,40
+Lee,0019 SALEM/CRAWFORD FD 2,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,44
 Lee,0019 SALEM/CRAWFORD FD 2,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,49
 Lee,0019 SALEM/CRAWFORD FD 2,"Public Service Commission, Place No. 1",,REP,Matt Gentry,245
 Lee,0019 SALEM/CRAWFORD FD 2,"Public Service Commission, Place No. 2",,REP,Brent Woodall,94
@@ -1314,8 +1338,8 @@ Lee,0020 BEAUREGARD FIRE DEPT,Proposed Statewide Amendment 1,,,No,39
 Lee,0020 BEAUREGARD FIRE DEPT,Proposed Statewide Amendment 1,,,Yes,180
 Lee,0020 BEAUREGARD FIRE DEPT,Proposed Statewide Amendment 2,,,No,101
 Lee,0020 BEAUREGARD FIRE DEPT,Proposed Statewide Amendment 2,,,Yes,112
-Lee,0020 BEAUREGARD FIRE DEPT,District No. B3,,DEM,Unverified Candidate 1,46
-Lee,0020 BEAUREGARD FIRE DEPT,District No. B3,,DEM,Unverified Candidate 2,34
+Lee,0020 BEAUREGARD FIRE DEPT,District No. B3,,DEM,Ciara Thomas,34
+Lee,0020 BEAUREGARD FIRE DEPT,District No. B3,,DEM,Patsy B Parker,46
 Lee,0020 BEAUREGARD FIRE DEPT,Governor,,DEM,"Chad ""Chig"" Martin",1
 Lee,0020 BEAUREGARD FIRE DEPT,Governor,,DEM,Doug Jones,53
 Lee,0020 BEAUREGARD FIRE DEPT,Governor,,DEM,Jamel J. Brown,11
@@ -1343,13 +1367,13 @@ Lee,0020 BEAUREGARD FIRE DEPT,Lee County Coroner,,REP,Brian Allen,72
 Lee,0020 BEAUREGARD FIRE DEPT,Lee County Coroner,,REP,Daniel Sexton,52
 Lee,0020 BEAUREGARD FIRE DEPT,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",95
 Lee,0020 BEAUREGARD FIRE DEPT,Lee County Sheriff,,REP,Jay Jones,53
-Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,George Childress,7
-Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,John Wahl,7
-Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
-Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,Pat Bishop,52
-Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,Rick Pate,6
-Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,Stewart Hill Tankersley,10
-Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,Unverified Candidate 7,48
+Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,George Childress,6
+Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,John Wahl,48
+Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,Nicole Jones Wadsworth,7
+Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,Pat Bishop,7
+Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,Rick Pate,10
+Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,REP,Wes Allen,52
 Lee,0020 BEAUREGARD FIRE DEPT,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,18
 Lee,0020 BEAUREGARD FIRE DEPT,"Public Service Commission, Place No. 1",,REP,Matt Gentry,97
 Lee,0020 BEAUREGARD FIRE DEPT,"Public Service Commission, Place No. 2",,REP,Brent Woodall,31
@@ -1413,13 +1437,15 @@ Lee,0021 BEULAH FIRE DEPT #3,Lee County Coroner,,REP,Brian Allen,154
 Lee,0021 BEULAH FIRE DEPT #3,Lee County Coroner,,REP,Daniel Sexton,391
 Lee,0021 BEULAH FIRE DEPT #3,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",388
 Lee,0021 BEULAH FIRE DEPT #3,Lee County Sheriff,,REP,Jay Jones,243
-Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,George Childress,30
-Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,John Wahl,34
-Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,Nicole Jones Wadsworth,16
-Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,Pat Bishop,169
-Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,Rick Pate,11
-Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,Stewart Hill Tankersley,45
-Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,Unverified Candidate 7,264
+Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,George Childress,11
+Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,John Wahl,264
+Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,Nicole Jones Wadsworth,34
+Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,Pat Bishop,30
+Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,Rick Pate,45
+Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,Stewart Hill Tankersley,16
+Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,REP,Wes Allen,169
+Lee,0021 BEULAH FIRE DEPT #3,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,216
+Lee,0021 BEULAH FIRE DEPT #3,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,308
 Lee,0021 BEULAH FIRE DEPT #3,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,89
 Lee,0021 BEULAH FIRE DEPT #3,"Public Service Commission, Place No. 1",,REP,Matt Gentry,435
 Lee,0021 BEULAH FIRE DEPT #3,"Public Service Commission, Place No. 2",,REP,Brent Woodall,109
@@ -1483,15 +1509,15 @@ Lee,0022 SMITH STATION SR CTR,Lee County Coroner,,REP,Brian Allen,154
 Lee,0022 SMITH STATION SR CTR,Lee County Coroner,,REP,Daniel Sexton,432
 Lee,0022 SMITH STATION SR CTR,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",397
 Lee,0022 SMITH STATION SR CTR,Lee County Sheriff,,REP,Jay Jones,238
-Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,George Childress,38
-Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,John Wahl,63
-Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,17
-Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,Pat Bishop,144
-Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,Rick Pate,20
-Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,49
-Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,Unverified Candidate 7,256
-Lee,0022 SMITH STATION SR CTR,"Member. Lee County Commission, District No. 4",,REP,Harold Whatley,39
-Lee,0022 SMITH STATION SR CTR,"Member. Lee County Commission, District No. 4",,REP,Tony Langley,51
+Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,George Childress,20
+Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,John Wahl,256
+Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,63
+Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,Pat Bishop,38
+Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,Rick Pate,49
+Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,17
+Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,REP,Wes Allen,144
+Lee,0022 SMITH STATION SR CTR,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,39
+Lee,0022 SMITH STATION SR CTR,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,51
 Lee,0022 SMITH STATION SR CTR,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,116
 Lee,0022 SMITH STATION SR CTR,"Public Service Commission, Place No. 1",,REP,Matt Gentry,439
 Lee,0022 SMITH STATION SR CTR,"Public Service Commission, Place No. 2",,REP,Brent Woodall,132
@@ -1555,15 +1581,15 @@ Lee,0023 PINE GROVE CHURCH,Lee County Coroner,,REP,Brian Allen,150
 Lee,0023 PINE GROVE CHURCH,Lee County Coroner,,REP,Daniel Sexton,275
 Lee,0023 PINE GROVE CHURCH,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",357
 Lee,0023 PINE GROVE CHURCH,Lee County Sheriff,,REP,Jay Jones,140
-Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,George Childress,25
-Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,John Wahl,42
-Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,13
-Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,Pat Bishop,102
-Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,Rick Pate,24
-Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,33
-Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,Unverified Candidate 7,195
-Lee,0023 PINE GROVE CHURCH,"Member. Lee County Commission, District No. 4",,REP,Harold Whatley,160
-Lee,0023 PINE GROVE CHURCH,"Member. Lee County Commission, District No. 4",,REP,Tony Langley,285
+Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,George Childress,24
+Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,John Wahl,195
+Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,42
+Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,Pat Bishop,25
+Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,Rick Pate,33
+Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,13
+Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,REP,Wes Allen,102
+Lee,0023 PINE GROVE CHURCH,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,160
+Lee,0023 PINE GROVE CHURCH,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,285
 Lee,0023 PINE GROVE CHURCH,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,108
 Lee,0023 PINE GROVE CHURCH,"Public Service Commission, Place No. 1",,REP,Matt Gentry,295
 Lee,0023 PINE GROVE CHURCH,"Public Service Commission, Place No. 2",,REP,Brent Woodall,86
@@ -1627,15 +1653,15 @@ Lee,0024 SMITHS STATION JR HS,Lee County Coroner,,REP,Brian Allen,265
 Lee,0024 SMITHS STATION JR HS,Lee County Coroner,,REP,Daniel Sexton,979
 Lee,0024 SMITHS STATION JR HS,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",772
 Lee,0024 SMITHS STATION JR HS,Lee County Sheriff,,REP,Jay Jones,557
-Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,George Childress,77
-Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,John Wahl,101
-Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,Nicole Jones Wadsworth,42
-Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,Pat Bishop,299
-Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,Rick Pate,32
-Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,Stewart Hill Tankersley,109
-Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,Unverified Candidate 7,594
-Lee,0024 SMITHS STATION JR HS,"Member. Lee County Commission, District No. 4",,REP,Harold Whatley,0
-Lee,0024 SMITHS STATION JR HS,"Member. Lee County Commission, District No. 4",,REP,Tony Langley,0
+Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,George Childress,32
+Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,John Wahl,594
+Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,Nicole Jones Wadsworth,101
+Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,Pat Bishop,77
+Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,Rick Pate,109
+Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,Stewart Hill Tankersley,42
+Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,REP,Wes Allen,299
+Lee,0024 SMITHS STATION JR HS,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,0
+Lee,0024 SMITHS STATION JR HS,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,0
 Lee,0024 SMITHS STATION JR HS,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,251
 Lee,0024 SMITHS STATION JR HS,"Public Service Commission, Place No. 1",,REP,Matt Gentry,941
 Lee,0024 SMITHS STATION JR HS,"Public Service Commission, Place No. 2",,REP,Brent Woodall,228
@@ -1689,13 +1715,13 @@ Lee,0025 GLENWOOD SCHOOL,Lee County Coroner,,REP,Brian Allen,230
 Lee,0025 GLENWOOD SCHOOL,Lee County Coroner,,REP,Daniel Sexton,577
 Lee,0025 GLENWOOD SCHOOL,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",465
 Lee,0025 GLENWOOD SCHOOL,Lee County Sheriff,,REP,Jay Jones,471
-Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,George Childress,53
-Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,John Wahl,67
-Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,34
-Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,Pat Bishop,224
-Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,Rick Pate,18
-Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,Stewart Hill Tankersley,68
-Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,Unverified Candidate 7,420
+Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,George Childress,18
+Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,John Wahl,420
+Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,67
+Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,Pat Bishop,53
+Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,Rick Pate,68
+Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,Stewart Hill Tankersley,34
+Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,REP,Wes Allen,224
 Lee,0025 GLENWOOD SCHOOL,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,152
 Lee,0025 GLENWOOD SCHOOL,"Public Service Commission, Place No. 1",,REP,Matt Gentry,652
 Lee,0025 GLENWOOD SCHOOL,"Public Service Commission, Place No. 2",,REP,Brent Woodall,169
@@ -1724,8 +1750,8 @@ Lee,0026 PROVISIONAL,Proposed Statewide Amendment 1,,,No,2
 Lee,0026 PROVISIONAL,Proposed Statewide Amendment 1,,,Yes,17
 Lee,0026 PROVISIONAL,Proposed Statewide Amendment 2,,,No,4
 Lee,0026 PROVISIONAL,Proposed Statewide Amendment 2,,,Yes,12
-Lee,0026 PROVISIONAL,District No. B3,,DEM,Unverified Candidate 1,0
-Lee,0026 PROVISIONAL,District No. B3,,DEM,Unverified Candidate 2,0
+Lee,0026 PROVISIONAL,District No. B3,,DEM,Ciara Thomas,0
+Lee,0026 PROVISIONAL,District No. B3,,DEM,Patsy B Parker,0
 Lee,0026 PROVISIONAL,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lee,0026 PROVISIONAL,Governor,,DEM,Doug Jones,2
 Lee,0026 PROVISIONAL,Governor,,DEM,Jamel J. Brown,0
@@ -1770,16 +1796,16 @@ Lee,0026 PROVISIONAL,Lee County Coroner,,REP,Daniel Sexton,7
 Lee,0026 PROVISIONAL,Lee County Sheriff,,REP,"Cameron ""Cam"" Hunt",6
 Lee,0026 PROVISIONAL,Lee County Sheriff,,REP,Jay Jones,10
 Lee,0026 PROVISIONAL,Lieutenant Governor,,REP,George Childress,0
-Lee,0026 PROVISIONAL,Lieutenant Governor,,REP,John Wahl,1
-Lee,0026 PROVISIONAL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
-Lee,0026 PROVISIONAL,Lieutenant Governor,,REP,Pat Bishop,3
-Lee,0026 PROVISIONAL,Lieutenant Governor,,REP,Rick Pate,0
-Lee,0026 PROVISIONAL,Lieutenant Governor,,REP,Stewart Hill Tankersley,5
-Lee,0026 PROVISIONAL,Lieutenant Governor,,REP,Unverified Candidate 7,3
+Lee,0026 PROVISIONAL,Lieutenant Governor,,REP,John Wahl,3
+Lee,0026 PROVISIONAL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
+Lee,0026 PROVISIONAL,Lieutenant Governor,,REP,Pat Bishop,0
+Lee,0026 PROVISIONAL,Lieutenant Governor,,REP,Rick Pate,5
+Lee,0026 PROVISIONAL,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Lee,0026 PROVISIONAL,Lieutenant Governor,,REP,Wes Allen,3
 Lee,0026 PROVISIONAL,"Member, Lee County Commission, District No. 2",,REP,Angela Shepherd,1
 Lee,0026 PROVISIONAL,"Member, Lee County Commission, District No. 2",,REP,Ross Morris,1
-Lee,0026 PROVISIONAL,"Member. Lee County Commission, District No. 4",,REP,Harold Whatley,3
-Lee,0026 PROVISIONAL,"Member. Lee County Commission, District No. 4",,REP,Tony Langley,3
+Lee,0026 PROVISIONAL,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,3
+Lee,0026 PROVISIONAL,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,3
 Lee,0026 PROVISIONAL,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,3
 Lee,0026 PROVISIONAL,"Public Service Commission, Place No. 1",,REP,Matt Gentry,6
 Lee,0026 PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Brent Woodall,1
@@ -1813,8 +1839,8 @@ Lee,0028 ABSENTEE,Proposed Statewide Amendment 1,,,No,66
 Lee,0028 ABSENTEE,Proposed Statewide Amendment 1,,,Yes,540
 Lee,0028 ABSENTEE,Proposed Statewide Amendment 2,,,No,209
 Lee,0028 ABSENTEE,Proposed Statewide Amendment 2,,,Yes,365
-Lee,0028 ABSENTEE,District No. B3,,DEM,Unverified Candidate 1,11
-Lee,0028 ABSENTEE,District No. B3,,DEM,Unverified Candidate 2,7
+Lee,0028 ABSENTEE,District No. B3,,DEM,Ciara Thomas,7
+Lee,0028 ABSENTEE,District No. B3,,DEM,Patsy B Parker,11
 Lee,0028 ABSENTEE,Governor,,DEM,"Chad ""Chig"" Martin",3
 Lee,0028 ABSENTEE,Governor,,DEM,Doug Jones,112
 Lee,0028 ABSENTEE,Governor,,DEM,Jamel J. Brown,1
@@ -1853,17 +1879,17 @@ Lee,0028 ABSENTEE,Governor,,REP,Ken McFeeters,77
 Lee,0028 ABSENTEE,Governor,,REP,Thomas Tuberville,380
 Lee,0028 ABSENTEE,Lee County Coroner,,REP,Brian Allen,120
 Lee,0028 ABSENTEE,Lee County Coroner,,REP,Daniel Sexton,268
-Lee,0028 ABSENTEE,Lieutenant Governor,,REP,George Childress,20
-Lee,0028 ABSENTEE,Lieutenant Governor,,REP,John Wahl,33
-Lee,0028 ABSENTEE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,22
-Lee,0028 ABSENTEE,Lieutenant Governor,,REP,Pat Bishop,185
-Lee,0028 ABSENTEE,Lieutenant Governor,,REP,Rick Pate,5
-Lee,0028 ABSENTEE,Lieutenant Governor,,REP,Stewart Hill Tankersley,75
-Lee,0028 ABSENTEE,Lieutenant Governor,,REP,Unverified Candidate 7,100
+Lee,0028 ABSENTEE,Lieutenant Governor,,REP,George Childress,5
+Lee,0028 ABSENTEE,Lieutenant Governor,,REP,John Wahl,100
+Lee,0028 ABSENTEE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,33
+Lee,0028 ABSENTEE,Lieutenant Governor,,REP,Pat Bishop,20
+Lee,0028 ABSENTEE,Lieutenant Governor,,REP,Rick Pate,75
+Lee,0028 ABSENTEE,Lieutenant Governor,,REP,Stewart Hill Tankersley,22
+Lee,0028 ABSENTEE,Lieutenant Governor,,REP,Wes Allen,185
 Lee,0028 ABSENTEE,"Member, Lee County Commission, District No. 2",,REP,Angela Shepherd,38
 Lee,0028 ABSENTEE,"Member, Lee County Commission, District No. 2",,REP,Ross Morris,77
-Lee,0028 ABSENTEE,"Member. Lee County Commission, District No. 4",,REP,Harold Whatley,52
-Lee,0028 ABSENTEE,"Member. Lee County Commission, District No. 4",,REP,Tony Langley,71
+Lee,0028 ABSENTEE,"Member, Lee County Commission, District No. 4",,REP,Harold Whatley,52
+Lee,0028 ABSENTEE,"Member, Lee County Commission, District No. 4",,REP,Tony Langley,71
 Lee,0028 ABSENTEE,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,106
 Lee,0028 ABSENTEE,"Public Service Commission, Place No. 1",,REP,Matt Gentry,256
 Lee,0028 ABSENTEE,"Public Service Commission, Place No. 2",,REP,Brent Woodall,73

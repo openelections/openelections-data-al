@@ -1,4 +1,8 @@
 county,precinct,office,district,party,candidate,votes
+Lamar,0001 VERNON WEST,Proposed Statewide Amendment 1,,,No,51
+Lamar,0001 VERNON WEST,Proposed Statewide Amendment 1,,,Yes,270
+Lamar,0001 VERNON WEST,Proposed Statewide Amendment 2,,,No,136
+Lamar,0001 VERNON WEST,Proposed Statewide Amendment 2,,,Yes,179
 Lamar,0001 VERNON WEST,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,27
 Lamar,0001 VERNON WEST,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,15
 Lamar,0001 VERNON WEST,"Public Service Commission, Place No. 1",,DEM,John Northrop,6
@@ -14,9 +18,6 @@ Lamar,0001 VERNON WEST,Attorney General,,REP,Pamela L. Casey,83
 Lamar,0001 VERNON WEST,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,70
 Lamar,0001 VERNON WEST,Commissioner of Agriculture and Industries,,REP,Cory Hill,128
 Lamar,0001 VERNON WEST,Commissioner of Agriculture and Industries,,REP,Jack Williams,47
-Lamar,0001 VERNON WEST,Governor,,REP,"""Alabama"" Will Santivasci",12
-Lamar,0001 VERNON WEST,Governor,,REP,Ken McFeeters,17
-Lamar,0001 VERNON WEST,Governor,,REP,Thomas Tuberville,229
 Lamar,0001 VERNON WEST,Governor,,REP,"""Alabama"" Will Santivasci",12
 Lamar,0001 VERNON WEST,Governor,,REP,Ken McFeeters,17
 Lamar,0001 VERNON WEST,Governor,,REP,Thomas Tuberville,229
@@ -51,10 +52,10 @@ Lamar,0001 VERNON WEST,U.S. Senate,,REP,Morgan Murphy,1
 Lamar,0001 VERNON WEST,U.S. Senate,,REP,Rodney Walker,11
 Lamar,0001 VERNON WEST,U.S. Senate,,REP,Seth Burton,4
 Lamar,0001 VERNON WEST,U.S. Senate,,REP,Steve Marshall,55
-Lamar,0001 VERNON WEST,Proposed Statewide Amendment 1,,,No,51
-Lamar,0001 VERNON WEST,Proposed Statewide Amendment 1,,,Yes,270
-Lamar,0001 VERNON WEST,Proposed Statewide Amendment 2,,,No,136
-Lamar,0001 VERNON WEST,Proposed Statewide Amendment 2,,,Yes,179
+Lamar,0002 VERNON EAST,Proposed Statewide Amendment 1,,,No,15
+Lamar,0002 VERNON EAST,Proposed Statewide Amendment 1,,,Yes,157
+Lamar,0002 VERNON EAST,Proposed Statewide Amendment 2,,,No,55
+Lamar,0002 VERNON EAST,Proposed Statewide Amendment 2,,,Yes,110
 Lamar,0002 VERNON EAST,Governor,,DEM,"Chad ""Chig"" Martin",2
 Lamar,0002 VERNON EAST,Governor,,DEM,Doug Jones,31
 Lamar,0002 VERNON EAST,Governor,,DEM,Jamel J. Brown,3
@@ -78,9 +79,6 @@ Lamar,0002 VERNON EAST,Attorney General,,REP,Pamela L. Casey,43
 Lamar,0002 VERNON EAST,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,48
 Lamar,0002 VERNON EAST,Commissioner of Agriculture and Industries,,REP,Cory Hill,73
 Lamar,0002 VERNON EAST,Commissioner of Agriculture and Industries,,REP,Jack Williams,30
-Lamar,0002 VERNON EAST,Governor,,REP,"""Alabama"" Will Santivasci",6
-Lamar,0002 VERNON EAST,Governor,,REP,Ken McFeeters,12
-Lamar,0002 VERNON EAST,Governor,,REP,Thomas Tuberville,147
 Lamar,0002 VERNON EAST,Governor,,REP,"""Alabama"" Will Santivasci",6
 Lamar,0002 VERNON EAST,Governor,,REP,Ken McFeeters,12
 Lamar,0002 VERNON EAST,Governor,,REP,Thomas Tuberville,147
@@ -118,10 +116,10 @@ Lamar,0002 VERNON EAST,U.S. Senate,,REP,Morgan Murphy,3
 Lamar,0002 VERNON EAST,U.S. Senate,,REP,Rodney Walker,6
 Lamar,0002 VERNON EAST,U.S. Senate,,REP,Seth Burton,2
 Lamar,0002 VERNON EAST,U.S. Senate,,REP,Steve Marshall,49
-Lamar,0002 VERNON EAST,Proposed Statewide Amendment 1,,,No,15
-Lamar,0002 VERNON EAST,Proposed Statewide Amendment 1,,,Yes,157
-Lamar,0002 VERNON EAST,Proposed Statewide Amendment 2,,,No,55
-Lamar,0002 VERNON EAST,Proposed Statewide Amendment 2,,,Yes,110
+Lamar,0003 CROSSVILLE,Proposed Statewide Amendment 1,,,No,4
+Lamar,0003 CROSSVILLE,Proposed Statewide Amendment 1,,,Yes,73
+Lamar,0003 CROSSVILLE,Proposed Statewide Amendment 2,,,No,31
+Lamar,0003 CROSSVILLE,Proposed Statewide Amendment 2,,,Yes,43
 Lamar,0003 CROSSVILLE,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0003 CROSSVILLE,Governor,,DEM,Doug Jones,4
 Lamar,0003 CROSSVILLE,Governor,,DEM,Jamel J. Brown,1
@@ -145,9 +143,6 @@ Lamar,0003 CROSSVILLE,Attorney General,,REP,Pamela L. Casey,18
 Lamar,0003 CROSSVILLE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,27
 Lamar,0003 CROSSVILLE,Commissioner of Agriculture and Industries,,REP,Cory Hill,26
 Lamar,0003 CROSSVILLE,Commissioner of Agriculture and Industries,,REP,Jack Williams,16
-Lamar,0003 CROSSVILLE,Governor,,REP,"""Alabama"" Will Santivasci",2
-Lamar,0003 CROSSVILLE,Governor,,REP,Ken McFeeters,7
-Lamar,0003 CROSSVILLE,Governor,,REP,Thomas Tuberville,62
 Lamar,0003 CROSSVILLE,Governor,,REP,"""Alabama"" Will Santivasci",2
 Lamar,0003 CROSSVILLE,Governor,,REP,Ken McFeeters,7
 Lamar,0003 CROSSVILLE,Governor,,REP,Thomas Tuberville,62
@@ -185,10 +180,10 @@ Lamar,0003 CROSSVILLE,U.S. Senate,,REP,Morgan Murphy,1
 Lamar,0003 CROSSVILLE,U.S. Senate,,REP,Rodney Walker,6
 Lamar,0003 CROSSVILLE,U.S. Senate,,REP,Seth Burton,2
 Lamar,0003 CROSSVILLE,U.S. Senate,,REP,Steve Marshall,16
-Lamar,0003 CROSSVILLE,Proposed Statewide Amendment 1,,,No,4
-Lamar,0003 CROSSVILLE,Proposed Statewide Amendment 1,,,Yes,73
-Lamar,0003 CROSSVILLE,Proposed Statewide Amendment 2,,,No,31
-Lamar,0003 CROSSVILLE,Proposed Statewide Amendment 2,,,Yes,43
+Lamar,0004 FAIRVIEW SIZEMORE,Proposed Statewide Amendment 1,,,No,3
+Lamar,0004 FAIRVIEW SIZEMORE,Proposed Statewide Amendment 1,,,Yes,26
+Lamar,0004 FAIRVIEW SIZEMORE,Proposed Statewide Amendment 2,,,No,6
+Lamar,0004 FAIRVIEW SIZEMORE,Proposed Statewide Amendment 2,,,Yes,18
 Lamar,0004 FAIRVIEW SIZEMORE,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0004 FAIRVIEW SIZEMORE,Governor,,DEM,Doug Jones,4
 Lamar,0004 FAIRVIEW SIZEMORE,Governor,,DEM,Jamel J. Brown,1
@@ -212,9 +207,6 @@ Lamar,0004 FAIRVIEW SIZEMORE,Attorney General,,REP,Pamela L. Casey,3
 Lamar,0004 FAIRVIEW SIZEMORE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,2
 Lamar,0004 FAIRVIEW SIZEMORE,Commissioner of Agriculture and Industries,,REP,Cory Hill,19
 Lamar,0004 FAIRVIEW SIZEMORE,Commissioner of Agriculture and Industries,,REP,Jack Williams,2
-Lamar,0004 FAIRVIEW SIZEMORE,Governor,,REP,"""Alabama"" Will Santivasci",0
-Lamar,0004 FAIRVIEW SIZEMORE,Governor,,REP,Ken McFeeters,0
-Lamar,0004 FAIRVIEW SIZEMORE,Governor,,REP,Thomas Tuberville,25
 Lamar,0004 FAIRVIEW SIZEMORE,Governor,,REP,"""Alabama"" Will Santivasci",0
 Lamar,0004 FAIRVIEW SIZEMORE,Governor,,REP,Ken McFeeters,0
 Lamar,0004 FAIRVIEW SIZEMORE,Governor,,REP,Thomas Tuberville,25
@@ -252,10 +244,10 @@ Lamar,0004 FAIRVIEW SIZEMORE,U.S. Senate,,REP,Morgan Murphy,1
 Lamar,0004 FAIRVIEW SIZEMORE,U.S. Senate,,REP,Rodney Walker,0
 Lamar,0004 FAIRVIEW SIZEMORE,U.S. Senate,,REP,Seth Burton,1
 Lamar,0004 FAIRVIEW SIZEMORE,U.S. Senate,,REP,Steve Marshall,13
-Lamar,0004 FAIRVIEW SIZEMORE,Proposed Statewide Amendment 1,,,No,3
-Lamar,0004 FAIRVIEW SIZEMORE,Proposed Statewide Amendment 1,,,Yes,26
-Lamar,0004 FAIRVIEW SIZEMORE,Proposed Statewide Amendment 2,,,No,6
-Lamar,0004 FAIRVIEW SIZEMORE,Proposed Statewide Amendment 2,,,Yes,18
+Lamar,0005 BEAVERTON CH NORTH,Proposed Statewide Amendment 1,,,No,0
+Lamar,0005 BEAVERTON CH NORTH,Proposed Statewide Amendment 1,,,Yes,7
+Lamar,0005 BEAVERTON CH NORTH,Proposed Statewide Amendment 2,,,No,2
+Lamar,0005 BEAVERTON CH NORTH,Proposed Statewide Amendment 2,,,Yes,5
 Lamar,0005 BEAVERTON CH NORTH,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0005 BEAVERTON CH NORTH,Governor,,DEM,Doug Jones,0
 Lamar,0005 BEAVERTON CH NORTH,Governor,,DEM,Jamel J. Brown,0
@@ -279,9 +271,6 @@ Lamar,0005 BEAVERTON CH NORTH,Attorney General,,REP,Pamela L. Casey,0
 Lamar,0005 BEAVERTON CH NORTH,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,0
 Lamar,0005 BEAVERTON CH NORTH,Commissioner of Agriculture and Industries,,REP,Cory Hill,7
 Lamar,0005 BEAVERTON CH NORTH,Commissioner of Agriculture and Industries,,REP,Jack Williams,0
-Lamar,0005 BEAVERTON CH NORTH,Governor,,REP,"""Alabama"" Will Santivasci",0
-Lamar,0005 BEAVERTON CH NORTH,Governor,,REP,Ken McFeeters,1
-Lamar,0005 BEAVERTON CH NORTH,Governor,,REP,Thomas Tuberville,8
 Lamar,0005 BEAVERTON CH NORTH,Governor,,REP,"""Alabama"" Will Santivasci",0
 Lamar,0005 BEAVERTON CH NORTH,Governor,,REP,Ken McFeeters,1
 Lamar,0005 BEAVERTON CH NORTH,Governor,,REP,Thomas Tuberville,8
@@ -319,10 +308,10 @@ Lamar,0005 BEAVERTON CH NORTH,U.S. Senate,,REP,Morgan Murphy,0
 Lamar,0005 BEAVERTON CH NORTH,U.S. Senate,,REP,Rodney Walker,0
 Lamar,0005 BEAVERTON CH NORTH,U.S. Senate,,REP,Seth Burton,0
 Lamar,0005 BEAVERTON CH NORTH,U.S. Senate,,REP,Steve Marshall,1
-Lamar,0005 BEAVERTON CH NORTH,Proposed Statewide Amendment 1,,,No,0
-Lamar,0005 BEAVERTON CH NORTH,Proposed Statewide Amendment 1,,,Yes,7
-Lamar,0005 BEAVERTON CH NORTH,Proposed Statewide Amendment 2,,,No,2
-Lamar,0005 BEAVERTON CH NORTH,Proposed Statewide Amendment 2,,,Yes,5
+Lamar,0006 BEAVERTON CH SOUTH,Proposed Statewide Amendment 1,,,No,9
+Lamar,0006 BEAVERTON CH SOUTH,Proposed Statewide Amendment 1,,,Yes,47
+Lamar,0006 BEAVERTON CH SOUTH,Proposed Statewide Amendment 2,,,No,26
+Lamar,0006 BEAVERTON CH SOUTH,Proposed Statewide Amendment 2,,,Yes,29
 Lamar,0006 BEAVERTON CH SOUTH,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0006 BEAVERTON CH SOUTH,Governor,,DEM,Doug Jones,0
 Lamar,0006 BEAVERTON CH SOUTH,Governor,,DEM,Jamel J. Brown,0
@@ -346,9 +335,6 @@ Lamar,0006 BEAVERTON CH SOUTH,Attorney General,,REP,Pamela L. Casey,15
 Lamar,0006 BEAVERTON CH SOUTH,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,14
 Lamar,0006 BEAVERTON CH SOUTH,Commissioner of Agriculture and Industries,,REP,Cory Hill,17
 Lamar,0006 BEAVERTON CH SOUTH,Commissioner of Agriculture and Industries,,REP,Jack Williams,18
-Lamar,0006 BEAVERTON CH SOUTH,Governor,,REP,"""Alabama"" Will Santivasci",2
-Lamar,0006 BEAVERTON CH SOUTH,Governor,,REP,Ken McFeeters,5
-Lamar,0006 BEAVERTON CH SOUTH,Governor,,REP,Thomas Tuberville,53
 Lamar,0006 BEAVERTON CH SOUTH,Governor,,REP,"""Alabama"" Will Santivasci",2
 Lamar,0006 BEAVERTON CH SOUTH,Governor,,REP,Ken McFeeters,5
 Lamar,0006 BEAVERTON CH SOUTH,Governor,,REP,Thomas Tuberville,53
@@ -386,13 +372,13 @@ Lamar,0006 BEAVERTON CH SOUTH,U.S. Senate,,REP,Morgan Murphy,0
 Lamar,0006 BEAVERTON CH SOUTH,U.S. Senate,,REP,Rodney Walker,4
 Lamar,0006 BEAVERTON CH SOUTH,U.S. Senate,,REP,Seth Burton,2
 Lamar,0006 BEAVERTON CH SOUTH,U.S. Senate,,REP,Steve Marshall,8
-Lamar,0006 BEAVERTON CH SOUTH,Proposed Statewide Amendment 1,,,No,9
-Lamar,0006 BEAVERTON CH SOUTH,Proposed Statewide Amendment 1,,,Yes,47
-Lamar,0006 BEAVERTON CH SOUTH,Proposed Statewide Amendment 2,,,No,26
-Lamar,0006 BEAVERTON CH SOUTH,Proposed Statewide Amendment 2,,,Yes,29
 Lamar,0007 CREWS COMMUNITY CHJ.,Governor,,REP,"""Alabama"" Will Santivasci",1
 Lamar,0007 CREWS COMMUNITY CHJ.,Governor,,REP,Ken McFeeters,4
 Lamar,0007 CREWS COMMUNITY CHJ.,Governor,,REP,Thomas Tuberville,68
+Lamar,0007 CREWS COMMUNITY CHU.,Proposed Statewide Amendment 1,,,No,8
+Lamar,0007 CREWS COMMUNITY CHU.,Proposed Statewide Amendment 1,,,Yes,65
+Lamar,0007 CREWS COMMUNITY CHU.,Proposed Statewide Amendment 2,,,No,38
+Lamar,0007 CREWS COMMUNITY CHU.,Proposed Statewide Amendment 2,,,Yes,30
 Lamar,0007 CREWS COMMUNITY CHU.,Governor,,DEM,"Chad ""Chig"" Martin",1
 Lamar,0007 CREWS COMMUNITY CHU.,Governor,,DEM,Doug Jones,1
 Lamar,0007 CREWS COMMUNITY CHU.,Governor,,DEM,Jamel J. Brown,0
@@ -416,9 +402,6 @@ Lamar,0007 CREWS COMMUNITY CHU.,Attorney General,,REP,Pamela L. Casey,21
 Lamar,0007 CREWS COMMUNITY CHU.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,10
 Lamar,0007 CREWS COMMUNITY CHU.,Commissioner of Agriculture and Industries,,REP,Cory Hill,37
 Lamar,0007 CREWS COMMUNITY CHU.,Commissioner of Agriculture and Industries,,REP,Jack Williams,15
-Lamar,0007 CREWS COMMUNITY CHU.,Governor,,REP,"""Alabama"" Will Santivasci",1
-Lamar,0007 CREWS COMMUNITY CHU.,Governor,,REP,Ken McFeeters,4
-Lamar,0007 CREWS COMMUNITY CHU.,Governor,,REP,Thomas Tuberville,68
 Lamar,0007 CREWS COMMUNITY CHU.,Lamar County Coroner,,REP,Allen V. Chandler,32
 Lamar,0007 CREWS COMMUNITY CHU.,Lamar County Coroner,,REP,Tommy Dunham,37
 Lamar,0007 CREWS COMMUNITY CHU.,Lieutenant Governor,,REP,George Childress,2
@@ -453,10 +436,10 @@ Lamar,0007 CREWS COMMUNITY CHU.,U.S. Senate,,REP,Morgan Murphy,0
 Lamar,0007 CREWS COMMUNITY CHU.,U.S. Senate,,REP,Rodney Walker,7
 Lamar,0007 CREWS COMMUNITY CHU.,U.S. Senate,,REP,Seth Burton,2
 Lamar,0007 CREWS COMMUNITY CHU.,U.S. Senate,,REP,Steve Marshall,9
-Lamar,0007 CREWS COMMUNITY CHU.,Proposed Statewide Amendment 1,,,No,8
-Lamar,0007 CREWS COMMUNITY CHU.,Proposed Statewide Amendment 1,,,Yes,65
-Lamar,0007 CREWS COMMUNITY CHU.,Proposed Statewide Amendment 2,,,No,38
-Lamar,0007 CREWS COMMUNITY CHU.,Proposed Statewide Amendment 2,,,Yes,30
+Lamar,0008 HENSON SPRINGS FS,Proposed Statewide Amendment 1,,,No,5
+Lamar,0008 HENSON SPRINGS FS,Proposed Statewide Amendment 1,,,Yes,24
+Lamar,0008 HENSON SPRINGS FS,Proposed Statewide Amendment 2,,,No,15
+Lamar,0008 HENSON SPRINGS FS,Proposed Statewide Amendment 2,,,Yes,14
 Lamar,0008 HENSON SPRINGS FS,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0008 HENSON SPRINGS FS,Governor,,DEM,Doug Jones,1
 Lamar,0008 HENSON SPRINGS FS,Governor,,DEM,Jamel J. Brown,0
@@ -480,9 +463,6 @@ Lamar,0008 HENSON SPRINGS FS,Attorney General,,REP,Pamela L. Casey,10
 Lamar,0008 HENSON SPRINGS FS,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,7
 Lamar,0008 HENSON SPRINGS FS,Commissioner of Agriculture and Industries,,REP,Cory Hill,12
 Lamar,0008 HENSON SPRINGS FS,Commissioner of Agriculture and Industries,,REP,Jack Williams,8
-Lamar,0008 HENSON SPRINGS FS,Governor,,REP,"""Alabama"" Will Santivasci",0
-Lamar,0008 HENSON SPRINGS FS,Governor,,REP,Ken McFeeters,1
-Lamar,0008 HENSON SPRINGS FS,Governor,,REP,Thomas Tuberville,27
 Lamar,0008 HENSON SPRINGS FS,Governor,,REP,"""Alabama"" Will Santivasci",0
 Lamar,0008 HENSON SPRINGS FS,Governor,,REP,Ken McFeeters,1
 Lamar,0008 HENSON SPRINGS FS,Governor,,REP,Thomas Tuberville,27
@@ -520,10 +500,10 @@ Lamar,0008 HENSON SPRINGS FS,U.S. Senate,,REP,Morgan Murphy,0
 Lamar,0008 HENSON SPRINGS FS,U.S. Senate,,REP,Rodney Walker,7
 Lamar,0008 HENSON SPRINGS FS,U.S. Senate,,REP,Seth Burton,2
 Lamar,0008 HENSON SPRINGS FS,U.S. Senate,,REP,Steve Marshall,4
-Lamar,0008 HENSON SPRINGS FS,Proposed Statewide Amendment 1,,,No,5
-Lamar,0008 HENSON SPRINGS FS,Proposed Statewide Amendment 1,,,Yes,24
-Lamar,0008 HENSON SPRINGS FS,Proposed Statewide Amendment 2,,,No,15
-Lamar,0008 HENSON SPRINGS FS,Proposed Statewide Amendment 2,,,Yes,14
+Lamar,0009 DETROIT CITY HALL,Proposed Statewide Amendment 1,,,No,8
+Lamar,0009 DETROIT CITY HALL,Proposed Statewide Amendment 1,,,Yes,67
+Lamar,0009 DETROIT CITY HALL,Proposed Statewide Amendment 2,,,No,34
+Lamar,0009 DETROIT CITY HALL,Proposed Statewide Amendment 2,,,Yes,38
 Lamar,0009 DETROIT CITY HALL,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0009 DETROIT CITY HALL,Governor,,DEM,Doug Jones,7
 Lamar,0009 DETROIT CITY HALL,Governor,,DEM,Jamel J. Brown,0
@@ -547,9 +527,6 @@ Lamar,0009 DETROIT CITY HALL,Attorney General,,REP,Pamela L. Casey,22
 Lamar,0009 DETROIT CITY HALL,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,9
 Lamar,0009 DETROIT CITY HALL,Commissioner of Agriculture and Industries,,REP,Cory Hill,27
 Lamar,0009 DETROIT CITY HALL,Commissioner of Agriculture and Industries,,REP,Jack Williams,35
-Lamar,0009 DETROIT CITY HALL,Governor,,REP,"""Alabama"" Will Santivasci",2
-Lamar,0009 DETROIT CITY HALL,Governor,,REP,Ken McFeeters,2
-Lamar,0009 DETROIT CITY HALL,Governor,,REP,Thomas Tuberville,72
 Lamar,0009 DETROIT CITY HALL,Governor,,REP,"""Alabama"" Will Santivasci",2
 Lamar,0009 DETROIT CITY HALL,Governor,,REP,Ken McFeeters,2
 Lamar,0009 DETROIT CITY HALL,Governor,,REP,Thomas Tuberville,72
@@ -587,10 +564,10 @@ Lamar,0009 DETROIT CITY HALL,U.S. Senate,,REP,Morgan Murphy,1
 Lamar,0009 DETROIT CITY HALL,U.S. Senate,,REP,Rodney Walker,6
 Lamar,0009 DETROIT CITY HALL,U.S. Senate,,REP,Seth Burton,1
 Lamar,0009 DETROIT CITY HALL,U.S. Senate,,REP,Steve Marshall,23
-Lamar,0009 DETROIT CITY HALL,Proposed Statewide Amendment 1,,,No,8
-Lamar,0009 DETROIT CITY HALL,Proposed Statewide Amendment 1,,,Yes,67
-Lamar,0009 DETROIT CITY HALL,Proposed Statewide Amendment 2,,,No,34
-Lamar,0009 DETROIT CITY HALL,Proposed Statewide Amendment 2,,,Yes,38
+Lamar,0010 PINE SPRINGS,Proposed Statewide Amendment 1,,,No,5
+Lamar,0010 PINE SPRINGS,Proposed Statewide Amendment 1,,,Yes,44
+Lamar,0010 PINE SPRINGS,Proposed Statewide Amendment 2,,,No,28
+Lamar,0010 PINE SPRINGS,Proposed Statewide Amendment 2,,,Yes,20
 Lamar,0010 PINE SPRINGS,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0010 PINE SPRINGS,Governor,,DEM,Doug Jones,2
 Lamar,0010 PINE SPRINGS,Governor,,DEM,Jamel J. Brown,0
@@ -614,9 +591,6 @@ Lamar,0010 PINE SPRINGS,Attorney General,,REP,Pamela L. Casey,10
 Lamar,0010 PINE SPRINGS,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,3
 Lamar,0010 PINE SPRINGS,Commissioner of Agriculture and Industries,,REP,Cory Hill,28
 Lamar,0010 PINE SPRINGS,Commissioner of Agriculture and Industries,,REP,Jack Williams,12
-Lamar,0010 PINE SPRINGS,Governor,,REP,"""Alabama"" Will Santivasci",1
-Lamar,0010 PINE SPRINGS,Governor,,REP,Ken McFeeters,0
-Lamar,0010 PINE SPRINGS,Governor,,REP,Thomas Tuberville,49
 Lamar,0010 PINE SPRINGS,Governor,,REP,"""Alabama"" Will Santivasci",1
 Lamar,0010 PINE SPRINGS,Governor,,REP,Ken McFeeters,0
 Lamar,0010 PINE SPRINGS,Governor,,REP,Thomas Tuberville,49
@@ -654,10 +628,10 @@ Lamar,0010 PINE SPRINGS,U.S. Senate,,REP,Morgan Murphy,0
 Lamar,0010 PINE SPRINGS,U.S. Senate,,REP,Rodney Walker,2
 Lamar,0010 PINE SPRINGS,U.S. Senate,,REP,Seth Burton,1
 Lamar,0010 PINE SPRINGS,U.S. Senate,,REP,Steve Marshall,18
-Lamar,0010 PINE SPRINGS,Proposed Statewide Amendment 1,,,No,5
-Lamar,0010 PINE SPRINGS,Proposed Statewide Amendment 1,,,Yes,44
-Lamar,0010 PINE SPRINGS,Proposed Statewide Amendment 2,,,No,28
-Lamar,0010 PINE SPRINGS,Proposed Statewide Amendment 2,,,Yes,20
+Lamar,0011 SULLIGENT CH NORTH,Proposed Statewide Amendment 1,,,No,22
+Lamar,0011 SULLIGENT CH NORTH,Proposed Statewide Amendment 1,,,Yes,201
+Lamar,0011 SULLIGENT CH NORTH,Proposed Statewide Amendment 2,,,No,109
+Lamar,0011 SULLIGENT CH NORTH,Proposed Statewide Amendment 2,,,Yes,109
 Lamar,0011 SULLIGENT CH NORTH,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0011 SULLIGENT CH NORTH,Governor,,DEM,Doug Jones,26
 Lamar,0011 SULLIGENT CH NORTH,Governor,,DEM,Jamel J. Brown,2
@@ -681,9 +655,6 @@ Lamar,0011 SULLIGENT CH NORTH,Attorney General,,REP,Pamela L. Casey,37
 Lamar,0011 SULLIGENT CH NORTH,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,45
 Lamar,0011 SULLIGENT CH NORTH,Commissioner of Agriculture and Industries,,REP,Cory Hill,86
 Lamar,0011 SULLIGENT CH NORTH,Commissioner of Agriculture and Industries,,REP,Jack Williams,36
-Lamar,0011 SULLIGENT CH NORTH,Governor,,REP,"""Alabama"" Will Santivasci",7
-Lamar,0011 SULLIGENT CH NORTH,Governor,,REP,Ken McFeeters,13
-Lamar,0011 SULLIGENT CH NORTH,Governor,,REP,Thomas Tuberville,172
 Lamar,0011 SULLIGENT CH NORTH,Governor,,REP,"""Alabama"" Will Santivasci",7
 Lamar,0011 SULLIGENT CH NORTH,Governor,,REP,Ken McFeeters,13
 Lamar,0011 SULLIGENT CH NORTH,Governor,,REP,Thomas Tuberville,172
@@ -721,10 +692,10 @@ Lamar,0011 SULLIGENT CH NORTH,U.S. Senate,,REP,Morgan Murphy,1
 Lamar,0011 SULLIGENT CH NORTH,U.S. Senate,,REP,Rodney Walker,10
 Lamar,0011 SULLIGENT CH NORTH,U.S. Senate,,REP,Seth Burton,4
 Lamar,0011 SULLIGENT CH NORTH,U.S. Senate,,REP,Steve Marshall,58
-Lamar,0011 SULLIGENT CH NORTH,Proposed Statewide Amendment 1,,,No,22
-Lamar,0011 SULLIGENT CH NORTH,Proposed Statewide Amendment 1,,,Yes,201
-Lamar,0011 SULLIGENT CH NORTH,Proposed Statewide Amendment 2,,,No,109
-Lamar,0011 SULLIGENT CH NORTH,Proposed Statewide Amendment 2,,,Yes,109
+Lamar,0012 SULLIGENT CH SOUTH,Proposed Statewide Amendment 1,,,No,20
+Lamar,0012 SULLIGENT CH SOUTH,Proposed Statewide Amendment 1,,,Yes,74
+Lamar,0012 SULLIGENT CH SOUTH,Proposed Statewide Amendment 2,,,No,40
+Lamar,0012 SULLIGENT CH SOUTH,Proposed Statewide Amendment 2,,,Yes,51
 Lamar,0012 SULLIGENT CH SOUTH,Governor,,DEM,"Chad ""Chig"" Martin",1
 Lamar,0012 SULLIGENT CH SOUTH,Governor,,DEM,Doug Jones,20
 Lamar,0012 SULLIGENT CH SOUTH,Governor,,DEM,Jamel J. Brown,1
@@ -748,9 +719,6 @@ Lamar,0012 SULLIGENT CH SOUTH,Attorney General,,REP,Pamela L. Casey,14
 Lamar,0012 SULLIGENT CH SOUTH,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,5
 Lamar,0012 SULLIGENT CH SOUTH,Commissioner of Agriculture and Industries,,REP,Cory Hill,44
 Lamar,0012 SULLIGENT CH SOUTH,Commissioner of Agriculture and Industries,,REP,Jack Williams,21
-Lamar,0012 SULLIGENT CH SOUTH,Governor,,REP,"""Alabama"" Will Santivasci",3
-Lamar,0012 SULLIGENT CH SOUTH,Governor,,REP,Ken McFeeters,7
-Lamar,0012 SULLIGENT CH SOUTH,Governor,,REP,Thomas Tuberville,65
 Lamar,0012 SULLIGENT CH SOUTH,Governor,,REP,"""Alabama"" Will Santivasci",3
 Lamar,0012 SULLIGENT CH SOUTH,Governor,,REP,Ken McFeeters,7
 Lamar,0012 SULLIGENT CH SOUTH,Governor,,REP,Thomas Tuberville,65
@@ -788,10 +756,10 @@ Lamar,0012 SULLIGENT CH SOUTH,U.S. Senate,,REP,Morgan Murphy,1
 Lamar,0012 SULLIGENT CH SOUTH,U.S. Senate,,REP,Rodney Walker,3
 Lamar,0012 SULLIGENT CH SOUTH,U.S. Senate,,REP,Seth Burton,2
 Lamar,0012 SULLIGENT CH SOUTH,U.S. Senate,,REP,Steve Marshall,12
-Lamar,0012 SULLIGENT CH SOUTH,Proposed Statewide Amendment 1,,,No,20
-Lamar,0012 SULLIGENT CH SOUTH,Proposed Statewide Amendment 1,,,Yes,74
-Lamar,0012 SULLIGENT CH SOUTH,Proposed Statewide Amendment 2,,,No,40
-Lamar,0012 SULLIGENT CH SOUTH,Proposed Statewide Amendment 2,,,Yes,51
+Lamar,0013 BEDFORD MILITARY,Proposed Statewide Amendment 1,,,No,7
+Lamar,0013 BEDFORD MILITARY,Proposed Statewide Amendment 1,,,Yes,33
+Lamar,0013 BEDFORD MILITARY,Proposed Statewide Amendment 2,,,No,14
+Lamar,0013 BEDFORD MILITARY,Proposed Statewide Amendment 2,,,Yes,26
 Lamar,0013 BEDFORD MILITARY,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0013 BEDFORD MILITARY,Governor,,DEM,Doug Jones,1
 Lamar,0013 BEDFORD MILITARY,Governor,,DEM,Jamel J. Brown,0
@@ -815,9 +783,6 @@ Lamar,0013 BEDFORD MILITARY,Attorney General,,REP,Pamela L. Casey,7
 Lamar,0013 BEDFORD MILITARY,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,5
 Lamar,0013 BEDFORD MILITARY,Commissioner of Agriculture and Industries,,REP,Cory Hill,20
 Lamar,0013 BEDFORD MILITARY,Commissioner of Agriculture and Industries,,REP,Jack Williams,9
-Lamar,0013 BEDFORD MILITARY,Governor,,REP,"""Alabama"" Will Santivasci",0
-Lamar,0013 BEDFORD MILITARY,Governor,,REP,Ken McFeeters,1
-Lamar,0013 BEDFORD MILITARY,Governor,,REP,Thomas Tuberville,35
 Lamar,0013 BEDFORD MILITARY,Governor,,REP,"""Alabama"" Will Santivasci",0
 Lamar,0013 BEDFORD MILITARY,Governor,,REP,Ken McFeeters,1
 Lamar,0013 BEDFORD MILITARY,Governor,,REP,Thomas Tuberville,35
@@ -855,10 +820,10 @@ Lamar,0013 BEDFORD MILITARY,U.S. Senate,,REP,Morgan Murphy,2
 Lamar,0013 BEDFORD MILITARY,U.S. Senate,,REP,Rodney Walker,4
 Lamar,0013 BEDFORD MILITARY,U.S. Senate,,REP,Seth Burton,1
 Lamar,0013 BEDFORD MILITARY,U.S. Senate,,REP,Steve Marshall,5
-Lamar,0013 BEDFORD MILITARY,Proposed Statewide Amendment 1,,,No,7
-Lamar,0013 BEDFORD MILITARY,Proposed Statewide Amendment 1,,,Yes,33
-Lamar,0013 BEDFORD MILITARY,Proposed Statewide Amendment 2,,,No,14
-Lamar,0013 BEDFORD MILITARY,Proposed Statewide Amendment 2,,,Yes,26
+Lamar,0014 MOLLOY BETTS,Proposed Statewide Amendment 1,,,No,5
+Lamar,0014 MOLLOY BETTS,Proposed Statewide Amendment 1,,,Yes,60
+Lamar,0014 MOLLOY BETTS,Proposed Statewide Amendment 2,,,No,25
+Lamar,0014 MOLLOY BETTS,Proposed Statewide Amendment 2,,,Yes,38
 Lamar,0014 MOLLOY BETTS,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0014 MOLLOY BETTS,Governor,,DEM,Doug Jones,0
 Lamar,0014 MOLLOY BETTS,Governor,,DEM,Jamel J. Brown,0
@@ -882,9 +847,6 @@ Lamar,0014 MOLLOY BETTS,Attorney General,,REP,Pamela L. Casey,17
 Lamar,0014 MOLLOY BETTS,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,8
 Lamar,0014 MOLLOY BETTS,Commissioner of Agriculture and Industries,,REP,Cory Hill,39
 Lamar,0014 MOLLOY BETTS,Commissioner of Agriculture and Industries,,REP,Jack Williams,12
-Lamar,0014 MOLLOY BETTS,Governor,,REP,"""Alabama"" Will Santivasci",6
-Lamar,0014 MOLLOY BETTS,Governor,,REP,Ken McFeeters,3
-Lamar,0014 MOLLOY BETTS,Governor,,REP,Thomas Tuberville,57
 Lamar,0014 MOLLOY BETTS,Governor,,REP,"""Alabama"" Will Santivasci",6
 Lamar,0014 MOLLOY BETTS,Governor,,REP,Ken McFeeters,3
 Lamar,0014 MOLLOY BETTS,Governor,,REP,Thomas Tuberville,57
@@ -922,10 +884,10 @@ Lamar,0014 MOLLOY BETTS,U.S. Senate,,REP,Morgan Murphy,0
 Lamar,0014 MOLLOY BETTS,U.S. Senate,,REP,Rodney Walker,0
 Lamar,0014 MOLLOY BETTS,U.S. Senate,,REP,Seth Burton,1
 Lamar,0014 MOLLOY BETTS,U.S. Senate,,REP,Steve Marshall,19
-Lamar,0014 MOLLOY BETTS,Proposed Statewide Amendment 1,,,No,5
-Lamar,0014 MOLLOY BETTS,Proposed Statewide Amendment 1,,,Yes,60
-Lamar,0014 MOLLOY BETTS,Proposed Statewide Amendment 2,,,No,25
-Lamar,0014 MOLLOY BETTS,Proposed Statewide Amendment 2,,,Yes,38
+Lamar,0015 TRULL,Proposed Statewide Amendment 1,,,No,3
+Lamar,0015 TRULL,Proposed Statewide Amendment 1,,,Yes,26
+Lamar,0015 TRULL,Proposed Statewide Amendment 2,,,No,8
+Lamar,0015 TRULL,Proposed Statewide Amendment 2,,,Yes,21
 Lamar,0015 TRULL,Governor,,DEM,"Chad ""Chig"" Martin",2
 Lamar,0015 TRULL,Governor,,DEM,Doug Jones,1
 Lamar,0015 TRULL,Governor,,DEM,Jamel J. Brown,1
@@ -949,9 +911,6 @@ Lamar,0015 TRULL,Attorney General,,REP,Pamela L. Casey,9
 Lamar,0015 TRULL,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,11
 Lamar,0015 TRULL,Commissioner of Agriculture and Industries,,REP,Cory Hill,6
 Lamar,0015 TRULL,Commissioner of Agriculture and Industries,,REP,Jack Williams,7
-Lamar,0015 TRULL,Governor,,REP,"""Alabama"" Will Santivasci",0
-Lamar,0015 TRULL,Governor,,REP,Ken McFeeters,0
-Lamar,0015 TRULL,Governor,,REP,Thomas Tuberville,25
 Lamar,0015 TRULL,Governor,,REP,"""Alabama"" Will Santivasci",0
 Lamar,0015 TRULL,Governor,,REP,Ken McFeeters,0
 Lamar,0015 TRULL,Governor,,REP,Thomas Tuberville,25
@@ -989,10 +948,10 @@ Lamar,0015 TRULL,U.S. Senate,,REP,Morgan Murphy,0
 Lamar,0015 TRULL,U.S. Senate,,REP,Rodney Walker,0
 Lamar,0015 TRULL,U.S. Senate,,REP,Seth Burton,1
 Lamar,0015 TRULL,U.S. Senate,,REP,Steve Marshall,5
-Lamar,0015 TRULL,Proposed Statewide Amendment 1,,,No,3
-Lamar,0015 TRULL,Proposed Statewide Amendment 1,,,Yes,26
-Lamar,0015 TRULL,Proposed Statewide Amendment 2,,,No,8
-Lamar,0015 TRULL,Proposed Statewide Amendment 2,,,Yes,21
+Lamar,0016 VAILS,Proposed Statewide Amendment 1,,,No,1
+Lamar,0016 VAILS,Proposed Statewide Amendment 1,,,Yes,68
+Lamar,0016 VAILS,Proposed Statewide Amendment 2,,,No,26
+Lamar,0016 VAILS,Proposed Statewide Amendment 2,,,Yes,38
 Lamar,0016 VAILS,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0016 VAILS,Governor,,DEM,Doug Jones,4
 Lamar,0016 VAILS,Governor,,DEM,Jamel J. Brown,0
@@ -1016,9 +975,6 @@ Lamar,0016 VAILS,Attorney General,,REP,Pamela L. Casey,6
 Lamar,0016 VAILS,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,14
 Lamar,0016 VAILS,Commissioner of Agriculture and Industries,,REP,Cory Hill,42
 Lamar,0016 VAILS,Commissioner of Agriculture and Industries,,REP,Jack Williams,7
-Lamar,0016 VAILS,Governor,,REP,"""Alabama"" Will Santivasci",0
-Lamar,0016 VAILS,Governor,,REP,Ken McFeeters,1
-Lamar,0016 VAILS,Governor,,REP,Thomas Tuberville,69
 Lamar,0016 VAILS,Governor,,REP,"""Alabama"" Will Santivasci",0
 Lamar,0016 VAILS,Governor,,REP,Ken McFeeters,1
 Lamar,0016 VAILS,Governor,,REP,Thomas Tuberville,69
@@ -1056,10 +1012,10 @@ Lamar,0016 VAILS,U.S. Senate,,REP,Morgan Murphy,0
 Lamar,0016 VAILS,U.S. Senate,,REP,Rodney Walker,2
 Lamar,0016 VAILS,U.S. Senate,,REP,Seth Burton,0
 Lamar,0016 VAILS,U.S. Senate,,REP,Steve Marshall,19
-Lamar,0016 VAILS,Proposed Statewide Amendment 1,,,No,1
-Lamar,0016 VAILS,Proposed Statewide Amendment 1,,,Yes,68
-Lamar,0016 VAILS,Proposed Statewide Amendment 2,,,No,26
-Lamar,0016 VAILS,Proposed Statewide Amendment 2,,,Yes,38
+Lamar,0017 MILLPORT,Proposed Statewide Amendment 1,,,No,19
+Lamar,0017 MILLPORT,Proposed Statewide Amendment 1,,,Yes,140
+Lamar,0017 MILLPORT,Proposed Statewide Amendment 2,,,No,68
+Lamar,0017 MILLPORT,Proposed Statewide Amendment 2,,,Yes,86
 Lamar,0017 MILLPORT,Governor,,DEM,"Chad ""Chig"" Martin",1
 Lamar,0017 MILLPORT,Governor,,DEM,Doug Jones,54
 Lamar,0017 MILLPORT,Governor,,DEM,Jamel J. Brown,4
@@ -1083,9 +1039,6 @@ Lamar,0017 MILLPORT,Attorney General,,REP,Pamela L. Casey,18
 Lamar,0017 MILLPORT,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,23
 Lamar,0017 MILLPORT,Commissioner of Agriculture and Industries,,REP,Cory Hill,29
 Lamar,0017 MILLPORT,Commissioner of Agriculture and Industries,,REP,Jack Williams,25
-Lamar,0017 MILLPORT,Governor,,REP,"""Alabama"" Will Santivasci",1
-Lamar,0017 MILLPORT,Governor,,REP,Ken McFeeters,8
-Lamar,0017 MILLPORT,Governor,,REP,Thomas Tuberville,75
 Lamar,0017 MILLPORT,Governor,,REP,"""Alabama"" Will Santivasci",1
 Lamar,0017 MILLPORT,Governor,,REP,Ken McFeeters,8
 Lamar,0017 MILLPORT,Governor,,REP,Thomas Tuberville,75
@@ -1123,10 +1076,10 @@ Lamar,0017 MILLPORT,U.S. Senate,,REP,Morgan Murphy,4
 Lamar,0017 MILLPORT,U.S. Senate,,REP,Rodney Walker,2
 Lamar,0017 MILLPORT,U.S. Senate,,REP,Seth Burton,2
 Lamar,0017 MILLPORT,U.S. Senate,,REP,Steve Marshall,23
-Lamar,0017 MILLPORT,Proposed Statewide Amendment 1,,,No,19
-Lamar,0017 MILLPORT,Proposed Statewide Amendment 1,,,Yes,140
-Lamar,0017 MILLPORT,Proposed Statewide Amendment 2,,,No,68
-Lamar,0017 MILLPORT,Proposed Statewide Amendment 2,,,Yes,86
+Lamar,0018 KENNEDY COMM. CTR.,Proposed Statewide Amendment 1,,,No,21
+Lamar,0018 KENNEDY COMM. CTR.,Proposed Statewide Amendment 1,,,Yes,125
+Lamar,0018 KENNEDY COMM. CTR.,Proposed Statewide Amendment 2,,,No,76
+Lamar,0018 KENNEDY COMM. CTR.,Proposed Statewide Amendment 2,,,Yes,63
 Lamar,0018 KENNEDY COMM. CTR.,Governor,,DEM,"Chad ""Chig"" Martin",1
 Lamar,0018 KENNEDY COMM. CTR.,Governor,,DEM,Doug Jones,13
 Lamar,0018 KENNEDY COMM. CTR.,Governor,,DEM,Jamel J. Brown,0
@@ -1150,9 +1103,6 @@ Lamar,0018 KENNEDY COMM. CTR.,Attorney General,,REP,Pamela L. Casey,46
 Lamar,0018 KENNEDY COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,37
 Lamar,0018 KENNEDY COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Cory Hill,52
 Lamar,0018 KENNEDY COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Jack Williams,35
-Lamar,0018 KENNEDY COMM. CTR.,Governor,,REP,"""Alabama"" Will Santivasci",3
-Lamar,0018 KENNEDY COMM. CTR.,Governor,,REP,Ken McFeeters,11
-Lamar,0018 KENNEDY COMM. CTR.,Governor,,REP,Thomas Tuberville,118
 Lamar,0018 KENNEDY COMM. CTR.,Governor,,REP,"""Alabama"" Will Santivasci",3
 Lamar,0018 KENNEDY COMM. CTR.,Governor,,REP,Ken McFeeters,11
 Lamar,0018 KENNEDY COMM. CTR.,Governor,,REP,Thomas Tuberville,118
@@ -1190,10 +1140,10 @@ Lamar,0018 KENNEDY COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,1
 Lamar,0018 KENNEDY COMM. CTR.,U.S. Senate,,REP,Rodney Walker,2
 Lamar,0018 KENNEDY COMM. CTR.,U.S. Senate,,REP,Seth Burton,3
 Lamar,0018 KENNEDY COMM. CTR.,U.S. Senate,,REP,Steve Marshall,28
-Lamar,0018 KENNEDY COMM. CTR.,Proposed Statewide Amendment 1,,,No,21
-Lamar,0018 KENNEDY COMM. CTR.,Proposed Statewide Amendment 1,,,Yes,125
-Lamar,0018 KENNEDY COMM. CTR.,Proposed Statewide Amendment 2,,,No,76
-Lamar,0018 KENNEDY COMM. CTR.,Proposed Statewide Amendment 2,,,Yes,63
+Lamar,0019 STRICKLAND,Proposed Statewide Amendment 1,,,No,2
+Lamar,0019 STRICKLAND,Proposed Statewide Amendment 1,,,Yes,36
+Lamar,0019 STRICKLAND,Proposed Statewide Amendment 2,,,No,15
+Lamar,0019 STRICKLAND,Proposed Statewide Amendment 2,,,Yes,23
 Lamar,0019 STRICKLAND,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0019 STRICKLAND,Governor,,DEM,Doug Jones,1
 Lamar,0019 STRICKLAND,Governor,,DEM,Jamel J. Brown,0
@@ -1217,9 +1167,6 @@ Lamar,0019 STRICKLAND,Attorney General,,REP,Pamela L. Casey,8
 Lamar,0019 STRICKLAND,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,13
 Lamar,0019 STRICKLAND,Commissioner of Agriculture and Industries,,REP,Cory Hill,19
 Lamar,0019 STRICKLAND,Commissioner of Agriculture and Industries,,REP,Jack Williams,3
-Lamar,0019 STRICKLAND,Governor,,REP,"""Alabama"" Will Santivasci",1
-Lamar,0019 STRICKLAND,Governor,,REP,Ken McFeeters,1
-Lamar,0019 STRICKLAND,Governor,,REP,Thomas Tuberville,35
 Lamar,0019 STRICKLAND,Governor,,REP,"""Alabama"" Will Santivasci",1
 Lamar,0019 STRICKLAND,Governor,,REP,Ken McFeeters,1
 Lamar,0019 STRICKLAND,Governor,,REP,Thomas Tuberville,35
@@ -1257,10 +1204,10 @@ Lamar,0019 STRICKLAND,U.S. Senate,,REP,Morgan Murphy,1
 Lamar,0019 STRICKLAND,U.S. Senate,,REP,Rodney Walker,0
 Lamar,0019 STRICKLAND,U.S. Senate,,REP,Seth Burton,0
 Lamar,0019 STRICKLAND,U.S. Senate,,REP,Steve Marshall,11
-Lamar,0019 STRICKLAND,Proposed Statewide Amendment 1,,,No,2
-Lamar,0019 STRICKLAND,Proposed Statewide Amendment 1,,,Yes,36
-Lamar,0019 STRICKLAND,Proposed Statewide Amendment 2,,,No,15
-Lamar,0019 STRICKLAND,Proposed Statewide Amendment 2,,,Yes,23
+Lamar,0020 FERNBANK,Proposed Statewide Amendment 1,,,No,2
+Lamar,0020 FERNBANK,Proposed Statewide Amendment 1,,,Yes,45
+Lamar,0020 FERNBANK,Proposed Statewide Amendment 2,,,No,15
+Lamar,0020 FERNBANK,Proposed Statewide Amendment 2,,,Yes,31
 Lamar,0020 FERNBANK,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0020 FERNBANK,Governor,,DEM,Doug Jones,2
 Lamar,0020 FERNBANK,Governor,,DEM,Jamel J. Brown,0
@@ -1284,9 +1231,6 @@ Lamar,0020 FERNBANK,Attorney General,,REP,Pamela L. Casey,5
 Lamar,0020 FERNBANK,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,11
 Lamar,0020 FERNBANK,Commissioner of Agriculture and Industries,,REP,Cory Hill,26
 Lamar,0020 FERNBANK,Commissioner of Agriculture and Industries,,REP,Jack Williams,7
-Lamar,0020 FERNBANK,Governor,,REP,"""Alabama"" Will Santivasci",3
-Lamar,0020 FERNBANK,Governor,,REP,Ken McFeeters,2
-Lamar,0020 FERNBANK,Governor,,REP,Thomas Tuberville,40
 Lamar,0020 FERNBANK,Governor,,REP,"""Alabama"" Will Santivasci",3
 Lamar,0020 FERNBANK,Governor,,REP,Ken McFeeters,2
 Lamar,0020 FERNBANK,Governor,,REP,Thomas Tuberville,40
@@ -1324,10 +1268,10 @@ Lamar,0020 FERNBANK,U.S. Senate,,REP,Morgan Murphy,0
 Lamar,0020 FERNBANK,U.S. Senate,,REP,Rodney Walker,1
 Lamar,0020 FERNBANK,U.S. Senate,,REP,Seth Burton,2
 Lamar,0020 FERNBANK,U.S. Senate,,REP,Steve Marshall,16
-Lamar,0020 FERNBANK,Proposed Statewide Amendment 1,,,No,2
-Lamar,0020 FERNBANK,Proposed Statewide Amendment 1,,,Yes,45
-Lamar,0020 FERNBANK,Proposed Statewide Amendment 2,,,No,15
-Lamar,0020 FERNBANK,Proposed Statewide Amendment 2,,,Yes,31
+Lamar,0021 HIGHTOGY RIDGE,Proposed Statewide Amendment 1,,,No,3
+Lamar,0021 HIGHTOGY RIDGE,Proposed Statewide Amendment 1,,,Yes,62
+Lamar,0021 HIGHTOGY RIDGE,Proposed Statewide Amendment 2,,,No,23
+Lamar,0021 HIGHTOGY RIDGE,Proposed Statewide Amendment 2,,,Yes,41
 Lamar,0021 HIGHTOGY RIDGE,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0021 HIGHTOGY RIDGE,Governor,,DEM,Doug Jones,0
 Lamar,0021 HIGHTOGY RIDGE,Governor,,DEM,Jamel J. Brown,0
@@ -1342,9 +1286,6 @@ Lamar,0021 HIGHTOGY RIDGE,Attorney General,,REP,Pamela L. Casey,20
 Lamar,0021 HIGHTOGY RIDGE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,20
 Lamar,0021 HIGHTOGY RIDGE,Commissioner of Agriculture and Industries,,REP,Cory Hill,25
 Lamar,0021 HIGHTOGY RIDGE,Commissioner of Agriculture and Industries,,REP,Jack Williams,14
-Lamar,0021 HIGHTOGY RIDGE,Governor,,REP,"""Alabama"" Will Santivasci",4
-Lamar,0021 HIGHTOGY RIDGE,Governor,,REP,Ken McFeeters,4
-Lamar,0021 HIGHTOGY RIDGE,Governor,,REP,Thomas Tuberville,56
 Lamar,0021 HIGHTOGY RIDGE,Governor,,REP,"""Alabama"" Will Santivasci",4
 Lamar,0021 HIGHTOGY RIDGE,Governor,,REP,Ken McFeeters,4
 Lamar,0021 HIGHTOGY RIDGE,Governor,,REP,Thomas Tuberville,56
@@ -1382,10 +1323,6 @@ Lamar,0021 HIGHTOGY RIDGE,U.S. Senate,,REP,Morgan Murphy,1
 Lamar,0021 HIGHTOGY RIDGE,U.S. Senate,,REP,Rodney Walker,3
 Lamar,0021 HIGHTOGY RIDGE,U.S. Senate,,REP,Seth Burton,7
 Lamar,0021 HIGHTOGY RIDGE,U.S. Senate,,REP,Steve Marshall,7
-Lamar,0021 HIGHTOGY RIDGE,Proposed Statewide Amendment 1,,,No,3
-Lamar,0021 HIGHTOGY RIDGE,Proposed Statewide Amendment 1,,,Yes,62
-Lamar,0021 HIGHTOGY RIDGE,Proposed Statewide Amendment 2,,,No,23
-Lamar,0021 HIGHTOGY RIDGE,Proposed Statewide Amendment 2,,,Yes,41
 Lamar,0021 HIGHTOY RIDGE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,0
 Lamar,0021 HIGHTOY RIDGE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,2
 Lamar,0021 HIGHTOY RIDGE,"Public Service Commission, Place No. 1",,DEM,John Northrop,0
@@ -1395,6 +1332,10 @@ Lamar,0021 HIGHTOY RIDGE,U.S. Senate,,DEM,Dakarai Larriett,0
 Lamar,0021 HIGHTOY RIDGE,U.S. Senate,,DEM,Everett Wess,0
 Lamar,0021 HIGHTOY RIDGE,U.S. Senate,,DEM,Kyle Sweetser,2
 Lamar,0021 HIGHTOY RIDGE,U.S. Senate,,DEM,Mark S. Wheeler II,0
+Lamar,0022 MT. PLEASANT CURRY,Proposed Statewide Amendment 1,,,No,3
+Lamar,0022 MT. PLEASANT CURRY,Proposed Statewide Amendment 1,,,Yes,29
+Lamar,0022 MT. PLEASANT CURRY,Proposed Statewide Amendment 2,,,No,12
+Lamar,0022 MT. PLEASANT CURRY,Proposed Statewide Amendment 2,,,Yes,14
 Lamar,0022 MT. PLEASANT CURRY,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0022 MT. PLEASANT CURRY,Governor,,DEM,Doug Jones,0
 Lamar,0022 MT. PLEASANT CURRY,Governor,,DEM,Jamel J. Brown,0
@@ -1418,9 +1359,6 @@ Lamar,0022 MT. PLEASANT CURRY,Attorney General,,REP,Pamela L. Casey,11
 Lamar,0022 MT. PLEASANT CURRY,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,3
 Lamar,0022 MT. PLEASANT CURRY,Commissioner of Agriculture and Industries,,REP,Cory Hill,16
 Lamar,0022 MT. PLEASANT CURRY,Commissioner of Agriculture and Industries,,REP,Jack Williams,7
-Lamar,0022 MT. PLEASANT CURRY,Governor,,REP,"""Alabama"" Will Santivasci",2
-Lamar,0022 MT. PLEASANT CURRY,Governor,,REP,Ken McFeeters,0
-Lamar,0022 MT. PLEASANT CURRY,Governor,,REP,Thomas Tuberville,30
 Lamar,0022 MT. PLEASANT CURRY,Governor,,REP,"""Alabama"" Will Santivasci",2
 Lamar,0022 MT. PLEASANT CURRY,Governor,,REP,Ken McFeeters,0
 Lamar,0022 MT. PLEASANT CURRY,Governor,,REP,Thomas Tuberville,30
@@ -1458,10 +1396,10 @@ Lamar,0022 MT. PLEASANT CURRY,U.S. Senate,,REP,Morgan Murphy,0
 Lamar,0022 MT. PLEASANT CURRY,U.S. Senate,,REP,Rodney Walker,1
 Lamar,0022 MT. PLEASANT CURRY,U.S. Senate,,REP,Seth Burton,0
 Lamar,0022 MT. PLEASANT CURRY,U.S. Senate,,REP,Steve Marshall,11
-Lamar,0022 MT. PLEASANT CURRY,Proposed Statewide Amendment 1,,,No,3
-Lamar,0022 MT. PLEASANT CURRY,Proposed Statewide Amendment 1,,,Yes,29
-Lamar,0022 MT. PLEASANT CURRY,Proposed Statewide Amendment 2,,,No,12
-Lamar,0022 MT. PLEASANT CURRY,Proposed Statewide Amendment 2,,,Yes,14
+Lamar,0023 MT. OLIVE GUIN,Proposed Statewide Amendment 1,,,No,2
+Lamar,0023 MT. OLIVE GUIN,Proposed Statewide Amendment 1,,,Yes,49
+Lamar,0023 MT. OLIVE GUIN,Proposed Statewide Amendment 2,,,No,16
+Lamar,0023 MT. OLIVE GUIN,Proposed Statewide Amendment 2,,,Yes,34
 Lamar,0023 MT. OLIVE GUIN,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0023 MT. OLIVE GUIN,Governor,,DEM,Doug Jones,2
 Lamar,0023 MT. OLIVE GUIN,Governor,,DEM,Jamel J. Brown,0
@@ -1485,9 +1423,6 @@ Lamar,0023 MT. OLIVE GUIN,Attorney General,,REP,Pamela L. Casey,11
 Lamar,0023 MT. OLIVE GUIN,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,15
 Lamar,0023 MT. OLIVE GUIN,Commissioner of Agriculture and Industries,,REP,Cory Hill,16
 Lamar,0023 MT. OLIVE GUIN,Commissioner of Agriculture and Industries,,REP,Jack Williams,13
-Lamar,0023 MT. OLIVE GUIN,Governor,,REP,"""Alabama"" Will Santivasci",1
-Lamar,0023 MT. OLIVE GUIN,Governor,,REP,Ken McFeeters,6
-Lamar,0023 MT. OLIVE GUIN,Governor,,REP,Thomas Tuberville,43
 Lamar,0023 MT. OLIVE GUIN,Governor,,REP,"""Alabama"" Will Santivasci",1
 Lamar,0023 MT. OLIVE GUIN,Governor,,REP,Ken McFeeters,6
 Lamar,0023 MT. OLIVE GUIN,Governor,,REP,Thomas Tuberville,43
@@ -1525,10 +1460,10 @@ Lamar,0023 MT. OLIVE GUIN,U.S. Senate,,REP,Morgan Murphy,2
 Lamar,0023 MT. OLIVE GUIN,U.S. Senate,,REP,Rodney Walker,8
 Lamar,0023 MT. OLIVE GUIN,U.S. Senate,,REP,Seth Burton,2
 Lamar,0023 MT. OLIVE GUIN,U.S. Senate,,REP,Steve Marshall,8
-Lamar,0023 MT. OLIVE GUIN,Proposed Statewide Amendment 1,,,No,2
-Lamar,0023 MT. OLIVE GUIN,Proposed Statewide Amendment 1,,,Yes,49
-Lamar,0023 MT. OLIVE GUIN,Proposed Statewide Amendment 2,,,No,16
-Lamar,0023 MT. OLIVE GUIN,Proposed Statewide Amendment 2,,,Yes,34
+Lamar,0024 BLOOMING GROVE,Proposed Statewide Amendment 1,,,No,6
+Lamar,0024 BLOOMING GROVE,Proposed Statewide Amendment 1,,,Yes,21
+Lamar,0024 BLOOMING GROVE,Proposed Statewide Amendment 2,,,No,12
+Lamar,0024 BLOOMING GROVE,Proposed Statewide Amendment 2,,,Yes,13
 Lamar,0024 BLOOMING GROVE,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0024 BLOOMING GROVE,Governor,,DEM,Doug Jones,1
 Lamar,0024 BLOOMING GROVE,Governor,,DEM,Jamel J. Brown,0
@@ -1552,9 +1487,6 @@ Lamar,0024 BLOOMING GROVE,Attorney General,,REP,Pamela L. Casey,2
 Lamar,0024 BLOOMING GROVE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,11
 Lamar,0024 BLOOMING GROVE,Commissioner of Agriculture and Industries,,REP,Cory Hill,5
 Lamar,0024 BLOOMING GROVE,Commissioner of Agriculture and Industries,,REP,Jack Williams,10
-Lamar,0024 BLOOMING GROVE,Governor,,REP,"""Alabama"" Will Santivasci",1
-Lamar,0024 BLOOMING GROVE,Governor,,REP,Ken McFeeters,2
-Lamar,0024 BLOOMING GROVE,Governor,,REP,Thomas Tuberville,24
 Lamar,0024 BLOOMING GROVE,Governor,,REP,"""Alabama"" Will Santivasci",1
 Lamar,0024 BLOOMING GROVE,Governor,,REP,Ken McFeeters,2
 Lamar,0024 BLOOMING GROVE,Governor,,REP,Thomas Tuberville,24
@@ -1592,10 +1524,10 @@ Lamar,0024 BLOOMING GROVE,U.S. Senate,,REP,Morgan Murphy,0
 Lamar,0024 BLOOMING GROVE,U.S. Senate,,REP,Rodney Walker,2
 Lamar,0024 BLOOMING GROVE,U.S. Senate,,REP,Seth Burton,3
 Lamar,0024 BLOOMING GROVE,U.S. Senate,,REP,Steve Marshall,3
-Lamar,0024 BLOOMING GROVE,Proposed Statewide Amendment 1,,,No,6
-Lamar,0024 BLOOMING GROVE,Proposed Statewide Amendment 1,,,Yes,21
-Lamar,0024 BLOOMING GROVE,Proposed Statewide Amendment 2,,,No,12
-Lamar,0024 BLOOMING GROVE,Proposed Statewide Amendment 2,,,Yes,13
+Lamar,0025 STAR,Proposed Statewide Amendment 1,,,No,4
+Lamar,0025 STAR,Proposed Statewide Amendment 1,,,Yes,21
+Lamar,0025 STAR,Proposed Statewide Amendment 2,,,No,8
+Lamar,0025 STAR,Proposed Statewide Amendment 2,,,Yes,17
 Lamar,0025 STAR,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0025 STAR,Governor,,DEM,Doug Jones,0
 Lamar,0025 STAR,Governor,,DEM,Jamel J. Brown,0
@@ -1619,9 +1551,6 @@ Lamar,0025 STAR,Attorney General,,REP,Pamela L. Casey,7
 Lamar,0025 STAR,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,3
 Lamar,0025 STAR,Commissioner of Agriculture and Industries,,REP,Cory Hill,16
 Lamar,0025 STAR,Commissioner of Agriculture and Industries,,REP,Jack Williams,6
-Lamar,0025 STAR,Governor,,REP,"""Alabama"" Will Santivasci",0
-Lamar,0025 STAR,Governor,,REP,Ken McFeeters,2
-Lamar,0025 STAR,Governor,,REP,Thomas Tuberville,25
 Lamar,0025 STAR,Governor,,REP,"""Alabama"" Will Santivasci",0
 Lamar,0025 STAR,Governor,,REP,Ken McFeeters,2
 Lamar,0025 STAR,Governor,,REP,Thomas Tuberville,25
@@ -1659,10 +1588,10 @@ Lamar,0025 STAR,U.S. Senate,,REP,Morgan Murphy,0
 Lamar,0025 STAR,U.S. Senate,,REP,Rodney Walker,3
 Lamar,0025 STAR,U.S. Senate,,REP,Seth Burton,0
 Lamar,0025 STAR,U.S. Senate,,REP,Steve Marshall,2
-Lamar,0025 STAR,Proposed Statewide Amendment 1,,,No,4
-Lamar,0025 STAR,Proposed Statewide Amendment 1,,,Yes,21
-Lamar,0025 STAR,Proposed Statewide Amendment 2,,,No,8
-Lamar,0025 STAR,Proposed Statewide Amendment 2,,,Yes,17
+Lamar,0026 ABSENTEE,Proposed Statewide Amendment 1,,,No,1
+Lamar,0026 ABSENTEE,Proposed Statewide Amendment 1,,,Yes,36
+Lamar,0026 ABSENTEE,Proposed Statewide Amendment 2,,,No,17
+Lamar,0026 ABSENTEE,Proposed Statewide Amendment 2,,,Yes,17
 Lamar,0026 ABSENTEE,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0026 ABSENTEE,Governor,,DEM,Doug Jones,2
 Lamar,0026 ABSENTEE,Governor,,DEM,Jamel J. Brown,0
@@ -1686,9 +1615,6 @@ Lamar,0026 ABSENTEE,Attorney General,,REP,Pamela L. Casey,18
 Lamar,0026 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,13
 Lamar,0026 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Cory Hill,11
 Lamar,0026 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Jack Williams,8
-Lamar,0026 ABSENTEE,Governor,,REP,"""Alabama"" Will Santivasci",2
-Lamar,0026 ABSENTEE,Governor,,REP,Ken McFeeters,5
-Lamar,0026 ABSENTEE,Governor,,REP,Thomas Tuberville,29
 Lamar,0026 ABSENTEE,Governor,,REP,"""Alabama"" Will Santivasci",2
 Lamar,0026 ABSENTEE,Governor,,REP,Ken McFeeters,5
 Lamar,0026 ABSENTEE,Governor,,REP,Thomas Tuberville,29
@@ -1726,10 +1652,10 @@ Lamar,0026 ABSENTEE,U.S. Senate,,REP,Morgan Murphy,1
 Lamar,0026 ABSENTEE,U.S. Senate,,REP,Rodney Walker,4
 Lamar,0026 ABSENTEE,U.S. Senate,,REP,Seth Burton,5
 Lamar,0026 ABSENTEE,U.S. Senate,,REP,Steve Marshall,9
-Lamar,0026 ABSENTEE,Proposed Statewide Amendment 1,,,No,1
-Lamar,0026 ABSENTEE,Proposed Statewide Amendment 1,,,Yes,36
-Lamar,0026 ABSENTEE,Proposed Statewide Amendment 2,,,No,17
-Lamar,0026 ABSENTEE,Proposed Statewide Amendment 2,,,Yes,17
+Lamar,0027 PROVISIONAL,Proposed Statewide Amendment 1,,,No,0
+Lamar,0027 PROVISIONAL,Proposed Statewide Amendment 1,,,Yes,0
+Lamar,0027 PROVISIONAL,Proposed Statewide Amendment 2,,,No,0
+Lamar,0027 PROVISIONAL,Proposed Statewide Amendment 2,,,Yes,0
 Lamar,0027 PROVISIONAL,Governor,,DEM,"Chad ""Chig"" Martin",0
 Lamar,0027 PROVISIONAL,Governor,,DEM,Doug Jones,0
 Lamar,0027 PROVISIONAL,Governor,,DEM,Jamel J. Brown,0
@@ -1753,9 +1679,6 @@ Lamar,0027 PROVISIONAL,Attorney General,,REP,Pamela L. Casey,0
 Lamar,0027 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,0
 Lamar,0027 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Cory Hill,0
 Lamar,0027 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Jack Williams,0
-Lamar,0027 PROVISIONAL,Governor,,REP,"""Alabama"" Will Santivasci",0
-Lamar,0027 PROVISIONAL,Governor,,REP,Ken McFeeters,0
-Lamar,0027 PROVISIONAL,Governor,,REP,Thomas Tuberville,0
 Lamar,0027 PROVISIONAL,Governor,,REP,"""Alabama"" Will Santivasci",0
 Lamar,0027 PROVISIONAL,Governor,,REP,Ken McFeeters,0
 Lamar,0027 PROVISIONAL,Governor,,REP,Thomas Tuberville,0
@@ -1793,7 +1716,3 @@ Lamar,0027 PROVISIONAL,U.S. Senate,,REP,Morgan Murphy,0
 Lamar,0027 PROVISIONAL,U.S. Senate,,REP,Rodney Walker,0
 Lamar,0027 PROVISIONAL,U.S. Senate,,REP,Seth Burton,0
 Lamar,0027 PROVISIONAL,U.S. Senate,,REP,Steve Marshall,0
-Lamar,0027 PROVISIONAL,Proposed Statewide Amendment 1,,,No,0
-Lamar,0027 PROVISIONAL,Proposed Statewide Amendment 1,,,Yes,0
-Lamar,0027 PROVISIONAL,Proposed Statewide Amendment 2,,,No,0
-Lamar,0027 PROVISIONAL,Proposed Statewide Amendment 2,,,Yes,0

@@ -1,12 +1,12 @@
 county,precinct,office,district,party,candidate,votes
 Escambia,0001 ALCO JD MUSEUM,Proposed Statewide Amendment 1,,,No,9
 Escambia,0001 ALCO JD MUSEUM,Proposed Statewide Amendment 1,,,Yes,98
+Escambia,0001 ALCO JD MUSEUM,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0001 ALCO JD MUSEUM,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0001 ALCO JD MUSEUM,Governor,,DEM,Doug Jones,0
-Escambia,0001 ALCO JD MUSEUM,Governor,,DEM,Jamel J. Brown,0
-Escambia,0001 ALCO JD MUSEUM,Governor,,DEM,Unverified Candidate 2,7
+Escambia,0001 ALCO JD MUSEUM,Governor,,DEM,Yolanda Rochelle Flowers,0
+Escambia,0001 ALCO JD MUSEUM,Governor,,DEM,Jamel J. Brown,7
 Escambia,0001 ALCO JD MUSEUM,Governor,,DEM,Will Boyd,11
-Escambia,0001 ALCO JD MUSEUM,Governor,,DEM,Yolanda Rochelle Flowers,35
+Escambia,0001 ALCO JD MUSEUM,Governor,,DEM,Doug Jones,35
 Escambia,0001 ALCO JD MUSEUM,Lieutenant Governor,,DEM,Darryl D. Perryman,16
 Escambia,0001 ALCO JD MUSEUM,Lieutenant Governor,,DEM,Phillip Ensler,36
 Escambia,0001 ALCO JD MUSEUM,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,41
@@ -67,12 +67,12 @@ Escambia,0001 ALCO JD MUSEUM,U.S. Senate,,REP,Seth Burton,0
 Escambia,0001 ALCO JD MUSEUM,U.S. Senate,,REP,Steve Marshall,16
 Escambia,0002 BREWTON CIVIC CTR.,Proposed Statewide Amendment 1,,,No,88
 Escambia,0002 BREWTON CIVIC CTR.,Proposed Statewide Amendment 1,,,Yes,883
-Escambia,0002 BREWTON CIVIC CTR.,Governor,,DEM,"Chad ""Chig"" Martin",3
-Escambia,0002 BREWTON CIVIC CTR.,Governor,,DEM,Doug Jones,6
-Escambia,0002 BREWTON CIVIC CTR.,Governor,,DEM,Jamel J. Brown,13
-Escambia,0002 BREWTON CIVIC CTR.,Governor,,DEM,Unverified Candidate 2,22
+Escambia,0002 BREWTON CIVIC CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",3
+Escambia,0002 BREWTON CIVIC CTR.,Governor,,DEM,"Chad ""Chig"" Martin",6
+Escambia,0002 BREWTON CIVIC CTR.,Governor,,DEM,Yolanda Rochelle Flowers,13
+Escambia,0002 BREWTON CIVIC CTR.,Governor,,DEM,Jamel J. Brown,22
 Escambia,0002 BREWTON CIVIC CTR.,Governor,,DEM,Will Boyd,80
-Escambia,0002 BREWTON CIVIC CTR.,Governor,,DEM,Yolanda Rochelle Flowers,286
+Escambia,0002 BREWTON CIVIC CTR.,Governor,,DEM,Doug Jones,286
 Escambia,0002 BREWTON CIVIC CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,146
 Escambia,0002 BREWTON CIVIC CTR.,Lieutenant Governor,,DEM,Phillip Ensler,247
 Escambia,0002 BREWTON CIVIC CTR.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,262
@@ -131,12 +131,12 @@ Escambia,0002 BREWTON CIVIC CTR.,U.S. Senate,,REP,Seth Burton,6
 Escambia,0002 BREWTON CIVIC CTR.,U.S. Senate,,REP,Steve Marshall,139
 Escambia,0003 APPLETON VFD,Proposed Statewide Amendment 1,,,No,18
 Escambia,0003 APPLETON VFD,Proposed Statewide Amendment 1,,,Yes,143
+Escambia,0003 APPLETON VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0003 APPLETON VFD,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0003 APPLETON VFD,Governor,,DEM,Doug Jones,0
-Escambia,0003 APPLETON VFD,Governor,,DEM,Jamel J. Brown,1
-Escambia,0003 APPLETON VFD,Governor,,DEM,Unverified Candidate 2,0
+Escambia,0003 APPLETON VFD,Governor,,DEM,Yolanda Rochelle Flowers,1
+Escambia,0003 APPLETON VFD,Governor,,DEM,Jamel J. Brown,0
 Escambia,0003 APPLETON VFD,Governor,,DEM,Will Boyd,0
-Escambia,0003 APPLETON VFD,Governor,,DEM,Yolanda Rochelle Flowers,7
+Escambia,0003 APPLETON VFD,Governor,,DEM,Doug Jones,7
 Escambia,0003 APPLETON VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,3
 Escambia,0003 APPLETON VFD,Lieutenant Governor,,DEM,Phillip Ensler,3
 Escambia,0003 APPLETON VFD,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,1
@@ -197,12 +197,12 @@ Escambia,0003 APPLETON VFD,U.S. Senate,,REP,Seth Burton,9
 Escambia,0003 APPLETON VFD,U.S. Senate,,REP,Steve Marshall,25
 Escambia,0004 EAST BREWTON SAILS,Proposed Statewide Amendment 1,,,No,19
 Escambia,0004 EAST BREWTON SAILS,Proposed Statewide Amendment 1,,,Yes,304
-Escambia,0004 EAST BREWTON SAILS,Governor,,DEM,"Chad ""Chig"" Martin",1
-Escambia,0004 EAST BREWTON SAILS,Governor,,DEM,Doug Jones,2
-Escambia,0004 EAST BREWTON SAILS,Governor,,DEM,Jamel J. Brown,3
-Escambia,0004 EAST BREWTON SAILS,Governor,,DEM,Unverified Candidate 2,7
+Escambia,0004 EAST BREWTON SAILS,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+Escambia,0004 EAST BREWTON SAILS,Governor,,DEM,"Chad ""Chig"" Martin",2
+Escambia,0004 EAST BREWTON SAILS,Governor,,DEM,Yolanda Rochelle Flowers,3
+Escambia,0004 EAST BREWTON SAILS,Governor,,DEM,Jamel J. Brown,7
 Escambia,0004 EAST BREWTON SAILS,Governor,,DEM,Will Boyd,45
-Escambia,0004 EAST BREWTON SAILS,Governor,,DEM,Yolanda Rochelle Flowers,82
+Escambia,0004 EAST BREWTON SAILS,Governor,,DEM,Doug Jones,82
 Escambia,0004 EAST BREWTON SAILS,Lieutenant Governor,,DEM,Darryl D. Perryman,58
 Escambia,0004 EAST BREWTON SAILS,Lieutenant Governor,,DEM,Phillip Ensler,78
 Escambia,0004 EAST BREWTON SAILS,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,107
@@ -263,12 +263,12 @@ Escambia,0004 EAST BREWTON SAILS,U.S. Senate,,REP,Seth Burton,2
 Escambia,0004 EAST BREWTON SAILS,U.S. Senate,,REP,Steve Marshall,39
 Escambia,0005 RIVERVIEW TOWN HALL,Proposed Statewide Amendment 1,,,No,10
 Escambia,0005 RIVERVIEW TOWN HALL,Proposed Statewide Amendment 1,,,Yes,72
+Escambia,0005 RIVERVIEW TOWN HALL,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0005 RIVERVIEW TOWN HALL,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0005 RIVERVIEW TOWN HALL,Governor,,DEM,Doug Jones,0
+Escambia,0005 RIVERVIEW TOWN HALL,Governor,,DEM,Yolanda Rochelle Flowers,0
 Escambia,0005 RIVERVIEW TOWN HALL,Governor,,DEM,Jamel J. Brown,0
-Escambia,0005 RIVERVIEW TOWN HALL,Governor,,DEM,Unverified Candidate 2,0
 Escambia,0005 RIVERVIEW TOWN HALL,Governor,,DEM,Will Boyd,1
-Escambia,0005 RIVERVIEW TOWN HALL,Governor,,DEM,Yolanda Rochelle Flowers,8
+Escambia,0005 RIVERVIEW TOWN HALL,Governor,,DEM,Doug Jones,8
 Escambia,0005 RIVERVIEW TOWN HALL,Lieutenant Governor,,DEM,Darryl D. Perryman,4
 Escambia,0005 RIVERVIEW TOWN HALL,Lieutenant Governor,,DEM,Phillip Ensler,5
 Escambia,0005 RIVERVIEW TOWN HALL,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,2
@@ -329,12 +329,12 @@ Escambia,0005 RIVERVIEW TOWN HALL,U.S. Senate,,REP,Seth Burton,2
 Escambia,0005 RIVERVIEW TOWN HALL,U.S. Senate,,REP,Steve Marshall,11
 Escambia,0006 ROCK HILL RIDGE FD,Proposed Statewide Amendment 1,,,No,10
 Escambia,0006 ROCK HILL RIDGE FD,Proposed Statewide Amendment 1,,,Yes,78
-Escambia,0006 ROCK HILL RIDGE FD,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0006 ROCK HILL RIDGE FD,Governor,,DEM,Doug Jones,1
-Escambia,0006 ROCK HILL RIDGE FD,Governor,,DEM,Jamel J. Brown,1
-Escambia,0006 ROCK HILL RIDGE FD,Governor,,DEM,Unverified Candidate 2,0
+Escambia,0006 ROCK HILL RIDGE FD,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Escambia,0006 ROCK HILL RIDGE FD,Governor,,DEM,"Chad ""Chig"" Martin",1
+Escambia,0006 ROCK HILL RIDGE FD,Governor,,DEM,Yolanda Rochelle Flowers,1
+Escambia,0006 ROCK HILL RIDGE FD,Governor,,DEM,Jamel J. Brown,0
 Escambia,0006 ROCK HILL RIDGE FD,Governor,,DEM,Will Boyd,9
-Escambia,0006 ROCK HILL RIDGE FD,Governor,,DEM,Yolanda Rochelle Flowers,11
+Escambia,0006 ROCK HILL RIDGE FD,Governor,,DEM,Doug Jones,11
 Escambia,0006 ROCK HILL RIDGE FD,Lieutenant Governor,,DEM,Darryl D. Perryman,5
 Escambia,0006 ROCK HILL RIDGE FD,Lieutenant Governor,,DEM,Phillip Ensler,14
 Escambia,0006 ROCK HILL RIDGE FD,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,12
@@ -393,12 +393,12 @@ Escambia,0006 ROCK HILL RIDGE FD,U.S. Senate,,REP,Seth Burton,4
 Escambia,0006 ROCK HILL RIDGE FD,U.S. Senate,,REP,Steve Marshall,11
 Escambia,0007 BETHEL ROBERTS VFD,Proposed Statewide Amendment 1,,,No,2
 Escambia,0007 BETHEL ROBERTS VFD,Proposed Statewide Amendment 1,,,Yes,20
+Escambia,0007 BETHEL ROBERTS VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0007 BETHEL ROBERTS VFD,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0007 BETHEL ROBERTS VFD,Governor,,DEM,Doug Jones,0
-Escambia,0007 BETHEL ROBERTS VFD,Governor,,DEM,Jamel J. Brown,0
-Escambia,0007 BETHEL ROBERTS VFD,Governor,,DEM,Unverified Candidate 2,0
-Escambia,0007 BETHEL ROBERTS VFD,Governor,,DEM,Will Boyd,1
 Escambia,0007 BETHEL ROBERTS VFD,Governor,,DEM,Yolanda Rochelle Flowers,0
+Escambia,0007 BETHEL ROBERTS VFD,Governor,,DEM,Jamel J. Brown,0
+Escambia,0007 BETHEL ROBERTS VFD,Governor,,DEM,Will Boyd,1
+Escambia,0007 BETHEL ROBERTS VFD,Governor,,DEM,Doug Jones,0
 Escambia,0007 BETHEL ROBERTS VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,1
 Escambia,0007 BETHEL ROBERTS VFD,Lieutenant Governor,,DEM,Phillip Ensler,0
 Escambia,0007 BETHEL ROBERTS VFD,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,1
@@ -459,12 +459,12 @@ Escambia,0007 BETHEL ROBERTS VFD,U.S. Senate,,REP,Seth Burton,0
 Escambia,0007 BETHEL ROBERTS VFD,U.S. Senate,,REP,Steve Marshall,5
 Escambia,0008 BRADLEY VFD,Proposed Statewide Amendment 1,,,No,1
 Escambia,0008 BRADLEY VFD,Proposed Statewide Amendment 1,,,Yes,23
+Escambia,0008 BRADLEY VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0008 BRADLEY VFD,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0008 BRADLEY VFD,Governor,,DEM,Doug Jones,0
-Escambia,0008 BRADLEY VFD,Governor,,DEM,Jamel J. Brown,0
-Escambia,0008 BRADLEY VFD,Governor,,DEM,Unverified Candidate 2,0
-Escambia,0008 BRADLEY VFD,Governor,,DEM,Will Boyd,0
 Escambia,0008 BRADLEY VFD,Governor,,DEM,Yolanda Rochelle Flowers,0
+Escambia,0008 BRADLEY VFD,Governor,,DEM,Jamel J. Brown,0
+Escambia,0008 BRADLEY VFD,Governor,,DEM,Will Boyd,0
+Escambia,0008 BRADLEY VFD,Governor,,DEM,Doug Jones,0
 Escambia,0008 BRADLEY VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,0
 Escambia,0008 BRADLEY VFD,Lieutenant Governor,,DEM,Phillip Ensler,0
 Escambia,0008 BRADLEY VFD,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,0
@@ -525,12 +525,12 @@ Escambia,0008 BRADLEY VFD,U.S. Senate,,REP,Seth Burton,1
 Escambia,0008 BRADLEY VFD,U.S. Senate,,REP,Steve Marshall,2
 Escambia,0009 DIXIE VFD,Proposed Statewide Amendment 1,,,No,2
 Escambia,0009 DIXIE VFD,Proposed Statewide Amendment 1,,,Yes,13
+Escambia,0009 DIXIE VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0009 DIXIE VFD,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0009 DIXIE VFD,Governor,,DEM,Doug Jones,0
-Escambia,0009 DIXIE VFD,Governor,,DEM,Jamel J. Brown,0
-Escambia,0009 DIXIE VFD,Governor,,DEM,Unverified Candidate 2,0
-Escambia,0009 DIXIE VFD,Governor,,DEM,Will Boyd,0
 Escambia,0009 DIXIE VFD,Governor,,DEM,Yolanda Rochelle Flowers,0
+Escambia,0009 DIXIE VFD,Governor,,DEM,Jamel J. Brown,0
+Escambia,0009 DIXIE VFD,Governor,,DEM,Will Boyd,0
+Escambia,0009 DIXIE VFD,Governor,,DEM,Doug Jones,0
 Escambia,0009 DIXIE VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,0
 Escambia,0009 DIXIE VFD,Lieutenant Governor,,DEM,Phillip Ensler,0
 Escambia,0009 DIXIE VFD,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,0
@@ -591,12 +591,12 @@ Escambia,0009 DIXIE VFD,U.S. Senate,,REP,Seth Burton,0
 Escambia,0009 DIXIE VFD,U.S. Senate,,REP,Steve Marshall,3
 Escambia,0010 DAMASCUS BOYKIN SCH,Proposed Statewide Amendment 1,,,No,15
 Escambia,0010 DAMASCUS BOYKIN SCH,Proposed Statewide Amendment 1,,,Yes,82
-Escambia,0010 DAMASCUS BOYKIN SCH,Governor,,DEM,"Chad ""Chig"" Martin",1
-Escambia,0010 DAMASCUS BOYKIN SCH,Governor,,DEM,Doug Jones,0
-Escambia,0010 DAMASCUS BOYKIN SCH,Governor,,DEM,Jamel J. Brown,2
-Escambia,0010 DAMASCUS BOYKIN SCH,Governor,,DEM,Unverified Candidate 2,1
+Escambia,0010 DAMASCUS BOYKIN SCH,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+Escambia,0010 DAMASCUS BOYKIN SCH,Governor,,DEM,"Chad ""Chig"" Martin",0
+Escambia,0010 DAMASCUS BOYKIN SCH,Governor,,DEM,Yolanda Rochelle Flowers,2
+Escambia,0010 DAMASCUS BOYKIN SCH,Governor,,DEM,Jamel J. Brown,1
 Escambia,0010 DAMASCUS BOYKIN SCH,Governor,,DEM,Will Boyd,13
-Escambia,0010 DAMASCUS BOYKIN SCH,Governor,,DEM,Yolanda Rochelle Flowers,37
+Escambia,0010 DAMASCUS BOYKIN SCH,Governor,,DEM,Doug Jones,37
 Escambia,0010 DAMASCUS BOYKIN SCH,Lieutenant Governor,,DEM,Darryl D. Perryman,17
 Escambia,0010 DAMASCUS BOYKIN SCH,Lieutenant Governor,,DEM,Phillip Ensler,42
 Escambia,0010 DAMASCUS BOYKIN SCH,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,44
@@ -657,12 +657,12 @@ Escambia,0010 DAMASCUS BOYKIN SCH,U.S. Senate,,REP,Seth Burton,2
 Escambia,0010 DAMASCUS BOYKIN SCH,U.S. Senate,,REP,Steve Marshall,3
 Escambia,0011 FLOMATON COMM.,Proposed Statewide Amendment 1,,,No,16
 Escambia,0011 FLOMATON COMM.,Proposed Statewide Amendment 1,,,Yes,107
-Escambia,0011 FLOMATON COMM.,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0011 FLOMATON COMM.,Governor,,DEM,Doug Jones,4
-Escambia,0011 FLOMATON COMM.,Governor,,DEM,Jamel J. Brown,1
-Escambia,0011 FLOMATON COMM.,Governor,,DEM,Unverified Candidate 2,0
+Escambia,0011 FLOMATON COMM.,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Escambia,0011 FLOMATON COMM.,Governor,,DEM,"Chad ""Chig"" Martin",4
+Escambia,0011 FLOMATON COMM.,Governor,,DEM,Yolanda Rochelle Flowers,1
+Escambia,0011 FLOMATON COMM.,Governor,,DEM,Jamel J. Brown,0
 Escambia,0011 FLOMATON COMM.,Governor,,DEM,Will Boyd,2
-Escambia,0011 FLOMATON COMM.,Governor,,DEM,Yolanda Rochelle Flowers,14
+Escambia,0011 FLOMATON COMM.,Governor,,DEM,Doug Jones,14
 Escambia,0011 FLOMATON COMM.,Lieutenant Governor,,DEM,Darryl D. Perryman,7
 Escambia,0011 FLOMATON COMM.,Lieutenant Governor,,DEM,Phillip Ensler,9
 Escambia,0011 FLOMATON COMM.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,13
@@ -727,12 +727,12 @@ Escambia,0011 FLOMATON COMM.,U.S. Senate,,REP,Seth Burton,3
 Escambia,0011 FLOMATON COMM.,U.S. Senate,,REP,Steve Marshall,25
 Escambia,0012 FLOMATON TOWN HALL,Proposed Statewide Amendment 1,,,No,16
 Escambia,0012 FLOMATON TOWN HALL,Proposed Statewide Amendment 1,,,Yes,135
-Escambia,0012 FLOMATON TOWN HALL,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0012 FLOMATON TOWN HALL,Governor,,DEM,Doug Jones,1
-Escambia,0012 FLOMATON TOWN HALL,Governor,,DEM,Jamel J. Brown,0
-Escambia,0012 FLOMATON TOWN HALL,Governor,,DEM,Unverified Candidate 2,4
+Escambia,0012 FLOMATON TOWN HALL,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Escambia,0012 FLOMATON TOWN HALL,Governor,,DEM,"Chad ""Chig"" Martin",1
+Escambia,0012 FLOMATON TOWN HALL,Governor,,DEM,Yolanda Rochelle Flowers,0
+Escambia,0012 FLOMATON TOWN HALL,Governor,,DEM,Jamel J. Brown,4
 Escambia,0012 FLOMATON TOWN HALL,Governor,,DEM,Will Boyd,2
-Escambia,0012 FLOMATON TOWN HALL,Governor,,DEM,Yolanda Rochelle Flowers,2
+Escambia,0012 FLOMATON TOWN HALL,Governor,,DEM,Doug Jones,2
 Escambia,0012 FLOMATON TOWN HALL,Lieutenant Governor,,DEM,Darryl D. Perryman,6
 Escambia,0012 FLOMATON TOWN HALL,Lieutenant Governor,,DEM,Phillip Ensler,3
 Escambia,0012 FLOMATON TOWN HALL,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,3
@@ -793,12 +793,12 @@ Escambia,0012 FLOMATON TOWN HALL,U.S. Senate,,REP,Seth Burton,3
 Escambia,0012 FLOMATON TOWN HALL,U.S. Senate,,REP,Steve Marshall,25
 Escambia,0013 OSAKA CHURCH,Proposed Statewide Amendment 1,,,No,29
 Escambia,0013 OSAKA CHURCH,Proposed Statewide Amendment 1,,,Yes,138
+Escambia,0013 OSAKA CHURCH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0013 OSAKA CHURCH,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0013 OSAKA CHURCH,Governor,,DEM,Doug Jones,0
+Escambia,0013 OSAKA CHURCH,Governor,,DEM,Yolanda Rochelle Flowers,0
 Escambia,0013 OSAKA CHURCH,Governor,,DEM,Jamel J. Brown,0
-Escambia,0013 OSAKA CHURCH,Governor,,DEM,Unverified Candidate 2,0
 Escambia,0013 OSAKA CHURCH,Governor,,DEM,Will Boyd,1
-Escambia,0013 OSAKA CHURCH,Governor,,DEM,Yolanda Rochelle Flowers,6
+Escambia,0013 OSAKA CHURCH,Governor,,DEM,Doug Jones,6
 Escambia,0013 OSAKA CHURCH,Lieutenant Governor,,DEM,Darryl D. Perryman,1
 Escambia,0013 OSAKA CHURCH,Lieutenant Governor,,DEM,Phillip Ensler,6
 Escambia,0013 OSAKA CHURCH,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,3
@@ -859,12 +859,12 @@ Escambia,0013 OSAKA CHURCH,U.S. Senate,,REP,Seth Burton,5
 Escambia,0013 OSAKA CHURCH,U.S. Senate,,REP,Steve Marshall,24
 Escambia,0014 PINEVIEW V.H.,Proposed Statewide Amendment 1,,,No,20
 Escambia,0014 PINEVIEW V.H.,Proposed Statewide Amendment 1,,,Yes,103
-Escambia,0014 PINEVIEW V.H.,Governor,,DEM,"Chad ""Chig"" Martin",1
-Escambia,0014 PINEVIEW V.H.,Governor,,DEM,Doug Jones,0
-Escambia,0014 PINEVIEW V.H.,Governor,,DEM,Jamel J. Brown,1
-Escambia,0014 PINEVIEW V.H.,Governor,,DEM,Unverified Candidate 2,0
+Escambia,0014 PINEVIEW V.H.,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+Escambia,0014 PINEVIEW V.H.,Governor,,DEM,"Chad ""Chig"" Martin",0
+Escambia,0014 PINEVIEW V.H.,Governor,,DEM,Yolanda Rochelle Flowers,1
+Escambia,0014 PINEVIEW V.H.,Governor,,DEM,Jamel J. Brown,0
 Escambia,0014 PINEVIEW V.H.,Governor,,DEM,Will Boyd,0
-Escambia,0014 PINEVIEW V.H.,Governor,,DEM,Yolanda Rochelle Flowers,0
+Escambia,0014 PINEVIEW V.H.,Governor,,DEM,Doug Jones,0
 Escambia,0014 PINEVIEW V.H.,Lieutenant Governor,,DEM,Darryl D. Perryman,2
 Escambia,0014 PINEVIEW V.H.,Lieutenant Governor,,DEM,Phillip Ensler,0
 Escambia,0014 PINEVIEW V.H.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,0
@@ -925,12 +925,12 @@ Escambia,0014 PINEVIEW V.H.,U.S. Senate,,REP,Seth Burton,9
 Escambia,0014 PINEVIEW V.H.,U.S. Senate,,REP,Steve Marshall,25
 Escambia,0015 BARNETTS CROSSROADS,Proposed Statewide Amendment 1,,,No,4
 Escambia,0015 BARNETTS CROSSROADS,Proposed Statewide Amendment 1,,,Yes,42
+Escambia,0015 BARNETTS CROSSROADS,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0015 BARNETTS CROSSROADS,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0015 BARNETTS CROSSROADS,Governor,,DEM,Doug Jones,0
-Escambia,0015 BARNETTS CROSSROADS,Governor,,DEM,Jamel J. Brown,1
-Escambia,0015 BARNETTS CROSSROADS,Governor,,DEM,Unverified Candidate 2,0
+Escambia,0015 BARNETTS CROSSROADS,Governor,,DEM,Yolanda Rochelle Flowers,1
+Escambia,0015 BARNETTS CROSSROADS,Governor,,DEM,Jamel J. Brown,0
 Escambia,0015 BARNETTS CROSSROADS,Governor,,DEM,Will Boyd,0
-Escambia,0015 BARNETTS CROSSROADS,Governor,,DEM,Yolanda Rochelle Flowers,0
+Escambia,0015 BARNETTS CROSSROADS,Governor,,DEM,Doug Jones,0
 Escambia,0015 BARNETTS CROSSROADS,Lieutenant Governor,,DEM,Darryl D. Perryman,1
 Escambia,0015 BARNETTS CROSSROADS,Lieutenant Governor,,DEM,Phillip Ensler,0
 Escambia,0015 BARNETTS CROSSROADS,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,0
@@ -991,12 +991,12 @@ Escambia,0015 BARNETTS CROSSROADS,U.S. Senate,,REP,Seth Burton,0
 Escambia,0015 BARNETTS CROSSROADS,U.S. Senate,,REP,Steve Marshall,9
 Escambia,0016 HUXFORD MASONIC LDG,Proposed Statewide Amendment 1,,,No,6
 Escambia,0016 HUXFORD MASONIC LDG,Proposed Statewide Amendment 1,,,Yes,84
+Escambia,0016 HUXFORD MASONIC LDG,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0016 HUXFORD MASONIC LDG,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0016 HUXFORD MASONIC LDG,Governor,,DEM,Doug Jones,0
-Escambia,0016 HUXFORD MASONIC LDG,Governor,,DEM,Jamel J. Brown,0
-Escambia,0016 HUXFORD MASONIC LDG,Governor,,DEM,Unverified Candidate 2,1
+Escambia,0016 HUXFORD MASONIC LDG,Governor,,DEM,Yolanda Rochelle Flowers,0
+Escambia,0016 HUXFORD MASONIC LDG,Governor,,DEM,Jamel J. Brown,1
 Escambia,0016 HUXFORD MASONIC LDG,Governor,,DEM,Will Boyd,0
-Escambia,0016 HUXFORD MASONIC LDG,Governor,,DEM,Yolanda Rochelle Flowers,1
+Escambia,0016 HUXFORD MASONIC LDG,Governor,,DEM,Doug Jones,1
 Escambia,0016 HUXFORD MASONIC LDG,Lieutenant Governor,,DEM,Darryl D. Perryman,0
 Escambia,0016 HUXFORD MASONIC LDG,Lieutenant Governor,,DEM,Phillip Ensler,2
 Escambia,0016 HUXFORD MASONIC LDG,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,1
@@ -1057,12 +1057,12 @@ Escambia,0016 HUXFORD MASONIC LDG,U.S. Senate,,REP,Seth Burton,7
 Escambia,0016 HUXFORD MASONIC LDG,U.S. Senate,,REP,Steve Marshall,27
 Escambia,0017 WALLACE METHODIST,Proposed Statewide Amendment 1,,,No,1
 Escambia,0017 WALLACE METHODIST,Proposed Statewide Amendment 1,,,Yes,27
+Escambia,0017 WALLACE METHODIST,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0017 WALLACE METHODIST,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0017 WALLACE METHODIST,Governor,,DEM,Doug Jones,0
+Escambia,0017 WALLACE METHODIST,Governor,,DEM,Yolanda Rochelle Flowers,0
 Escambia,0017 WALLACE METHODIST,Governor,,DEM,Jamel J. Brown,0
-Escambia,0017 WALLACE METHODIST,Governor,,DEM,Unverified Candidate 2,0
 Escambia,0017 WALLACE METHODIST,Governor,,DEM,Will Boyd,0
-Escambia,0017 WALLACE METHODIST,Governor,,DEM,Yolanda Rochelle Flowers,2
+Escambia,0017 WALLACE METHODIST,Governor,,DEM,Doug Jones,2
 Escambia,0017 WALLACE METHODIST,Lieutenant Governor,,DEM,Darryl D. Perryman,0
 Escambia,0017 WALLACE METHODIST,Lieutenant Governor,,DEM,Phillip Ensler,2
 Escambia,0017 WALLACE METHODIST,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,1
@@ -1123,12 +1123,12 @@ Escambia,0017 WALLACE METHODIST,U.S. Senate,,REP,Seth Burton,0
 Escambia,0017 WALLACE METHODIST,U.S. Senate,,REP,Steve Marshall,8
 Escambia,0018 CATAWBA SPRINGS CH,Proposed Statewide Amendment 1,,,No,10
 Escambia,0018 CATAWBA SPRINGS CH,Proposed Statewide Amendment 1,,,Yes,208
-Escambia,0018 CATAWBA SPRINGS CH,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0018 CATAWBA SPRINGS CH,Governor,,DEM,Doug Jones,4
-Escambia,0018 CATAWBA SPRINGS CH,Governor,,DEM,Jamel J. Brown,2
-Escambia,0018 CATAWBA SPRINGS CH,Governor,,DEM,Unverified Candidate 2,0
+Escambia,0018 CATAWBA SPRINGS CH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Escambia,0018 CATAWBA SPRINGS CH,Governor,,DEM,"Chad ""Chig"" Martin",4
+Escambia,0018 CATAWBA SPRINGS CH,Governor,,DEM,Yolanda Rochelle Flowers,2
+Escambia,0018 CATAWBA SPRINGS CH,Governor,,DEM,Jamel J. Brown,0
 Escambia,0018 CATAWBA SPRINGS CH,Governor,,DEM,Will Boyd,1
-Escambia,0018 CATAWBA SPRINGS CH,Governor,,DEM,Yolanda Rochelle Flowers,3
+Escambia,0018 CATAWBA SPRINGS CH,Governor,,DEM,Doug Jones,3
 Escambia,0018 CATAWBA SPRINGS CH,Lieutenant Governor,,DEM,Darryl D. Perryman,7
 Escambia,0018 CATAWBA SPRINGS CH,Lieutenant Governor,,DEM,Phillip Ensler,3
 Escambia,0018 CATAWBA SPRINGS CH,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,6
@@ -1189,12 +1189,12 @@ Escambia,0018 CATAWBA SPRINGS CH,U.S. Senate,,REP,Seth Burton,8
 Escambia,0018 CATAWBA SPRINGS CH,U.S. Senate,,REP,Steve Marshall,34
 Escambia,0019 POLLARD TOWN HALL,Proposed Statewide Amendment 1,,,No,19
 Escambia,0019 POLLARD TOWN HALL,Proposed Statewide Amendment 1,,,Yes,112
-Escambia,0019 POLLARD TOWN HALL,Governor,,DEM,"Chad ""Chig"" Martin",1
-Escambia,0019 POLLARD TOWN HALL,Governor,,DEM,Doug Jones,0
+Escambia,0019 POLLARD TOWN HALL,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+Escambia,0019 POLLARD TOWN HALL,Governor,,DEM,"Chad ""Chig"" Martin",0
+Escambia,0019 POLLARD TOWN HALL,Governor,,DEM,Yolanda Rochelle Flowers,1
 Escambia,0019 POLLARD TOWN HALL,Governor,,DEM,Jamel J. Brown,1
-Escambia,0019 POLLARD TOWN HALL,Governor,,DEM,Unverified Candidate 2,1
 Escambia,0019 POLLARD TOWN HALL,Governor,,DEM,Will Boyd,1
-Escambia,0019 POLLARD TOWN HALL,Governor,,DEM,Yolanda Rochelle Flowers,8
+Escambia,0019 POLLARD TOWN HALL,Governor,,DEM,Doug Jones,8
 Escambia,0019 POLLARD TOWN HALL,Lieutenant Governor,,DEM,Darryl D. Perryman,5
 Escambia,0019 POLLARD TOWN HALL,Lieutenant Governor,,DEM,Phillip Ensler,5
 Escambia,0019 POLLARD TOWN HALL,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,7
@@ -1255,12 +1255,12 @@ Escambia,0019 POLLARD TOWN HALL,U.S. Senate,,REP,Seth Burton,4
 Escambia,0019 POLLARD TOWN HALL,U.S. Senate,,REP,Steve Marshall,35
 Escambia,0020 CROSSPOINT CHURCH,Proposed Statewide Amendment 1,,,No,19
 Escambia,0020 CROSSPOINT CHURCH,Proposed Statewide Amendment 1,,,Yes,55
+Escambia,0020 CROSSPOINT CHURCH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0020 CROSSPOINT CHURCH,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0020 CROSSPOINT CHURCH,Governor,,DEM,Doug Jones,0
-Escambia,0020 CROSSPOINT CHURCH,Governor,,DEM,Jamel J. Brown,3
-Escambia,0020 CROSSPOINT CHURCH,Governor,,DEM,Unverified Candidate 2,6
+Escambia,0020 CROSSPOINT CHURCH,Governor,,DEM,Yolanda Rochelle Flowers,3
+Escambia,0020 CROSSPOINT CHURCH,Governor,,DEM,Jamel J. Brown,6
 Escambia,0020 CROSSPOINT CHURCH,Governor,,DEM,Will Boyd,7
-Escambia,0020 CROSSPOINT CHURCH,Governor,,DEM,Yolanda Rochelle Flowers,34
+Escambia,0020 CROSSPOINT CHURCH,Governor,,DEM,Doug Jones,34
 Escambia,0020 CROSSPOINT CHURCH,Lieutenant Governor,,DEM,Darryl D. Perryman,26
 Escambia,0020 CROSSPOINT CHURCH,Lieutenant Governor,,DEM,Phillip Ensler,19
 Escambia,0020 CROSSPOINT CHURCH,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,22
@@ -1319,12 +1319,12 @@ Escambia,0020 CROSSPOINT CHURCH,U.S. Senate,,REP,Seth Burton,1
 Escambia,0020 CROSSPOINT CHURCH,U.S. Senate,,REP,Steve Marshall,6
 Escambia,0021 FIRST UNITED METHODIST,Proposed Statewide Amendment 1,,,No,21
 Escambia,0021 FIRST UNITED METHODIST,Proposed Statewide Amendment 1,,,Yes,203
-Escambia,0021 FIRST UNITED METHODIST,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0021 FIRST UNITED METHODIST,Governor,,DEM,Doug Jones,2
-Escambia,0021 FIRST UNITED METHODIST,Governor,,DEM,Jamel J. Brown,0
-Escambia,0021 FIRST UNITED METHODIST,Governor,,DEM,Unverified Candidate 2,7
+Escambia,0021 FIRST UNITED METHODIST,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Escambia,0021 FIRST UNITED METHODIST,Governor,,DEM,"Chad ""Chig"" Martin",2
+Escambia,0021 FIRST UNITED METHODIST,Governor,,DEM,Yolanda Rochelle Flowers,0
+Escambia,0021 FIRST UNITED METHODIST,Governor,,DEM,Jamel J. Brown,7
 Escambia,0021 FIRST UNITED METHODIST,Governor,,DEM,Will Boyd,15
-Escambia,0021 FIRST UNITED METHODIST,Governor,,DEM,Yolanda Rochelle Flowers,32
+Escambia,0021 FIRST UNITED METHODIST,Governor,,DEM,Doug Jones,32
 Escambia,0021 FIRST UNITED METHODIST,Lieutenant Governor,,DEM,Darryl D. Perryman,27
 Escambia,0021 FIRST UNITED METHODIST,Lieutenant Governor,,DEM,Phillip Ensler,27
 Escambia,0021 FIRST UNITED METHODIST,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,34
@@ -1383,12 +1383,12 @@ Escambia,0021 FIRST UNITED METHODIST,U.S. Senate,,REP,Seth Burton,5
 Escambia,0021 FIRST UNITED METHODIST,U.S. Senate,,REP,Steve Marshall,58
 Escambia,0022 ATMORE PUBLIC LIBRARY,Proposed Statewide Amendment 1,,,No,60
 Escambia,0022 ATMORE PUBLIC LIBRARY,Proposed Statewide Amendment 1,,,Yes,329
-Escambia,0022 ATMORE PUBLIC LIBRARY,Governor,,DEM,"Chad ""Chig"" Martin",1
-Escambia,0022 ATMORE PUBLIC LIBRARY,Governor,,DEM,Doug Jones,2
-Escambia,0022 ATMORE PUBLIC LIBRARY,Governor,,DEM,Jamel J. Brown,4
-Escambia,0022 ATMORE PUBLIC LIBRARY,Governor,,DEM,Unverified Candidate 2,23
+Escambia,0022 ATMORE PUBLIC LIBRARY,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+Escambia,0022 ATMORE PUBLIC LIBRARY,Governor,,DEM,"Chad ""Chig"" Martin",2
+Escambia,0022 ATMORE PUBLIC LIBRARY,Governor,,DEM,Yolanda Rochelle Flowers,4
+Escambia,0022 ATMORE PUBLIC LIBRARY,Governor,,DEM,Jamel J. Brown,23
 Escambia,0022 ATMORE PUBLIC LIBRARY,Governor,,DEM,Will Boyd,31
-Escambia,0022 ATMORE PUBLIC LIBRARY,Governor,,DEM,Yolanda Rochelle Flowers,96
+Escambia,0022 ATMORE PUBLIC LIBRARY,Governor,,DEM,Doug Jones,96
 Escambia,0022 ATMORE PUBLIC LIBRARY,Lieutenant Governor,,DEM,Darryl D. Perryman,87
 Escambia,0022 ATMORE PUBLIC LIBRARY,Lieutenant Governor,,DEM,Phillip Ensler,61
 Escambia,0022 ATMORE PUBLIC LIBRARY,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,94
@@ -1447,12 +1447,12 @@ Escambia,0022 ATMORE PUBLIC LIBRARY,U.S. Senate,,REP,Seth Burton,7
 Escambia,0022 ATMORE PUBLIC LIBRARY,U.S. Senate,,REP,Steve Marshall,64
 Escambia,0023 CANOE CIVIC CLUB,Proposed Statewide Amendment 1,,,No,12
 Escambia,0023 CANOE CIVIC CLUB,Proposed Statewide Amendment 1,,,Yes,106
-Escambia,0023 CANOE CIVIC CLUB,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0023 CANOE CIVIC CLUB,Governor,,DEM,Doug Jones,1
-Escambia,0023 CANOE CIVIC CLUB,Governor,,DEM,Jamel J. Brown,0
-Escambia,0023 CANOE CIVIC CLUB,Governor,,DEM,Unverified Candidate 2,1
+Escambia,0023 CANOE CIVIC CLUB,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Escambia,0023 CANOE CIVIC CLUB,Governor,,DEM,"Chad ""Chig"" Martin",1
+Escambia,0023 CANOE CIVIC CLUB,Governor,,DEM,Yolanda Rochelle Flowers,0
+Escambia,0023 CANOE CIVIC CLUB,Governor,,DEM,Jamel J. Brown,1
 Escambia,0023 CANOE CIVIC CLUB,Governor,,DEM,Will Boyd,0
-Escambia,0023 CANOE CIVIC CLUB,Governor,,DEM,Yolanda Rochelle Flowers,7
+Escambia,0023 CANOE CIVIC CLUB,Governor,,DEM,Doug Jones,7
 Escambia,0023 CANOE CIVIC CLUB,Lieutenant Governor,,DEM,Darryl D. Perryman,3
 Escambia,0023 CANOE CIVIC CLUB,Lieutenant Governor,,DEM,Phillip Ensler,5
 Escambia,0023 CANOE CIVIC CLUB,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,4
@@ -1511,12 +1511,12 @@ Escambia,0023 CANOE CIVIC CLUB,U.S. Senate,,REP,Seth Burton,2
 Escambia,0023 CANOE CIVIC CLUB,U.S. Senate,,REP,Steve Marshall,36
 Escambia,0024 LITTLE ROCK VFD,Proposed Statewide Amendment 1,,,No,6
 Escambia,0024 LITTLE ROCK VFD,Proposed Statewide Amendment 1,,,Yes,41
+Escambia,0024 LITTLE ROCK VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0024 LITTLE ROCK VFD,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0024 LITTLE ROCK VFD,Governor,,DEM,Doug Jones,0
+Escambia,0024 LITTLE ROCK VFD,Governor,,DEM,Yolanda Rochelle Flowers,0
 Escambia,0024 LITTLE ROCK VFD,Governor,,DEM,Jamel J. Brown,0
-Escambia,0024 LITTLE ROCK VFD,Governor,,DEM,Unverified Candidate 2,0
 Escambia,0024 LITTLE ROCK VFD,Governor,,DEM,Will Boyd,0
-Escambia,0024 LITTLE ROCK VFD,Governor,,DEM,Yolanda Rochelle Flowers,1
+Escambia,0024 LITTLE ROCK VFD,Governor,,DEM,Doug Jones,1
 Escambia,0024 LITTLE ROCK VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,1
 Escambia,0024 LITTLE ROCK VFD,Lieutenant Governor,,DEM,Phillip Ensler,0
 Escambia,0024 LITTLE ROCK VFD,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,0
@@ -1575,12 +1575,12 @@ Escambia,0024 LITTLE ROCK VFD,U.S. Senate,,REP,Seth Burton,0
 Escambia,0024 LITTLE ROCK VFD,U.S. Senate,,REP,Steve Marshall,10
 Escambia,0025 POARCH SAIL CENTER,Proposed Statewide Amendment 1,,,No,8
 Escambia,0025 POARCH SAIL CENTER,Proposed Statewide Amendment 1,,,Yes,98
+Escambia,0025 POARCH SAIL CENTER,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0025 POARCH SAIL CENTER,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0025 POARCH SAIL CENTER,Governor,,DEM,Doug Jones,0
-Escambia,0025 POARCH SAIL CENTER,Governor,,DEM,Jamel J. Brown,0
-Escambia,0025 POARCH SAIL CENTER,Governor,,DEM,Unverified Candidate 2,1
+Escambia,0025 POARCH SAIL CENTER,Governor,,DEM,Yolanda Rochelle Flowers,0
+Escambia,0025 POARCH SAIL CENTER,Governor,,DEM,Jamel J. Brown,1
 Escambia,0025 POARCH SAIL CENTER,Governor,,DEM,Will Boyd,10
-Escambia,0025 POARCH SAIL CENTER,Governor,,DEM,Yolanda Rochelle Flowers,17
+Escambia,0025 POARCH SAIL CENTER,Governor,,DEM,Doug Jones,17
 Escambia,0025 POARCH SAIL CENTER,Lieutenant Governor,,DEM,Darryl D. Perryman,13
 Escambia,0025 POARCH SAIL CENTER,Lieutenant Governor,,DEM,Phillip Ensler,15
 Escambia,0025 POARCH SAIL CENTER,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,15
@@ -1639,12 +1639,12 @@ Escambia,0025 POARCH SAIL CENTER,U.S. Senate,,REP,Seth Burton,2
 Escambia,0025 POARCH SAIL CENTER,U.S. Senate,,REP,Steve Marshall,14
 Escambia,0026 MCCULLOUGH CHRISTIAN,Proposed Statewide Amendment 1,,,No,16
 Escambia,0026 MCCULLOUGH CHRISTIAN,Proposed Statewide Amendment 1,,,Yes,111
-Escambia,0026 MCCULLOUGH CHRISTIAN,Governor,,DEM,"Chad ""Chig"" Martin",1
-Escambia,0026 MCCULLOUGH CHRISTIAN,Governor,,DEM,Doug Jones,2
-Escambia,0026 MCCULLOUGH CHRISTIAN,Governor,,DEM,Jamel J. Brown,2
-Escambia,0026 MCCULLOUGH CHRISTIAN,Governor,,DEM,Unverified Candidate 2,1
+Escambia,0026 MCCULLOUGH CHRISTIAN,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+Escambia,0026 MCCULLOUGH CHRISTIAN,Governor,,DEM,"Chad ""Chig"" Martin",2
+Escambia,0026 MCCULLOUGH CHRISTIAN,Governor,,DEM,Yolanda Rochelle Flowers,2
+Escambia,0026 MCCULLOUGH CHRISTIAN,Governor,,DEM,Jamel J. Brown,1
 Escambia,0026 MCCULLOUGH CHRISTIAN,Governor,,DEM,Will Boyd,8
-Escambia,0026 MCCULLOUGH CHRISTIAN,Governor,,DEM,Yolanda Rochelle Flowers,9
+Escambia,0026 MCCULLOUGH CHRISTIAN,Governor,,DEM,Doug Jones,9
 Escambia,0026 MCCULLOUGH CHRISTIAN,Lieutenant Governor,,DEM,Darryl D. Perryman,16
 Escambia,0026 MCCULLOUGH CHRISTIAN,Lieutenant Governor,,DEM,Phillip Ensler,8
 Escambia,0026 MCCULLOUGH CHRISTIAN,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,15
@@ -1705,12 +1705,12 @@ Escambia,0026 MCCULLOUGH CHRISTIAN,U.S. Senate,,REP,Seth Burton,2
 Escambia,0026 MCCULLOUGH CHRISTIAN,U.S. Senate,,REP,Steve Marshall,29
 Escambia,0027 ATMORE CITY HALL,Proposed Statewide Amendment 1,,,No,74
 Escambia,0027 ATMORE CITY HALL,Proposed Statewide Amendment 1,,,Yes,166
-Escambia,0027 ATMORE CITY HALL,Governor,,DEM,"Chad ""Chig"" Martin",1
-Escambia,0027 ATMORE CITY HALL,Governor,,DEM,Doug Jones,2
-Escambia,0027 ATMORE CITY HALL,Governor,,DEM,Jamel J. Brown,8
-Escambia,0027 ATMORE CITY HALL,Governor,,DEM,Unverified Candidate 2,32
+Escambia,0027 ATMORE CITY HALL,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+Escambia,0027 ATMORE CITY HALL,Governor,,DEM,"Chad ""Chig"" Martin",2
+Escambia,0027 ATMORE CITY HALL,Governor,,DEM,Yolanda Rochelle Flowers,8
+Escambia,0027 ATMORE CITY HALL,Governor,,DEM,Jamel J. Brown,32
 Escambia,0027 ATMORE CITY HALL,Governor,,DEM,Will Boyd,48
-Escambia,0027 ATMORE CITY HALL,Governor,,DEM,Yolanda Rochelle Flowers,151
+Escambia,0027 ATMORE CITY HALL,Governor,,DEM,Doug Jones,151
 Escambia,0027 ATMORE CITY HALL,Lieutenant Governor,,DEM,Darryl D. Perryman,110
 Escambia,0027 ATMORE CITY HALL,Lieutenant Governor,,DEM,Phillip Ensler,113
 Escambia,0027 ATMORE CITY HALL,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,153
@@ -1769,12 +1769,12 @@ Escambia,0027 ATMORE CITY HALL,U.S. Senate,,REP,Seth Burton,0
 Escambia,0027 ATMORE CITY HALL,U.S. Senate,,REP,Steve Marshall,1
 Escambia,0028 NEW ORDER MISSIONARY,Proposed Statewide Amendment 1,,,No,75
 Escambia,0028 NEW ORDER MISSIONARY,Proposed Statewide Amendment 1,,,Yes,348
-Escambia,0028 NEW ORDER MISSIONARY,Governor,,DEM,"Chad ""Chig"" Martin",3
-Escambia,0028 NEW ORDER MISSIONARY,Governor,,DEM,Doug Jones,1
-Escambia,0028 NEW ORDER MISSIONARY,Governor,,DEM,Jamel J. Brown,19
-Escambia,0028 NEW ORDER MISSIONARY,Governor,,DEM,Unverified Candidate 2,31
+Escambia,0028 NEW ORDER MISSIONARY,Governor,,DEM,"Nathan ""Nate"" Mathis",3
+Escambia,0028 NEW ORDER MISSIONARY,Governor,,DEM,"Chad ""Chig"" Martin",1
+Escambia,0028 NEW ORDER MISSIONARY,Governor,,DEM,Yolanda Rochelle Flowers,19
+Escambia,0028 NEW ORDER MISSIONARY,Governor,,DEM,Jamel J. Brown,31
 Escambia,0028 NEW ORDER MISSIONARY,Governor,,DEM,Will Boyd,66
-Escambia,0028 NEW ORDER MISSIONARY,Governor,,DEM,Yolanda Rochelle Flowers,178
+Escambia,0028 NEW ORDER MISSIONARY,Governor,,DEM,Doug Jones,178
 Escambia,0028 NEW ORDER MISSIONARY,Lieutenant Governor,,DEM,Darryl D. Perryman,132
 Escambia,0028 NEW ORDER MISSIONARY,Lieutenant Governor,,DEM,Phillip Ensler,147
 Escambia,0028 NEW ORDER MISSIONARY,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,204
@@ -1833,12 +1833,12 @@ Escambia,0028 NEW ORDER MISSIONARY,U.S. Senate,,REP,Seth Burton,3
 Escambia,0028 NEW ORDER MISSIONARY,U.S. Senate,,REP,Steve Marshall,40
 Escambia,0029 NOKOMIS VFD,Proposed Statewide Amendment 1,,,No,17
 Escambia,0029 NOKOMIS VFD,Proposed Statewide Amendment 1,,,Yes,127
+Escambia,0029 NOKOMIS VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0029 NOKOMIS VFD,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0029 NOKOMIS VFD,Governor,,DEM,Doug Jones,0
-Escambia,0029 NOKOMIS VFD,Governor,,DEM,Jamel J. Brown,1
-Escambia,0029 NOKOMIS VFD,Governor,,DEM,Unverified Candidate 2,6
+Escambia,0029 NOKOMIS VFD,Governor,,DEM,Yolanda Rochelle Flowers,1
+Escambia,0029 NOKOMIS VFD,Governor,,DEM,Jamel J. Brown,6
 Escambia,0029 NOKOMIS VFD,Governor,,DEM,Will Boyd,4
-Escambia,0029 NOKOMIS VFD,Governor,,DEM,Yolanda Rochelle Flowers,19
+Escambia,0029 NOKOMIS VFD,Governor,,DEM,Doug Jones,19
 Escambia,0029 NOKOMIS VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,16
 Escambia,0029 NOKOMIS VFD,Lieutenant Governor,,DEM,Phillip Ensler,11
 Escambia,0029 NOKOMIS VFD,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,12
@@ -1897,12 +1897,12 @@ Escambia,0029 NOKOMIS VFD,U.S. Senate,,REP,Seth Burton,7
 Escambia,0029 NOKOMIS VFD,U.S. Senate,,REP,Steve Marshall,24
 Escambia,0030 ABSENTEE,Proposed Statewide Amendment 1,,,No,10
 Escambia,0030 ABSENTEE,Proposed Statewide Amendment 1,,,Yes,62
+Escambia,0030 ABSENTEE,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0030 ABSENTEE,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0030 ABSENTEE,Governor,,DEM,Doug Jones,0
-Escambia,0030 ABSENTEE,Governor,,DEM,Jamel J. Brown,0
-Escambia,0030 ABSENTEE,Governor,,DEM,Unverified Candidate 2,1
+Escambia,0030 ABSENTEE,Governor,,DEM,Yolanda Rochelle Flowers,0
+Escambia,0030 ABSENTEE,Governor,,DEM,Jamel J. Brown,1
 Escambia,0030 ABSENTEE,Governor,,DEM,Will Boyd,16
-Escambia,0030 ABSENTEE,Governor,,DEM,Yolanda Rochelle Flowers,6
+Escambia,0030 ABSENTEE,Governor,,DEM,Doug Jones,6
 Escambia,0030 ABSENTEE,Lieutenant Governor,,DEM,Darryl D. Perryman,13
 Escambia,0030 ABSENTEE,Lieutenant Governor,,DEM,Phillip Ensler,9
 Escambia,0030 ABSENTEE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,9
@@ -1967,12 +1967,12 @@ Escambia,0030 ABSENTEE,U.S. Senate,,REP,Seth Burton,0
 Escambia,0030 ABSENTEE,U.S. Senate,,REP,Steve Marshall,17
 Escambia,0031 PROVISIONAL,Proposed Statewide Amendment 1,,,No,0
 Escambia,0031 PROVISIONAL,Proposed Statewide Amendment 1,,,Yes,1
+Escambia,0031 PROVISIONAL,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Escambia,0031 PROVISIONAL,Governor,,DEM,"Chad ""Chig"" Martin",0
-Escambia,0031 PROVISIONAL,Governor,,DEM,Doug Jones,0
-Escambia,0031 PROVISIONAL,Governor,,DEM,Jamel J. Brown,0
-Escambia,0031 PROVISIONAL,Governor,,DEM,Unverified Candidate 2,0
-Escambia,0031 PROVISIONAL,Governor,,DEM,Will Boyd,1
 Escambia,0031 PROVISIONAL,Governor,,DEM,Yolanda Rochelle Flowers,0
+Escambia,0031 PROVISIONAL,Governor,,DEM,Jamel J. Brown,0
+Escambia,0031 PROVISIONAL,Governor,,DEM,Will Boyd,1
+Escambia,0031 PROVISIONAL,Governor,,DEM,Doug Jones,0
 Escambia,0031 PROVISIONAL,Lieutenant Governor,,DEM,Darryl D. Perryman,1
 Escambia,0031 PROVISIONAL,Lieutenant Governor,,DEM,Phillip Ensler,0
 Escambia,0031 PROVISIONAL,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,0
