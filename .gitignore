@@ -94,3 +94,16 @@ ENV/
 .ropeproject
 
 data/
+.paddleocr_token
+.canvass_cache_paddleocr/
+
+# macOS
+.DS_Store
+
+# Source canvass PDFs (large, regenerable, never committed)
+2026 AL Republican Party Primary Precinct Results/
+Democratic Party Results/
+.canvass_cache_claude_*/
+.sample_ballots/
+.precinct_ocr_cache/
+.ballot_extract_cache/
