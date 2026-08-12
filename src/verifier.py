@@ -59,7 +59,49 @@ class Verifier(object):
 	validColumns = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes', 'notes'])
 	requiredColumnSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'])
 	uniqueRowIDSet = frozenset(['county', 'precinct', 'office', 'district', 'party', 'candidate'])
-	validOffices = frozenset(['President', 'U.S. Senate', 'U.S. House', 'Governor', 'Lieutenant Governor', 'State Senate', 'State House', 'Attorney General', 'Secretary of State', 'State Treasurer', 'Auditor', 'Commissioner of Agriculture',])
+	# Statewide offices, as canonicalized by the two converters
+	# (convert_spreadsheets_to_csv.py:office_map and convert_precinct_pdfs.py
+	# STATEWIDE_OFFICE_MAP). Both converters emit "State Auditor" and
+	# "Commissioner of Agriculture and Industries"; the older "Auditor" /
+	# "Commissioner of Agriculture" spellings are kept too so rows that an
+	# inconsistent converter didn't fully normalize don't false-positive. The
+	# 2026 canvass batch added State Board of Education and the state
+	# executive committees, which the original closed set predated.
+	validOffices = frozenset([
+		'President', 'U.S. Senate', 'U.S. House', 'Governor', 'Lieutenant Governor',
+		'State Senate', 'State House', 'Attorney General', 'Secretary of State',
+		'State Treasurer', 'State Auditor', 'Auditor',
+		'Commissioner of Agriculture and Industries', 'Commissioner of Agriculture',
+		'State Board of Education',
+		'State Democratic Executive Committee', 'State Republican Executive Committee',
+		# Raw spellings that escaped the converters' office_map normalization
+		# (present in some 2026 county CSVs); accepted so the verifier doesn't
+		# cry wolf on legit offices. The canonicalization should be fixed at the
+		# converter, not here.
+		'United States Senator', 'United States Representative',
+		'State Senator', 'State Representative',
+	])
+	# Case-insensitive view of validOffices, so all-caps converter output
+	# (e.g. "GOVERNOR", "STATE AUDITOR") passes without enumerating every
+	# casing — those are case bugs, not invalid offices.
+	validOfficesLower = frozenset(o.lower() for o in validOffices)
+	# Offices whose name carries a place/amendment number or a county-local
+	# race title — matched case-insensitively so the canvass converters'
+	# spelling variants (comma-vs-none, "Place No. 1" vs "Place 1", the
+	# occasional all-caps county) all pass, while OCR corruptions like
+	# "Proposed Statewioe Amendment 1" or "Commissidner of Agriculture and
+	# Industries" still fail to match and get flagged. The county-local branch
+	# requires the word "County" plus a known office keyword, except judicial
+	# races which are titled by "Judicial Circuit" rather than a county.
+	validOfficeRE = re.compile(
+		r'^(?:'
+		r'Public Service Commission(?:,? Place(?: No\.?)? \d+)?'
+		r'|Proposed Statewide Amendment(?: (?:One|Two|\d+))?'
+		r'|State (?:Democratic|Republican) Exec(?:utive)? Comm(?:ittee)?.*'
+		r'|(?:Circuit|District) Court Judge\b.*'
+		r'|(?=.*\bCounty\b)(?=.*\b(?:Sheriff|Coroner|Revenue Commissioner|Property Tax Commissioner|Commission|Board of Education|School Board|School District|Executive Committee|Superintendent|Chairman)\b).*'
+		r')$',
+		re.IGNORECASE)
 	officesWithDistricts = frozenset(['U.S. House', 'State Senate', 'State House'])
 	pseudocandidates = frozenset(['Write-ins', 'Under Votes', 'Over Votes', 'Total', 'Total Votes Cast',  'Registered Voters'])
 	normalizedPseudocandidates = frozenset(['writeins', 'undervotes', 'overvotes', 'total', 'totalvotescast', 'registeredvoters'])
@@ -191,8 +233,19 @@ class Verifier(object):
 			self.printError("Use title case for the county", row)
 
 	def verifyOffice(self, row):
-		if not row['office'] in Verifier.validOffices:
-			self.printError("Invalid office: {}".format(row['office']), row)
+		office = row['office']
+		if office.lower() in Verifier.validOfficesLower:
+			return
+		# Some 2026 converter output left the district appended to the office
+		# ("State House, District 50") instead of in the district column; the
+		# office is still valid once that suffix is stripped. District-column
+		# placement is verifyDistrict's concern, not the office check's.
+		stripped = re.sub(r',\s*Dist(?:rict)?(?:\s+No\.?)?\s+\d+\s*$', '', office)
+		if stripped != office and stripped.lower() in Verifier.validOfficesLower:
+			return
+		if Verifier.validOfficeRE.match(office):
+			return
+		self.printError("Invalid office: {}".format(office), row)
 
 	def verifyDistrict(self, row):
 		if row['office'] in Verifier.officesWithDistricts:
