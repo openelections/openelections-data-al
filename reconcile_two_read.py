@@ -33,7 +33,7 @@ import re
 import pandas as pd
 
 import repair_canvass_contests as R
-from convert_canvass_pdfs import checksum
+from convert_canvass_pdfs import checksum, infer_party
 from convert_precinct_pdfs import normalize_office, office_match_key
 
 SECOND_READ_DIR = os.environ.get(
@@ -213,17 +213,25 @@ def reconcile_county(pdf_path, county, county_df, dpi=400, dry_run=False):
     if not mism:
         return 0, [f"{county}: no authoritative mismatches to reconcile"]
 
+    def _party(c):
+        return c.get("party") or (infer_party(c, county, county_df)
+                                   if c.get("totals") is not None else None)
+
     readA = {}
     for c, res in R.analyze([pdf_path], dpi, ef, county_df, county=county):
         office, district = normalize_office(c["office"])
-        readA[(office_match_key(office), str(district or ""), c.get("party"))] = c
+        party = _party(c)
+        c["party"] = party
+        readA[(office_match_key(office), str(district or ""), party)] = c
 
     log = [f"{county}: {len(mism)} mismatched contest(s); building second read..."]
     second = build_second_read_pdf(pdf_path, county, dpi=dpi)
     readB = {}
     for c, res in R.analyze([second], dpi, ef, county_df, county=county):
         office, district = normalize_office(c["office"])
-        readB.setdefault((office_match_key(office), str(district or ""), c.get("party")), c)
+        party = _party(c)
+        c["party"] = party
+        readB.setdefault((office_match_key(office), str(district or ""), party), c)
 
     to_merge = []
     for key in mism:
@@ -260,15 +268,29 @@ def reconcile_county(pdf_path, county, county_df, dpi=400, dry_run=False):
             continue
         cB = readB.get(key)
         if cB is None:
-            log.append(f"  SKIP {office} [{cA.get('party')}]: contest absent from second read")
-            continue
-        if dropped:
-            cB["prec"] = [(code, nm, [v[i] if i < len(v) else None for i in keep])
-                          for code, nm, v in cB["prec"]]
-        if dropped:
-            log.append(f"  note: {office} [{cA.get('party')}]: dropped spurious column(s) "
-                       f"{dropped} (no matching certified candidate)")
-        rows, notes = reconcile_contest(cA, cB, targets)
+            # No second read for this contest — but if read-A's own per-column sums
+            # already close to the certified targets (deficit 0 everywhere), the
+            # data is correct as-is and the merge is the same 0-substitution case
+            # the two-read path produces when readB happens to agree. Only fall
+            # back to this when readA is already exact; otherwise the absence of
+            # a confirming readB is a real gap and we skip.
+            if sums_a is not None and len(sums_a) == len(targets) \
+                    and all(sums_a[j] == targets[j] for j in range(len(targets))):
+                rows = [(nm, "", list(vals[:len(targets)])) for _, nm, vals in cA["prec"]
+                        if len(vals) >= len(targets)]
+                notes = [f"reconciled: 0 cell substitution(s) across {len(targets)} columns, "
+                         f"{len(rows)} precincts (read-A already certified; no second read)"]
+            else:
+                log.append(f"  SKIP {office} [{cA.get('party')}]: contest absent from second read")
+                continue
+        else:
+            if dropped:
+                cB["prec"] = [(code, nm, [v[i] if i < len(v) else None for i in keep])
+                              for code, nm, v in cB["prec"]]
+            if dropped:
+                log.append(f"  note: {office} [{cA.get('party')}]: dropped spurious column(s) "
+                           f"{dropped} (no matching certified candidate)")
+            rows, notes = reconcile_contest(cA, cB, targets)
         if rows is None:
             log.append(f"  FAIL {office} [{cA.get('party')}]: {notes[-1]}")
             continue
