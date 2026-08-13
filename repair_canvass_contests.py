@@ -263,6 +263,12 @@ def analyze(pdf_paths, dpi, extract_fn, county_df, county=None):
             # contest by its total multiset). Both are checksum-gated below.
             found = list(wide.parse_wide_page(md, county, party, county_df)[0])
             found += wide.scan_wide_contests(md, county, party, county_df)[0]
+            # DISTRICT CANVASS pages (Tuscaloosa): no printed TOTALS row and
+            # per-page column drift defeat the two TOTALS-anchored parsers
+            # above. This third path slices by authority-anchored column sums
+            # after per-page all-None-column drop, so it locates AG/SoS/Treas
+            # where the others find nothing. Additive and checksum-gated.
+            found += wide.parse_district_canvass(md, county, party, county_df)[0]
             for c in found:
                 res = checksum(c)
                 if res is None:

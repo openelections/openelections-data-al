@@ -2,6 +2,17 @@ county,precinct,office,district,party,candidate,votes
 Greene,0001 WM. MCKINLEY BRANCH,Attorney General,,REP,Jay Mitchell,3
 Greene,0001 WM. MCKINLEY BRANCH,Attorney General,,REP,Katherine Robertson,1
 Greene,0001 WM. MCKINLEY BRANCH,Attorney General,,REP,Pamela L. Casey,0
+Greene,0001 WM. MCKINLEY BRANCH,Lieutenant Governor,,REP,George Childress,0
+Greene,0001 WM. MCKINLEY BRANCH,Lieutenant Governor,,REP,John Wahl,1
+Greene,0001 WM. MCKINLEY BRANCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+Greene,0001 WM. MCKINLEY BRANCH,Lieutenant Governor,,REP,Pat Bishop,0
+Greene,0001 WM. MCKINLEY BRANCH,Lieutenant Governor,,REP,Rick Pate,0
+Greene,0001 WM. MCKINLEY BRANCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Greene,0001 WM. MCKINLEY BRANCH,Lieutenant Governor,,REP,Wes Allen,3
+Greene,0001 WM. MCKINLEY BRANCH,"Public Service Commission, Place No. 2",,REP,Brent Woodall,0
+Greene,0001 WM. MCKINLEY BRANCH,"Public Service Commission, Place No. 2",,REP,Chris Beeker,3
+Greene,0001 WM. MCKINLEY BRANCH,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,1
+Greene,0001 WM. MCKINLEY BRANCH,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,0
 Greene,0001 WM. MCKINLEY BRANCH,U.S. Senate,,REP,Barry Moore,2
 Greene,0001 WM. MCKINLEY BRANCH,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
 Greene,0001 WM. MCKINLEY BRANCH,U.S. Senate,,REP,Jared Hudson,1
@@ -12,6 +23,13 @@ Greene,0001 WM. MCKINLEY BRANCH,U.S. Senate,,REP,Steve Marshall,1
 Greene,0002 MANTUA FIRE STATION,Attorney General,,REP,Jay Mitchell,3
 Greene,0002 MANTUA FIRE STATION,Attorney General,,REP,Katherine Robertson,2
 Greene,0002 MANTUA FIRE STATION,Attorney General,,REP,Pamela L. Casey,0
+Greene,0002 MANTUA FIRE STATION,Lieutenant Governor,,REP,George Childress,0
+Greene,0002 MANTUA FIRE STATION,Lieutenant Governor,,REP,John Wahl,2
+Greene,0002 MANTUA FIRE STATION,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+Greene,0002 MANTUA FIRE STATION,Lieutenant Governor,,REP,Pat Bishop,0
+Greene,0002 MANTUA FIRE STATION,Lieutenant Governor,,REP,Rick Pate,1
+Greene,0002 MANTUA FIRE STATION,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Greene,0002 MANTUA FIRE STATION,Lieutenant Governor,,REP,Wes Allen,2
 Greene,0002 MANTUA FIRE STATION,"Public Service Commission, Place No. 2",,REP,Brent Woodall,0
 Greene,0002 MANTUA FIRE STATION,"Public Service Commission, Place No. 2",,REP,Chris Beeker,4
 Greene,0002 MANTUA FIRE STATION,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,1
@@ -26,6 +44,13 @@ Greene,0002 MANTUA FIRE STATION,U.S. Senate,,REP,Steve Marshall,3
 Greene,0003 JENA FIRE STATION,Attorney General,,REP,Jay Mitchell,12
 Greene,0003 JENA FIRE STATION,Attorney General,,REP,Katherine Robertson,10
 Greene,0003 JENA FIRE STATION,Attorney General,,REP,Pamela L. Casey,3
+Greene,0003 JENA FIRE STATION,Lieutenant Governor,,REP,George Childress,2
+Greene,0003 JENA FIRE STATION,Lieutenant Governor,,REP,John Wahl,7
+Greene,0003 JENA FIRE STATION,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
+Greene,0003 JENA FIRE STATION,Lieutenant Governor,,REP,Pat Bishop,1
+Greene,0003 JENA FIRE STATION,Lieutenant Governor,,REP,Rick Pate,2
+Greene,0003 JENA FIRE STATION,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Greene,0003 JENA FIRE STATION,Lieutenant Governor,,REP,Wes Allen,14
 Greene,0003 JENA FIRE STATION,"Public Service Commission, Place No. 2",,REP,Brent Woodall,2
 Greene,0003 JENA FIRE STATION,"Public Service Commission, Place No. 2",,REP,Chris Beeker,19
 Greene,0003 JENA FIRE STATION,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,6
@@ -40,6 +65,13 @@ Greene,0003 JENA FIRE STATION,U.S. Senate,,REP,Steve Marshall,2
 Greene,0004 UNION FIRE STATION,Attorney General,,REP,Jay Mitchell,1
 Greene,0004 UNION FIRE STATION,Attorney General,,REP,Katherine Robertson,7
 Greene,0004 UNION FIRE STATION,Attorney General,,REP,Pamela L. Casey,1
+Greene,0004 UNION FIRE STATION,Lieutenant Governor,,REP,George Childress,0
+Greene,0004 UNION FIRE STATION,Lieutenant Governor,,REP,John Wahl,1
+Greene,0004 UNION FIRE STATION,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+Greene,0004 UNION FIRE STATION,Lieutenant Governor,,REP,Pat Bishop,1
+Greene,0004 UNION FIRE STATION,Lieutenant Governor,,REP,Rick Pate,2
+Greene,0004 UNION FIRE STATION,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Greene,0004 UNION FIRE STATION,Lieutenant Governor,,REP,Wes Allen,6
 Greene,0004 UNION FIRE STATION,"Public Service Commission, Place No. 2",,REP,Brent Woodall,0
 Greene,0004 UNION FIRE STATION,"Public Service Commission, Place No. 2",,REP,Chris Beeker,8
 Greene,0004 UNION FIRE STATION,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,2
@@ -54,6 +86,13 @@ Greene,0004 UNION FIRE STATION,U.S. Senate,,REP,Steve Marshall,2
 Greene,0005 KNOXVILLE F STATION,Attorney General,,REP,Jay Mitchell,0
 Greene,0005 KNOXVILLE F STATION,Attorney General,,REP,Katherine Robertson,9
 Greene,0005 KNOXVILLE F STATION,Attorney General,,REP,Pamela L. Casey,3
+Greene,0005 KNOXVILLE F STATION,Lieutenant Governor,,REP,George Childress,0
+Greene,0005 KNOXVILLE F STATION,Lieutenant Governor,,REP,John Wahl,2
+Greene,0005 KNOXVILLE F STATION,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
+Greene,0005 KNOXVILLE F STATION,Lieutenant Governor,,REP,Pat Bishop,0
+Greene,0005 KNOXVILLE F STATION,Lieutenant Governor,,REP,Rick Pate,0
+Greene,0005 KNOXVILLE F STATION,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Greene,0005 KNOXVILLE F STATION,Lieutenant Governor,,REP,Wes Allen,9
 Greene,0005 KNOXVILLE F STATION,"Public Service Commission, Place No. 2",,REP,Brent Woodall,0
 Greene,0005 KNOXVILLE F STATION,"Public Service Commission, Place No. 2",,REP,Chris Beeker,10
 Greene,0005 KNOXVILLE F STATION,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,2
@@ -68,6 +107,13 @@ Greene,0005 KNOXVILLE F STATION,U.S. Senate,,REP,Steve Marshall,4
 Greene,0006 NATIONAL GUARD ARMORY,Attorney General,,REP,Jay Mitchell,13
 Greene,0006 NATIONAL GUARD ARMORY,Attorney General,,REP,Katherine Robertson,21
 Greene,0006 NATIONAL GUARD ARMORY,Attorney General,,REP,Pamela L. Casey,5
+Greene,0006 NATIONAL GUARD ARMORY,Lieutenant Governor,,REP,George Childress,1
+Greene,0006 NATIONAL GUARD ARMORY,Lieutenant Governor,,REP,John Wahl,7
+Greene,0006 NATIONAL GUARD ARMORY,Lieutenant Governor,,REP,Nicole Jones Wadsworth,4
+Greene,0006 NATIONAL GUARD ARMORY,Lieutenant Governor,,REP,Pat Bishop,1
+Greene,0006 NATIONAL GUARD ARMORY,Lieutenant Governor,,REP,Rick Pate,5
+Greene,0006 NATIONAL GUARD ARMORY,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Greene,0006 NATIONAL GUARD ARMORY,Lieutenant Governor,,REP,Wes Allen,21
 Greene,0006 NATIONAL GUARD ARMORY,"Public Service Commission, Place No. 2",,REP,Brent Woodall,0
 Greene,0006 NATIONAL GUARD ARMORY,"Public Service Commission, Place No. 2",,REP,Chris Beeker,27
 Greene,0006 NATIONAL GUARD ARMORY,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,13
@@ -82,6 +128,13 @@ Greene,0006 NATIONAL GUARD ARMORY,U.S. Senate,,REP,Steve Marshall,12
 Greene,0007 BAMA BINGO-SOUTH FORK,Attorney General,,REP,Jay Mitchell,0
 Greene,0007 BAMA BINGO-SOUTH FORK,Attorney General,,REP,Katherine Robertson,1
 Greene,0007 BAMA BINGO-SOUTH FORK,Attorney General,,REP,Pamela L. Casey,0
+Greene,0007 BAMA BINGO-SOUTH FORK,Lieutenant Governor,,REP,George Childress,0
+Greene,0007 BAMA BINGO-SOUTH FORK,Lieutenant Governor,,REP,John Wahl,1
+Greene,0007 BAMA BINGO-SOUTH FORK,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+Greene,0007 BAMA BINGO-SOUTH FORK,Lieutenant Governor,,REP,Pat Bishop,0
+Greene,0007 BAMA BINGO-SOUTH FORK,Lieutenant Governor,,REP,Rick Pate,0
+Greene,0007 BAMA BINGO-SOUTH FORK,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Greene,0007 BAMA BINGO-SOUTH FORK,Lieutenant Governor,,REP,Wes Allen,0
 Greene,0007 BAMA BINGO-SOUTH FORK,"Public Service Commission, Place No. 2",,REP,Brent Woodall,0
 Greene,0007 BAMA BINGO-SOUTH FORK,"Public Service Commission, Place No. 2",,REP,Chris Beeker,1
 Greene,0007 BAMA BINGO-SOUTH FORK,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,0
@@ -96,6 +149,13 @@ Greene,0007 BAMA BINGO-SOUTH FORK,U.S. Senate,,REP,Steve Marshall,1
 Greene,0008 EUTAW ACTIVITY CTR.,Attorney General,,REP,Jay Mitchell,3
 Greene,0008 EUTAW ACTIVITY CTR.,Attorney General,,REP,Katherine Robertson,2
 Greene,0008 EUTAW ACTIVITY CTR.,Attorney General,,REP,Pamela L. Casey,0
+Greene,0008 EUTAW ACTIVITY CTR.,Lieutenant Governor,,REP,George Childress,0
+Greene,0008 EUTAW ACTIVITY CTR.,Lieutenant Governor,,REP,John Wahl,0
+Greene,0008 EUTAW ACTIVITY CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+Greene,0008 EUTAW ACTIVITY CTR.,Lieutenant Governor,,REP,Pat Bishop,2
+Greene,0008 EUTAW ACTIVITY CTR.,Lieutenant Governor,,REP,Rick Pate,0
+Greene,0008 EUTAW ACTIVITY CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Greene,0008 EUTAW ACTIVITY CTR.,Lieutenant Governor,,REP,Wes Allen,3
 Greene,0008 EUTAW ACTIVITY CTR.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,0
 Greene,0008 EUTAW ACTIVITY CTR.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,5
 Greene,0008 EUTAW ACTIVITY CTR.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,0
@@ -110,6 +170,13 @@ Greene,0008 EUTAW ACTIVITY CTR.,U.S. Senate,,REP,Steve Marshall,0
 Greene,0009 BROWN MORROW BRANCH,Attorney General,,REP,Jay Mitchell,1
 Greene,0009 BROWN MORROW BRANCH,Attorney General,,REP,Katherine Robertson,2
 Greene,0009 BROWN MORROW BRANCH,Attorney General,,REP,Pamela L. Casey,0
+Greene,0009 BROWN MORROW BRANCH,Lieutenant Governor,,REP,George Childress,0
+Greene,0009 BROWN MORROW BRANCH,Lieutenant Governor,,REP,John Wahl,1
+Greene,0009 BROWN MORROW BRANCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+Greene,0009 BROWN MORROW BRANCH,Lieutenant Governor,,REP,Pat Bishop,2
+Greene,0009 BROWN MORROW BRANCH,Lieutenant Governor,,REP,Rick Pate,0
+Greene,0009 BROWN MORROW BRANCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Greene,0009 BROWN MORROW BRANCH,Lieutenant Governor,,REP,Wes Allen,0
 Greene,0009 BROWN MORROW BRANCH,"Public Service Commission, Place No. 2",,REP,Brent Woodall,0
 Greene,0009 BROWN MORROW BRANCH,"Public Service Commission, Place No. 2",,REP,Chris Beeker,1
 Greene,0009 BROWN MORROW BRANCH,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,2
@@ -124,6 +191,13 @@ Greene,0009 BROWN MORROW BRANCH,U.S. Senate,,REP,Steve Marshall,0
 Greene,0010 FORKLAND CITY HALL,Attorney General,,REP,Jay Mitchell,8
 Greene,0010 FORKLAND CITY HALL,Attorney General,,REP,Katherine Robertson,14
 Greene,0010 FORKLAND CITY HALL,Attorney General,,REP,Pamela L. Casey,5
+Greene,0010 FORKLAND CITY HALL,Lieutenant Governor,,REP,George Childress,0
+Greene,0010 FORKLAND CITY HALL,Lieutenant Governor,,REP,John Wahl,15
+Greene,0010 FORKLAND CITY HALL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+Greene,0010 FORKLAND CITY HALL,Lieutenant Governor,,REP,Pat Bishop,0
+Greene,0010 FORKLAND CITY HALL,Lieutenant Governor,,REP,Rick Pate,2
+Greene,0010 FORKLAND CITY HALL,Lieutenant Governor,,REP,Stewart Hill Tankersley,1
+Greene,0010 FORKLAND CITY HALL,Lieutenant Governor,,REP,Wes Allen,9
 Greene,0010 FORKLAND CITY HALL,"Public Service Commission, Place No. 2",,REP,Brent Woodall,0
 Greene,0010 FORKLAND CITY HALL,"Public Service Commission, Place No. 2",,REP,Chris Beeker,19
 Greene,0010 FORKLAND CITY HALL,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,4
@@ -138,24 +212,66 @@ Greene,0010 FORKLAND CITY HALL,U.S. Senate,,REP,Steve Marshall,9
 Greene,0011 TISHABEE COMM. CTR.,Attorney General,,REP,Jay Mitchell,1
 Greene,0011 TISHABEE COMM. CTR.,Attorney General,,REP,Katherine Robertson,6
 Greene,0011 TISHABEE COMM. CTR.,Attorney General,,REP,Pamela L. Casey,0
+Greene,0011 TISHABEE COMM. CTR.,Lieutenant Governor,,REP,George Childress,0
+Greene,0011 TISHABEE COMM. CTR.,Lieutenant Governor,,REP,John Wahl,4
+Greene,0011 TISHABEE COMM. CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+Greene,0011 TISHABEE COMM. CTR.,Lieutenant Governor,,REP,Pat Bishop,0
+Greene,0011 TISHABEE COMM. CTR.,Lieutenant Governor,,REP,Rick Pate,0
+Greene,0011 TISHABEE COMM. CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Greene,0011 TISHABEE COMM. CTR.,Lieutenant Governor,,REP,Wes Allen,3
 Greene,0011 TISHABEE COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,0
 Greene,0011 TISHABEE COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,6
 Greene,0011 TISHABEE COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,0
 Greene,0011 TISHABEE COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,0
+Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,REP,Barry Moore,1
+Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,REP,Jared Hudson,3
+Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,0
+Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,REP,Rodney Walker,0
+Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,REP,Seth Burton,0
+Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,REP,Steve Marshall,3
 Greene,0012 BOLIGEE FIRE STATION,Attorney General,,REP,Jay Mitchell,3
 Greene,0012 BOLIGEE FIRE STATION,Attorney General,,REP,Katherine Robertson,7
 Greene,0012 BOLIGEE FIRE STATION,Attorney General,,REP,Pamela L. Casey,0
+Greene,0012 BOLIGEE FIRE STATION,Lieutenant Governor,,REP,George Childress,0
+Greene,0012 BOLIGEE FIRE STATION,Lieutenant Governor,,REP,John Wahl,4
+Greene,0012 BOLIGEE FIRE STATION,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+Greene,0012 BOLIGEE FIRE STATION,Lieutenant Governor,,REP,Pat Bishop,0
+Greene,0012 BOLIGEE FIRE STATION,Lieutenant Governor,,REP,Rick Pate,0
+Greene,0012 BOLIGEE FIRE STATION,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Greene,0012 BOLIGEE FIRE STATION,Lieutenant Governor,,REP,Wes Allen,6
 Greene,0012 BOLIGEE FIRE STATION,"Public Service Commission, Place No. 2",,REP,Brent Woodall,0
 Greene,0012 BOLIGEE FIRE STATION,"Public Service Commission, Place No. 2",,REP,Chris Beeker,8
 Greene,0012 BOLIGEE FIRE STATION,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,2
 Greene,0012 BOLIGEE FIRE STATION,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,0
+Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,REP,Barry Moore,4
+Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,REP,Jared Hudson,3
+Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,REP,Morgan Murphy,0
+Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,REP,Rodney Walker,0
+Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,REP,Seth Burton,0
+Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,REP,Steve Marshall,3
 Greene,0013 W GREENE F STATION,Attorney General,,REP,Jay Mitchell,0
 Greene,0013 W GREENE F STATION,Attorney General,,REP,Katherine Robertson,1
 Greene,0013 W GREENE F STATION,Attorney General,,REP,Pamela L. Casey,0
+Greene,0013 W GREENE F STATION,Lieutenant Governor,,REP,George Childress,1
+Greene,0013 W GREENE F STATION,Lieutenant Governor,,REP,John Wahl,0
+Greene,0013 W GREENE F STATION,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+Greene,0013 W GREENE F STATION,Lieutenant Governor,,REP,Pat Bishop,0
+Greene,0013 W GREENE F STATION,Lieutenant Governor,,REP,Rick Pate,0
+Greene,0013 W GREENE F STATION,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Greene,0013 W GREENE F STATION,Lieutenant Governor,,REP,Wes Allen,0
 Greene,0013 W GREENE F STATION,"Public Service Commission, Place No. 2",,REP,Brent Woodall,0
 Greene,0013 W GREENE F STATION,"Public Service Commission, Place No. 2",,REP,Chris Beeker,1
 Greene,0013 W GREENE F STATION,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,0
 Greene,0013 W GREENE F STATION,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,0
+Greene,0013 W GREENE F STATION,U.S. Senate,,REP,Barry Moore,0
+Greene,0013 W GREENE F STATION,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Greene,0013 W GREENE F STATION,U.S. Senate,,REP,Jared Hudson,1
+Greene,0013 W GREENE F STATION,U.S. Senate,,REP,Morgan Murphy,0
+Greene,0013 W GREENE F STATION,U.S. Senate,,REP,Rodney Walker,0
+Greene,0013 W GREENE F STATION,U.S. Senate,,REP,Seth Burton,0
+Greene,0013 W GREENE F STATION,U.S. Senate,,REP,Steve Marshall,0
 Greene,0014 THE SPOT,Attorney General,,REP,Jay Mitchell,6
 Greene,0014 THE SPOT,Attorney General,,REP,Katherine Robertson,10
 Greene,0014 THE SPOT,Attorney General,,REP,Pamela L. Casey,2
@@ -170,6 +286,13 @@ Greene,0014 THE SPOT,"Public Service Commission, Place No. 2",,REP,Brent Woodall
 Greene,0014 THE SPOT,"Public Service Commission, Place No. 2",,REP,Chris Beeker,18
 Greene,0014 THE SPOT,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,0
 Greene,0014 THE SPOT,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,1
+Greene,0014 THE SPOT,U.S. Senate,,REP,Barry Moore,8
+Greene,0014 THE SPOT,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Greene,0014 THE SPOT,U.S. Senate,,REP,Jared Hudson,7
+Greene,0014 THE SPOT,U.S. Senate,,REP,Morgan Murphy,1
+Greene,0014 THE SPOT,U.S. Senate,,REP,Rodney Walker,0
+Greene,0014 THE SPOT,U.S. Senate,,REP,Seth Burton,0
+Greene,0014 THE SPOT,U.S. Senate,,REP,Steve Marshall,3
 Greene,0015 PROVISIONAL,Attorney General,,REP,Jay Mitchell,0
 Greene,0015 PROVISIONAL,Attorney General,,REP,Katherine Robertson,0
 Greene,0015 PROVISIONAL,Attorney General,,REP,Pamela L. Casey,0
@@ -184,6 +307,13 @@ Greene,0015 PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Brent Wood
 Greene,0015 PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Chris Beeker,0
 Greene,0015 PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,0
 Greene,0015 PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,0
+Greene,0015 PROVISIONAL,U.S. Senate,,REP,Barry Moore,0
+Greene,0015 PROVISIONAL,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Greene,0015 PROVISIONAL,U.S. Senate,,REP,Jared Hudson,0
+Greene,0015 PROVISIONAL,U.S. Senate,,REP,Morgan Murphy,0
+Greene,0015 PROVISIONAL,U.S. Senate,,REP,Rodney Walker,0
+Greene,0015 PROVISIONAL,U.S. Senate,,REP,Seth Burton,0
+Greene,0015 PROVISIONAL,U.S. Senate,,REP,Steve Marshall,0
 Greene,0017 ABSENTEE,Attorney General,,REP,Jay Mitchell,5
 Greene,0017 ABSENTEE,Attorney General,,REP,Katherine Robertson,1
 Greene,0017 ABSENTEE,Attorney General,,REP,Pamela L. Casey,0
@@ -198,3 +328,10 @@ Greene,0017 ABSENTEE,"Public Service Commission, Place No. 2",,REP,Brent Woodall
 Greene,0017 ABSENTEE,"Public Service Commission, Place No. 2",,REP,Chris Beeker,8
 Greene,0017 ABSENTEE,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,0
 Greene,0017 ABSENTEE,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,0
+Greene,0017 ABSENTEE,U.S. Senate,,REP,Barry Moore,2
+Greene,0017 ABSENTEE,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Greene,0017 ABSENTEE,U.S. Senate,,REP,Jared Hudson,3
+Greene,0017 ABSENTEE,U.S. Senate,,REP,Morgan Murphy,0
+Greene,0017 ABSENTEE,U.S. Senate,,REP,Rodney Walker,0
+Greene,0017 ABSENTEE,U.S. Senate,,REP,Seth Burton,0
+Greene,0017 ABSENTEE,U.S. Senate,,REP,Steve Marshall,1

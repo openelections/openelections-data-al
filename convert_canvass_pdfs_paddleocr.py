@@ -67,7 +67,7 @@ def _submit_job(pdf_path, token):
     headers = {"Authorization": f"bearer {token}"}
     data = {"model": MODEL, "optionalPayload": json.dumps(OPTIONAL_PAYLOAD)}
     with open(pdf_path, "rb") as f:
-        r = requests.post(JOB_URL, headers=headers, data=data, files={"file": f}, timeout=120)
+        r = requests.post(JOB_URL, headers=headers, data=data, files={"file": f}, timeout=300)
     if r.status_code != 200:
         raise RuntimeError(f"PaddleOCR submit failed ({r.status_code}): {r.text[:400]}")
     return r.json()["data"]["jobId"]

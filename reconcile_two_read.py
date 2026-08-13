@@ -48,30 +48,129 @@ _norm = lambda s: re.sub(r"[^A-Z0-9]", "", str(s).upper())
 # Second read: re-render at high DPI, sliced into overlapping halves
 # ---------------------------------------------------------------------------
 
-def build_second_read_pdf(pdf_path, county, dpi=400, overlap=0.12):
-    """Render every page at `dpi`, split each into overlapping top/bottom halves,
-    and assemble a new PDF under SECOND_READ_DIR/<County> County/ (so
-    convert_canvass_pdfs.detect_county resolves the right county). Cached by
-    mtime-independent path; returns the PDF path."""
+def build_second_read_pdf(pdf_path, county, dpi=400, overlap=0.12, split=False,
+                          page_indices=None, max_bytes=2_000_000):
+    """Render pages at `dpi` into a new PDF under SECOND_READ_DIR/<County>
+    County/ (so convert_canvass_pdfs.detect_county resolves the right county).
+    Cached by mtime-independent path; returns the PDF path.
+
+    PaddleOCR rasterizes server-side, so `dpi` is not the OCR resolution — it is
+    the resolution of the intermediate natural_pdf render that gets re-assembled
+    into a PDF and re-rasterized by PaddleOCR. Independence from the first read
+    comes from that double rasterization (natural_pdf render -> image -> PDF ->
+    PaddleOCR), a different pixel path than reading the original PDF directly.
+
+    By default pages are rendered WHOLE (split=False). The earlier
+    split-into-overlapping-halves strategy enlarged glyphs but dropped the
+    colspan office header from the bottom half of wide DISTRICT CANVASS pages
+    and the office heading from the bottom half of NAME HEADING pages, so the
+    second read came back missing precincts the first read had — and the A-vs-B
+    disagreement scan (which matches precincts by name across the two reads) had
+    no rows to disagree on. That is why Lt Gov showed "0 disagreements" and AG
+    was absent from the second read entirely. Rendering whole keeps every page's
+    header and all its precinct rows, so readB covers the same precincts as
+    readA and the disagreement scan actually has cells to work on. Pass
+    split=True to restore the half-page behavior for experimentation.
+
+    `page_indices` (1-indexed) restricts the second read to just those pages —
+    used for the targeted 2read so a 40+ page county PDF doesn't have to be
+    uploaded in full (a 28 MB whole-page render timed out the 120s submit).
+    Rendering only the pages that carry a mismatched office keeps the upload
+    small AND lets those few pages be rendered at full 400 dpi for maximum
+    independence. None means render every page.
+    """
     from natural_pdf import PDF
     from PIL import Image
 
     subdir = os.path.join(SECOND_READ_DIR, f"{county} County")
     os.makedirs(subdir, exist_ok=True)
-    out = os.path.join(subdir, f"{_norm(county).lower()}_2read.pdf")
+    base = f"{_norm(county).lower()}_2read"
+    if page_indices:
+        import hashlib
+        h = hashlib.md5(",".join(map(str, sorted(page_indices))).encode()).hexdigest()[:8]
+        base = f"{base}_{h}"
+    out = os.path.join(subdir, f"{base}.pdf")
     if os.path.exists(out):
         return out
 
     pdf = PDF(pdf_path)
+    wanted = set(page_indices) if page_indices else None
+    render_pages = [pg for idx, pg in enumerate(pdf.pages, start=1)
+                    if wanted is None or idx in wanted]
+    if not render_pages:
+        return None
+    # A 400 dpi whole-page render is ~0.95 MB/page on these canvass pages, and
+    # the PaddleOCR upload times out somewhere past ~2 MB (a 5.5 MB 6-page
+    # render consistently aborted mid-write; a 1.95 MB 2-page render uploaded
+    # cleanly). Scale the render dpi down so the assembled PDF stays under
+    # max_bytes — independence comes from the re-rasterization, not from raw
+    # dpi, so a somewhat lower dpi still yields a usefully independent read
+    # while keeping the upload small enough to succeed. Floor at 150 dpi.
+    n = len(render_pages) * (2 if split else 1)
+    scale = (max_bytes / (n * 950_000)) ** 0.5
+    render_dpi = max(150, min(dpi, int(400 * scale))) if n else dpi
     strips = []
-    for pg in pdf.pages:
-        img = pg.render(resolution=dpi).convert("RGB")
+    for pg in render_pages:
+        img = pg.render(resolution=render_dpi).convert("RGB")
+        if not split:
+            strips.append(img)
+            continue
         w, h = img.size
         ov = int(h * overlap)
         strips.append(img.crop((0, 0, w, h // 2 + ov)))
         strips.append(img.crop((0, h // 2 - ov, w, h)))
     strips[0].save(out, save_all=True, append_images=strips[1:], resolution=100.0)
     return out
+
+
+# Keyword per normalized office key for locating the page(s) a contest is on in
+# the readA OCR cache. Chosen to be distinctive (no office keyword is a substring
+# of another office's header) so the targeted 2read picks up exactly the right
+# pages.
+_OFFICE_PAGE_KEYWORD = {
+    "ATTORNEYGENERAL": "ATTORNEY",
+    "LIEUTENANTGOVERNOR": "LIEUTENANT",
+    "GOVERNOR": "GOVERNOR",
+    "SECRETARYOFSTATE": "SECRETARY OF STATE",
+    "STATETREASURER": "TREASURER",
+    "STATEAUDITOR": "AUDITOR",
+    "USSENATE": "UNITED STATES SENATOR",
+    "USHOUSE": "REPRESENTATIVE",
+    "COMMISSIONEROFAGRICULTUREANDINDUSTRIES": "AGRICULTURE",
+    "PUBLICSERVICECOMMISSION": "PUBLIC SERVICE COMMISSION",
+    "STATESUPERINTENDENT": "SUPERINTENDENT",
+    "STATEBOARDOFEDUCATION": "STATE BOARD OF EDUCATION",
+}
+
+
+def _mismatch_page_indices(pdf_path, mism, readA):
+    """1-indexed source-PDF page numbers whose readA OCR mentions any
+    mismatched office that readA actually found (so the targeted 2read covers
+    the contests the two-read can close). Offices absent from readA are skipped
+    — the two-read matches precincts by name across readA and readB, so a
+    contest with no readA entry can't be reconciled that way regardless. Returns
+    None (-> render all pages) if the cache can't be found or no page matches."""
+    import glob
+    stem = re.sub(r"[^A-Za-z0-9]+", "_", os.path.splitext(os.path.basename(pdf_path))[0])
+    cache = os.path.join(".canvass_cache_paddleocr", stem)
+    if not os.path.isdir(cache):
+        return None
+    needles = []
+    for k in mism:
+        if readA.get(k) is None:
+            continue  # two-read needs a readA entry; skip offices not in readA
+        kw = _OFFICE_PAGE_KEYWORD.get(k[0])
+        if kw:
+            needles.append(kw.upper())
+    if not needles:
+        return None
+    idx = []
+    for md_path in sorted(glob.glob(os.path.join(cache, "p*.md"))):
+        pg = int(re.search(r"p(\d+)\.md$", md_path).group(1))
+        md = open(md_path).read().upper()
+        if any(n in md for n in needles):
+            idx.append(pg)
+    return sorted(set(idx)) or None
 
 
 # ---------------------------------------------------------------------------
@@ -236,7 +335,7 @@ def _reada_closes(cA, county, county_df):
     return sums == targets
 
 
-def _rekey_by_mismatch_party(store, mism):
+def _rekey_by_mismatch_party(store, mism, county, county_df):
     """Re-stamp each contest's party from the authoritative mismatch keys.
 
     mismatched_contest_keys returns (office_key, district, party) from the
@@ -245,16 +344,62 @@ def _rekey_by_mismatch_party(store, mism):
     a sum not exactly hit a certified candidate total — which leaves the contest
     keyed under party=None and invisible to the REP mismatch lookup (it then
     SKIPs with a misleading "no read-A contest" instead of being reconciled).
-    This re-stamps each contest whose office+district matches a mismatch key with
-    that key's party and re-keys the store so readA/readB.get(key) resolves.
-    Contests not in the mismatch set keep their inferred party.
+
+    This re-stamps the ONE contest per (office, district) that belongs to the
+    mismatch party with that party and re-keys the store so readA/readB.get(key)
+    resolves. Contests not in the mismatch set keep their inferred party.
+
+    Collision-aware: when two contests share an (office, district) but different
+    parties (e.g. Tuscaloosa Lt Gov — a 9-col REP NAME-HEADING contest on
+    p019/p020 and a 2-col DEM wide contest on p032), only the one that actually
+    belongs to the mismatch party is re-stamped; the other keeps its inferred
+    party. The earlier blanket re-stamp collapsed both onto the mismatch party
+    and the DEM contest (fewer cols) overwrote the REP one in the dict, so the
+    REP contest reported 'columns don't map' against the wrong certified set.
+    The belonging contest is chosen by: (1) already inferred as the mismatch
+    party; else (2) whose column sums map to that party's certified candidate
+    totals (loose, spurious columns dropped); else (3) a None-party fallback.
     """
+    from collections import defaultdict
     mism_od = {(k[0], k[1]): k[2] for k in mism}
+    groups = defaultdict(list)
+    for key, c in store.items():
+        groups[(key[0], key[1])].append((key, c))
     out = {}
-    for (ok, dist, _old), c in store.items():
-        if (ok, dist) in mism_od:
-            c["party"] = mism_od[(ok, dist)]
-        out[(ok, dist, c.get("party"))] = c
+    for (ok, dist), items in groups.items():
+        if (ok, dist) not in mism_od:
+            for key, c in items:
+                out[key] = c
+            continue
+        P = mism_od[(ok, dist)]
+        chosen = None
+        for key, c in items:  # (1) already inferred as P
+            if key[2] == P:
+                chosen = c
+                break
+        if chosen is None:  # (2) column sums map to P's certified totals
+            office_name = items[0][1]["office"]
+            o, dn = normalize_office(office_name)
+            cert = _certified_totals(county, o, dn, P, county_df)
+            for key, c in items:
+                sums = c.get("totals") or []
+                if not sums:
+                    continue
+                keep, unmatched = _match_columns_loose(list(sums), cert)
+                if not unmatched and len(keep) == len(cert):
+                    chosen = c
+                    break
+        if chosen is None:  # (3) None-party fallback (best-effort)
+            for key, c in items:
+                if key[2] is None:
+                    chosen = c
+                    break
+        for key, c in items:
+            if c is chosen:
+                c["party"] = P
+                out[(ok, dist, P)] = c
+            else:
+                out[key] = c  # keep under its own (inferred) party
     return out
 
 
@@ -288,7 +433,7 @@ def reconcile_county(pdf_path, county, county_df, dpi=400, dry_run=False):
     # Re-stamp parties from the authoritative mismatch keys so a contest whose
     # column sums don't EXACTLY hit a certified total (infer_party -> None) is
     # still reconciled against its REP mismatch key instead of silently dropped.
-    readA = _rekey_by_mismatch_party(readA, mism)
+    readA = _rekey_by_mismatch_party(readA, mism, county, county_df)
 
     log = [f"{county}: {len(mism)} mismatched contest(s); building second read..."]
     # The second read only helps contests whose read-A does NOT already close to
@@ -303,7 +448,16 @@ def reconcile_county(pdf_path, county, county_df, dpi=400, dry_run=False):
         log.append("  note: read-A already closes every mismatched contest; "
                    "skipping second read")
     else:
-        second = build_second_read_pdf(pdf_path, county, dpi=dpi)
+        # Targeted 2read: render only the pages carrying a mismatched office
+        # that readA found, so the upload stays small (a whole-county 400 dpi
+        # render can be 25+ MB and time out the submit) and those pages keep
+        # full 400 dpi for maximum read independence.
+        page_indices = _mismatch_page_indices(pdf_path, mism, readA)
+        if page_indices:
+            log.append(f"  note: targeted 2read of {len(page_indices)} page(s): "
+                       f"{page_indices}")
+        second = build_second_read_pdf(pdf_path, county, dpi=dpi,
+                                       page_indices=page_indices)
         # If the 2read OCR upload fails — a transient service timeout on large
         # multi-page 2read PDFs is the common cause — don't crash the whole
         # reconcile: readB stays empty and the readA-already-certified fallback
@@ -323,7 +477,7 @@ def reconcile_county(pdf_path, county, county_df, dpi=400, dry_run=False):
         except Exception as e:
             log.append(f"  note: second read OCR failed ({type(e).__name__}); "
                        f"continuing with read-A only where it already closes")
-        readB = _rekey_by_mismatch_party(readB, mism)
+        readB = _rekey_by_mismatch_party(readB, mism, county, county_df)
 
     to_merge = []
     for key in mism:

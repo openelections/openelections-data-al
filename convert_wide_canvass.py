@@ -255,6 +255,175 @@ def _denormalize(office, district):
     }.get(office, office)
 
 
+def _num(s):
+    s = str(s).strip().replace(",", "").rstrip(".")
+    return int(s) if re.fullmatch(r"-?\d+", s) else None
+
+
+_TOTALS_HEAD = re.compile(r"TOTALS?", re.I)
+
+
+def _district_precinct_rows(tbl):
+    """Precinct rows from one DISTRICT CANVASS <table> as (name, [_num per
+    cell]) with the name cell kept as None at index 0, so column positions line
+    up 1:1 with the header's colspan boundaries.
+
+    ABSENTEE / PROVISIONAL rows are KEPT — they are real vote rows that must
+    appear in the precinct CSV for its per-candidate sum to reach the certified
+    county total (Tuscaloosa's certified AG total includes ~200 absentee votes
+    that live in the 0060 ABSENTEE row). Only the GRAND/TOTALS summary row is
+    dropped: its huge RegVoters/BallotsCast values would swamp the column sums.
+    """
+    prec = []
+    for r in _table_rows(tbl):
+        if not r:
+            continue
+        head = r[0].strip()
+        if _TOTALS_HEAD.search(head):  # TOTALS / GRAND TOTALS / CANDIDATE TOTALS
+            continue
+        if not re.search(r"[A-Za-z]{2,}", head) or re.fullmatch(r"[A-Z]( [A-Z])*", head):
+            continue
+        vals = [_num(c) for c in r]
+        if sum(1 for v in vals if v is not None) < 3:
+            continue
+        prec.append((head, vals))
+    return prec
+
+
+def _drop_allnone_cols(prec):
+    """Drop columns that are None on every row (the name cell, non-integer
+    turnout %, blank inter-office separators), returning reindexed rows.
+
+    This is the key step that makes offices land at consistent column positions
+    across continuation pages whose layouts differ by a separator column:
+    Tuscaloosa p024 prints a blank separator before AG (so AG data sits at
+    original cols 5,6,7) while p025 prints none (AG at 4,5,6). After dropping
+    every all-None column, AG is at reindexed cols 2,3,4 on BOTH pages, so they
+    can be summed column-wise against the same certified totals.
+    """
+    if not prec:
+        return prec
+    ncol = max(len(v) for _, v in prec)
+    keep = [j for j in range(ncol)
+            if any(j < len(v) and v[j] is not None for _, v in prec)]
+    return [(nm, [v[j] if j < len(v) else None for j in keep]) for nm, v in prec]
+
+
+def parse_district_canvass(md, county, party, county_df):
+    """DISTRICT CANVASS wide pages (Tuscaloosa): multi-office tables with
+    colspan office headers but NO printed 'TOTALS' row — the candidate totals
+    live only in a 'GRAND TOTALS' summary row that is itself digit-noisy, and
+    the column layout drifts between continuation pages (a blank separator
+    column appears on some pages and not others).
+
+    Neither parse_wide_page nor scan_wide_contests can locate anything here:
+    both anchor column positions on a 'TOTALS' row whose multiset matches the
+    certified totals exactly, and no such row exists. This parser instead:
+
+      1. Splits the (possibly page-concatenated) markdown into per-<table>
+         pages.
+      2. Drops all-None columns PER PAGE so offices reindex to consistent
+         positions across pages whose layouts differ by a separator.
+      3. Groups pages by their office set, so a page carrying
+         Auditor/AgComm/PSC is NOT summed with one carrying AG/SoS/Treas —
+         they share reindexed positions but are unrelated offices, and summing
+         them would corrupt the authority-anchored column scan.
+      4. Within each group, locates each office by scanning for the contiguous
+         column slice whose per-column precinct sums best match the certified
+         candidate totals (tolerant: the OCR column sums are within a few votes
+         of certified). Largest contests claim their columns first.
+
+    Emitted contests carry the (noisy) column sums as totals — checksum-clean
+    (precinct sums equal the recorded totals by construction) but not yet
+    certified-exact; the two-read reconciliation closes the residual digit
+    deficit against an independent second read.
+    """
+    tables = re.findall(r"<table[^>]*>(.*?)</table>", md, re.S)
+    if not tables:
+        tables = [md]
+    pages = []
+    for tbl in tables:
+        offices = _office_sequence(tbl)
+        if not offices:
+            continue
+        prec = _drop_allnone_cols(_district_precinct_rows(tbl))
+        if not prec:
+            continue
+        okeys = tuple(office_match_key(normalize_office(o)[0]) for o in offices)
+        pages.append((okeys, prec))
+    if not pages:
+        return [], []
+
+    # authoritative candidate-total multisets for this party/county
+    pool = county_df[county_df.party == party]
+    auth = {}
+    for (office, district), grp in pool.groupby([pool.office, pool.district]):
+        if county not in set(grp.county):
+            continue
+        vals = sorted(int(v) for v in grp[grp.county == county].votes)
+        if len(vals) >= 2:
+            auth[(office, str(district or ""))] = vals
+
+    contests, notes = [], []
+    groups = {}
+    for okeys, prec in pages:
+        groups.setdefault(okeys, []).append(prec)
+
+    for okeys, precs in groups.items():
+        combined = []
+        for prec in precs:
+            combined += prec
+        ncol = max(len(v) for _, v in combined)
+        used = [False] * ncol
+        group_auth = {k: v for k, v in auth.items()
+                      if office_match_key(k[0]) in okeys}
+        for (office, district), M in sorted(group_auth.items(),
+                                            key=lambda kv: -len(kv[1])):
+            n = len(M)
+            if n > ncol:
+                continue
+            best = best_err = second_err = None
+            for s in range(ncol - n + 1):
+                if any(used[s:s + n]):
+                    continue
+                sums = [sum(v[i] for _, v in combined
+                            if i < len(v) and v[i] is not None)
+                        for i in range(s, s + n)]
+                err = sum(abs(a - b) for a, b in zip(sorted(sums), M))
+                if best_err is None or err < best_err:
+                    second_err = best_err
+                    best, best_err = s, err
+                elif second_err is None or err < second_err:
+                    second_err = err
+            if best is None:
+                continue
+            tol = max(2 * n, int(0.02 * max(M)))
+            # accept only if the best slice is within tolerance AND clearly
+            # unambiguous (runner-up at least 5x worse) — a coincidental slice
+            # matching within tolerance would otherwise mislocate the office
+            if best_err > tol or (second_err is not None
+                                  and second_err < best_err * 5):
+                notes.append(f"{office}: district-canvass slice best err "
+                             f"{best_err} (tol {tol}, 2nd {second_err}) — skipped")
+                continue
+            sums = [sum(v[i] for _, v in combined
+                        if i < len(v) and v[i] is not None)
+                    for i in range(best, best + n)]
+            for k in range(best, best + n):
+                used[k] = True
+            rows_out = [(nm, "", [v[i] if i < len(v) else None
+                                  for i in range(best, best + n)])
+                        for nm, v in combined]
+            contests.append({"office": _denormalize(office, district),
+                             "party": party, "district": district or "",
+                             "prec": rows_out, "totals": list(sums),
+                             "pages": []})
+            notes.append(f"{office}: district-canvass cols {best}..{best + n - 1}, "
+                        f"sums {sorted(sums)} vs certified {M} "
+                        f"(err {best_err}, {len(rows_out)} precincts)")
+    return contests, notes
+
+
 def scan_wide_contests(md, county, party, county_df, offices_hint=None):
     """Locate contests on a wide DATA page with no reliable office headers
     (Mobile splits headers onto the odd page and data+TOTALS onto the even one,
