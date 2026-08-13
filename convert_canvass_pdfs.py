@@ -120,6 +120,17 @@ def extract_pages(pdf_path, dpi):
 CELL = re.compile(r"<t[dh][^>]*>(.*?)</t[dh]>", re.S)
 ROW = re.compile(r"<tr[^>]*>(.*?)</tr>", re.S)
 TABLE = re.compile(r"<table[^>]*>(.*?)</table>", re.S)
+# DISTRICT CANVASS layout (e.g. Tuscaloosa): the office title sits INSIDE the
+# table as a <td colspan="N">OFFICE</td> header cell, not on a line above the
+# table the way NAME HEADING layouts print it. The line-based _office_above()
+# can't see it (the office is a cell, not a standalone caps line), so the table
+# is parsed with no office and every contest on the page is lost. This finds
+# that colspan cell so parse_page can fall back to it. Only a cell whose text
+# is an ALL-CAPS office title (CAPS_LINE) and isn't page chrome (CHROME) or a
+# "(VOTE FOR)" marker qualifies — the party header ("ALABAMA REPUBLICAN P")
+# and the "(VOTE FOR) I" marker are also colspan cells but must not be taken as
+# the office.
+COLSPAN_CELL = re.compile(r'<td[^>]*colspan="?\d+"?[^>]*>(.*?)</td>', re.S)
 # Most counties number precincts 0001, 0002... but Lawrence uses bare 3-digit
 # codes (001, 002...) — {3,4} is greedy, so a real 4-digit code still matches
 # in full; only a genuinely 3-digit code falls back to 3. Every capture site
@@ -252,6 +263,30 @@ def _office_above(lines, idx):
                     return f"{m2.group(1).strip()} {name}"
                 break
             return name
+        return name
+    return None
+
+
+def _colspan_office(tbl):
+    """Office title from a DISTRICT CANVASS table's leading colspan cell.
+
+    The cell text is tag-stripped first (the model sometimes wraps the title in
+    <b> or <span>). The first colspan cell whose text is an ALL-CAPS office
+    title and isn't page chrome or a (VOTE FOR) marker wins; a table may carry
+    both a party-header colspan ("ALABAMA REPUBLICAN P") and the office colspan,
+    and only the office is wanted here. Returns None when no cell qualifies.
+    """
+    for cm in COLSPAN_CELL.finditer(tbl):
+        label = re.sub(r"<.*?>", "", cm.group(1)).strip()
+        if not label or VOTEFOR.search(label) or CHROME.search(label):
+            continue
+        m = CAPS_LINE.match(label)
+        if not m:
+            continue
+        name = m.group(1).strip()
+        # reject the single-letter-per-word noise of the vertical name block
+        if re.fullmatch(r"[A-Z](\s+[A-Z])*", name):
+            continue
         return name
     return None
 
@@ -406,7 +441,8 @@ def parse_page(txt, page):
                 totals = vals
         if prec or totals:
             events.append((m.start(), {
-                "office": office_at(m.start()), "party": party_at(m.end()),
+                "office": office_at(m.start()) or _colspan_office(tbl),
+                "party": party_at(m.end()),
                 "prec": prec, "totals": totals, "page": page,
                 "continued": bool(CONTINUED.search(txt[max(0, m.start() - 600):m.start()])),
             }))

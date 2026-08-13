@@ -205,6 +205,59 @@ def reconcile_contest(cA, cB, targets):
 # County driver
 # ---------------------------------------------------------------------------
 
+def _col_sums(c):
+    """Per-column sum of a contest's precinct rows (None cells excluded)."""
+    prec = c.get("prec") or []
+    ncol = max((len(v) for _, _, v in prec), default=0)
+    return [sum(v[i] for _, _, v in prec if i < len(v) and v[i] is not None)
+            for i in range(ncol)]
+
+
+def _reada_closes(cA, county, county_df):
+    """True if read-A's per-column sums (after spurious-column dropping) already
+    equal the certified targets — i.e. the contest needs no second read, just a
+    merge. Non-mutating (computes on a copy of the column sums), so it can be
+    called up front to decide whether to build the 2read at all."""
+    if cA is None or cA.get("totals") is None:
+        return False
+    office, district = normalize_office(cA["office"])
+    certified = _certified_totals(county, office, district, cA.get("party"), county_df)
+    if not certified:
+        return False
+    sums = list(cA["totals"])
+    if len(sums) > len(certified):
+        keep, unmatched = _match_columns_loose(sums, certified)
+        if unmatched or len(keep) != len(certified):
+            return False
+        sums = [sums[i] for i in keep]
+    targets = _column_targets(list(cA["totals"]), certified, sums_a=sums)
+    if targets is None:
+        return False
+    return sums == targets
+
+
+def _rekey_by_mismatch_party(store, mism):
+    """Re-stamp each contest's party from the authoritative mismatch keys.
+
+    mismatched_contest_keys returns (office_key, district, party) from the
+    certified county file, so its party is authoritative. infer_party is only a
+    guess from the OCR'd column sums, and it returns None when digit noise makes
+    a sum not exactly hit a certified candidate total — which leaves the contest
+    keyed under party=None and invisible to the REP mismatch lookup (it then
+    SKIPs with a misleading "no read-A contest" instead of being reconciled).
+    This re-stamps each contest whose office+district matches a mismatch key with
+    that key's party and re-keys the store so readA/readB.get(key) resolves.
+    Contests not in the mismatch set keep their inferred party.
+    """
+    mism_od = {(k[0], k[1]): k[2] for k in mism}
+    out = {}
+    for (ok, dist, _old), c in store.items():
+        if (ok, dist) in mism_od:
+            c["party"] = mism_od[(ok, dist)]
+        out[(ok, dist, c.get("party"))] = c
+    return out
+
+
 def reconcile_county(pdf_path, county, county_df, dpi=400, dry_run=False):
     ef = R.make_extract_fn("paddleocr")
     csv = os.path.join(R.OUT_DIR, f"{R.ELECTION_PREFIX}__"
@@ -220,18 +273,57 @@ def reconcile_county(pdf_path, county, county_df, dpi=400, dry_run=False):
     readA = {}
     for c, res in R.analyze([pdf_path], dpi, ef, county_df, county=county):
         office, district = normalize_office(c["office"])
+        # DISTRICT CANVASS tables (Tuscaloosa) carry no printed CANDIDATE TOTALS
+        # row — the totals live on a separate SUMMARY page. The per-column
+        # precinct sums are the document's own claim, so stand them in for
+        # totals: party inference and the column->candidate mapping both join on
+        # these sums exactly as they join on a printed totals row.
+        if c.get("totals") is None and c.get("prec"):
+            sums = _col_sums(c)
+            c["totals"] = sums
+            c["ncols"] = len(sums)
         party = _party(c)
         c["party"] = party
         readA[(office_match_key(office), str(district or ""), party)] = c
+    # Re-stamp parties from the authoritative mismatch keys so a contest whose
+    # column sums don't EXACTLY hit a certified total (infer_party -> None) is
+    # still reconciled against its REP mismatch key instead of silently dropped.
+    readA = _rekey_by_mismatch_party(readA, mism)
 
     log = [f"{county}: {len(mism)} mismatched contest(s); building second read..."]
-    second = build_second_read_pdf(pdf_path, county, dpi=dpi)
+    # The second read only helps contests whose read-A does NOT already close to
+    # certified (the A-vs-B disagreement path). If every mismatched contest that
+    # read-A found already closes, skip the 2read entirely — no OCR upload, no
+    # timeout. This is the common case when a clean re-OCR already matches the
+    # certified totals and only needs the merge.
+    need_second = any(readA.get(k) is not None and not _reada_closes(readA.get(k), county, county_df)
+                      for k in mism)
     readB = {}
-    for c, res in R.analyze([second], dpi, ef, county_df, county=county):
-        office, district = normalize_office(c["office"])
-        party = _party(c)
-        c["party"] = party
-        readB.setdefault((office_match_key(office), str(district or ""), party), c)
+    if not need_second:
+        log.append("  note: read-A already closes every mismatched contest; "
+                   "skipping second read")
+    else:
+        second = build_second_read_pdf(pdf_path, county, dpi=dpi)
+        # If the 2read OCR upload fails — a transient service timeout on large
+        # multi-page 2read PDFs is the common cause — don't crash the whole
+        # reconcile: readB stays empty and the readA-already-certified fallback
+        # below still merges the contests that don't need a confirming read.
+        # Contests that genuinely need the second read are simply SKIPped this
+        # run and can be retried once the service is back.
+        try:
+            for c, res in R.analyze([second], dpi, ef, county_df, county=county):
+                office, district = normalize_office(c["office"])
+                if c.get("totals") is None and c.get("prec"):
+                    sums = _col_sums(c)
+                    c["totals"] = sums
+                    c["ncols"] = len(sums)
+                party = _party(c)
+                c["party"] = party
+                readB.setdefault((office_match_key(office), str(district or ""), party), c)
+        except Exception as e:
+            log.append(f"  note: second read OCR failed ({type(e).__name__}); "
+                       f"continuing with read-A only where it already closes")
+        readB = _rekey_by_mismatch_party(readB, mism)
 
     to_merge = []
     for key in mism:
