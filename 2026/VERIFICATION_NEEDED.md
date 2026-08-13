@@ -159,7 +159,7 @@ One row per candidate *column* that never matched anyone in the county CSV (coun
 
 As of this revision, `match_candidates.py` (repo root) was run against all county CSVs: it builds an authority table of official candidate names and county-wide vote totals from `2026/20260519__al__primary__county.csv` (primary) and the SoS "Final Primary Results by County" xlsx (secondary, REP only), matches each contest by office-name similarity plus vote-total overlap, and renames placeholder/mislabeled candidate columns only where a match is provably unique (exact total match, or — when column and candidate counts line up exactly — a close ordered match). It also re-verified every already-named candidate against the official totals and auto-corrected exact-total swaps (e.g. two candidates' vote totals transposed by an earlier ballot-order patch). Every action it took is logged in `2026/candidate_match_report.md`, including contests it could not resolve (reported as MISMATCH or UNRESOLVED rather than guessed). This pass resolved 125 of the previously-listed placeholder columns and corrected 26 previously mislabeled ones; the table below reflects what's left.
 
-**128 candidate columns** across 56 county/office combinations in 22 counties.
+**124 candidate columns** across 53 county/office combinations in 22 counties. (Since the last revision, 6 placeholder columns were resolved by authority-total matching — Washington LtGov `Unverified Candidate 8`→John Wahl and AgComm `Unverified Candidate 4/5`→McInnis/Williams, Clarke LtGov `Unverified Candidate 8`→John Wahl, Baldwin State House d=96 `Unverified Candidate 2`→Matt Simpson, Conecuh AG `Unverified Candidate 3`→Katherine Robertson, Conecuh State Auditor `Unverified Candidate 2`→Andrew Sorrell — each an exact or split-column match to the certified county total; Washington now has 0 crosscheck mismatches.)
 
 | County | Office | District | Party | Column | County-wide total | Precincts w/ data |
 |---|---|---|---|---|---|---|
@@ -175,7 +175,6 @@ As of this revision, `match_candidates.py` (repo root) was run against all count
 | Blount | Proposed Statewide Amendment 2 |  |  | Unverified Candidate 1 | 4790 | 26 |
 | Blount | Proposed Statewide Amendment 2 |  |  | Unverified Candidate 2 | 765 | 6 |
 | Blount | Proposed Statewide Amendment 2 |  |  | Unverified Candidate 3 | 3507 | 20 |
-| Clarke | Lieutenant Governor |  | REP | Unverified Candidate 8 | 24 | 2 |
 | Clarke | State Democratic Executive Committee |  | DEM | Unverified Candidate 2 | 511 | 19 |
 | Colbert | Public Service Commission, Place No. 1 |  | DEM | Unverified Candidate 3 | 19 | 1 |
 | Cullman | Cullman County Revenue Commissioner |  | REP | Unverified Candidate 3 | 38 | 1 |
@@ -281,8 +280,5 @@ As of this revision, `match_candidates.py` (repo root) was run against all count
 | Tuscaloosa | Tuscaloosa County Sheriff |  | REP | Unverified Candidate 5 | 4020 | 52 |
 | Tuscaloosa | Tuscaloosa County Sheriff |  | REP | Unverified Candidate 6 | 103 | 52 |
 | Tuscaloosa | Tuscaloosa County Sheriff |  | REP | Unverified Candidate 7 | 241 | 51 |
-| Washington | Commissioner of Agriculture and Industries |  | REP | Unverified Candidate 4 | 414 | 12 |
-| Washington | Commissioner of Agriculture and Industries |  | REP | Unverified Candidate 5 | 1110 | 12 |
-| Washington | Lieutenant Governor |  | REP | Unverified Candidate 8 | 466 | 8 |
 | Washington | State House | 65 | REP | Unverified Candidate 2 | 1351 | 11 |
 | Washington | State House | 65 | REP | Unverified Candidate 3 | 1078 | 10 |
