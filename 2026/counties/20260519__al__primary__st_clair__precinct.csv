@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes
-St. Clair,0001 ASHVILLE CITY HALL,Attorney General,,REP,Jay Mitchell,115
-St. Clair,0001 ASHVILLE CITY HALL,Attorney General,,REP,Katherine Robertson,88
-St. Clair,0001 ASHVILLE CITY HALL,Attorney General,,REP,Pamela L. Casey,80
+St. Clair,0001 ASHVILLE CITY HALL,Attorney General,,REP,Jay Mitchell,88
+St. Clair,0001 ASHVILLE CITY HALL,Attorney General,,REP,Katherine Robertson,80
+St. Clair,0001 ASHVILLE CITY HALL,Attorney General,,REP,Pamela L. Casey,115
 St. Clair,0001 ASHVILLE CITY HALL,"Chairman, St. Clair County Commission",,REP,Stan Batemon,128
 St. Clair,0001 ASHVILLE CITY HALL,"Chairman, St. Clair County Commission",,REP,Unverified Candidate 2,162
 St. Clair,0001 ASHVILLE CITY HALL,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,71
@@ -67,12 +67,12 @@ St. Clair,0002 SHOAL CREEK COMM. CTR.,Governor,,REP,"""Alabama"" Will Santivasci
 St. Clair,0002 SHOAL CREEK COMM. CTR.,Governor,,REP,Ken McFeeters,12
 St. Clair,0002 SHOAL CREEK COMM. CTR.,Governor,,REP,Thomas Tuberville,154
 St. Clair,0002 SHOAL CREEK COMM. CTR.,Lieutenant Governor,,REP,George Childress,4
-St. Clair,0002 SHOAL CREEK COMM. CTR.,Lieutenant Governor,,REP,John Wahl,43
+St. Clair,0002 SHOAL CREEK COMM. CTR.,Lieutenant Governor,,REP,John Wahl,78
 St. Clair,0002 SHOAL CREEK COMM. CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,8
 St. Clair,0002 SHOAL CREEK COMM. CTR.,Lieutenant Governor,,REP,Pat Bishop,8
 St. Clair,0002 SHOAL CREEK COMM. CTR.,Lieutenant Governor,,REP,Rick Pate,13
 St. Clair,0002 SHOAL CREEK COMM. CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,10
-St. Clair,0002 SHOAL CREEK COMM. CTR.,Lieutenant Governor,,REP,Wes Allen,78
+St. Clair,0002 SHOAL CREEK COMM. CTR.,Lieutenant Governor,,REP,Wes Allen,43
 St. Clair,0002 SHOAL CREEK COMM. CTR.,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,50
 St. Clair,0002 SHOAL CREEK COMM. CTR.,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,43
 St. Clair,0002 SHOAL CREEK COMM. CTR.,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,69
@@ -164,8 +164,8 @@ St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,REP,Rodney Walker,15
 St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,REP,Seth Burton,9
 St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,REP,Steve Marshall,166
 St. Clair,0004 SPRINGVILLE 1ST UNITED,Attorney General,,REP,Jay Mitchell,398
-St. Clair,0004 SPRINGVILLE 1ST UNITED,Attorney General,,REP,Katherine Robertson,393
-St. Clair,0004 SPRINGVILLE 1ST UNITED,Attorney General,,REP,Pamela L. Casey,435
+St. Clair,0004 SPRINGVILLE 1ST UNITED,Attorney General,,REP,Katherine Robertson,435
+St. Clair,0004 SPRINGVILLE 1ST UNITED,Attorney General,,REP,Pamela L. Casey,393
 St. Clair,0004 SPRINGVILLE 1ST UNITED,"Chairman, St. Clair County Commission",,REP,Stan Batemon,565
 St. Clair,0004 SPRINGVILLE 1ST UNITED,"Chairman, St. Clair County Commission",,REP,Unverified Candidate 2,645
 St. Clair,0004 SPRINGVILLE 1ST UNITED,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,388
@@ -237,7 +237,7 @@ St. Clair,0005 FRIENDSHIP BAPTIST CH,Lieutenant Governor,,REP,John Wahl,177
 St. Clair,0005 FRIENDSHIP BAPTIST CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,21
 St. Clair,0005 FRIENDSHIP BAPTIST CH,Lieutenant Governor,,REP,Pat Bishop,41
 St. Clair,0005 FRIENDSHIP BAPTIST CH,Lieutenant Governor,,REP,Rick Pate,29
-St. Clair,0005 FRIENDSHIP BAPTIST CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,21
+St. Clair,0005 FRIENDSHIP BAPTIST CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,12
 St. Clair,0005 FRIENDSHIP BAPTIST CH,Lieutenant Governor,,REP,Wes Allen,154
 St. Clair,0005 FRIENDSHIP BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,181
 St. Clair,0005 FRIENDSHIP BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,159
@@ -293,7 +293,7 @@ St. Clair,0006 STEELE COMM. CTR.,Lieutenant Governor,,REP,John Wahl,78
 St. Clair,0006 STEELE COMM. CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,8
 St. Clair,0006 STEELE COMM. CTR.,Lieutenant Governor,,REP,Pat Bishop,2
 St. Clair,0006 STEELE COMM. CTR.,Lieutenant Governor,,REP,Rick Pate,14
-St. Clair,0006 STEELE COMM. CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,8
+St. Clair,0006 STEELE COMM. CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,2
 St. Clair,0006 STEELE COMM. CTR.,Lieutenant Governor,,REP,Wes Allen,67
 St. Clair,0006 STEELE COMM. CTR.,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,54
 St. Clair,0006 STEELE COMM. CTR.,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,32
@@ -403,7 +403,7 @@ St. Clair,0008 ARGO CITY HALL,Lieutenant Governor,,REP,John Wahl,197
 St. Clair,0008 ARGO CITY HALL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,25
 St. Clair,0008 ARGO CITY HALL,Lieutenant Governor,,REP,Pat Bishop,31
 St. Clair,0008 ARGO CITY HALL,Lieutenant Governor,,REP,Rick Pate,25
-St. Clair,0008 ARGO CITY HALL,Lieutenant Governor,,REP,Stewart Hill Tankersley,25
+St. Clair,0008 ARGO CITY HALL,Lieutenant Governor,,REP,Stewart Hill Tankersley,14
 St. Clair,0008 ARGO CITY HALL,Lieutenant Governor,,REP,Wes Allen,198
 St. Clair,0008 ARGO CITY HALL,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,138
 St. Clair,0008 ARGO CITY HALL,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,244
@@ -443,7 +443,7 @@ St. Clair,0008 ARGO CITY HALL,U.S. Senate,,REP,Seth Burton,8
 St. Clair,0008 ARGO CITY HALL,U.S. Senate,,REP,Steve Marshall,121
 St. Clair,0009 RAGLAND TOWN HALL,Attorney General,,REP,Jay Mitchell,136
 St. Clair,0009 RAGLAND TOWN HALL,Attorney General,,REP,Katherine Robertson,180
-St. Clair,0009 RAGLAND TOWN HALL,Attorney General,,REP,Pamela L. Casey,180
+St. Clair,0009 RAGLAND TOWN HALL,Attorney General,,REP,Pamela L. Casey,146
 St. Clair,0009 RAGLAND TOWN HALL,"Chairman, St. Clair County Commission",,REP,Stan Batemon,236
 St. Clair,0009 RAGLAND TOWN HALL,"Chairman, St. Clair County Commission",,REP,Unverified Candidate 2,274
 St. Clair,0009 RAGLAND TOWN HALL,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,90
@@ -459,7 +459,7 @@ St. Clair,0009 RAGLAND TOWN HALL,Lieutenant Governor,,REP,John Wahl,185
 St. Clair,0009 RAGLAND TOWN HALL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,28
 St. Clair,0009 RAGLAND TOWN HALL,Lieutenant Governor,,REP,Pat Bishop,28
 St. Clair,0009 RAGLAND TOWN HALL,Lieutenant Governor,,REP,Rick Pate,24
-St. Clair,0009 RAGLAND TOWN HALL,Lieutenant Governor,,REP,Stewart Hill Tankersley,28
+St. Clair,0009 RAGLAND TOWN HALL,Lieutenant Governor,,REP,Stewart Hill Tankersley,4
 St. Clair,0009 RAGLAND TOWN HALL,Lieutenant Governor,,REP,Wes Allen,191
 St. Clair,0009 RAGLAND TOWN HALL,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,226
 St. Clair,0009 RAGLAND TOWN HALL,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,163
@@ -953,12 +953,12 @@ St. Clair,0018 PINEDALE VFD,Governor,,REP,"""Alabama"" Will Santivasci",6
 St. Clair,0018 PINEDALE VFD,Governor,,REP,Ken McFeeters,6
 St. Clair,0018 PINEDALE VFD,Governor,,REP,Thomas Tuberville,146
 St. Clair,0018 PINEDALE VFD,Lieutenant Governor,,REP,George Childress,3
-St. Clair,0018 PINEDALE VFD,Lieutenant Governor,,REP,John Wahl,51
+St. Clair,0018 PINEDALE VFD,Lieutenant Governor,,REP,John Wahl,62
 St. Clair,0018 PINEDALE VFD,Lieutenant Governor,,REP,Nicole Jones Wadsworth,7
 St. Clair,0018 PINEDALE VFD,Lieutenant Governor,,REP,Pat Bishop,5
 St. Clair,0018 PINEDALE VFD,Lieutenant Governor,,REP,Rick Pate,13
 St. Clair,0018 PINEDALE VFD,Lieutenant Governor,,REP,Stewart Hill Tankersley,3
-St. Clair,0018 PINEDALE VFD,Lieutenant Governor,,REP,Wes Allen,62
+St. Clair,0018 PINEDALE VFD,Lieutenant Governor,,REP,Wes Allen,51
 St. Clair,0018 PINEDALE VFD,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,47
 St. Clair,0018 PINEDALE VFD,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,60
 St. Clair,0018 PINEDALE VFD,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,37
@@ -1006,13 +1006,13 @@ St. Clair,0019 CROPWELL BAPTIST CH,County (All),,REP,Greg Cobb,575
 St. Clair,0019 CROPWELL BAPTIST CH,Governor,,REP,"""Alabama"" Will Santivasci",35
 St. Clair,0019 CROPWELL BAPTIST CH,Governor,,REP,Ken McFeeters,54
 St. Clair,0019 CROPWELL BAPTIST CH,Governor,,REP,Thomas Tuberville,890
-St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,REP,George Childress,31
-St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,REP,John Wahl,398
-St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,13
-St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,REP,Pat Bishop,20
+St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,REP,George Childress,13
+St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,REP,John Wahl,386
+St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,28
+St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,REP,Pat Bishop,31
 St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,REP,Rick Pate,70
-St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,28
-St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,REP,Wes Allen,386
+St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,20
+St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,REP,Wes Allen,398
 St. Clair,0019 CROPWELL BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,324
 St. Clair,0019 CROPWELL BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,462
 St. Clair,0019 CROPWELL BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,127
@@ -1060,13 +1060,13 @@ St. Clair,0020 RIVERSIDE COMM. CTR,County (All),,REP,Greg Cobb,156
 St. Clair,0020 RIVERSIDE COMM. CTR,Governor,,REP,"""Alabama"" Will Santivasci",9
 St. Clair,0020 RIVERSIDE COMM. CTR,Governor,,REP,Ken McFeeters,21
 St. Clair,0020 RIVERSIDE COMM. CTR,Governor,,REP,Thomas Tuberville,224
-St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,REP,George Childress,13
-St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,REP,John Wahl,118
+St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,REP,George Childress,1
+St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,REP,John Wahl,91
 St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,7
-St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,REP,Pat Bishop,7
+St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,REP,Pat Bishop,13
 St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,REP,Rick Pate,11
-St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,5
-St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,REP,Wes Allen,91
+St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,7
+St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,REP,Wes Allen,118
 St. Clair,0020 RIVERSIDE COMM. CTR,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,90
 St. Clair,0020 RIVERSIDE COMM. CTR,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,112
 St. Clair,0020 RIVERSIDE COMM. CTR,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,30
@@ -1114,13 +1114,13 @@ St. Clair,0021 FAIRVIEW CH,County (All),,REP,Greg Cobb,59
 St. Clair,0021 FAIRVIEW CH,Governor,,REP,"""Alabama"" Will Santivasci",7
 St. Clair,0021 FAIRVIEW CH,Governor,,REP,Ken McFeeters,11
 St. Clair,0021 FAIRVIEW CH,Governor,,REP,Thomas Tuberville,92
-St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,REP,George Childress,0
-St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,REP,John Wahl,47
-St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,4
-St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,REP,Pat Bishop,3
+St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,REP,George Childress,4
+St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,REP,John Wahl,31
+St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,5
+St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,REP,Pat Bishop,0
 St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,REP,Rick Pate,10
-St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,5
-St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,REP,Wes Allen,31
+St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,3
+St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,REP,Wes Allen,47
 St. Clair,0021 FAIRVIEW CH,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,54
 St. Clair,0021 FAIRVIEW CH,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,16
 St. Clair,0021 FAIRVIEW CH,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,29
@@ -1168,13 +1168,13 @@ St. Clair,0022 GUM SPRGS CH,County (All),,REP,Greg Cobb,105
 St. Clair,0022 GUM SPRGS CH,Governor,,REP,"""Alabama"" Will Santivasci",8
 St. Clair,0022 GUM SPRGS CH,Governor,,REP,Ken McFeeters,14
 St. Clair,0022 GUM SPRGS CH,Governor,,REP,Thomas Tuberville,145
-St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,REP,George Childress,4
-St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,REP,John Wahl,55
-St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,6
+St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,REP,George Childress,6
+St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,REP,John Wahl,70
+St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,9
 St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,REP,Pat Bishop,4
 St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,REP,Rick Pate,12
-St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,9
-St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,REP,Wes Allen,70
+St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,4
+St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,REP,Wes Allen,55
 St. Clair,0022 GUM SPRGS CH,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,38
 St. Clair,0022 GUM SPRGS CH,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,47
 St. Clair,0022 GUM SPRGS CH,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,76
@@ -1222,13 +1222,13 @@ St. Clair,0023 PRESCOTT BAPTIST CH,County (All),,REP,Greg Cobb,111
 St. Clair,0023 PRESCOTT BAPTIST CH,Governor,,REP,"""Alabama"" Will Santivasci",8
 St. Clair,0023 PRESCOTT BAPTIST CH,Governor,,REP,Ken McFeeters,8
 St. Clair,0023 PRESCOTT BAPTIST CH,Governor,,REP,Thomas Tuberville,164
-St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,REP,George Childress,5
-St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,REP,John Wahl,68
-St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,8
-St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,REP,Pat Bishop,3
+St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,REP,George Childress,8
+St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,REP,John Wahl,73
+St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,10
+St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,REP,Pat Bishop,5
 St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,REP,Rick Pate,7
-St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,10
-St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,REP,Wes Allen,73
+St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,3
+St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,REP,Wes Allen,68
 St. Clair,0023 PRESCOTT BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,95
 St. Clair,0023 PRESCOTT BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,51
 St. Clair,0023 PRESCOTT BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,24
@@ -1254,8 +1254,8 @@ St. Clair,0023 PRESCOTT BAPTIST CH,"State Republican Executive Committee, St.Cla
 St. Clair,0023 PRESCOTT BAPTIST CH,"State Republican Executive Committee, St.Clair Count",,REP,Katherine Holloway,66
 St. Clair,0023 PRESCOTT BAPTIST CH,"State Republican Executive Committee, St.Clair Count",,REP,"Kathryn ""Kathy"" Burke",75
 St. Clair,0023 PRESCOTT BAPTIST CH,"State Republican Executive Committee, St.Clair Count",,REP,Matt Tortorice,23
-St. Clair,0023 PRESCOTT BAPTIST CH,State Treasurer,,REP,Steve Lolley,111
-St. Clair,0023 PRESCOTT BAPTIST CH,State Treasurer,,REP,Young Boozer,132
+St. Clair,0023 PRESCOTT BAPTIST CH,State Treasurer,,REP,Steve Lolley,58
+St. Clair,0023 PRESCOTT BAPTIST CH,State Treasurer,,REP,Young Boozer,111
 St. Clair,0023 PRESCOTT BAPTIST CH,U.S. House,3,REP,Mike Rogers,142
 St. Clair,0023 PRESCOTT BAPTIST CH,U.S. House,3,REP,Terri LaPoint,29
 St. Clair,0023 PRESCOTT BAPTIST CH,U.S. Senate,,REP,Barry Moore,57
@@ -1278,13 +1278,13 @@ St. Clair,0024 NEW HOPE BAPTIST CH,County (All),,REP,Greg Cobb,119
 St. Clair,0024 NEW HOPE BAPTIST CH,Governor,,REP,"""Alabama"" Will Santivasci",21
 St. Clair,0024 NEW HOPE BAPTIST CH,Governor,,REP,Ken McFeeters,12
 St. Clair,0024 NEW HOPE BAPTIST CH,Governor,,REP,Thomas Tuberville,179
-St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,REP,George Childress,10
-St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,REP,John Wahl,70
-St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
-St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,REP,Pat Bishop,2
+St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,REP,George Childress,1
+St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,REP,John Wahl,90
+St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,9
+St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,REP,Pat Bishop,10
 St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,REP,Rick Pate,19
-St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,9
-St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,REP,Wes Allen,90
+St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,2
+St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,REP,Wes Allen,70
 St. Clair,0024 NEW HOPE BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,82
 St. Clair,0024 NEW HOPE BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,82
 St. Clair,0024 NEW HOPE BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,31
@@ -1334,13 +1334,13 @@ St. Clair,0025 NORTH VALLEY CH,County (All),,REP,Greg Cobb,233
 St. Clair,0025 NORTH VALLEY CH,Governor,,REP,"""Alabama"" Will Santivasci",26
 St. Clair,0025 NORTH VALLEY CH,Governor,,REP,Ken McFeeters,28
 St. Clair,0025 NORTH VALLEY CH,Governor,,REP,Thomas Tuberville,397
-St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,REP,George Childress,18
-St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,REP,John Wahl,162
-St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,10
-St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,REP,Pat Bishop,10
+St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,REP,George Childress,10
+St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,REP,John Wahl,188
+St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,16
+St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,REP,Pat Bishop,18
 St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,REP,Rick Pate,33
-St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,16
-St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,REP,Wes Allen,188
+St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,12
+St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,REP,Wes Allen,162
 St. Clair,0025 NORTH VALLEY CH,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,199
 St. Clair,0025 NORTH VALLEY CH,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,131
 St. Clair,0025 NORTH VALLEY CH,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,81
@@ -1390,13 +1390,13 @@ St. Clair,0026 WHITES CHAPEL TOWN HALL,County (All),,REP,Greg Cobb,91
 St. Clair,0026 WHITES CHAPEL TOWN HALL,Governor,,REP,"""Alabama"" Will Santivasci",13
 St. Clair,0026 WHITES CHAPEL TOWN HALL,Governor,,REP,Ken McFeeters,10
 St. Clair,0026 WHITES CHAPEL TOWN HALL,Governor,,REP,Thomas Tuberville,146
-St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,REP,George Childress,4
-St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,REP,John Wahl,62
-St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,3
-St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,REP,Pat Bishop,3
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,REP,George Childress,3
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,REP,John Wahl,81
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,7
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,REP,Pat Bishop,4
 St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,REP,Rick Pate,5
-St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,REP,Stewart Hill Tankersley,7
-St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,REP,Wes Allen,81
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,REP,Stewart Hill Tankersley,1
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,REP,Wes Allen,62
 St. Clair,0026 WHITES CHAPEL TOWN HALL,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,58
 St. Clair,0026 WHITES CHAPEL TOWN HALL,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,61
 St. Clair,0026 WHITES CHAPEL TOWN HALL,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,29
@@ -1446,13 +1446,13 @@ St. Clair,0027 CHANDLER MT. COMM. CTR.,County (All),,REP,Greg Cobb,53
 St. Clair,0027 CHANDLER MT. COMM. CTR.,Governor,,REP,"""Alabama"" Will Santivasci",3
 St. Clair,0027 CHANDLER MT. COMM. CTR.,Governor,,REP,Ken McFeeters,2
 St. Clair,0027 CHANDLER MT. COMM. CTR.,Governor,,REP,Thomas Tuberville,59
-St. Clair,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,REP,George Childress,4
-St. Clair,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,REP,John Wahl,18
+St. Clair,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,REP,George Childress,0
+St. Clair,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,REP,John Wahl,26
 St. Clair,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
-St. Clair,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,REP,Pat Bishop,0
+St. Clair,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,REP,Pat Bishop,4
 St. Clair,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,REP,Rick Pate,5
 St. Clair,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,1
-St. Clair,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,REP,Wes Allen,26
+St. Clair,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,REP,Wes Allen,18
 St. Clair,0027 CHANDLER MT. COMM. CTR.,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,22
 St. Clair,0027 CHANDLER MT. COMM. CTR.,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,10
 St. Clair,0027 CHANDLER MT. COMM. CTR.,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,30
@@ -1500,13 +1500,13 @@ St. Clair,0028 GALLANT VFD,County (All),,REP,Greg Cobb,30
 St. Clair,0028 GALLANT VFD,Governor,,REP,"""Alabama"" Will Santivasci",0
 St. Clair,0028 GALLANT VFD,Governor,,REP,Ken McFeeters,3
 St. Clair,0028 GALLANT VFD,Governor,,REP,Thomas Tuberville,50
-St. Clair,0028 GALLANT VFD,Lieutenant Governor,,REP,George Childress,5
-St. Clair,0028 GALLANT VFD,Lieutenant Governor,,REP,John Wahl,23
-St. Clair,0028 GALLANT VFD,Lieutenant Governor,,REP,Nicole Jones Wadsworth,3
-St. Clair,0028 GALLANT VFD,Lieutenant Governor,,REP,Pat Bishop,3
+St. Clair,0028 GALLANT VFD,Lieutenant Governor,,REP,George Childress,3
+St. Clair,0028 GALLANT VFD,Lieutenant Governor,,REP,John Wahl,17
+St. Clair,0028 GALLANT VFD,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+St. Clair,0028 GALLANT VFD,Lieutenant Governor,,REP,Pat Bishop,5
 St. Clair,0028 GALLANT VFD,Lieutenant Governor,,REP,Rick Pate,0
 St. Clair,0028 GALLANT VFD,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
-St. Clair,0028 GALLANT VFD,Lieutenant Governor,,REP,Wes Allen,17
+St. Clair,0028 GALLANT VFD,Lieutenant Governor,,REP,Wes Allen,23
 St. Clair,0028 GALLANT VFD,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,9
 St. Clair,0028 GALLANT VFD,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,12
 St. Clair,0028 GALLANT VFD,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,27
@@ -1554,13 +1554,13 @@ St. Clair,0029 SLATE UNION CH,County (All),,REP,Greg Cobb,133
 St. Clair,0029 SLATE UNION CH,Governor,,REP,"""Alabama"" Will Santivasci",13
 St. Clair,0029 SLATE UNION CH,Governor,,REP,Ken McFeeters,19
 St. Clair,0029 SLATE UNION CH,Governor,,REP,Thomas Tuberville,176
-St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,REP,George Childress,7
-St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,REP,John Wahl,80
-St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,5
-St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,REP,Pat Bishop,3
+St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,REP,George Childress,3
+St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,REP,John Wahl,93
+St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,6
+St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,REP,Pat Bishop,7
 St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,REP,Rick Pate,12
-St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,6
-St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,REP,Wes Allen,93
+St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,2
+St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,REP,Wes Allen,80
 St. Clair,0029 SLATE UNION CH,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,64
 St. Clair,0029 SLATE UNION CH,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,58
 St. Clair,0029 SLATE UNION CH,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,78
@@ -1608,13 +1608,13 @@ St. Clair,0030 CEDAR GROVE BAPTIST CH,County (All),,REP,Greg Cobb,162
 St. Clair,0030 CEDAR GROVE BAPTIST CH,Governor,,REP,"""Alabama"" Will Santivasci",3
 St. Clair,0030 CEDAR GROVE BAPTIST CH,Governor,,REP,Ken McFeeters,19
 St. Clair,0030 CEDAR GROVE BAPTIST CH,Governor,,REP,Thomas Tuberville,259
-St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,REP,George Childress,8
-St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,REP,John Wahl,122
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,REP,George Childress,5
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,REP,John Wahl,103
 St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,12
-St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,REP,Pat Bishop,5
-St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,REP,Rick Pate,6
-St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,12
-St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,REP,Wes Allen,103
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,REP,Pat Bishop,8
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,REP,Rick Pate,12
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,6
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,REP,Wes Allen,122
 St. Clair,0030 CEDAR GROVE BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,75
 St. Clair,0030 CEDAR GROVE BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,103
 St. Clair,0030 CEDAR GROVE BAPTIST CH,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,52
@@ -1664,13 +1664,13 @@ St. Clair,0031 ABSENTEE,County (All),,REP,Greg Cobb,132
 St. Clair,0031 ABSENTEE,Governor,,REP,"""Alabama"" Will Santivasci",11
 St. Clair,0031 ABSENTEE,Governor,,REP,Ken McFeeters,18
 St. Clair,0031 ABSENTEE,Governor,,REP,Thomas Tuberville,170
-St. Clair,0031 ABSENTEE,Lieutenant Governor,,REP,George Childress,11
-St. Clair,0031 ABSENTEE,Lieutenant Governor,,REP,John Wahl,77
-St. Clair,0031 ABSENTEE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,4
-St. Clair,0031 ABSENTEE,Lieutenant Governor,,REP,Pat Bishop,3
+St. Clair,0031 ABSENTEE,Lieutenant Governor,,REP,George Childress,3
+St. Clair,0031 ABSENTEE,Lieutenant Governor,,REP,John Wahl,57
+St. Clair,0031 ABSENTEE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,20
+St. Clair,0031 ABSENTEE,Lieutenant Governor,,REP,Pat Bishop,11
 St. Clair,0031 ABSENTEE,Lieutenant Governor,,REP,Rick Pate,14
-St. Clair,0031 ABSENTEE,Lieutenant Governor,,REP,Stewart Hill Tankersley,20
-St. Clair,0031 ABSENTEE,Lieutenant Governor,,REP,Wes Allen,57
+St. Clair,0031 ABSENTEE,Lieutenant Governor,,REP,Stewart Hill Tankersley,4
+St. Clair,0031 ABSENTEE,Lieutenant Governor,,REP,Wes Allen,77
 St. Clair,0031 ABSENTEE,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,62
 St. Clair,0031 ABSENTEE,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,86
 St. Clair,0031 ABSENTEE,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,46
@@ -1720,13 +1720,13 @@ St. Clair,0032 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Jack 
 St. Clair,0032 PROVISIONAL,Governor,,REP,"""Alabama"" Will Santivasci",0
 St. Clair,0032 PROVISIONAL,Governor,,REP,Ken McFeeters,1
 St. Clair,0032 PROVISIONAL,Governor,,REP,Thomas Tuberville,6
-St. Clair,0032 PROVISIONAL,Lieutenant Governor,,REP,George Childress,0
-St. Clair,0032 PROVISIONAL,Lieutenant Governor,,REP,John Wahl,5
+St. Clair,0032 PROVISIONAL,Lieutenant Governor,,REP,George Childress,1
+St. Clair,0032 PROVISIONAL,Lieutenant Governor,,REP,John Wahl,1
 St. Clair,0032 PROVISIONAL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
-St. Clair,0032 PROVISIONAL,Lieutenant Governor,,REP,Pat Bishop,1
+St. Clair,0032 PROVISIONAL,Lieutenant Governor,,REP,Pat Bishop,0
 St. Clair,0032 PROVISIONAL,Lieutenant Governor,,REP,Rick Pate,0
 St. Clair,0032 PROVISIONAL,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
-St. Clair,0032 PROVISIONAL,Lieutenant Governor,,REP,Wes Allen,1
+St. Clair,0032 PROVISIONAL,Lieutenant Governor,,REP,Wes Allen,5
 St. Clair,0032 PROVISIONAL,"Member, St. Clair County Commission, District No. 1",,REP,Adam Pardue,2
 St. Clair,0032 PROVISIONAL,"Member, St. Clair County Commission, District No. 1",,REP,Katrina Hennings,3
 St. Clair,0032 PROVISIONAL,"Member, St. Clair County Commission, District No. 1",,REP,Shane Thomas,1
