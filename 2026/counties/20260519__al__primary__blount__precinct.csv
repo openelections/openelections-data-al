@@ -1,8 +1,8 @@
 county,precinct,office,district,party,candidate,votes
 Blount,0001 MT. HIGH,Proposed Statewide Amendment 1,,,No,66
 Blount,0001 MT. HIGH,Proposed Statewide Amendment 1,,,Yes,650
-Blount,0001 MT. HIGH,Proposed Statewide Amendment 2,,,Unverified Candidate 1,345
-Blount,0001 MT. HIGH,Proposed Statewide Amendment 2,,,Unverified Candidate 3,350
+Blount,0001 MT. HIGH,Proposed Statewide Amendment 2,,,Yes,345
+Blount,0001 MT. HIGH,Proposed Statewide Amendment 2,,,No,350
 Blount,0001 MT. HIGH,Governor,,DEM,"Chad ""Chig"" Martin",4
 Blount,0001 MT. HIGH,Governor,,DEM,Doug Jones,25
 Blount,0001 MT. HIGH,Governor,,DEM,Jamel J. Brown,0
@@ -53,8 +53,8 @@ Blount,0001 MT. HIGH,State Auditor,,REP,Andrew Sorrell,435
 Blount,0001 MT. HIGH,State Auditor,,REP,Derek Chen,194
 Blount,0001 MT. HIGH,State Board of Education,6,REP,Cathi Bradford,362
 Blount,0001 MT. HIGH,State Board of Education,6,REP,Marie Manning,217
-Blount,0001 MT. HIGH,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,203
-Blount,0001 MT. HIGH,"State Republican Executive Committee, Blount County,",,REP,Steven King,404
+Blount,0001 MT. HIGH,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,203
+Blount,0001 MT. HIGH,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,404
 Blount,0001 MT. HIGH,State Treasurer,,REP,Steve Lolley,254
 Blount,0001 MT. HIGH,State Treasurer,,REP,Young Boozer,377
 Blount,0001 MT. HIGH,U.S. House,4,REP,Robert B. Aderholt,506
@@ -68,8 +68,8 @@ Blount,0001 MT. HIGH,U.S. Senate,,REP,Seth Burton,14
 Blount,0001 MT. HIGH,U.S. Senate,,REP,Steve Marshall,121
 Blount,0002 SMOKE RISE,Proposed Statewide Amendment 1,,,No,62
 Blount,0002 SMOKE RISE,Proposed Statewide Amendment 1,,,Yes,452
-Blount,0002 SMOKE RISE,Proposed Statewide Amendment 2,,,Unverified Candidate 1,274
-Blount,0002 SMOKE RISE,Proposed Statewide Amendment 2,,,Unverified Candidate 3,218
+Blount,0002 SMOKE RISE,Proposed Statewide Amendment 2,,,Yes,274
+Blount,0002 SMOKE RISE,Proposed Statewide Amendment 2,,,No,218
 Blount,0002 SMOKE RISE,Governor,,DEM,"Chad ""Chig"" Martin",2
 Blount,0002 SMOKE RISE,Governor,,DEM,Doug Jones,20
 Blount,0002 SMOKE RISE,Governor,,DEM,Jamel J. Brown,0
@@ -120,8 +120,8 @@ Blount,0002 SMOKE RISE,State Auditor,,REP,Andrew Sorrell,298
 Blount,0002 SMOKE RISE,State Auditor,,REP,Derek Chen,126
 Blount,0002 SMOKE RISE,State Board of Education,6,REP,Cathi Bradford,252
 Blount,0002 SMOKE RISE,State Board of Education,6,REP,Marie Manning,149
-Blount,0002 SMOKE RISE,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,138
-Blount,0002 SMOKE RISE,"State Republican Executive Committee, Blount County,",,REP,Steven King,260
+Blount,0002 SMOKE RISE,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,138
+Blount,0002 SMOKE RISE,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,260
 Blount,0002 SMOKE RISE,State Treasurer,,REP,Steve Lolley,169
 Blount,0002 SMOKE RISE,State Treasurer,,REP,Young Boozer,273
 Blount,0002 SMOKE RISE,U.S. House,4,REP,Robert B. Aderholt,376
@@ -135,8 +135,8 @@ Blount,0002 SMOKE RISE,U.S. Senate,,REP,Seth Burton,2
 Blount,0002 SMOKE RISE,U.S. Senate,,REP,Steve Marshall,88
 Blount,0003 BLOUNT SPRINGS,Proposed Statewide Amendment 1,,,No,11
 Blount,0003 BLOUNT SPRINGS,Proposed Statewide Amendment 1,,,Yes,112
-Blount,0003 BLOUNT SPRINGS,Proposed Statewide Amendment 2,,,Unverified Candidate 1,64
-Blount,0003 BLOUNT SPRINGS,Proposed Statewide Amendment 2,,,Unverified Candidate 3,59
+Blount,0003 BLOUNT SPRINGS,Proposed Statewide Amendment 2,,,Yes,64
+Blount,0003 BLOUNT SPRINGS,Proposed Statewide Amendment 2,,,No,59
 Blount,0003 BLOUNT SPRINGS,Governor,,DEM,"Chad ""Chig"" Martin",0
 Blount,0003 BLOUNT SPRINGS,Governor,,DEM,Doug Jones,5
 Blount,0003 BLOUNT SPRINGS,Governor,,DEM,Jamel J. Brown,0
@@ -187,8 +187,8 @@ Blount,0003 BLOUNT SPRINGS,State Auditor,,REP,Andrew Sorrell,70
 Blount,0003 BLOUNT SPRINGS,State Auditor,,REP,Derek Chen,32
 Blount,0003 BLOUNT SPRINGS,State Board of Education,6,REP,Cathi Bradford,62
 Blount,0003 BLOUNT SPRINGS,State Board of Education,6,REP,Marie Manning,29
-Blount,0003 BLOUNT SPRINGS,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,40
-Blount,0003 BLOUNT SPRINGS,"State Republican Executive Committee, Blount County,",,REP,Steven King,59
+Blount,0003 BLOUNT SPRINGS,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,40
+Blount,0003 BLOUNT SPRINGS,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,59
 Blount,0003 BLOUNT SPRINGS,State Treasurer,,REP,Steve Lolley,49
 Blount,0003 BLOUNT SPRINGS,State Treasurer,,REP,Young Boozer,53
 Blount,0003 BLOUNT SPRINGS,U.S. House,4,REP,Robert B. Aderholt,79
@@ -202,8 +202,8 @@ Blount,0003 BLOUNT SPRINGS,U.S. Senate,,REP,Seth Burton,3
 Blount,0003 BLOUNT SPRINGS,U.S. Senate,,REP,Steve Marshall,23
 Blount,0004 HAYDEN,Proposed Statewide Amendment 1,,,No,87
 Blount,0004 HAYDEN,Proposed Statewide Amendment 1,,,Yes,941
-Blount,0004 HAYDEN,Proposed Statewide Amendment 2,,,Unverified Candidate 1,480
-Blount,0004 HAYDEN,Proposed Statewide Amendment 2,,,Unverified Candidate 3,499
+Blount,0004 HAYDEN,Proposed Statewide Amendment 2,,,Yes,480
+Blount,0004 HAYDEN,Proposed Statewide Amendment 2,,,No,499
 Blount,0004 HAYDEN,Governor,,DEM,"Chad ""Chig"" Martin",4
 Blount,0004 HAYDEN,Governor,,DEM,Doug Jones,66
 Blount,0004 HAYDEN,Governor,,DEM,Jamel J. Brown,0
@@ -254,8 +254,8 @@ Blount,0004 HAYDEN,State Auditor,,REP,Andrew Sorrell,614
 Blount,0004 HAYDEN,State Auditor,,REP,Derek Chen,231
 Blount,0004 HAYDEN,State Board of Education,6,REP,Cathi Bradford,486
 Blount,0004 HAYDEN,State Board of Education,6,REP,Marie Manning,281
-Blount,0004 HAYDEN,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,309
-Blount,0004 HAYDEN,"State Republican Executive Committee, Blount County,",,REP,Steven King,485
+Blount,0004 HAYDEN,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,309
+Blount,0004 HAYDEN,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,485
 Blount,0004 HAYDEN,State Treasurer,,REP,Steve Lolley,321
 Blount,0004 HAYDEN,State Treasurer,,REP,Young Boozer,530
 Blount,0004 HAYDEN,U.S. House,4,REP,Robert B. Aderholt,721
@@ -269,8 +269,8 @@ Blount,0004 HAYDEN,U.S. Senate,,REP,Seth Burton,11
 Blount,0004 HAYDEN,U.S. Senate,,REP,Steve Marshall,111
 Blount,0005 SUGAR CREEK/BANGOR,Proposed Statewide Amendment 1,,,No,30
 Blount,0005 SUGAR CREEK/BANGOR,Proposed Statewide Amendment 1,,,Yes,196
-Blount,0005 SUGAR CREEK/BANGOR,Proposed Statewide Amendment 2,,,Unverified Candidate 1,101
-Blount,0005 SUGAR CREEK/BANGOR,Proposed Statewide Amendment 2,,,Unverified Candidate 3,115
+Blount,0005 SUGAR CREEK/BANGOR,Proposed Statewide Amendment 2,,,Yes,101
+Blount,0005 SUGAR CREEK/BANGOR,Proposed Statewide Amendment 2,,,No,115
 Blount,0005 SUGAR CREEK/BANGOR,Governor,,DEM,"Chad ""Chig"" Martin",1
 Blount,0005 SUGAR CREEK/BANGOR,Governor,,DEM,Doug Jones,13
 Blount,0005 SUGAR CREEK/BANGOR,Governor,,DEM,Jamel J. Brown,0
@@ -321,8 +321,8 @@ Blount,0005 SUGAR CREEK/BANGOR,State Auditor,,REP,Andrew Sorrell,150
 Blount,0005 SUGAR CREEK/BANGOR,State Auditor,,REP,Derek Chen,44
 Blount,0005 SUGAR CREEK/BANGOR,State Board of Education,6,REP,Cathi Bradford,116
 Blount,0005 SUGAR CREEK/BANGOR,State Board of Education,6,REP,Marie Manning,61
-Blount,0005 SUGAR CREEK/BANGOR,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,57
-Blount,0005 SUGAR CREEK/BANGOR,"State Republican Executive Committee, Blount County,",,REP,Steven King,126
+Blount,0005 SUGAR CREEK/BANGOR,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,57
+Blount,0005 SUGAR CREEK/BANGOR,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,126
 Blount,0005 SUGAR CREEK/BANGOR,State Treasurer,,REP,Steve Lolley,81
 Blount,0005 SUGAR CREEK/BANGOR,State Treasurer,,REP,Young Boozer,116
 Blount,0005 SUGAR CREEK/BANGOR,U.S. House,4,REP,Robert B. Aderholt,168
@@ -336,8 +336,8 @@ Blount,0005 SUGAR CREEK/BANGOR,U.S. Senate,,REP,Seth Burton,2
 Blount,0005 SUGAR CREEK/BANGOR,U.S. Senate,,REP,Steve Marshall,30
 Blount,0006 NECTAR,Proposed Statewide Amendment 1,,,No,45
 Blount,0006 NECTAR,Proposed Statewide Amendment 1,,,Yes,367
-Blount,0006 NECTAR,Proposed Statewide Amendment 2,,,Unverified Candidate 1,184
-Blount,0006 NECTAR,Proposed Statewide Amendment 2,,,Unverified Candidate 3,204
+Blount,0006 NECTAR,Proposed Statewide Amendment 2,,,Yes,184
+Blount,0006 NECTAR,Proposed Statewide Amendment 2,,,No,204
 Blount,0006 NECTAR,Governor,,DEM,"Chad ""Chig"" Martin",1
 Blount,0006 NECTAR,Governor,,DEM,Doug Jones,17
 Blount,0006 NECTAR,Governor,,DEM,Jamel J. Brown,0
@@ -388,8 +388,8 @@ Blount,0006 NECTAR,State Auditor,,REP,Andrew Sorrell,239
 Blount,0006 NECTAR,State Auditor,,REP,Derek Chen,108
 Blount,0006 NECTAR,State Board of Education,6,REP,Cathi Bradford,198
 Blount,0006 NECTAR,State Board of Education,6,REP,Marie Manning,129
-Blount,0006 NECTAR,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,115
-Blount,0006 NECTAR,"State Republican Executive Committee, Blount County,",,REP,Steven King,239
+Blount,0006 NECTAR,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,115
+Blount,0006 NECTAR,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,239
 Blount,0006 NECTAR,State Treasurer,,REP,Steve Lolley,110
 Blount,0006 NECTAR,State Treasurer,,REP,Young Boozer,244
 Blount,0006 NECTAR,U.S. House,4,REP,Robert B. Aderholt,291
@@ -403,8 +403,8 @@ Blount,0006 NECTAR,U.S. Senate,,REP,Seth Burton,2
 Blount,0006 NECTAR,U.S. Senate,,REP,Steve Marshall,76
 Blount,0007 BLOUNTSVILLE,Proposed Statewide Amendment 1,,,No,45
 Blount,0007 BLOUNTSVILLE,Proposed Statewide Amendment 1,,,Yes,385
-Blount,0007 BLOUNTSVILLE,Proposed Statewide Amendment 2,,,Unverified Candidate 1,235
-Blount,0007 BLOUNTSVILLE,Proposed Statewide Amendment 2,,,Unverified Candidate 3,181
+Blount,0007 BLOUNTSVILLE,Proposed Statewide Amendment 2,,,Yes,235
+Blount,0007 BLOUNTSVILLE,Proposed Statewide Amendment 2,,,No,181
 Blount,0007 BLOUNTSVILLE,Governor,,DEM,"Chad ""Chig"" Martin",2
 Blount,0007 BLOUNTSVILLE,Governor,,DEM,Doug Jones,32
 Blount,0007 BLOUNTSVILLE,Governor,,DEM,Jamel J. Brown,1
@@ -451,8 +451,8 @@ Blount,0007 BLOUNTSVILLE,State Auditor,,REP,Andrew Sorrell,234
 Blount,0007 BLOUNTSVILLE,State Auditor,,REP,Derek Chen,137
 Blount,0007 BLOUNTSVILLE,State Board of Education,6,REP,Cathi Bradford,184
 Blount,0007 BLOUNTSVILLE,State Board of Education,6,REP,Marie Manning,157
-Blount,0007 BLOUNTSVILLE,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,125
-Blount,0007 BLOUNTSVILLE,"State Republican Executive Committee, Blount County,",,REP,Steven King,244
+Blount,0007 BLOUNTSVILLE,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,125
+Blount,0007 BLOUNTSVILLE,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,244
 Blount,0007 BLOUNTSVILLE,State Treasurer,,REP,Steve Lolley,134
 Blount,0007 BLOUNTSVILLE,State Treasurer,,REP,Young Boozer,235
 Blount,0007 BLOUNTSVILLE,U.S. House,4,REP,Robert B. Aderholt,314
@@ -466,8 +466,8 @@ Blount,0007 BLOUNTSVILLE,U.S. Senate,,REP,Seth Burton,10
 Blount,0007 BLOUNTSVILLE,U.S. Senate,,REP,Steve Marshall,123
 Blount,0008 SUMMIT,Proposed Statewide Amendment 1,,,No,21
 Blount,0008 SUMMIT,Proposed Statewide Amendment 1,,,Yes,109
-Blount,0008 SUMMIT,Proposed Statewide Amendment 2,,,Unverified Candidate 1,56
-Blount,0008 SUMMIT,Proposed Statewide Amendment 2,,,Unverified Candidate 3,68
+Blount,0008 SUMMIT,Proposed Statewide Amendment 2,,,Yes,56
+Blount,0008 SUMMIT,Proposed Statewide Amendment 2,,,No,68
 Blount,0008 SUMMIT,Governor,,DEM,"Chad ""Chig"" Martin",1
 Blount,0008 SUMMIT,Governor,,DEM,Doug Jones,12
 Blount,0008 SUMMIT,Governor,,DEM,Jamel J. Brown,0
@@ -514,8 +514,8 @@ Blount,0008 SUMMIT,State Auditor,,REP,Andrew Sorrell,67
 Blount,0008 SUMMIT,State Auditor,,REP,Derek Chen,39
 Blount,0008 SUMMIT,State Board of Education,6,REP,Cathi Bradford,53
 Blount,0008 SUMMIT,State Board of Education,6,REP,Marie Manning,41
-Blount,0008 SUMMIT,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,27
-Blount,0008 SUMMIT,"State Republican Executive Committee, Blount County,",,REP,Steven King,75
+Blount,0008 SUMMIT,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,27
+Blount,0008 SUMMIT,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,75
 Blount,0008 SUMMIT,State Treasurer,,REP,Steve Lolley,35
 Blount,0008 SUMMIT,State Treasurer,,REP,Young Boozer,69
 Blount,0008 SUMMIT,U.S. House,4,REP,Robert B. Aderholt,90
@@ -529,8 +529,8 @@ Blount,0008 SUMMIT,U.S. Senate,,REP,Seth Burton,2
 Blount,0008 SUMMIT,U.S. Senate,,REP,Steve Marshall,52
 Blount,0009 ROYAL,Proposed Statewide Amendment 1,,,No,38
 Blount,0009 ROYAL,Proposed Statewide Amendment 1,,,Yes,145
-Blount,0009 ROYAL,Proposed Statewide Amendment 2,,,Unverified Candidate 1,76
-Blount,0009 ROYAL,Proposed Statewide Amendment 2,,,Unverified Candidate 3,97
+Blount,0009 ROYAL,Proposed Statewide Amendment 2,,,Yes,76
+Blount,0009 ROYAL,Proposed Statewide Amendment 2,,,No,97
 Blount,0009 ROYAL,Governor,,DEM,"Chad ""Chig"" Martin",1
 Blount,0009 ROYAL,Governor,,DEM,Doug Jones,23
 Blount,0009 ROYAL,Governor,,DEM,Jamel J. Brown,0
@@ -577,8 +577,8 @@ Blount,0009 ROYAL,State Auditor,,REP,Andrew Sorrell,91
 Blount,0009 ROYAL,State Auditor,,REP,Derek Chen,49
 Blount,0009 ROYAL,State Board of Education,6,REP,Cathi Bradford,79
 Blount,0009 ROYAL,State Board of Education,6,REP,Marie Manning,54
-Blount,0009 ROYAL,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,62
-Blount,0009 ROYAL,"State Republican Executive Committee, Blount County,",,REP,Steven King,87
+Blount,0009 ROYAL,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,62
+Blount,0009 ROYAL,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,87
 Blount,0009 ROYAL,State Treasurer,,REP,Steve Lolley,54
 Blount,0009 ROYAL,State Treasurer,,REP,Young Boozer,89
 Blount,0009 ROYAL,U.S. House,4,REP,Robert B. Aderholt,118
@@ -592,8 +592,8 @@ Blount,0009 ROYAL,U.S. Senate,,REP,Seth Burton,2
 Blount,0009 ROYAL,U.S. Senate,,REP,Steve Marshall,58
 Blount,0010 BROOKSVILLE,Proposed Statewide Amendment 1,,,No,17
 Blount,0010 BROOKSVILLE,Proposed Statewide Amendment 1,,,Yes,171
-Blount,0010 BROOKSVILLE,Proposed Statewide Amendment 2,,,Unverified Candidate 1,104
-Blount,0010 BROOKSVILLE,Proposed Statewide Amendment 2,,,Unverified Candidate 3,70
+Blount,0010 BROOKSVILLE,Proposed Statewide Amendment 2,,,Yes,104
+Blount,0010 BROOKSVILLE,Proposed Statewide Amendment 2,,,No,70
 Blount,0010 BROOKSVILLE,Governor,,DEM,"Chad ""Chig"" Martin",1
 Blount,0010 BROOKSVILLE,Governor,,DEM,Doug Jones,4
 Blount,0010 BROOKSVILLE,Governor,,DEM,Jamel J. Brown,0
@@ -642,8 +642,8 @@ Blount,0010 BROOKSVILLE,State Auditor,,REP,Andrew Sorrell,113
 Blount,0010 BROOKSVILLE,State Auditor,,REP,Derek Chen,53
 Blount,0010 BROOKSVILLE,State Board of Education,6,REP,Cathi Bradford,78
 Blount,0010 BROOKSVILLE,State Board of Education,6,REP,Marie Manning,78
-Blount,0010 BROOKSVILLE,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,59
-Blount,0010 BROOKSVILLE,"State Republican Executive Committee, Blount County,",,REP,Steven King,106
+Blount,0010 BROOKSVILLE,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,59
+Blount,0010 BROOKSVILLE,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,106
 Blount,0010 BROOKSVILLE,State Treasurer,,REP,Steve Lolley,51
 Blount,0010 BROOKSVILLE,State Treasurer,,REP,Young Boozer,113
 Blount,0010 BROOKSVILLE,U.S. House,4,REP,Robert B. Aderholt,147
@@ -657,8 +657,8 @@ Blount,0010 BROOKSVILLE,U.S. Senate,,REP,Seth Burton,2
 Blount,0010 BROOKSVILLE,U.S. Senate,,REP,Steve Marshall,73
 Blount,0013 SNEAD,Proposed Statewide Amendment 1,,,No,42
 Blount,0013 SNEAD,Proposed Statewide Amendment 1,,,Yes,436
-Blount,0013 SNEAD,Proposed Statewide Amendment 2,,,Unverified Candidate 1,259
-Blount,0013 SNEAD,Proposed Statewide Amendment 2,,,Unverified Candidate 3,203
+Blount,0013 SNEAD,Proposed Statewide Amendment 2,,,Yes,259
+Blount,0013 SNEAD,Proposed Statewide Amendment 2,,,No,203
 Blount,0013 SNEAD,Governor,,DEM,"Chad ""Chig"" Martin",2
 Blount,0013 SNEAD,Governor,,DEM,Doug Jones,18
 Blount,0013 SNEAD,Governor,,DEM,Jamel J. Brown,0
@@ -709,8 +709,8 @@ Blount,0013 SNEAD,State Auditor,,REP,Andrew Sorrell,263
 Blount,0013 SNEAD,State Auditor,,REP,Derek Chen,133
 Blount,0013 SNEAD,State Board of Education,6,REP,Cathi Bradford,183
 Blount,0013 SNEAD,State Board of Education,6,REP,Marie Manning,199
-Blount,0013 SNEAD,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,170
-Blount,0013 SNEAD,"State Republican Executive Committee, Blount County,",,REP,Steven King,239
+Blount,0013 SNEAD,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,170
+Blount,0013 SNEAD,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,239
 Blount,0013 SNEAD,State Treasurer,,REP,Steve Lolley,126
 Blount,0013 SNEAD,State Treasurer,,REP,Young Boozer,283
 Blount,0013 SNEAD,U.S. House,4,REP,Robert B. Aderholt,370
@@ -724,8 +724,8 @@ Blount,0013 SNEAD,U.S. Senate,,REP,Seth Burton,7
 Blount,0013 SNEAD,U.S. Senate,,REP,Steve Marshall,202
 Blount,0014 SUSAN MOORE,Proposed Statewide Amendment 1,,,No,32
 Blount,0014 SUSAN MOORE,Proposed Statewide Amendment 1,,,Yes,300
-Blount,0014 SUSAN MOORE,Proposed Statewide Amendment 2,,,Unverified Candidate 1,164
-Blount,0014 SUSAN MOORE,Proposed Statewide Amendment 2,,,Unverified Candidate 3,152
+Blount,0014 SUSAN MOORE,Proposed Statewide Amendment 2,,,Yes,164
+Blount,0014 SUSAN MOORE,Proposed Statewide Amendment 2,,,No,152
 Blount,0014 SUSAN MOORE,Governor,,DEM,"Chad ""Chig"" Martin",2
 Blount,0014 SUSAN MOORE,Governor,,DEM,Doug Jones,13
 Blount,0014 SUSAN MOORE,Governor,,DEM,Jamel J. Brown,0
@@ -776,8 +776,8 @@ Blount,0014 SUSAN MOORE,State Auditor,,REP,Andrew Sorrell,193
 Blount,0014 SUSAN MOORE,State Auditor,,REP,Derek Chen,88
 Blount,0014 SUSAN MOORE,State Board of Education,6,REP,Cathi Bradford,132
 Blount,0014 SUSAN MOORE,State Board of Education,6,REP,Marie Manning,120
-Blount,0014 SUSAN MOORE,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,129
-Blount,0014 SUSAN MOORE,"State Republican Executive Committee, Blount County,",,REP,Steven King,155
+Blount,0014 SUSAN MOORE,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,129
+Blount,0014 SUSAN MOORE,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,155
 Blount,0014 SUSAN MOORE,State Treasurer,,REP,Steve Lolley,97
 Blount,0014 SUSAN MOORE,State Treasurer,,REP,Young Boozer,184
 Blount,0014 SUSAN MOORE,U.S. House,4,REP,Robert B. Aderholt,253
@@ -791,8 +791,8 @@ Blount,0014 SUSAN MOORE,U.S. Senate,,REP,Seth Burton,6
 Blount,0014 SUSAN MOORE,U.S. Senate,,REP,Steve Marshall,100
 Blount,0016 MURPHREE VALLEY,Proposed Statewide Amendment 1,,,No,27
 Blount,0016 MURPHREE VALLEY,Proposed Statewide Amendment 1,,,Yes,234
-Blount,0016 MURPHREE VALLEY,Proposed Statewide Amendment 2,,,Unverified Candidate 1,151
-Blount,0016 MURPHREE VALLEY,Proposed Statewide Amendment 2,,,Unverified Candidate 3,104
+Blount,0016 MURPHREE VALLEY,Proposed Statewide Amendment 2,,,Yes,151
+Blount,0016 MURPHREE VALLEY,Proposed Statewide Amendment 2,,,No,104
 Blount,0016 MURPHREE VALLEY,Governor,,DEM,"Chad ""Chig"" Martin",3
 Blount,0016 MURPHREE VALLEY,Governor,,DEM,Doug Jones,16
 Blount,0016 MURPHREE VALLEY,Governor,,DEM,Jamel J. Brown,2
@@ -845,8 +845,8 @@ Blount,0016 MURPHREE VALLEY,State Auditor,,REP,Andrew Sorrell,158
 Blount,0016 MURPHREE VALLEY,State Auditor,,REP,Derek Chen,67
 Blount,0016 MURPHREE VALLEY,State Board of Education,6,REP,Cathi Bradford,97
 Blount,0016 MURPHREE VALLEY,State Board of Education,6,REP,Marie Manning,105
-Blount,0016 MURPHREE VALLEY,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,123
-Blount,0016 MURPHREE VALLEY,"State Republican Executive Committee, Blount County,",,REP,Steven King,98
+Blount,0016 MURPHREE VALLEY,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,123
+Blount,0016 MURPHREE VALLEY,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,98
 Blount,0016 MURPHREE VALLEY,State Treasurer,,REP,Steve Lolley,86
 Blount,0016 MURPHREE VALLEY,State Treasurer,,REP,Young Boozer,133
 Blount,0016 MURPHREE VALLEY,U.S. House,4,REP,Robert B. Aderholt,174
@@ -860,8 +860,8 @@ Blount,0016 MURPHREE VALLEY,U.S. Senate,,REP,Seth Burton,2
 Blount,0016 MURPHREE VALLEY,U.S. Senate,,REP,Steve Marshall,79
 Blount,0017 STRAIGHT MOUNTAIN,Proposed Statewide Amendment 1,,,No,62
 Blount,0017 STRAIGHT MOUNTAIN,Proposed Statewide Amendment 1,,,Yes,544
-Blount,0017 STRAIGHT MOUNTAIN,Proposed Statewide Amendment 2,,,Unverified Candidate 1,313
-Blount,0017 STRAIGHT MOUNTAIN,Proposed Statewide Amendment 2,,,Unverified Candidate 3,271
+Blount,0017 STRAIGHT MOUNTAIN,Proposed Statewide Amendment 2,,,Yes,313
+Blount,0017 STRAIGHT MOUNTAIN,Proposed Statewide Amendment 2,,,No,271
 Blount,0017 STRAIGHT MOUNTAIN,Governor,,DEM,"Chad ""Chig"" Martin",11
 Blount,0017 STRAIGHT MOUNTAIN,Governor,,DEM,Doug Jones,21
 Blount,0017 STRAIGHT MOUNTAIN,Governor,,DEM,Jamel J. Brown,2
@@ -912,8 +912,8 @@ Blount,0017 STRAIGHT MOUNTAIN,State Auditor,,REP,Andrew Sorrell,325
 Blount,0017 STRAIGHT MOUNTAIN,State Auditor,,REP,Derek Chen,175
 Blount,0017 STRAIGHT MOUNTAIN,State Board of Education,6,REP,Cathi Bradford,239
 Blount,0017 STRAIGHT MOUNTAIN,State Board of Education,6,REP,Marie Manning,243
-Blount,0017 STRAIGHT MOUNTAIN,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,229
-Blount,0017 STRAIGHT MOUNTAIN,"State Republican Executive Committee, Blount County,",,REP,Steven King,290
+Blount,0017 STRAIGHT MOUNTAIN,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,229
+Blount,0017 STRAIGHT MOUNTAIN,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,290
 Blount,0017 STRAIGHT MOUNTAIN,State Treasurer,,REP,Steve Lolley,177
 Blount,0017 STRAIGHT MOUNTAIN,State Treasurer,,REP,Young Boozer,327
 Blount,0017 STRAIGHT MOUNTAIN,U.S. House,4,REP,Robert B. Aderholt,432
@@ -927,8 +927,8 @@ Blount,0017 STRAIGHT MOUNTAIN,U.S. Senate,,REP,Seth Burton,9
 Blount,0017 STRAIGHT MOUNTAIN,U.S. Senate,,REP,Steve Marshall,162
 Blount,0018 HOLLY SPRINGS,Proposed Statewide Amendment 1,,,No,16
 Blount,0018 HOLLY SPRINGS,Proposed Statewide Amendment 1,,,Yes,133
-Blount,0018 HOLLY SPRINGS,Proposed Statewide Amendment 2,,,Unverified Candidate 1,78
-Blount,0018 HOLLY SPRINGS,Proposed Statewide Amendment 2,,,Unverified Candidate 3,69
+Blount,0018 HOLLY SPRINGS,Proposed Statewide Amendment 2,,,Yes,78
+Blount,0018 HOLLY SPRINGS,Proposed Statewide Amendment 2,,,No,69
 Blount,0018 HOLLY SPRINGS,Governor,,DEM,"Chad ""Chig"" Martin",0
 Blount,0018 HOLLY SPRINGS,Governor,,DEM,Doug Jones,7
 Blount,0018 HOLLY SPRINGS,Governor,,DEM,Jamel J. Brown,0
@@ -979,8 +979,8 @@ Blount,0018 HOLLY SPRINGS,State Auditor,,REP,Andrew Sorrell,80
 Blount,0018 HOLLY SPRINGS,State Auditor,,REP,Derek Chen,43
 Blount,0018 HOLLY SPRINGS,State Board of Education,6,REP,Cathi Bradford,61
 Blount,0018 HOLLY SPRINGS,State Board of Education,6,REP,Marie Manning,59
-Blount,0018 HOLLY SPRINGS,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,65
-Blount,0018 HOLLY SPRINGS,"State Republican Executive Committee, Blount County,",,REP,Steven King,58
+Blount,0018 HOLLY SPRINGS,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,65
+Blount,0018 HOLLY SPRINGS,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,58
 Blount,0018 HOLLY SPRINGS,State Treasurer,,REP,Steve Lolley,50
 Blount,0018 HOLLY SPRINGS,State Treasurer,,REP,Young Boozer,78
 Blount,0018 HOLLY SPRINGS,U.S. House,4,REP,Robert B. Aderholt,108
@@ -994,8 +994,8 @@ Blount,0018 HOLLY SPRINGS,U.S. Senate,,REP,Seth Burton,3
 Blount,0018 HOLLY SPRINGS,U.S. Senate,,REP,Steve Marshall,29
 Blount,0019 CLEVELAND,Proposed Statewide Amendment 1,,,No,33
 Blount,0019 CLEVELAND,Proposed Statewide Amendment 1,,,Yes,383
-Blount,0019 CLEVELAND,Proposed Statewide Amendment 2,,,Unverified Candidate 1,213
-Blount,0019 CLEVELAND,Proposed Statewide Amendment 2,,,Unverified Candidate 3,185
+Blount,0019 CLEVELAND,Proposed Statewide Amendment 2,,,Yes,213
+Blount,0019 CLEVELAND,Proposed Statewide Amendment 2,,,No,185
 Blount,0019 CLEVELAND,Governor,,DEM,"Chad ""Chig"" Martin",2
 Blount,0019 CLEVELAND,Governor,,DEM,Doug Jones,25
 Blount,0019 CLEVELAND,Governor,,DEM,Jamel J. Brown,0
@@ -1044,8 +1044,8 @@ Blount,0019 CLEVELAND,State Auditor,,REP,Andrew Sorrell,254
 Blount,0019 CLEVELAND,State Auditor,,REP,Derek Chen,100
 Blount,0019 CLEVELAND,State Board of Education,6,REP,Cathi Bradford,164
 Blount,0019 CLEVELAND,State Board of Education,6,REP,Marie Manning,169
-Blount,0019 CLEVELAND,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,133
-Blount,0019 CLEVELAND,"State Republican Executive Committee, Blount County,",,REP,Steven King,219
+Blount,0019 CLEVELAND,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,133
+Blount,0019 CLEVELAND,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,219
 Blount,0019 CLEVELAND,State Treasurer,,REP,Steve Lolley,127
 Blount,0019 CLEVELAND,State Treasurer,,REP,Young Boozer,231
 Blount,0019 CLEVELAND,U.S. House,4,REP,Robert B. Aderholt,294
@@ -1059,8 +1059,8 @@ Blount,0019 CLEVELAND,U.S. Senate,,REP,Seth Burton,9
 Blount,0019 CLEVELAND,U.S. Senate,,REP,Steve Marshall,91
 Blount,0020 LOCUST FORK,Proposed Statewide Amendment 1,,,No,44
 Blount,0020 LOCUST FORK,Proposed Statewide Amendment 1,,,Yes,451
-Blount,0020 LOCUST FORK,Proposed Statewide Amendment 2,,,Unverified Candidate 1,251
-Blount,0020 LOCUST FORK,Proposed Statewide Amendment 2,,,Unverified Candidate 3,233
+Blount,0020 LOCUST FORK,Proposed Statewide Amendment 2,,,Yes,251
+Blount,0020 LOCUST FORK,Proposed Statewide Amendment 2,,,No,233
 Blount,0020 LOCUST FORK,Governor,,DEM,"Chad ""Chig"" Martin",1
 Blount,0020 LOCUST FORK,Governor,,DEM,Doug Jones,16
 Blount,0020 LOCUST FORK,Governor,,DEM,Jamel J. Brown,0
@@ -1111,8 +1111,8 @@ Blount,0020 LOCUST FORK,State Auditor,,REP,Andrew Sorrell,286
 Blount,0020 LOCUST FORK,State Auditor,,REP,Derek Chen,149
 Blount,0020 LOCUST FORK,State Board of Education,6,REP,Cathi Bradford,221
 Blount,0020 LOCUST FORK,State Board of Education,6,REP,Marie Manning,213
-Blount,0020 LOCUST FORK,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,165
-Blount,0020 LOCUST FORK,"State Republican Executive Committee, Blount County,",,REP,Steven King,258
+Blount,0020 LOCUST FORK,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,165
+Blount,0020 LOCUST FORK,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,258
 Blount,0020 LOCUST FORK,State Treasurer,,REP,Steve Lolley,170
 Blount,0020 LOCUST FORK,State Treasurer,,REP,Young Boozer,269
 Blount,0020 LOCUST FORK,U.S. House,4,REP,Robert B. Aderholt,380
@@ -1126,8 +1126,8 @@ Blount,0020 LOCUST FORK,U.S. Senate,,REP,Seth Burton,9
 Blount,0020 LOCUST FORK,U.S. Senate,,REP,Steve Marshall,102
 Blount,0021 DALLAS/SELFVILLE,Proposed Statewide Amendment 1,,,No,52
 Blount,0021 DALLAS/SELFVILLE,Proposed Statewide Amendment 1,,,Yes,374
-Blount,0021 DALLAS/SELFVILLE,Proposed Statewide Amendment 2,,,Unverified Candidate 1,233
-Blount,0021 DALLAS/SELFVILLE,Proposed Statewide Amendment 2,,,Unverified Candidate 3,179
+Blount,0021 DALLAS/SELFVILLE,Proposed Statewide Amendment 2,,,Yes,233
+Blount,0021 DALLAS/SELFVILLE,Proposed Statewide Amendment 2,,,No,179
 Blount,0021 DALLAS/SELFVILLE,Governor,,DEM,"Chad ""Chig"" Martin",9
 Blount,0021 DALLAS/SELFVILLE,Governor,,DEM,Doug Jones,16
 Blount,0021 DALLAS/SELFVILLE,Governor,,DEM,Jamel J. Brown,2
@@ -1176,8 +1176,8 @@ Blount,0021 DALLAS/SELFVILLE,State Auditor,,REP,Andrew Sorrell,247
 Blount,0021 DALLAS/SELFVILLE,State Auditor,,REP,Derek Chen,111
 Blount,0021 DALLAS/SELFVILLE,State Board of Education,6,REP,Cathi Bradford,198
 Blount,0021 DALLAS/SELFVILLE,State Board of Education,6,REP,Marie Manning,143
-Blount,0021 DALLAS/SELFVILLE,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,140
-Blount,0021 DALLAS/SELFVILLE,"State Republican Executive Committee, Blount County,",,REP,Steven King,210
+Blount,0021 DALLAS/SELFVILLE,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,140
+Blount,0021 DALLAS/SELFVILLE,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,210
 Blount,0021 DALLAS/SELFVILLE,State Treasurer,,REP,Steve Lolley,141
 Blount,0021 DALLAS/SELFVILLE,State Treasurer,,REP,Young Boozer,216
 Blount,0021 DALLAS/SELFVILLE,U.S. House,4,REP,Robert B. Aderholt,297
@@ -1191,8 +1191,8 @@ Blount,0021 DALLAS/SELFVILLE,U.S. Senate,,REP,Seth Burton,6
 Blount,0021 DALLAS/SELFVILLE,U.S. Senate,,REP,Steve Marshall,83
 Blount,0022 REMLAP,Proposed Statewide Amendment 1,,,No,29
 Blount,0022 REMLAP,Proposed Statewide Amendment 1,,,Yes,347
-Blount,0022 REMLAP,Proposed Statewide Amendment 2,,,Unverified Candidate 1,189
-Blount,0022 REMLAP,Proposed Statewide Amendment 2,,,Unverified Candidate 3,175
+Blount,0022 REMLAP,Proposed Statewide Amendment 2,,,Yes,189
+Blount,0022 REMLAP,Proposed Statewide Amendment 2,,,No,175
 Blount,0022 REMLAP,Governor,,DEM,"Chad ""Chig"" Martin",5
 Blount,0022 REMLAP,Governor,,DEM,Doug Jones,35
 Blount,0022 REMLAP,Governor,,DEM,Jamel J. Brown,1
@@ -1241,8 +1241,8 @@ Blount,0022 REMLAP,State Auditor,,REP,Andrew Sorrell,218
 Blount,0022 REMLAP,State Auditor,,REP,Derek Chen,89
 Blount,0022 REMLAP,State Board of Education,6,REP,Cathi Bradford,146
 Blount,0022 REMLAP,State Board of Education,6,REP,Marie Manning,135
-Blount,0022 REMLAP,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,86
-Blount,0022 REMLAP,"State Republican Executive Committee, Blount County,",,REP,Steven King,202
+Blount,0022 REMLAP,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,86
+Blount,0022 REMLAP,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,202
 Blount,0022 REMLAP,State Treasurer,,REP,Steve Lolley,97
 Blount,0022 REMLAP,State Treasurer,,REP,Young Boozer,211
 Blount,0022 REMLAP,U.S. House,4,REP,Robert B. Aderholt,265
@@ -1256,8 +1256,8 @@ Blount,0022 REMLAP,U.S. Senate,,REP,Seth Burton,5
 Blount,0022 REMLAP,U.S. Senate,,REP,Steve Marshall,83
 Blount,0023 PINE MOUNTAIN,Proposed Statewide Amendment 1,,,No,16
 Blount,0023 PINE MOUNTAIN,Proposed Statewide Amendment 1,,,Yes,167
-Blount,0023 PINE MOUNTAIN,Proposed Statewide Amendment 2,,,Unverified Candidate 1,100
-Blount,0023 PINE MOUNTAIN,Proposed Statewide Amendment 2,,,Unverified Candidate 3,75
+Blount,0023 PINE MOUNTAIN,Proposed Statewide Amendment 2,,,Yes,100
+Blount,0023 PINE MOUNTAIN,Proposed Statewide Amendment 2,,,No,75
 Blount,0023 PINE MOUNTAIN,Governor,,DEM,"Chad ""Chig"" Martin",0
 Blount,0023 PINE MOUNTAIN,Governor,,DEM,Doug Jones,15
 Blount,0023 PINE MOUNTAIN,Governor,,DEM,Jamel J. Brown,0
@@ -1306,8 +1306,8 @@ Blount,0023 PINE MOUNTAIN,State Auditor,,REP,Andrew Sorrell,95
 Blount,0023 PINE MOUNTAIN,State Auditor,,REP,Derek Chen,46
 Blount,0023 PINE MOUNTAIN,State Board of Education,6,REP,Cathi Bradford,70
 Blount,0023 PINE MOUNTAIN,State Board of Education,6,REP,Marie Manning,63
-Blount,0023 PINE MOUNTAIN,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,46
-Blount,0023 PINE MOUNTAIN,"State Republican Executive Committee, Blount County,",,REP,Steven King,91
+Blount,0023 PINE MOUNTAIN,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,46
+Blount,0023 PINE MOUNTAIN,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,91
 Blount,0023 PINE MOUNTAIN,State Treasurer,,REP,Steve Lolley,53
 Blount,0023 PINE MOUNTAIN,State Treasurer,,REP,Young Boozer,90
 Blount,0023 PINE MOUNTAIN,U.S. House,4,REP,Robert B. Aderholt,119
@@ -1321,8 +1321,8 @@ Blount,0023 PINE MOUNTAIN,U.S. Senate,,REP,Seth Burton,3
 Blount,0023 PINE MOUNTAIN,U.S. Senate,,REP,Steve Marshall,28
 Blount,0024 ALLGOOD,Proposed Statewide Amendment 1,,,No,32
 Blount,0024 ALLGOOD,Proposed Statewide Amendment 1,,,Yes,167
-Blount,0024 ALLGOOD,Proposed Statewide Amendment 2,,,Unverified Candidate 1,96
-Blount,0024 ALLGOOD,Proposed Statewide Amendment 2,,,Unverified Candidate 2,99
+Blount,0024 ALLGOOD,Proposed Statewide Amendment 2,,,Yes,96
+Blount,0024 ALLGOOD,Proposed Statewide Amendment 2,,,No,99
 Blount,0024 ALLGOOD,Governor,,DEM,"Chad ""Chig"" Martin",1
 Blount,0024 ALLGOOD,Governor,,DEM,Doug Jones,16
 Blount,0024 ALLGOOD,Governor,,DEM,Jamel J. Brown,0
@@ -1373,8 +1373,8 @@ Blount,0024 ALLGOOD,State Auditor,,REP,Andrew Sorrell,109
 Blount,0024 ALLGOOD,State Auditor,,REP,Derek Chen,59
 Blount,0024 ALLGOOD,State Board of Education,6,REP,Cathi Bradford,92
 Blount,0024 ALLGOOD,State Board of Education,6,REP,Marie Manning,66
-Blount,0024 ALLGOOD,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,89
-Blount,0024 ALLGOOD,"State Republican Executive Committee, Blount County,",,REP,Steven King,87
+Blount,0024 ALLGOOD,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,89
+Blount,0024 ALLGOOD,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,87
 Blount,0024 ALLGOOD,State Treasurer,,REP,Steve Lolley,67
 Blount,0024 ALLGOOD,State Treasurer,,REP,Young Boozer,109
 Blount,0024 ALLGOOD,U.S. House,4,REP,Robert B. Aderholt,153
@@ -1388,8 +1388,8 @@ Blount,0024 ALLGOOD,U.S. Senate,,REP,Seth Burton,5
 Blount,0024 ALLGOOD,U.S. Senate,,REP,Steve Marshall,57
 Blount,0025 ONEONTA,Proposed Statewide Amendment 1,,,No,118
 Blount,0025 ONEONTA,Proposed Statewide Amendment 1,,,Yes,828
-Blount,0025 ONEONTA,Proposed Statewide Amendment 2,,,Unverified Candidate 1,498
-Blount,0025 ONEONTA,Proposed Statewide Amendment 2,,,Unverified Candidate 2,417
+Blount,0025 ONEONTA,Proposed Statewide Amendment 2,,,Yes,498
+Blount,0025 ONEONTA,Proposed Statewide Amendment 2,,,No,417
 Blount,0025 ONEONTA,Governor,,DEM,"Chad ""Chig"" Martin",11
 Blount,0025 ONEONTA,Governor,,DEM,Doug Jones,107
 Blount,0025 ONEONTA,Governor,,DEM,Jamel J. Brown,2
@@ -1440,8 +1440,8 @@ Blount,0025 ONEONTA,State Auditor,,REP,Andrew Sorrell,481
 Blount,0025 ONEONTA,State Auditor,,REP,Derek Chen,260
 Blount,0025 ONEONTA,State Board of Education,6,REP,Cathi Bradford,347
 Blount,0025 ONEONTA,State Board of Education,6,REP,Marie Manning,364
-Blount,0025 ONEONTA,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,457
-Blount,0025 ONEONTA,"State Republican Executive Committee, Blount County,",,REP,Steven King,327
+Blount,0025 ONEONTA,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,457
+Blount,0025 ONEONTA,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,327
 Blount,0025 ONEONTA,State Treasurer,,REP,Steve Lolley,238
 Blount,0025 ONEONTA,State Treasurer,,REP,Young Boozer,519
 Blount,0025 ONEONTA,U.S. House,4,REP,Robert B. Aderholt,672
@@ -1455,8 +1455,8 @@ Blount,0025 ONEONTA,U.S. Senate,,REP,Seth Burton,17
 Blount,0025 ONEONTA,U.S. Senate,,REP,Steve Marshall,214
 Blount,0026 ROSA,Proposed Statewide Amendment 1,,,No,38
 Blount,0026 ROSA,Proposed Statewide Amendment 1,,,Yes,274
-Blount,0026 ROSA,Proposed Statewide Amendment 2,,,Unverified Candidate 1,180
-Blount,0026 ROSA,Proposed Statewide Amendment 2,,,Unverified Candidate 2,117
+Blount,0026 ROSA,Proposed Statewide Amendment 2,,,Yes,180
+Blount,0026 ROSA,Proposed Statewide Amendment 2,,,No,117
 Blount,0026 ROSA,Governor,,DEM,"Chad ""Chig"" Martin",5
 Blount,0026 ROSA,Governor,,DEM,Doug Jones,17
 Blount,0026 ROSA,Governor,,DEM,Jamel J. Brown,0
@@ -1503,8 +1503,8 @@ Blount,0026 ROSA,State Auditor,,REP,Andrew Sorrell,164
 Blount,0026 ROSA,State Auditor,,REP,Derek Chen,90
 Blount,0026 ROSA,State Board of Education,6,REP,Cathi Bradford,128
 Blount,0026 ROSA,State Board of Education,6,REP,Marie Manning,112
-Blount,0026 ROSA,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,97
-Blount,0026 ROSA,"State Republican Executive Committee, Blount County,",,REP,Steven King,165
+Blount,0026 ROSA,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,97
+Blount,0026 ROSA,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,165
 Blount,0026 ROSA,State Treasurer,,REP,Steve Lolley,103
 Blount,0026 ROSA,State Treasurer,,REP,Young Boozer,156
 Blount,0026 ROSA,U.S. House,4,REP,Robert B. Aderholt,222
@@ -1518,8 +1518,8 @@ Blount,0026 ROSA,U.S. Senate,,REP,Seth Burton,5
 Blount,0026 ROSA,U.S. Senate,,REP,Steve Marshall,71
 Blount,0027 ROCK SPRINGS,Proposed Statewide Amendment 1,,,No,16
 Blount,0027 ROCK SPRINGS,Proposed Statewide Amendment 1,,,Yes,149
-Blount,0027 ROCK SPRINGS,Proposed Statewide Amendment 2,,,Unverified Candidate 1,78
-Blount,0027 ROCK SPRINGS,Proposed Statewide Amendment 2,,,Unverified Candidate 2,85
+Blount,0027 ROCK SPRINGS,Proposed Statewide Amendment 2,,,Yes,78
+Blount,0027 ROCK SPRINGS,Proposed Statewide Amendment 2,,,No,85
 Blount,0027 ROCK SPRINGS,Governor,,DEM,"Chad ""Chig"" Martin",0
 Blount,0027 ROCK SPRINGS,Governor,,DEM,Doug Jones,9
 Blount,0027 ROCK SPRINGS,Governor,,DEM,Jamel J. Brown,0
@@ -1566,8 +1566,8 @@ Blount,0027 ROCK SPRINGS,State Auditor,,REP,Andrew Sorrell,94
 Blount,0027 ROCK SPRINGS,State Auditor,,REP,Derek Chen,49
 Blount,0027 ROCK SPRINGS,State Board of Education,6,REP,Cathi Bradford,76
 Blount,0027 ROCK SPRINGS,State Board of Education,6,REP,Marie Manning,62
-Blount,0027 ROCK SPRINGS,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,44
-Blount,0027 ROCK SPRINGS,"State Republican Executive Committee, Blount County,",,REP,Steven King,104
+Blount,0027 ROCK SPRINGS,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,44
+Blount,0027 ROCK SPRINGS,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,104
 Blount,0027 ROCK SPRINGS,State Treasurer,,REP,Steve Lolley,40
 Blount,0027 ROCK SPRINGS,State Treasurer,,REP,Young Boozer,105
 Blount,0027 ROCK SPRINGS,U.S. House,4,REP,Robert B. Aderholt,135
@@ -1581,8 +1581,8 @@ Blount,0027 ROCK SPRINGS,U.S. Senate,,REP,Seth Burton,3
 Blount,0027 ROCK SPRINGS,U.S. Senate,,REP,Steve Marshall,53
 Blount,0028 ABSENTEE,Proposed Statewide Amendment 1,,,No,11
 Blount,0028 ABSENTEE,Proposed Statewide Amendment 1,,,Yes,99
-Blount,0028 ABSENTEE,Proposed Statewide Amendment 2,,,Unverified Candidate 1,62
-Blount,0028 ABSENTEE,Proposed Statewide Amendment 2,,,Unverified Candidate 2,40
+Blount,0028 ABSENTEE,Proposed Statewide Amendment 2,,,Yes,62
+Blount,0028 ABSENTEE,Proposed Statewide Amendment 2,,,No,40
 Blount,0028 ABSENTEE,Governor,,DEM,"Chad ""Chig"" Martin",1
 Blount,0028 ABSENTEE,Governor,,DEM,Doug Jones,8
 Blount,0028 ABSENTEE,Governor,,DEM,Jamel J. Brown,0
@@ -1637,8 +1637,8 @@ Blount,0028 ABSENTEE,State Auditor,,REP,Andrew Sorrell,55
 Blount,0028 ABSENTEE,State Auditor,,REP,Derek Chen,33
 Blount,0028 ABSENTEE,State Board of Education,6,REP,Cathi Bradford,42
 Blount,0028 ABSENTEE,State Board of Education,6,REP,Marie Manning,40
-Blount,0028 ABSENTEE,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,44
-Blount,0028 ABSENTEE,"State Republican Executive Committee, Blount County,",,REP,Steven King,43
+Blount,0028 ABSENTEE,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,44
+Blount,0028 ABSENTEE,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,43
 Blount,0028 ABSENTEE,State Treasurer,,REP,Steve Lolley,27
 Blount,0028 ABSENTEE,State Treasurer,,REP,Young Boozer,59
 Blount,0028 ABSENTEE,U.S. House,4,REP,Robert B. Aderholt,87
@@ -1652,8 +1652,8 @@ Blount,0028 ABSENTEE,U.S. Senate,,REP,Seth Burton,2
 Blount,0028 ABSENTEE,U.S. Senate,,REP,Steve Marshall,20
 Blount,0029 PROVISIONAL,Proposed Statewide Amendment 1,,,No,0
 Blount,0029 PROVISIONAL,Proposed Statewide Amendment 1,,,Yes,12
-Blount,0029 PROVISIONAL,Proposed Statewide Amendment 2,,,Unverified Candidate 1,6
-Blount,0029 PROVISIONAL,Proposed Statewide Amendment 2,,,Unverified Candidate 2,7
+Blount,0029 PROVISIONAL,Proposed Statewide Amendment 2,,,Yes,6
+Blount,0029 PROVISIONAL,Proposed Statewide Amendment 2,,,No,7
 Blount,0029 PROVISIONAL,Governor,,DEM,"Chad ""Chig"" Martin",0
 Blount,0029 PROVISIONAL,Governor,,DEM,Doug Jones,0
 Blount,0029 PROVISIONAL,Governor,,DEM,Jamel J. Brown,0
@@ -1708,8 +1708,8 @@ Blount,0029 PROVISIONAL,State Auditor,,REP,Andrew Sorrell,8
 Blount,0029 PROVISIONAL,State Auditor,,REP,Derek Chen,4
 Blount,0029 PROVISIONAL,State Board of Education,6,REP,Cathi Bradford,7
 Blount,0029 PROVISIONAL,State Board of Education,6,REP,Marie Manning,4
-Blount,0029 PROVISIONAL,"State Republican Executive Committee, Blount County,",,REP,Patrick G. Hubauer,7
-Blount,0029 PROVISIONAL,"State Republican Executive Committee, Blount County,",,REP,Steven King,4
+Blount,0029 PROVISIONAL,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Patrick G. Hubauer,7
+Blount,0029 PROVISIONAL,"State Republican Executive Committee, Blount County, Place No. 1",,REP,Steven King,4
 Blount,0029 PROVISIONAL,State Treasurer,,REP,Steve Lolley,5
 Blount,0029 PROVISIONAL,State Treasurer,,REP,Young Boozer,7
 Blount,0029 PROVISIONAL,U.S. House,4,REP,Robert B. Aderholt,8

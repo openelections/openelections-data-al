@@ -1,4 +1,7 @@
 county,precinct,office,district,party,candidate,votes
+Lee,0001 BEULAH BAPTIST,Commissioner of Agriculture and Industries,,REP,Cory Hill,170
+Lee,0001 BEULAH BAPTIST,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,120
+Lee,0001 BEULAH BAPTIST,Commissioner of Agriculture and Industries,,REP,Jack Williams,139
 Lee,0001 BEULAH BAPTIST,Proposed Statewide Amendment 1,,,No,52
 Lee,0001 BEULAH BAPTIST,Proposed Statewide Amendment 1,,,Yes,461
 Lee,0001 BEULAH BAPTIST,Proposed Statewide Amendment 2,,,No,235
@@ -9,22 +12,22 @@ Lee,0001 BEULAH BAPTIST,Governor,,DEM,Jamel J. Brown,1
 Lee,0001 BEULAH BAPTIST,Governor,,DEM,"Nathan ""Nate"" Mathis",1
 Lee,0001 BEULAH BAPTIST,Governor,,DEM,Will Boyd,5
 Lee,0001 BEULAH BAPTIST,Governor,,DEM,Yolanda Rochelle Flowers,0
-Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,6
-Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,8
-Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,3
-Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,6
-Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,1
-Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,12
-Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,6
-Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,6
+Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,6
+Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,8
+Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,3
+Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,6
+Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,1
+Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,12
+Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,6
+Lee,0001 BEULAH BAPTIST,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,6
 Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,DEM,Darryl D. Perryman,12
 Lee,0001 BEULAH BAPTIST,Lieutenant Governor,,DEM,Phillip Ensler,13
 Lee,0001 BEULAH BAPTIST,State House,38,DEM,Christopher F. Davis,5
 Lee,0001 BEULAH BAPTIST,State House,38,DEM,Hazel Floyd,22
-Lee,0001 BEULAH BAPTIST,U.S. Senate,,DEM,Unverified Candidate 1,14
-Lee,0001 BEULAH BAPTIST,U.S. Senate,,DEM,Unverified Candidate 2,3
-Lee,0001 BEULAH BAPTIST,U.S. Senate,,DEM,Unverified Candidate 3,5
-Lee,0001 BEULAH BAPTIST,U.S. Senate,,DEM,Unverified Candidate 4,6
+Lee,0001 BEULAH BAPTIST,U.S. Senate,,DEM,Dakarai Larriett,14
+Lee,0001 BEULAH BAPTIST,U.S. Senate,,DEM,Kyle Sweetser,3
+Lee,0001 BEULAH BAPTIST,U.S. Senate,,DEM,Everett Wess,5
+Lee,0001 BEULAH BAPTIST,U.S. Senate,,DEM,Mark S. Wheeler II,6
 Lee,0001 BEULAH BAPTIST,Attorney General,,REP,Jay Mitchell,219
 Lee,0001 BEULAH BAPTIST,Attorney General,,REP,Katherine Robertson,111
 Lee,0001 BEULAH BAPTIST,Attorney General,,REP,Pamela L. Casey,110
@@ -68,6 +71,9 @@ Lee,0001 BEULAH BAPTIST,U.S. Senate,,REP,Morgan Murphy,12
 Lee,0001 BEULAH BAPTIST,U.S. Senate,,REP,Rodney Walker,34
 Lee,0001 BEULAH BAPTIST,U.S. Senate,,REP,Seth Burton,36
 Lee,0001 BEULAH BAPTIST,U.S. Senate,,REP,Steve Marshall,86
+Lee,0002 COVINGTON PARK COMM.,Commissioner of Agriculture and Industries,,REP,Cory Hill,37
+Lee,0002 COVINGTON PARK COMM.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,34
+Lee,0002 COVINGTON PARK COMM.,Commissioner of Agriculture and Industries,,REP,Jack Williams,31
 Lee,0002 COVINGTON PARK COMM.,Proposed Statewide Amendment 1,,,No,84
 Lee,0002 COVINGTON PARK COMM.,Proposed Statewide Amendment 1,,,Yes,605
 Lee,0002 COVINGTON PARK COMM.,Proposed Statewide Amendment 2,,,No,157
@@ -82,18 +88,15 @@ Lee,0002 COVINGTON PARK COMM.,Governor,,DEM,Will Boyd,59
 Lee,0002 COVINGTON PARK COMM.,Governor,,DEM,Yolanda Rochelle Flowers,30
 Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,DEM,Darryl D. Perryman,167
 Lee,0002 COVINGTON PARK COMM.,Lieutenant Governor,,DEM,Phillip Ensler,366
-Lee,0002 COVINGTON PARK COMM.,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,159
-Lee,0002 COVINGTON PARK COMM.,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,438
-Lee,0002 COVINGTON PARK COMM.,U.S. Senate,,DEM,Unverified Candidate 1,108
-Lee,0002 COVINGTON PARK COMM.,U.S. Senate,,DEM,Unverified Candidate 2,55
-Lee,0002 COVINGTON PARK COMM.,U.S. Senate,,DEM,Unverified Candidate 3,332
-Lee,0002 COVINGTON PARK COMM.,U.S. Senate,,DEM,Unverified Candidate 4,38
+Lee,0002 COVINGTON PARK COMM.,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,159
+Lee,0002 COVINGTON PARK COMM.,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,438
+Lee,0002 COVINGTON PARK COMM.,U.S. Senate,,DEM,Dakarai Larriett,108
+Lee,0002 COVINGTON PARK COMM.,U.S. Senate,,DEM,Kyle Sweetser,55
+Lee,0002 COVINGTON PARK COMM.,U.S. Senate,,DEM,Everett Wess,332
+Lee,0002 COVINGTON PARK COMM.,U.S. Senate,,DEM,Mark S. Wheeler II,38
 Lee,0002 COVINGTON PARK COMM.,Attorney General,,REP,Jay Mitchell,55
 Lee,0002 COVINGTON PARK COMM.,Attorney General,,REP,Katherine Robertson,32
 Lee,0002 COVINGTON PARK COMM.,Attorney General,,REP,Pamela L. Casey,21
-Lee,0002 COVINGTON PARK COMM.,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,132
-Lee,0002 COVINGTON PARK COMM.,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,137
-Lee,0002 COVINGTON PARK COMM.,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,122
 Lee,0002 COVINGTON PARK COMM.,Governor,,REP,"""Alabama"" Will Santivasci",5
 Lee,0002 COVINGTON PARK COMM.,Governor,,REP,Ken McFeeters,17
 Lee,0002 COVINGTON PARK COMM.,Governor,,REP,Thomas Tuberville,98
@@ -132,6 +135,9 @@ Lee,0002 COVINGTON PARK COMM.,U.S. Senate,,REP,Morgan Murphy,5
 Lee,0002 COVINGTON PARK COMM.,U.S. Senate,,REP,Rodney Walker,4
 Lee,0002 COVINGTON PARK COMM.,U.S. Senate,,REP,Seth Burton,5
 Lee,0002 COVINGTON PARK COMM.,U.S. Senate,,REP,Steve Marshall,21
+Lee,0003 OPELIKA LEARNING CTR,Commissioner of Agriculture and Industries,,REP,Cory Hill,125
+Lee,0003 OPELIKA LEARNING CTR,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,132
+Lee,0003 OPELIKA LEARNING CTR,Commissioner of Agriculture and Industries,,REP,Jack Williams,91
 Lee,0003 OPELIKA LEARNING CTR,Proposed Statewide Amendment 1,,,No,227
 Lee,0003 OPELIKA LEARNING CTR,Proposed Statewide Amendment 1,,,Yes,1059
 Lee,0003 OPELIKA LEARNING CTR,Proposed Statewide Amendment 2,,,No,420
@@ -144,22 +150,22 @@ Lee,0003 OPELIKA LEARNING CTR,Governor,,DEM,Jamel J. Brown,82
 Lee,0003 OPELIKA LEARNING CTR,Governor,,DEM,"Nathan ""Nate"" Mathis",10
 Lee,0003 OPELIKA LEARNING CTR,Governor,,DEM,Will Boyd,114
 Lee,0003 OPELIKA LEARNING CTR,Governor,,DEM,Yolanda Rochelle Flowers,58
-Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,0
-Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,0
-Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,0
-Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,0
-Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,0
-Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,0
-Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,0
-Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,0
+Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,0
+Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,0
+Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,0
+Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,0
+Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,0
+Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,0
+Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,0
+Lee,0003 OPELIKA LEARNING CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,0
 Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,DEM,Darryl D. Perryman,286
 Lee,0003 OPELIKA LEARNING CTR,Lieutenant Governor,,DEM,Phillip Ensler,542
-Lee,0003 OPELIKA LEARNING CTR,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,310
-Lee,0003 OPELIKA LEARNING CTR,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,550
-Lee,0003 OPELIKA LEARNING CTR,U.S. Senate,,DEM,Unverified Candidate 1,235
-Lee,0003 OPELIKA LEARNING CTR,U.S. Senate,,DEM,Unverified Candidate 2,99
-Lee,0003 OPELIKA LEARNING CTR,U.S. Senate,,DEM,Unverified Candidate 3,419
-Lee,0003 OPELIKA LEARNING CTR,U.S. Senate,,DEM,Unverified Candidate 4,86
+Lee,0003 OPELIKA LEARNING CTR,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,310
+Lee,0003 OPELIKA LEARNING CTR,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,550
+Lee,0003 OPELIKA LEARNING CTR,U.S. Senate,,DEM,Dakarai Larriett,235
+Lee,0003 OPELIKA LEARNING CTR,U.S. Senate,,DEM,Kyle Sweetser,99
+Lee,0003 OPELIKA LEARNING CTR,U.S. Senate,,DEM,Everett Wess,419
+Lee,0003 OPELIKA LEARNING CTR,U.S. Senate,,DEM,Mark S. Wheeler II,86
 Lee,0003 OPELIKA LEARNING CTR,Attorney General,,REP,Jay Mitchell,159
 Lee,0003 OPELIKA LEARNING CTR,Attorney General,,REP,Katherine Robertson,126
 Lee,0003 OPELIKA LEARNING CTR,Attorney General,,REP,Pamela L. Casey,92
@@ -205,6 +211,9 @@ Lee,0003 OPELIKA LEARNING CTR,U.S. Senate,,REP,Morgan Murphy,15
 Lee,0003 OPELIKA LEARNING CTR,U.S. Senate,,REP,Rodney Walker,34
 Lee,0003 OPELIKA LEARNING CTR,U.S. Senate,,REP,Seth Burton,13
 Lee,0003 OPELIKA LEARNING CTR,U.S. Senate,,REP,Steve Marshall,72
+Lee,0004 DENSON DRIVE REC CTR,Commissioner of Agriculture and Industries,,REP,Cory Hill,167
+Lee,0004 DENSON DRIVE REC CTR,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,173
+Lee,0004 DENSON DRIVE REC CTR,Commissioner of Agriculture and Industries,,REP,Jack Williams,152
 Lee,0004 DENSON DRIVE REC CTR,Proposed Statewide Amendment 1,,,No,135
 Lee,0004 DENSON DRIVE REC CTR,Proposed Statewide Amendment 1,,,Yes,703
 Lee,0004 DENSON DRIVE REC CTR,Proposed Statewide Amendment 2,,,No,348
@@ -217,22 +226,22 @@ Lee,0004 DENSON DRIVE REC CTR,Governor,,DEM,Jamel J. Brown,15
 Lee,0004 DENSON DRIVE REC CTR,Governor,,DEM,"Nathan ""Nate"" Mathis",2
 Lee,0004 DENSON DRIVE REC CTR,Governor,,DEM,Will Boyd,15
 Lee,0004 DENSON DRIVE REC CTR,Governor,,DEM,Yolanda Rochelle Flowers,12
-Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,35
-Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,28
-Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,20
-Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,38
-Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,31
-Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,64
-Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,21
-Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,41
+Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,35
+Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,28
+Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,20
+Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,38
+Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,31
+Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,64
+Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,21
+Lee,0004 DENSON DRIVE REC CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,41
 Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,DEM,Darryl D. Perryman,81
 Lee,0004 DENSON DRIVE REC CTR,Lieutenant Governor,,DEM,Phillip Ensler,115
-Lee,0004 DENSON DRIVE REC CTR,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,48
-Lee,0004 DENSON DRIVE REC CTR,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,25
-Lee,0004 DENSON DRIVE REC CTR,U.S. Senate,,DEM,Unverified Candidate 1,101
-Lee,0004 DENSON DRIVE REC CTR,U.S. Senate,,DEM,Unverified Candidate 2,28
-Lee,0004 DENSON DRIVE REC CTR,U.S. Senate,,DEM,Unverified Candidate 3,42
-Lee,0004 DENSON DRIVE REC CTR,U.S. Senate,,DEM,Unverified Candidate 4,25
+Lee,0004 DENSON DRIVE REC CTR,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,48
+Lee,0004 DENSON DRIVE REC CTR,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,25
+Lee,0004 DENSON DRIVE REC CTR,U.S. Senate,,DEM,Dakarai Larriett,101
+Lee,0004 DENSON DRIVE REC CTR,U.S. Senate,,DEM,Kyle Sweetser,28
+Lee,0004 DENSON DRIVE REC CTR,U.S. Senate,,DEM,Everett Wess,42
+Lee,0004 DENSON DRIVE REC CTR,U.S. Senate,,DEM,Mark S. Wheeler II,25
 Lee,0004 DENSON DRIVE REC CTR,Attorney General,,REP,Jay Mitchell,240
 Lee,0004 DENSON DRIVE REC CTR,Attorney General,,REP,Katherine Robertson,204
 Lee,0004 DENSON DRIVE REC CTR,Attorney General,,REP,Pamela L. Casey,121
@@ -279,6 +288,9 @@ Lee,0004 DENSON DRIVE REC CTR,U.S. Senate,,REP,Morgan Murphy,22
 Lee,0004 DENSON DRIVE REC CTR,U.S. Senate,,REP,Rodney Walker,46
 Lee,0004 DENSON DRIVE REC CTR,U.S. Senate,,REP,Seth Burton,26
 Lee,0004 DENSON DRIVE REC CTR,U.S. Senate,,REP,Steve Marshall,138
+Lee,0005 EAMC EDUCATION CTR,Commissioner of Agriculture and Industries,,REP,Cory Hill,397
+Lee,0005 EAMC EDUCATION CTR,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,412
+Lee,0005 EAMC EDUCATION CTR,Commissioner of Agriculture and Industries,,REP,Jack Williams,306
 Lee,0005 EAMC EDUCATION CTR,Proposed Statewide Amendment 1,,,No,225
 Lee,0005 EAMC EDUCATION CTR,Proposed Statewide Amendment 1,,,Yes,1556
 Lee,0005 EAMC EDUCATION CTR,Proposed Statewide Amendment 2,,,No,637
@@ -291,22 +303,22 @@ Lee,0005 EAMC EDUCATION CTR,Governor,,DEM,Jamel J. Brown,23
 Lee,0005 EAMC EDUCATION CTR,Governor,,DEM,"Nathan ""Nate"" Mathis",7
 Lee,0005 EAMC EDUCATION CTR,Governor,,DEM,Will Boyd,49
 Lee,0005 EAMC EDUCATION CTR,Governor,,DEM,Yolanda Rochelle Flowers,28
-Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,37
-Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,42
-Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,21
-Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,33
-Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,49
-Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,100
-Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,29
-Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,84
+Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,37
+Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,42
+Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,21
+Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,33
+Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,49
+Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,100
+Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,29
+Lee,0005 EAMC EDUCATION CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,84
 Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,DEM,Darryl D. Perryman,189
 Lee,0005 EAMC EDUCATION CTR,Lieutenant Governor,,DEM,Phillip Ensler,235
-Lee,0005 EAMC EDUCATION CTR,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,70
-Lee,0005 EAMC EDUCATION CTR,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,61
-Lee,0005 EAMC EDUCATION CTR,U.S. Senate,,DEM,Unverified Candidate 1,168
-Lee,0005 EAMC EDUCATION CTR,U.S. Senate,,DEM,Unverified Candidate 2,57
-Lee,0005 EAMC EDUCATION CTR,U.S. Senate,,DEM,Unverified Candidate 3,114
-Lee,0005 EAMC EDUCATION CTR,U.S. Senate,,DEM,Unverified Candidate 4,87
+Lee,0005 EAMC EDUCATION CTR,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,70
+Lee,0005 EAMC EDUCATION CTR,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,61
+Lee,0005 EAMC EDUCATION CTR,U.S. Senate,,DEM,Dakarai Larriett,168
+Lee,0005 EAMC EDUCATION CTR,U.S. Senate,,DEM,Kyle Sweetser,57
+Lee,0005 EAMC EDUCATION CTR,U.S. Senate,,DEM,Everett Wess,114
+Lee,0005 EAMC EDUCATION CTR,U.S. Senate,,DEM,Mark S. Wheeler II,87
 Lee,0005 EAMC EDUCATION CTR,Attorney General,,REP,Jay Mitchell,486
 Lee,0005 EAMC EDUCATION CTR,Attorney General,,REP,Katherine Robertson,511
 Lee,0005 EAMC EDUCATION CTR,Attorney General,,REP,Pamela L. Casey,243
@@ -357,6 +369,9 @@ Lee,0005 EAMC EDUCATION CTR,U.S. Senate,,REP,Morgan Murphy,24
 Lee,0005 EAMC EDUCATION CTR,U.S. Senate,,REP,Rodney Walker,64
 Lee,0005 EAMC EDUCATION CTR,U.S. Senate,,REP,Seth Burton,48
 Lee,0005 EAMC EDUCATION CTR,U.S. Senate,,REP,Steve Marshall,270
+Lee,0006 OPELIKA SPORTSPLEX,Commissioner of Agriculture and Industries,,REP,Cory Hill,647
+Lee,0006 OPELIKA SPORTSPLEX,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,596
+Lee,0006 OPELIKA SPORTSPLEX,Commissioner of Agriculture and Industries,,REP,Jack Williams,421
 Lee,0006 OPELIKA SPORTSPLEX,Proposed Statewide Amendment 1,,,No,326
 Lee,0006 OPELIKA SPORTSPLEX,Proposed Statewide Amendment 1,,,Yes,2307
 Lee,0006 OPELIKA SPORTSPLEX,Proposed Statewide Amendment 2,,,No,1083
@@ -369,22 +384,22 @@ Lee,0006 OPELIKA SPORTSPLEX,Governor,,DEM,Jamel J. Brown,33
 Lee,0006 OPELIKA SPORTSPLEX,Governor,,DEM,"Nathan ""Nate"" Mathis",7
 Lee,0006 OPELIKA SPORTSPLEX,Governor,,DEM,Will Boyd,87
 Lee,0006 OPELIKA SPORTSPLEX,Governor,,DEM,Yolanda Rochelle Flowers,53
-Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,117
-Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,119
-Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,90
-Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,134
-Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,209
-Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,452
-Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,84
-Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,269
+Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,117
+Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,119
+Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,90
+Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,134
+Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,209
+Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,452
+Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,84
+Lee,0006 OPELIKA SPORTSPLEX,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,269
 Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,DEM,Darryl D. Perryman,352
 Lee,0006 OPELIKA SPORTSPLEX,Lieutenant Governor,,DEM,Phillip Ensler,325
 Lee,0006 OPELIKA SPORTSPLEX,State House,38,DEM,Christopher F. Davis,51
 Lee,0006 OPELIKA SPORTSPLEX,State House,38,DEM,Hazel Floyd,97
-Lee,0006 OPELIKA SPORTSPLEX,U.S. Senate,,DEM,Unverified Candidate 1,284
-Lee,0006 OPELIKA SPORTSPLEX,U.S. Senate,,DEM,Unverified Candidate 2,91
-Lee,0006 OPELIKA SPORTSPLEX,U.S. Senate,,DEM,Unverified Candidate 3,194
-Lee,0006 OPELIKA SPORTSPLEX,U.S. Senate,,DEM,Unverified Candidate 4,117
+Lee,0006 OPELIKA SPORTSPLEX,U.S. Senate,,DEM,Dakarai Larriett,284
+Lee,0006 OPELIKA SPORTSPLEX,U.S. Senate,,DEM,Kyle Sweetser,91
+Lee,0006 OPELIKA SPORTSPLEX,U.S. Senate,,DEM,Everett Wess,194
+Lee,0006 OPELIKA SPORTSPLEX,U.S. Senate,,DEM,Mark S. Wheeler II,117
 Lee,0006 OPELIKA SPORTSPLEX,Attorney General,,REP,Jay Mitchell,756
 Lee,0006 OPELIKA SPORTSPLEX,Attorney General,,REP,Katherine Robertson,650
 Lee,0006 OPELIKA SPORTSPLEX,Attorney General,,REP,Pamela L. Casey,366
@@ -433,6 +448,9 @@ Lee,0006 OPELIKA SPORTSPLEX,U.S. Senate,,REP,Morgan Murphy,38
 Lee,0006 OPELIKA SPORTSPLEX,U.S. Senate,,REP,Rodney Walker,132
 Lee,0006 OPELIKA SPORTSPLEX,U.S. Senate,,REP,Seth Burton,80
 Lee,0006 OPELIKA SPORTSPLEX,U.S. Senate,,REP,Steve Marshall,396
+Lee,0007 WAVERLY LOCAL REST,Commissioner of Agriculture and Industries,,REP,Cory Hill,44
+Lee,0007 WAVERLY LOCAL REST,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,46
+Lee,0007 WAVERLY LOCAL REST,Commissioner of Agriculture and Industries,,REP,Jack Williams,29
 Lee,0007 WAVERLY LOCAL REST,Proposed Statewide Amendment 1,,,No,20
 Lee,0007 WAVERLY LOCAL REST,Proposed Statewide Amendment 1,,,Yes,168
 Lee,0007 WAVERLY LOCAL REST,Proposed Statewide Amendment 2,,,No,64
@@ -445,10 +463,10 @@ Lee,0007 WAVERLY LOCAL REST,Governor,,DEM,Will Boyd,2
 Lee,0007 WAVERLY LOCAL REST,Governor,,DEM,Yolanda Rochelle Flowers,5
 Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,DEM,Darryl D. Perryman,30
 Lee,0007 WAVERLY LOCAL REST,Lieutenant Governor,,DEM,Phillip Ensler,20
-Lee,0007 WAVERLY LOCAL REST,U.S. Senate,,DEM,Unverified Candidate 1,15
-Lee,0007 WAVERLY LOCAL REST,U.S. Senate,,DEM,Unverified Candidate 2,19
-Lee,0007 WAVERLY LOCAL REST,U.S. Senate,,DEM,Unverified Candidate 3,7
-Lee,0007 WAVERLY LOCAL REST,U.S. Senate,,DEM,Unverified Candidate 4,9
+Lee,0007 WAVERLY LOCAL REST,U.S. Senate,,DEM,Dakarai Larriett,15
+Lee,0007 WAVERLY LOCAL REST,U.S. Senate,,DEM,Kyle Sweetser,19
+Lee,0007 WAVERLY LOCAL REST,U.S. Senate,,DEM,Everett Wess,7
+Lee,0007 WAVERLY LOCAL REST,U.S. Senate,,DEM,Mark S. Wheeler II,9
 Lee,0007 WAVERLY LOCAL REST,Attorney General,,REP,Jay Mitchell,66
 Lee,0007 WAVERLY LOCAL REST,Attorney General,,REP,Katherine Robertson,43
 Lee,0007 WAVERLY LOCAL REST,Attorney General,,REP,Pamela L. Casey,24
@@ -490,6 +508,9 @@ Lee,0007 WAVERLY LOCAL REST,U.S. Senate,,REP,Morgan Murphy,3
 Lee,0007 WAVERLY LOCAL REST,U.S. Senate,,REP,Rodney Walker,9
 Lee,0007 WAVERLY LOCAL REST,U.S. Senate,,REP,Seth Burton,9
 Lee,0007 WAVERLY LOCAL REST,U.S. Senate,,REP,Steve Marshall,35
+Lee,0008 MT ZION FAMILY CTR,Commissioner of Agriculture and Industries,,REP,Cory Hill,36
+Lee,0008 MT ZION FAMILY CTR,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,42
+Lee,0008 MT ZION FAMILY CTR,Commissioner of Agriculture and Industries,,REP,Jack Williams,28
 Lee,0008 MT ZION FAMILY CTR,Proposed Statewide Amendment 1,,,No,49
 Lee,0008 MT ZION FAMILY CTR,Proposed Statewide Amendment 1,,,Yes,358
 Lee,0008 MT ZION FAMILY CTR,Proposed Statewide Amendment 2,,,No,155
@@ -502,18 +523,18 @@ Lee,0008 MT ZION FAMILY CTR,Governor,,DEM,Will Boyd,21
 Lee,0008 MT ZION FAMILY CTR,Governor,,DEM,Yolanda Rochelle Flowers,11
 Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,DEM,Darryl D. Perryman,142
 Lee,0008 MT ZION FAMILY CTR,Lieutenant Governor,,DEM,Phillip Ensler,117
-Lee,0008 MT ZION FAMILY CTR,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,97
-Lee,0008 MT ZION FAMILY CTR,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,136
+Lee,0008 MT ZION FAMILY CTR,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,97
+Lee,0008 MT ZION FAMILY CTR,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,136
 Lee,0008 MT ZION FAMILY CTR,State Democratic Executive Committee,,DEM,Jacquelyn Carlisle,221
 Lee,0008 MT ZION FAMILY CTR,State Democratic Executive Committee,,DEM,Kennedie Clinton,40
 Lee,0008 MT ZION FAMILY CTR,State House,82,DEM,Jamie Lowe,28
 Lee,0008 MT ZION FAMILY CTR,State House,82,DEM,Pebblin W. Warren,199
 Lee,0008 MT ZION FAMILY CTR,State House,82,DEM,"Sidney ""Doc"" Brown",29
 Lee,0008 MT ZION FAMILY CTR,State House,82,DEM,Terrence K. Johnson,31
-Lee,0008 MT ZION FAMILY CTR,U.S. Senate,,DEM,Unverified Candidate 1,70
-Lee,0008 MT ZION FAMILY CTR,U.S. Senate,,DEM,Unverified Candidate 2,30
-Lee,0008 MT ZION FAMILY CTR,U.S. Senate,,DEM,Unverified Candidate 3,91
-Lee,0008 MT ZION FAMILY CTR,U.S. Senate,,DEM,Unverified Candidate 4,66
+Lee,0008 MT ZION FAMILY CTR,U.S. Senate,,DEM,Dakarai Larriett,70
+Lee,0008 MT ZION FAMILY CTR,U.S. Senate,,DEM,Kyle Sweetser,30
+Lee,0008 MT ZION FAMILY CTR,U.S. Senate,,DEM,Everett Wess,91
+Lee,0008 MT ZION FAMILY CTR,U.S. Senate,,DEM,Mark S. Wheeler II,66
 Lee,0008 MT ZION FAMILY CTR,Attorney General,,REP,Jay Mitchell,38
 Lee,0008 MT ZION FAMILY CTR,Attorney General,,REP,Katherine Robertson,51
 Lee,0008 MT ZION FAMILY CTR,Attorney General,,REP,Pamela L. Casey,24
@@ -555,6 +576,9 @@ Lee,0008 MT ZION FAMILY CTR,U.S. Senate,,REP,Morgan Murphy,0
 Lee,0008 MT ZION FAMILY CTR,U.S. Senate,,REP,Rodney Walker,10
 Lee,0008 MT ZION FAMILY CTR,U.S. Senate,,REP,Seth Burton,6
 Lee,0008 MT ZION FAMILY CTR,U.S. Senate,,REP,Steve Marshall,26
+Lee,0009 BOYKIN GYM,Commissioner of Agriculture and Industries,,REP,Cory Hill,20
+Lee,0009 BOYKIN GYM,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,10
+Lee,0009 BOYKIN GYM,Commissioner of Agriculture and Industries,,REP,Jack Williams,8
 Lee,0009 BOYKIN GYM,Proposed Statewide Amendment 1,,,No,155
 Lee,0009 BOYKIN GYM,Proposed Statewide Amendment 1,,,Yes,380
 Lee,0009 BOYKIN GYM,Proposed Statewide Amendment 2,,,No,224
@@ -567,18 +591,18 @@ Lee,0009 BOYKIN GYM,Governor,,DEM,Will Boyd,48
 Lee,0009 BOYKIN GYM,Governor,,DEM,Yolanda Rochelle Flowers,37
 Lee,0009 BOYKIN GYM,Lieutenant Governor,,DEM,Darryl D. Perryman,262
 Lee,0009 BOYKIN GYM,Lieutenant Governor,,DEM,Phillip Ensler,206
-Lee,0009 BOYKIN GYM,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,208
-Lee,0009 BOYKIN GYM,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,268
+Lee,0009 BOYKIN GYM,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,208
+Lee,0009 BOYKIN GYM,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,268
 Lee,0009 BOYKIN GYM,State Democratic Executive Committee,,DEM,Jacquelyn Carlisle,400
 Lee,0009 BOYKIN GYM,State Democratic Executive Committee,,DEM,Kennedie Clinton,65
 Lee,0009 BOYKIN GYM,State House,82,DEM,Jamie Lowe,82
 Lee,0009 BOYKIN GYM,State House,82,DEM,Pebblin W. Warren,233
 Lee,0009 BOYKIN GYM,State House,82,DEM,"Sidney ""Doc"" Brown",81
 Lee,0009 BOYKIN GYM,State House,82,DEM,Terrence K. Johnson,99
-Lee,0009 BOYKIN GYM,U.S. Senate,,DEM,Unverified Candidate 1,157
-Lee,0009 BOYKIN GYM,U.S. Senate,,DEM,Unverified Candidate 2,50
-Lee,0009 BOYKIN GYM,U.S. Senate,,DEM,Unverified Candidate 3,195
-Lee,0009 BOYKIN GYM,U.S. Senate,,DEM,Unverified Candidate 4,75
+Lee,0009 BOYKIN GYM,U.S. Senate,,DEM,Dakarai Larriett,157
+Lee,0009 BOYKIN GYM,U.S. Senate,,DEM,Kyle Sweetser,50
+Lee,0009 BOYKIN GYM,U.S. Senate,,DEM,Everett Wess,195
+Lee,0009 BOYKIN GYM,U.S. Senate,,DEM,Mark S. Wheeler II,75
 Lee,0009 BOYKIN GYM,Attorney General,,REP,Jay Mitchell,11
 Lee,0009 BOYKIN GYM,Attorney General,,REP,Katherine Robertson,16
 Lee,0009 BOYKIN GYM,Attorney General,,REP,Pamela L. Casey,13
@@ -622,6 +646,9 @@ Lee,0009 BOYKIN GYM,U.S. Senate,,REP,Morgan Murphy,2
 Lee,0009 BOYKIN GYM,U.S. Senate,,REP,Rodney Walker,1
 Lee,0009 BOYKIN GYM,U.S. Senate,,REP,Seth Burton,2
 Lee,0009 BOYKIN GYM,U.S. Senate,,REP,Steve Marshall,8
+Lee,0010 FRANK BROWN REC. CTR,Commissioner of Agriculture and Industries,,REP,Cory Hill,107
+Lee,0010 FRANK BROWN REC. CTR,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,171
+Lee,0010 FRANK BROWN REC. CTR,Commissioner of Agriculture and Industries,,REP,Jack Williams,78
 Lee,0010 FRANK BROWN REC. CTR,Proposed Statewide Amendment 1,,,No,221
 Lee,0010 FRANK BROWN REC. CTR,Proposed Statewide Amendment 1,,,Yes,687
 Lee,0010 FRANK BROWN REC. CTR,Proposed Statewide Amendment 2,,,No,412
@@ -634,24 +661,21 @@ Lee,0010 FRANK BROWN REC. CTR,Governor,,DEM,Will Boyd,50
 Lee,0010 FRANK BROWN REC. CTR,Governor,,DEM,Yolanda Rochelle Flowers,26
 Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,DEM,Darryl D. Perryman,163
 Lee,0010 FRANK BROWN REC. CTR,Lieutenant Governor,,DEM,Phillip Ensler,250
-Lee,0010 FRANK BROWN REC. CTR,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,34
-Lee,0010 FRANK BROWN REC. CTR,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,53
+Lee,0010 FRANK BROWN REC. CTR,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,34
+Lee,0010 FRANK BROWN REC. CTR,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,53
 Lee,0010 FRANK BROWN REC. CTR,State Democratic Executive Committee,,DEM,Jacquelyn Carlisle,153
 Lee,0010 FRANK BROWN REC. CTR,State Democratic Executive Committee,,DEM,Kennedie Clinton,24
 Lee,0010 FRANK BROWN REC. CTR,State House,82,DEM,Jamie Lowe,63
 Lee,0010 FRANK BROWN REC. CTR,State House,82,DEM,Pebblin W. Warren,106
 Lee,0010 FRANK BROWN REC. CTR,State House,82,DEM,"Sidney ""Doc"" Brown",22
 Lee,0010 FRANK BROWN REC. CTR,State House,82,DEM,Terrence K. Johnson,12
-Lee,0010 FRANK BROWN REC. CTR,U.S. Senate,,DEM,Unverified Candidate 1,184
-Lee,0010 FRANK BROWN REC. CTR,U.S. Senate,,DEM,Unverified Candidate 2,65
-Lee,0010 FRANK BROWN REC. CTR,U.S. Senate,,DEM,Unverified Candidate 3,91
-Lee,0010 FRANK BROWN REC. CTR,U.S. Senate,,DEM,Unverified Candidate 4,83
+Lee,0010 FRANK BROWN REC. CTR,U.S. Senate,,DEM,Dakarai Larriett,184
+Lee,0010 FRANK BROWN REC. CTR,U.S. Senate,,DEM,Kyle Sweetser,65
+Lee,0010 FRANK BROWN REC. CTR,U.S. Senate,,DEM,Everett Wess,91
+Lee,0010 FRANK BROWN REC. CTR,U.S. Senate,,DEM,Mark S. Wheeler II,83
 Lee,0010 FRANK BROWN REC. CTR,Attorney General,,REP,Jay Mitchell,108
 Lee,0010 FRANK BROWN REC. CTR,Attorney General,,REP,Katherine Robertson,186
 Lee,0010 FRANK BROWN REC. CTR,Attorney General,,REP,Pamela L. Casey,124
-Lee,0010 FRANK BROWN REC. CTR,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,107
-Lee,0010 FRANK BROWN REC. CTR,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,171
-Lee,0010 FRANK BROWN REC. CTR,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,78
 Lee,0010 FRANK BROWN REC. CTR,Governor,,REP,"""Alabama"" Will Santivasci",29
 Lee,0010 FRANK BROWN REC. CTR,Governor,,REP,Ken McFeeters,140
 Lee,0010 FRANK BROWN REC. CTR,Governor,,REP,Thomas Tuberville,279
@@ -690,6 +714,9 @@ Lee,0010 FRANK BROWN REC. CTR,U.S. Senate,,REP,Morgan Murphy,15
 Lee,0010 FRANK BROWN REC. CTR,U.S. Senate,,REP,Rodney Walker,23
 Lee,0010 FRANK BROWN REC. CTR,U.S. Senate,,REP,Seth Burton,26
 Lee,0010 FRANK BROWN REC. CTR,U.S. Senate,,REP,Steve Marshall,74
+Lee,0011 EMBRACE CHURCH,Commissioner of Agriculture and Industries,,REP,Cory Hill,430
+Lee,0011 EMBRACE CHURCH,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,506
+Lee,0011 EMBRACE CHURCH,Commissioner of Agriculture and Industries,,REP,Jack Williams,302
 Lee,0011 EMBRACE CHURCH,Proposed Statewide Amendment 1,,,No,280
 Lee,0011 EMBRACE CHURCH,Proposed Statewide Amendment 1,,,Yes,1644
 Lee,0011 EMBRACE CHURCH,Proposed Statewide Amendment 2,,,No,803
@@ -700,26 +727,23 @@ Lee,0011 EMBRACE CHURCH,Governor,,DEM,Jamel J. Brown,14
 Lee,0011 EMBRACE CHURCH,Governor,,DEM,"Nathan ""Nate"" Mathis",1
 Lee,0011 EMBRACE CHURCH,Governor,,DEM,Will Boyd,31
 Lee,0011 EMBRACE CHURCH,Governor,,DEM,Yolanda Rochelle Flowers,19
-Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,4
-Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,4
-Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,1
-Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,1
-Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,5
-Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,3
-Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,3
-Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,0
+Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,4
+Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,4
+Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,1
+Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,1
+Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,5
+Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,3
+Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,3
+Lee,0011 EMBRACE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,0
 Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,DEM,Darryl D. Perryman,162
 Lee,0011 EMBRACE CHURCH,Lieutenant Governor,,DEM,Phillip Ensler,207
-Lee,0011 EMBRACE CHURCH,U.S. Senate,,DEM,Unverified Candidate 1,142
-Lee,0011 EMBRACE CHURCH,U.S. Senate,,DEM,Unverified Candidate 2,61
-Lee,0011 EMBRACE CHURCH,U.S. Senate,,DEM,Unverified Candidate 3,85
-Lee,0011 EMBRACE CHURCH,U.S. Senate,,DEM,Unverified Candidate 4,89
+Lee,0011 EMBRACE CHURCH,U.S. Senate,,DEM,Dakarai Larriett,142
+Lee,0011 EMBRACE CHURCH,U.S. Senate,,DEM,Kyle Sweetser,61
+Lee,0011 EMBRACE CHURCH,U.S. Senate,,DEM,Everett Wess,85
+Lee,0011 EMBRACE CHURCH,U.S. Senate,,DEM,Mark S. Wheeler II,89
 Lee,0011 EMBRACE CHURCH,Attorney General,,REP,Jay Mitchell,469
 Lee,0011 EMBRACE CHURCH,Attorney General,,REP,Katherine Robertson,621
 Lee,0011 EMBRACE CHURCH,Attorney General,,REP,Pamela L. Casey,327
-Lee,0011 EMBRACE CHURCH,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,430
-Lee,0011 EMBRACE CHURCH,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,506
-Lee,0011 EMBRACE CHURCH,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,302
 Lee,0011 EMBRACE CHURCH,Governor,,REP,"""Alabama"" Will Santivasci",77
 Lee,0011 EMBRACE CHURCH,Governor,,REP,Ken McFeeters,263
 Lee,0011 EMBRACE CHURCH,Governor,,REP,Thomas Tuberville,1181
@@ -763,6 +787,9 @@ Lee,0011 EMBRACE CHURCH,U.S. Senate,,REP,Morgan Murphy,35
 Lee,0011 EMBRACE CHURCH,U.S. Senate,,REP,Rodney Walker,86
 Lee,0011 EMBRACE CHURCH,U.S. Senate,,REP,Seth Burton,64
 Lee,0011 EMBRACE CHURCH,U.S. Senate,,REP,Steve Marshall,335
+Lee,0012 CHURCH OF HIGHLANDS,Commissioner of Agriculture and Industries,,REP,Cory Hill,136
+Lee,0012 CHURCH OF HIGHLANDS,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,149
+Lee,0012 CHURCH OF HIGHLANDS,Commissioner of Agriculture and Industries,,REP,Jack Williams,86
 Lee,0012 CHURCH OF HIGHLANDS,Proposed Statewide Amendment 1,,,No,157
 Lee,0012 CHURCH OF HIGHLANDS,Proposed Statewide Amendment 1,,,Yes,602
 Lee,0012 CHURCH OF HIGHLANDS,Proposed Statewide Amendment 2,,,No,320
@@ -775,16 +802,13 @@ Lee,0012 CHURCH OF HIGHLANDS,Governor,,DEM,Will Boyd,36
 Lee,0012 CHURCH OF HIGHLANDS,Governor,,DEM,Yolanda Rochelle Flowers,19
 Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,DEM,Darryl D. Perryman,123
 Lee,0012 CHURCH OF HIGHLANDS,Lieutenant Governor,,DEM,Phillip Ensler,166
-Lee,0012 CHURCH OF HIGHLANDS,U.S. Senate,,DEM,Unverified Candidate 1,120
-Lee,0012 CHURCH OF HIGHLANDS,U.S. Senate,,DEM,Unverified Candidate 2,45
-Lee,0012 CHURCH OF HIGHLANDS,U.S. Senate,,DEM,Unverified Candidate 3,64
-Lee,0012 CHURCH OF HIGHLANDS,U.S. Senate,,DEM,Unverified Candidate 4,57
+Lee,0012 CHURCH OF HIGHLANDS,U.S. Senate,,DEM,Dakarai Larriett,120
+Lee,0012 CHURCH OF HIGHLANDS,U.S. Senate,,DEM,Kyle Sweetser,45
+Lee,0012 CHURCH OF HIGHLANDS,U.S. Senate,,DEM,Everett Wess,64
+Lee,0012 CHURCH OF HIGHLANDS,U.S. Senate,,DEM,Mark S. Wheeler II,57
 Lee,0012 CHURCH OF HIGHLANDS,Attorney General,,REP,Jay Mitchell,146
 Lee,0012 CHURCH OF HIGHLANDS,Attorney General,,REP,Katherine Robertson,184
 Lee,0012 CHURCH OF HIGHLANDS,Attorney General,,REP,Pamela L. Casey,102
-Lee,0012 CHURCH OF HIGHLANDS,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,136
-Lee,0012 CHURCH OF HIGHLANDS,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,149
-Lee,0012 CHURCH OF HIGHLANDS,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,86
 Lee,0012 CHURCH OF HIGHLANDS,Governor,,REP,"""Alabama"" Will Santivasci",29
 Lee,0012 CHURCH OF HIGHLANDS,Governor,,REP,Ken McFeeters,111
 Lee,0012 CHURCH OF HIGHLANDS,Governor,,REP,Thomas Tuberville,330
@@ -825,6 +849,9 @@ Lee,0012 CHURCH OF HIGHLANDS,U.S. Senate,,REP,Morgan Murphy,15
 Lee,0012 CHURCH OF HIGHLANDS,U.S. Senate,,REP,Rodney Walker,36
 Lee,0012 CHURCH OF HIGHLANDS,U.S. Senate,,REP,Seth Burton,27
 Lee,0012 CHURCH OF HIGHLANDS,U.S. Senate,,REP,Steve Marshall,86
+Lee,0013 DEAN ROAD REC CTR,Commissioner of Agriculture and Industries,,REP,Cory Hill,136
+Lee,0013 DEAN ROAD REC CTR,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,203
+Lee,0013 DEAN ROAD REC CTR,Commissioner of Agriculture and Industries,,REP,Jack Williams,99
 Lee,0013 DEAN ROAD REC CTR,Proposed Statewide Amendment 1,,,No,170
 Lee,0013 DEAN ROAD REC CTR,Proposed Statewide Amendment 1,,,Yes,635
 Lee,0013 DEAN ROAD REC CTR,Proposed Statewide Amendment 2,,,No,363
@@ -837,24 +864,21 @@ Lee,0013 DEAN ROAD REC CTR,Governor,,DEM,Will Boyd,8
 Lee,0013 DEAN ROAD REC CTR,Governor,,DEM,Yolanda Rochelle Flowers,10
 Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,DEM,Darryl D. Perryman,65
 Lee,0013 DEAN ROAD REC CTR,Lieutenant Governor,,DEM,Phillip Ensler,162
-Lee,0013 DEAN ROAD REC CTR,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,0
-Lee,0013 DEAN ROAD REC CTR,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,1
+Lee,0013 DEAN ROAD REC CTR,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,0
+Lee,0013 DEAN ROAD REC CTR,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,1
 Lee,0013 DEAN ROAD REC CTR,State Democratic Executive Committee,,DEM,Jacquelyn Carlisle,3
 Lee,0013 DEAN ROAD REC CTR,State Democratic Executive Committee,,DEM,Kennedie Clinton,4
 Lee,0013 DEAN ROAD REC CTR,State House,82,DEM,Jamie Lowe,1
 Lee,0013 DEAN ROAD REC CTR,State House,82,DEM,Pebblin W. Warren,1
 Lee,0013 DEAN ROAD REC CTR,State House,82,DEM,"Sidney ""Doc"" Brown",5
 Lee,0013 DEAN ROAD REC CTR,State House,82,DEM,Terrence K. Johnson,1
-Lee,0013 DEAN ROAD REC CTR,U.S. Senate,,DEM,Unverified Candidate 1,98
-Lee,0013 DEAN ROAD REC CTR,U.S. Senate,,DEM,Unverified Candidate 2,46
-Lee,0013 DEAN ROAD REC CTR,U.S. Senate,,DEM,Unverified Candidate 3,52
-Lee,0013 DEAN ROAD REC CTR,U.S. Senate,,DEM,Unverified Candidate 4,37
+Lee,0013 DEAN ROAD REC CTR,U.S. Senate,,DEM,Dakarai Larriett,98
+Lee,0013 DEAN ROAD REC CTR,U.S. Senate,,DEM,Kyle Sweetser,46
+Lee,0013 DEAN ROAD REC CTR,U.S. Senate,,DEM,Everett Wess,52
+Lee,0013 DEAN ROAD REC CTR,U.S. Senate,,DEM,Mark S. Wheeler II,37
 Lee,0013 DEAN ROAD REC CTR,Attorney General,,REP,Jay Mitchell,129
 Lee,0013 DEAN ROAD REC CTR,Attorney General,,REP,Katherine Robertson,246
 Lee,0013 DEAN ROAD REC CTR,Attorney General,,REP,Pamela L. Casey,118
-Lee,0013 DEAN ROAD REC CTR,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,136
-Lee,0013 DEAN ROAD REC CTR,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,203
-Lee,0013 DEAN ROAD REC CTR,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,99
 Lee,0013 DEAN ROAD REC CTR,Governor,,REP,"""Alabama"" Will Santivasci",33
 Lee,0013 DEAN ROAD REC CTR,Governor,,REP,Ken McFeeters,140
 Lee,0013 DEAN ROAD REC CTR,Governor,,REP,Thomas Tuberville,379
@@ -895,6 +919,9 @@ Lee,0013 DEAN ROAD REC CTR,U.S. Senate,,REP,Morgan Murphy,19
 Lee,0013 DEAN ROAD REC CTR,U.S. Senate,,REP,Rodney Walker,32
 Lee,0013 DEAN ROAD REC CTR,U.S. Senate,,REP,Seth Burton,35
 Lee,0013 DEAN ROAD REC CTR,U.S. Senate,,REP,Steve Marshall,114
+Lee,0014 PARKWAY BAPT CHURCH,Commissioner of Agriculture and Industries,,REP,Cory Hill,149
+Lee,0014 PARKWAY BAPT CHURCH,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,190
+Lee,0014 PARKWAY BAPT CHURCH,Commissioner of Agriculture and Industries,,REP,Jack Williams,109
 Lee,0014 PARKWAY BAPT CHURCH,Proposed Statewide Amendment 1,,,No,147
 Lee,0014 PARKWAY BAPT CHURCH,Proposed Statewide Amendment 1,,,Yes,666
 Lee,0014 PARKWAY BAPT CHURCH,Proposed Statewide Amendment 2,,,No,341
@@ -913,16 +940,13 @@ Lee,0014 PARKWAY BAPT CHURCH,State House,82,DEM,Jamie Lowe,7
 Lee,0014 PARKWAY BAPT CHURCH,State House,82,DEM,Pebblin W. Warren,9
 Lee,0014 PARKWAY BAPT CHURCH,State House,82,DEM,"Sidney ""Doc"" Brown",5
 Lee,0014 PARKWAY BAPT CHURCH,State House,82,DEM,Terrence K. Johnson,6
-Lee,0014 PARKWAY BAPT CHURCH,U.S. Senate,,DEM,Unverified Candidate 1,105
-Lee,0014 PARKWAY BAPT CHURCH,U.S. Senate,,DEM,Unverified Candidate 2,48
-Lee,0014 PARKWAY BAPT CHURCH,U.S. Senate,,DEM,Unverified Candidate 3,43
-Lee,0014 PARKWAY BAPT CHURCH,U.S. Senate,,DEM,Unverified Candidate 4,46
+Lee,0014 PARKWAY BAPT CHURCH,U.S. Senate,,DEM,Dakarai Larriett,105
+Lee,0014 PARKWAY BAPT CHURCH,U.S. Senate,,DEM,Kyle Sweetser,48
+Lee,0014 PARKWAY BAPT CHURCH,U.S. Senate,,DEM,Everett Wess,43
+Lee,0014 PARKWAY BAPT CHURCH,U.S. Senate,,DEM,Mark S. Wheeler II,46
 Lee,0014 PARKWAY BAPT CHURCH,Attorney General,,REP,Jay Mitchell,162
 Lee,0014 PARKWAY BAPT CHURCH,Attorney General,,REP,Katherine Robertson,231
 Lee,0014 PARKWAY BAPT CHURCH,Attorney General,,REP,Pamela L. Casey,128
-Lee,0014 PARKWAY BAPT CHURCH,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,149
-Lee,0014 PARKWAY BAPT CHURCH,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,190
-Lee,0014 PARKWAY BAPT CHURCH,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,109
 Lee,0014 PARKWAY BAPT CHURCH,Governor,,REP,"""Alabama"" Will Santivasci",38
 Lee,0014 PARKWAY BAPT CHURCH,Governor,,REP,Ken McFeeters,132
 Lee,0014 PARKWAY BAPT CHURCH,Governor,,REP,Thomas Tuberville,374
@@ -963,6 +987,9 @@ Lee,0014 PARKWAY BAPT CHURCH,U.S. Senate,,REP,Morgan Murphy,19
 Lee,0014 PARKWAY BAPT CHURCH,U.S. Senate,,REP,Rodney Walker,38
 Lee,0014 PARKWAY BAPT CHURCH,U.S. Senate,,REP,Seth Burton,23
 Lee,0014 PARKWAY BAPT CHURCH,U.S. Senate,,REP,Steve Marshall,106
+Lee,0015 LAKE WILMORE REC CENTER,Commissioner of Agriculture and Industries,,REP,Cory Hill,522
+Lee,0015 LAKE WILMORE REC CENTER,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,646
+Lee,0015 LAKE WILMORE REC CENTER,Commissioner of Agriculture and Industries,,REP,Jack Williams,408
 Lee,0015 LAKE WILMORE REC CENTER,Proposed Statewide Amendment 1,,,No,274
 Lee,0015 LAKE WILMORE REC CENTER,Proposed Statewide Amendment 1,,,Yes,2091
 Lee,0015 LAKE WILMORE REC CENTER,Proposed Statewide Amendment 2,,,No,897
@@ -975,28 +1002,25 @@ Lee,0015 LAKE WILMORE REC CENTER,Governor,,DEM,Jamel J. Brown,15
 Lee,0015 LAKE WILMORE REC CENTER,Governor,,DEM,"Nathan ""Nate"" Mathis",3
 Lee,0015 LAKE WILMORE REC CENTER,Governor,,DEM,Will Boyd,11
 Lee,0015 LAKE WILMORE REC CENTER,Governor,,DEM,Yolanda Rochelle Flowers,20
-Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,0
-Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,1
-Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,1
-Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,0
-Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,0
-Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,0
-Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,0
-Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,0
+Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,0
+Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,1
+Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,1
+Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,0
+Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,0
+Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,0
+Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,0
+Lee,0015 LAKE WILMORE REC CENTER,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,0
 Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,DEM,Darryl D. Perryman,136
 Lee,0015 LAKE WILMORE REC CENTER,Lieutenant Governor,,DEM,Phillip Ensler,220
-Lee,0015 LAKE WILMORE REC CENTER,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,30
-Lee,0015 LAKE WILMORE REC CENTER,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,13
-Lee,0015 LAKE WILMORE REC CENTER,U.S. Senate,,DEM,Unverified Candidate 1,126
-Lee,0015 LAKE WILMORE REC CENTER,U.S. Senate,,DEM,Unverified Candidate 2,65
-Lee,0015 LAKE WILMORE REC CENTER,U.S. Senate,,DEM,Unverified Candidate 3,99
-Lee,0015 LAKE WILMORE REC CENTER,U.S. Senate,,DEM,Unverified Candidate 4,72
+Lee,0015 LAKE WILMORE REC CENTER,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,30
+Lee,0015 LAKE WILMORE REC CENTER,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,13
+Lee,0015 LAKE WILMORE REC CENTER,U.S. Senate,,DEM,Dakarai Larriett,126
+Lee,0015 LAKE WILMORE REC CENTER,U.S. Senate,,DEM,Kyle Sweetser,65
+Lee,0015 LAKE WILMORE REC CENTER,U.S. Senate,,DEM,Everett Wess,99
+Lee,0015 LAKE WILMORE REC CENTER,U.S. Senate,,DEM,Mark S. Wheeler II,72
 Lee,0015 LAKE WILMORE REC CENTER,Attorney General,,REP,Jay Mitchell,497
 Lee,0015 LAKE WILMORE REC CENTER,Attorney General,,REP,Katherine Robertson,1103
 Lee,0015 LAKE WILMORE REC CENTER,Attorney General,,REP,Pamela L. Casey,292
-Lee,0015 LAKE WILMORE REC CENTER,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,522
-Lee,0015 LAKE WILMORE REC CENTER,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,646
-Lee,0015 LAKE WILMORE REC CENTER,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,408
 Lee,0015 LAKE WILMORE REC CENTER,Governor,,REP,"""Alabama"" Will Santivasci",105
 Lee,0015 LAKE WILMORE REC CENTER,Governor,,REP,Ken McFeeters,271
 Lee,0015 LAKE WILMORE REC CENTER,Governor,,REP,Thomas Tuberville,1605
@@ -1039,6 +1063,9 @@ Lee,0015 LAKE WILMORE REC CENTER,U.S. Senate,,REP,Morgan Murphy,44
 Lee,0015 LAKE WILMORE REC CENTER,U.S. Senate,,REP,Rodney Walker,60
 Lee,0015 LAKE WILMORE REC CENTER,U.S. Senate,,REP,Seth Burton,81
 Lee,0015 LAKE WILMORE REC CENTER,U.S. Senate,,REP,Steve Marshall,432
+Lee,0016 WIRE RD SOCCER COMPLEX,Commissioner of Agriculture and Industries,,REP,Cory Hill,283
+Lee,0016 WIRE RD SOCCER COMPLEX,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,283
+Lee,0016 WIRE RD SOCCER COMPLEX,Commissioner of Agriculture and Industries,,REP,Jack Williams,188
 Lee,0016 WIRE RD SOCCER COMPLEX,Proposed Statewide Amendment 1,,,No,228
 Lee,0016 WIRE RD SOCCER COMPLEX,Proposed Statewide Amendment 1,,,Yes,1266
 Lee,0016 WIRE RD SOCCER COMPLEX,Proposed Statewide Amendment 2,,,No,690
@@ -1051,24 +1078,21 @@ Lee,0016 WIRE RD SOCCER COMPLEX,Governor,,DEM,Will Boyd,47
 Lee,0016 WIRE RD SOCCER COMPLEX,Governor,,DEM,Yolanda Rochelle Flowers,47
 Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,DEM,Darryl D. Perryman,266
 Lee,0016 WIRE RD SOCCER COMPLEX,Lieutenant Governor,,DEM,Phillip Ensler,304
-Lee,0016 WIRE RD SOCCER COMPLEX,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,90
-Lee,0016 WIRE RD SOCCER COMPLEX,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,75
+Lee,0016 WIRE RD SOCCER COMPLEX,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,90
+Lee,0016 WIRE RD SOCCER COMPLEX,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,75
 Lee,0016 WIRE RD SOCCER COMPLEX,State Democratic Executive Committee,,DEM,Jacquelyn Carlisle,302
 Lee,0016 WIRE RD SOCCER COMPLEX,State Democratic Executive Committee,,DEM,Kennedie Clinton,61
 Lee,0016 WIRE RD SOCCER COMPLEX,State House,82,DEM,Jamie Lowe,96
 Lee,0016 WIRE RD SOCCER COMPLEX,State House,82,DEM,Pebblin W. Warren,140
 Lee,0016 WIRE RD SOCCER COMPLEX,State House,82,DEM,"Sidney ""Doc"" Brown",95
 Lee,0016 WIRE RD SOCCER COMPLEX,State House,82,DEM,Terrence K. Johnson,53
-Lee,0016 WIRE RD SOCCER COMPLEX,U.S. Senate,,DEM,Unverified Candidate 1,217
-Lee,0016 WIRE RD SOCCER COMPLEX,U.S. Senate,,DEM,Unverified Candidate 2,100
-Lee,0016 WIRE RD SOCCER COMPLEX,U.S. Senate,,DEM,Unverified Candidate 3,143
-Lee,0016 WIRE RD SOCCER COMPLEX,U.S. Senate,,DEM,Unverified Candidate 4,107
+Lee,0016 WIRE RD SOCCER COMPLEX,U.S. Senate,,DEM,Dakarai Larriett,217
+Lee,0016 WIRE RD SOCCER COMPLEX,U.S. Senate,,DEM,Kyle Sweetser,100
+Lee,0016 WIRE RD SOCCER COMPLEX,U.S. Senate,,DEM,Everett Wess,143
+Lee,0016 WIRE RD SOCCER COMPLEX,U.S. Senate,,DEM,Mark S. Wheeler II,107
 Lee,0016 WIRE RD SOCCER COMPLEX,Attorney General,,REP,Jay Mitchell,281
 Lee,0016 WIRE RD SOCCER COMPLEX,Attorney General,,REP,Katherine Robertson,385
 Lee,0016 WIRE RD SOCCER COMPLEX,Attorney General,,REP,Pamela L. Casey,170
-Lee,0016 WIRE RD SOCCER COMPLEX,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,283
-Lee,0016 WIRE RD SOCCER COMPLEX,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,283
-Lee,0016 WIRE RD SOCCER COMPLEX,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,188
 Lee,0016 WIRE RD SOCCER COMPLEX,Governor,,REP,"""Alabama"" Will Santivasci",57
 Lee,0016 WIRE RD SOCCER COMPLEX,Governor,,REP,Ken McFeeters,178
 Lee,0016 WIRE RD SOCCER COMPLEX,Governor,,REP,Thomas Tuberville,655
@@ -1109,6 +1133,9 @@ Lee,0016 WIRE RD SOCCER COMPLEX,U.S. Senate,,REP,Morgan Murphy,31
 Lee,0016 WIRE RD SOCCER COMPLEX,U.S. Senate,,REP,Rodney Walker,50
 Lee,0016 WIRE RD SOCCER COMPLEX,U.S. Senate,,REP,Seth Burton,46
 Lee,0016 WIRE RD SOCCER COMPLEX,U.S. Senate,,REP,Steve Marshall,192
+Lee,0017 PROVIDENCE BAPT CHU,Commissioner of Agriculture and Industries,,REP,Cory Hill,321
+Lee,0017 PROVIDENCE BAPT CHU,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,252
+Lee,0017 PROVIDENCE BAPT CHU,Commissioner of Agriculture and Industries,,REP,Jack Williams,215
 Lee,0017 PROVIDENCE BAPT CHU,Proposed Statewide Amendment 1,,,No,137
 Lee,0017 PROVIDENCE BAPT CHU,Proposed Statewide Amendment 1,,,Yes,983
 Lee,0017 PROVIDENCE BAPT CHU,Proposed Statewide Amendment 2,,,No,504
@@ -1121,28 +1148,25 @@ Lee,0017 PROVIDENCE BAPT CHU,Governor,,DEM,Jamel J. Brown,21
 Lee,0017 PROVIDENCE BAPT CHU,Governor,,DEM,"Nathan ""Nate"" Mathis",2
 Lee,0017 PROVIDENCE BAPT CHU,Governor,,DEM,Will Boyd,23
 Lee,0017 PROVIDENCE BAPT CHU,Governor,,DEM,Yolanda Rochelle Flowers,23
-Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,27
-Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,24
-Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,15
-Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,22
-Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,35
-Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,85
-Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,15
-Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,38
+Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,27
+Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,24
+Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,15
+Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,22
+Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,35
+Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,85
+Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,15
+Lee,0017 PROVIDENCE BAPT CHU,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,38
 Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,DEM,Darryl D. Perryman,132
 Lee,0017 PROVIDENCE BAPT CHU,Lieutenant Governor,,DEM,Phillip Ensler,77
-Lee,0017 PROVIDENCE BAPT CHU,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,40
-Lee,0017 PROVIDENCE BAPT CHU,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,35
-Lee,0017 PROVIDENCE BAPT CHU,U.S. Senate,,DEM,Unverified Candidate 1,71
-Lee,0017 PROVIDENCE BAPT CHU,U.S. Senate,,DEM,Unverified Candidate 2,37
-Lee,0017 PROVIDENCE BAPT CHU,U.S. Senate,,DEM,Unverified Candidate 3,56
-Lee,0017 PROVIDENCE BAPT CHU,U.S. Senate,,DEM,Unverified Candidate 4,50
+Lee,0017 PROVIDENCE BAPT CHU,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,40
+Lee,0017 PROVIDENCE BAPT CHU,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,35
+Lee,0017 PROVIDENCE BAPT CHU,U.S. Senate,,DEM,Dakarai Larriett,71
+Lee,0017 PROVIDENCE BAPT CHU,U.S. Senate,,DEM,Kyle Sweetser,37
+Lee,0017 PROVIDENCE BAPT CHU,U.S. Senate,,DEM,Everett Wess,56
+Lee,0017 PROVIDENCE BAPT CHU,U.S. Senate,,DEM,Mark S. Wheeler II,50
 Lee,0017 PROVIDENCE BAPT CHU,Attorney General,,REP,Jay Mitchell,356
 Lee,0017 PROVIDENCE BAPT CHU,Attorney General,,REP,Katherine Robertson,308
 Lee,0017 PROVIDENCE BAPT CHU,Attorney General,,REP,Pamela L. Casey,170
-Lee,0017 PROVIDENCE BAPT CHU,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,321
-Lee,0017 PROVIDENCE BAPT CHU,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,252
-Lee,0017 PROVIDENCE BAPT CHU,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,215
 Lee,0017 PROVIDENCE BAPT CHU,Governor,,REP,"""Alabama"" Will Santivasci",42
 Lee,0017 PROVIDENCE BAPT CHU,Governor,,REP,Ken McFeeters,103
 Lee,0017 PROVIDENCE BAPT CHU,Governor,,REP,Thomas Tuberville,750
@@ -1183,6 +1207,9 @@ Lee,0017 PROVIDENCE BAPT CHU,U.S. Senate,,REP,Morgan Murphy,26
 Lee,0017 PROVIDENCE BAPT CHU,U.S. Senate,,REP,Rodney Walker,87
 Lee,0017 PROVIDENCE BAPT CHU,U.S. Senate,,REP,Seth Burton,51
 Lee,0017 PROVIDENCE BAPT CHU,U.S. Senate,,REP,Steve Marshall,152
+Lee,0018 LEE COUNTY LEARNING,Commissioner of Agriculture and Industries,,REP,Cory Hill,117
+Lee,0018 LEE COUNTY LEARNING,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,108
+Lee,0018 LEE COUNTY LEARNING,Commissioner of Agriculture and Industries,,REP,Jack Williams,99
 Lee,0018 LEE COUNTY LEARNING,Proposed Statewide Amendment 1,,,No,55
 Lee,0018 LEE COUNTY LEARNING,Proposed Statewide Amendment 1,,,Yes,418
 Lee,0018 LEE COUNTY LEARNING,Proposed Statewide Amendment 2,,,No,191
@@ -1193,28 +1220,25 @@ Lee,0018 LEE COUNTY LEARNING,Governor,,DEM,Jamel J. Brown,5
 Lee,0018 LEE COUNTY LEARNING,Governor,,DEM,"Nathan ""Nate"" Mathis",1
 Lee,0018 LEE COUNTY LEARNING,Governor,,DEM,Will Boyd,8
 Lee,0018 LEE COUNTY LEARNING,Governor,,DEM,Yolanda Rochelle Flowers,6
-Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,33
-Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,11
-Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,11
-Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,12
-Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,38
-Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,56
-Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,6
-Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,44
+Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,33
+Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,11
+Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,11
+Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,12
+Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,38
+Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,56
+Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,6
+Lee,0018 LEE COUNTY LEARNING,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,44
 Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,DEM,Darryl D. Perryman,41
 Lee,0018 LEE COUNTY LEARNING,Lieutenant Governor,,DEM,Phillip Ensler,44
 Lee,0018 LEE COUNTY LEARNING,State House,38,DEM,Christopher F. Davis,18
 Lee,0018 LEE COUNTY LEARNING,State House,38,DEM,Hazel Floyd,66
-Lee,0018 LEE COUNTY LEARNING,U.S. Senate,,DEM,Unverified Candidate 1,27
-Lee,0018 LEE COUNTY LEARNING,U.S. Senate,,DEM,Unverified Candidate 2,13
-Lee,0018 LEE COUNTY LEARNING,U.S. Senate,,DEM,Unverified Candidate 3,36
-Lee,0018 LEE COUNTY LEARNING,U.S. Senate,,DEM,Unverified Candidate 4,8
+Lee,0018 LEE COUNTY LEARNING,U.S. Senate,,DEM,Dakarai Larriett,27
+Lee,0018 LEE COUNTY LEARNING,U.S. Senate,,DEM,Kyle Sweetser,13
+Lee,0018 LEE COUNTY LEARNING,U.S. Senate,,DEM,Everett Wess,36
+Lee,0018 LEE COUNTY LEARNING,U.S. Senate,,DEM,Mark S. Wheeler II,8
 Lee,0018 LEE COUNTY LEARNING,Attorney General,,REP,Jay Mitchell,181
 Lee,0018 LEE COUNTY LEARNING,Attorney General,,REP,Katherine Robertson,107
 Lee,0018 LEE COUNTY LEARNING,Attorney General,,REP,Pamela L. Casey,63
-Lee,0018 LEE COUNTY LEARNING,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,117
-Lee,0018 LEE COUNTY LEARNING,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,108
-Lee,0018 LEE COUNTY LEARNING,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,99
 Lee,0018 LEE COUNTY LEARNING,Governor,,REP,"""Alabama"" Will Santivasci",20
 Lee,0018 LEE COUNTY LEARNING,Governor,,REP,Ken McFeeters,40
 Lee,0018 LEE COUNTY LEARNING,Governor,,REP,Thomas Tuberville,329
@@ -1258,6 +1282,9 @@ Lee,0018 LEE COUNTY LEARNING,U.S. Senate,,REP,Morgan Murphy,5
 Lee,0018 LEE COUNTY LEARNING,U.S. Senate,,REP,Rodney Walker,43
 Lee,0018 LEE COUNTY LEARNING,U.S. Senate,,REP,Seth Burton,24
 Lee,0018 LEE COUNTY LEARNING,U.S. Senate,,REP,Steve Marshall,46
+Lee,0019 SALEM/CRAWFORD FD 2,Commissioner of Agriculture and Industries,,REP,Cory Hill,123
+Lee,0019 SALEM/CRAWFORD FD 2,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,81
+Lee,0019 SALEM/CRAWFORD FD 2,Commissioner of Agriculture and Industries,,REP,Jack Williams,95
 Lee,0019 SALEM/CRAWFORD FD 2,Proposed Statewide Amendment 1,,,No,61
 Lee,0019 SALEM/CRAWFORD FD 2,Proposed Statewide Amendment 1,,,Yes,402
 Lee,0019 SALEM/CRAWFORD FD 2,Proposed Statewide Amendment 2,,,No,214
@@ -1268,30 +1295,27 @@ Lee,0019 SALEM/CRAWFORD FD 2,Governor,,DEM,Jamel J. Brown,16
 Lee,0019 SALEM/CRAWFORD FD 2,Governor,,DEM,"Nathan ""Nate"" Mathis",1
 Lee,0019 SALEM/CRAWFORD FD 2,Governor,,DEM,Will Boyd,7
 Lee,0019 SALEM/CRAWFORD FD 2,Governor,,DEM,Yolanda Rochelle Flowers,10
-Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,5
-Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,6
-Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,1
-Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,7
-Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,10
-Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,15
-Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,2
-Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,12
+Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,5
+Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,6
+Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,1
+Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,7
+Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,10
+Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,15
+Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,2
+Lee,0019 SALEM/CRAWFORD FD 2,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,12
 Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,DEM,Darryl D. Perryman,68
 Lee,0019 SALEM/CRAWFORD FD 2,Lieutenant Governor,,DEM,Phillip Ensler,61
-Lee,0019 SALEM/CRAWFORD FD 2,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,44
-Lee,0019 SALEM/CRAWFORD FD 2,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,67
+Lee,0019 SALEM/CRAWFORD FD 2,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,44
+Lee,0019 SALEM/CRAWFORD FD 2,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,67
 Lee,0019 SALEM/CRAWFORD FD 2,State House,38,DEM,Christopher F. Davis,39
 Lee,0019 SALEM/CRAWFORD FD 2,State House,38,DEM,Hazel Floyd,85
-Lee,0019 SALEM/CRAWFORD FD 2,U.S. Senate,,DEM,Unverified Candidate 1,41
-Lee,0019 SALEM/CRAWFORD FD 2,U.S. Senate,,DEM,Unverified Candidate 2,21
-Lee,0019 SALEM/CRAWFORD FD 2,U.S. Senate,,DEM,Unverified Candidate 3,33
-Lee,0019 SALEM/CRAWFORD FD 2,U.S. Senate,,DEM,Unverified Candidate 4,35
+Lee,0019 SALEM/CRAWFORD FD 2,U.S. Senate,,DEM,Dakarai Larriett,41
+Lee,0019 SALEM/CRAWFORD FD 2,U.S. Senate,,DEM,Kyle Sweetser,21
+Lee,0019 SALEM/CRAWFORD FD 2,U.S. Senate,,DEM,Everett Wess,33
+Lee,0019 SALEM/CRAWFORD FD 2,U.S. Senate,,DEM,Mark S. Wheeler II,35
 Lee,0019 SALEM/CRAWFORD FD 2,Attorney General,,REP,Jay Mitchell,169
 Lee,0019 SALEM/CRAWFORD FD 2,Attorney General,,REP,Katherine Robertson,83
 Lee,0019 SALEM/CRAWFORD FD 2,Attorney General,,REP,Pamela L. Casey,54
-Lee,0019 SALEM/CRAWFORD FD 2,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,123
-Lee,0019 SALEM/CRAWFORD FD 2,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,81
-Lee,0019 SALEM/CRAWFORD FD 2,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,95
 Lee,0019 SALEM/CRAWFORD FD 2,Governor,,REP,"""Alabama"" Will Santivasci",19
 Lee,0019 SALEM/CRAWFORD FD 2,Governor,,REP,Ken McFeeters,39
 Lee,0019 SALEM/CRAWFORD FD 2,Governor,,REP,Thomas Tuberville,277
@@ -1334,6 +1358,9 @@ Lee,0019 SALEM/CRAWFORD FD 2,U.S. Senate,,REP,Morgan Murphy,12
 Lee,0019 SALEM/CRAWFORD FD 2,U.S. Senate,,REP,Rodney Walker,34
 Lee,0019 SALEM/CRAWFORD FD 2,U.S. Senate,,REP,Seth Burton,27
 Lee,0019 SALEM/CRAWFORD FD 2,U.S. Senate,,REP,Steve Marshall,52
+Lee,0020 BEAUREGARD FIRE DEPT,Commissioner of Agriculture and Industries,,REP,Cory Hill,67
+Lee,0020 BEAUREGARD FIRE DEPT,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,26
+Lee,0020 BEAUREGARD FIRE DEPT,Commissioner of Agriculture and Industries,,REP,Jack Williams,30
 Lee,0020 BEAUREGARD FIRE DEPT,Proposed Statewide Amendment 1,,,No,39
 Lee,0020 BEAUREGARD FIRE DEPT,Proposed Statewide Amendment 1,,,Yes,180
 Lee,0020 BEAUREGARD FIRE DEPT,Proposed Statewide Amendment 2,,,No,101
@@ -1348,18 +1375,15 @@ Lee,0020 BEAUREGARD FIRE DEPT,Governor,,DEM,Will Boyd,8
 Lee,0020 BEAUREGARD FIRE DEPT,Governor,,DEM,Yolanda Rochelle Flowers,8
 Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,DEM,Darryl D. Perryman,46
 Lee,0020 BEAUREGARD FIRE DEPT,Lieutenant Governor,,DEM,Phillip Ensler,30
-Lee,0020 BEAUREGARD FIRE DEPT,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,35
-Lee,0020 BEAUREGARD FIRE DEPT,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,45
-Lee,0020 BEAUREGARD FIRE DEPT,U.S. Senate,,DEM,Unverified Candidate 1,21
-Lee,0020 BEAUREGARD FIRE DEPT,U.S. Senate,,DEM,Unverified Candidate 2,16
-Lee,0020 BEAUREGARD FIRE DEPT,U.S. Senate,,DEM,Unverified Candidate 3,24
-Lee,0020 BEAUREGARD FIRE DEPT,U.S. Senate,,DEM,Unverified Candidate 4,18
+Lee,0020 BEAUREGARD FIRE DEPT,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,35
+Lee,0020 BEAUREGARD FIRE DEPT,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,45
+Lee,0020 BEAUREGARD FIRE DEPT,U.S. Senate,,DEM,Dakarai Larriett,21
+Lee,0020 BEAUREGARD FIRE DEPT,U.S. Senate,,DEM,Kyle Sweetser,16
+Lee,0020 BEAUREGARD FIRE DEPT,U.S. Senate,,DEM,Everett Wess,24
+Lee,0020 BEAUREGARD FIRE DEPT,U.S. Senate,,DEM,Mark S. Wheeler II,18
 Lee,0020 BEAUREGARD FIRE DEPT,Attorney General,,REP,Jay Mitchell,47
 Lee,0020 BEAUREGARD FIRE DEPT,Attorney General,,REP,Katherine Robertson,48
 Lee,0020 BEAUREGARD FIRE DEPT,Attorney General,,REP,Pamela L. Casey,31
-Lee,0020 BEAUREGARD FIRE DEPT,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,67
-Lee,0020 BEAUREGARD FIRE DEPT,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,26
-Lee,0020 BEAUREGARD FIRE DEPT,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,30
 Lee,0020 BEAUREGARD FIRE DEPT,Governor,,REP,"""Alabama"" Will Santivasci",5
 Lee,0020 BEAUREGARD FIRE DEPT,Governor,,REP,Ken McFeeters,12
 Lee,0020 BEAUREGARD FIRE DEPT,Governor,,REP,Thomas Tuberville,127
@@ -1398,6 +1422,9 @@ Lee,0020 BEAUREGARD FIRE DEPT,U.S. Senate,,REP,Morgan Murphy,5
 Lee,0020 BEAUREGARD FIRE DEPT,U.S. Senate,,REP,Rodney Walker,25
 Lee,0020 BEAUREGARD FIRE DEPT,U.S. Senate,,REP,Seth Burton,16
 Lee,0020 BEAUREGARD FIRE DEPT,U.S. Senate,,REP,Steve Marshall,16
+Lee,0021 BEULAH FIRE DEPT #3,Commissioner of Agriculture and Industries,,REP,Cory Hill,194
+Lee,0021 BEULAH FIRE DEPT #3,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,193
+Lee,0021 BEULAH FIRE DEPT #3,Commissioner of Agriculture and Industries,,REP,Jack Williams,149
 Lee,0021 BEULAH FIRE DEPT #3,Proposed Statewide Amendment 1,,,No,59
 Lee,0021 BEULAH FIRE DEPT #3,Proposed Statewide Amendment 1,,,Yes,626
 Lee,0021 BEULAH FIRE DEPT #3,Proposed Statewide Amendment 2,,,No,289
@@ -1408,28 +1435,25 @@ Lee,0021 BEULAH FIRE DEPT #3,Governor,,DEM,Jamel J. Brown,2
 Lee,0021 BEULAH FIRE DEPT #3,Governor,,DEM,"Nathan ""Nate"" Mathis",4
 Lee,0021 BEULAH FIRE DEPT #3,Governor,,DEM,Will Boyd,10
 Lee,0021 BEULAH FIRE DEPT #3,Governor,,DEM,Yolanda Rochelle Flowers,4
-Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,23
-Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,15
-Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,8
-Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,9
-Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,26
-Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,35
-Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,7
-Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,12
+Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,23
+Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,15
+Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,8
+Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,9
+Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,26
+Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,35
+Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,7
+Lee,0021 BEULAH FIRE DEPT #3,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,12
 Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,DEM,Darryl D. Perryman,20
 Lee,0021 BEULAH FIRE DEPT #3,Lieutenant Governor,,DEM,Phillip Ensler,44
 Lee,0021 BEULAH FIRE DEPT #3,State House,38,DEM,Christopher F. Davis,22
 Lee,0021 BEULAH FIRE DEPT #3,State House,38,DEM,Hazel Floyd,42
-Lee,0021 BEULAH FIRE DEPT #3,U.S. Senate,,DEM,Unverified Candidate 1,29
-Lee,0021 BEULAH FIRE DEPT #3,U.S. Senate,,DEM,Unverified Candidate 2,7
-Lee,0021 BEULAH FIRE DEPT #3,U.S. Senate,,DEM,Unverified Candidate 3,17
-Lee,0021 BEULAH FIRE DEPT #3,U.S. Senate,,DEM,Unverified Candidate 4,12
+Lee,0021 BEULAH FIRE DEPT #3,U.S. Senate,,DEM,Dakarai Larriett,29
+Lee,0021 BEULAH FIRE DEPT #3,U.S. Senate,,DEM,Kyle Sweetser,7
+Lee,0021 BEULAH FIRE DEPT #3,U.S. Senate,,DEM,Everett Wess,17
+Lee,0021 BEULAH FIRE DEPT #3,U.S. Senate,,DEM,Mark S. Wheeler II,12
 Lee,0021 BEULAH FIRE DEPT #3,Attorney General,,REP,Jay Mitchell,263
 Lee,0021 BEULAH FIRE DEPT #3,Attorney General,,REP,Katherine Robertson,157
 Lee,0021 BEULAH FIRE DEPT #3,Attorney General,,REP,Pamela L. Casey,136
-Lee,0021 BEULAH FIRE DEPT #3,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,194
-Lee,0021 BEULAH FIRE DEPT #3,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,193
-Lee,0021 BEULAH FIRE DEPT #3,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,149
 Lee,0021 BEULAH FIRE DEPT #3,Governor,,REP,"""Alabama"" Will Santivasci",30
 Lee,0021 BEULAH FIRE DEPT #3,Governor,,REP,Ken McFeeters,56
 Lee,0021 BEULAH FIRE DEPT #3,Governor,,REP,Thomas Tuberville,537
@@ -1470,6 +1494,9 @@ Lee,0021 BEULAH FIRE DEPT #3,U.S. Senate,,REP,Morgan Murphy,17
 Lee,0021 BEULAH FIRE DEPT #3,U.S. Senate,,REP,Rodney Walker,44
 Lee,0021 BEULAH FIRE DEPT #3,U.S. Senate,,REP,Seth Burton,67
 Lee,0021 BEULAH FIRE DEPT #3,U.S. Senate,,REP,Steve Marshall,98
+Lee,0022 SMITH STATION SR CTR,Commissioner of Agriculture and Industries,,REP,Cory Hill,229
+Lee,0022 SMITH STATION SR CTR,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,188
+Lee,0022 SMITH STATION SR CTR,Commissioner of Agriculture and Industries,,REP,Jack Williams,145
 Lee,0022 SMITH STATION SR CTR,Proposed Statewide Amendment 1,,,No,98
 Lee,0022 SMITH STATION SR CTR,Proposed Statewide Amendment 1,,,Yes,734
 Lee,0022 SMITH STATION SR CTR,Proposed Statewide Amendment 2,,,No,367
@@ -1480,28 +1507,25 @@ Lee,0022 SMITH STATION SR CTR,Governor,,DEM,Jamel J. Brown,14
 Lee,0022 SMITH STATION SR CTR,Governor,,DEM,"Nathan ""Nate"" Mathis",7
 Lee,0022 SMITH STATION SR CTR,Governor,,DEM,Will Boyd,24
 Lee,0022 SMITH STATION SR CTR,Governor,,DEM,Yolanda Rochelle Flowers,30
-Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,3
-Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,3
-Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,7
-Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,3
-Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,10
-Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,10
-Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,1
-Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,6
+Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,3
+Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,3
+Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,7
+Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,3
+Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,10
+Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,10
+Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,1
+Lee,0022 SMITH STATION SR CTR,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,6
 Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,DEM,Darryl D. Perryman,122
 Lee,0022 SMITH STATION SR CTR,Lieutenant Governor,,DEM,Phillip Ensler,78
 Lee,0022 SMITH STATION SR CTR,State House,38,DEM,Christopher F. Davis,64
 Lee,0022 SMITH STATION SR CTR,State House,38,DEM,Hazel Floyd,135
-Lee,0022 SMITH STATION SR CTR,U.S. Senate,,DEM,Unverified Candidate 1,82
-Lee,0022 SMITH STATION SR CTR,U.S. Senate,,DEM,Unverified Candidate 2,28
-Lee,0022 SMITH STATION SR CTR,U.S. Senate,,DEM,Unverified Candidate 3,55
-Lee,0022 SMITH STATION SR CTR,U.S. Senate,,DEM,Unverified Candidate 4,36
+Lee,0022 SMITH STATION SR CTR,U.S. Senate,,DEM,Dakarai Larriett,82
+Lee,0022 SMITH STATION SR CTR,U.S. Senate,,DEM,Kyle Sweetser,28
+Lee,0022 SMITH STATION SR CTR,U.S. Senate,,DEM,Everett Wess,55
+Lee,0022 SMITH STATION SR CTR,U.S. Senate,,DEM,Mark S. Wheeler II,36
 Lee,0022 SMITH STATION SR CTR,Attorney General,,REP,Jay Mitchell,266
 Lee,0022 SMITH STATION SR CTR,Attorney General,,REP,Katherine Robertson,178
 Lee,0022 SMITH STATION SR CTR,Attorney General,,REP,Pamela L. Casey,135
-Lee,0022 SMITH STATION SR CTR,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,229
-Lee,0022 SMITH STATION SR CTR,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,188
-Lee,0022 SMITH STATION SR CTR,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,145
 Lee,0022 SMITH STATION SR CTR,Governor,,REP,"""Alabama"" Will Santivasci",42
 Lee,0022 SMITH STATION SR CTR,Governor,,REP,Ken McFeeters,74
 Lee,0022 SMITH STATION SR CTR,Governor,,REP,Thomas Tuberville,505
@@ -1542,6 +1566,9 @@ Lee,0022 SMITH STATION SR CTR,U.S. Senate,,REP,Morgan Murphy,23
 Lee,0022 SMITH STATION SR CTR,U.S. Senate,,REP,Rodney Walker,64
 Lee,0022 SMITH STATION SR CTR,U.S. Senate,,REP,Seth Burton,70
 Lee,0022 SMITH STATION SR CTR,U.S. Senate,,REP,Steve Marshall,100
+Lee,0023 PINE GROVE CHURCH,Commissioner of Agriculture and Industries,,REP,Cory Hill,166
+Lee,0023 PINE GROVE CHURCH,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,126
+Lee,0023 PINE GROVE CHURCH,Commissioner of Agriculture and Industries,,REP,Jack Williams,115
 Lee,0023 PINE GROVE CHURCH,Proposed Statewide Amendment 1,,,No,71
 Lee,0023 PINE GROVE CHURCH,Proposed Statewide Amendment 1,,,Yes,525
 Lee,0023 PINE GROVE CHURCH,Proposed Statewide Amendment 2,,,No,274
@@ -1552,28 +1579,25 @@ Lee,0023 PINE GROVE CHURCH,Governor,,DEM,Jamel J. Brown,18
 Lee,0023 PINE GROVE CHURCH,Governor,,DEM,"Nathan ""Nate"" Mathis",2
 Lee,0023 PINE GROVE CHURCH,Governor,,DEM,Will Boyd,11
 Lee,0023 PINE GROVE CHURCH,Governor,,DEM,Yolanda Rochelle Flowers,19
-Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,16
-Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,28
-Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,10
-Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,16
-Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,26
-Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,69
-Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,18
-Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,33
+Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,16
+Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,28
+Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,10
+Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,16
+Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,26
+Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,69
+Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,18
+Lee,0023 PINE GROVE CHURCH,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,33
 Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,DEM,Darryl D. Perryman,65
 Lee,0023 PINE GROVE CHURCH,Lieutenant Governor,,DEM,Phillip Ensler,43
 Lee,0023 PINE GROVE CHURCH,State House,38,DEM,Christopher F. Davis,39
 Lee,0023 PINE GROVE CHURCH,State House,38,DEM,Hazel Floyd,71
-Lee,0023 PINE GROVE CHURCH,U.S. Senate,,DEM,Unverified Candidate 1,44
-Lee,0023 PINE GROVE CHURCH,U.S. Senate,,DEM,Unverified Candidate 2,15
-Lee,0023 PINE GROVE CHURCH,U.S. Senate,,DEM,Unverified Candidate 3,28
-Lee,0023 PINE GROVE CHURCH,U.S. Senate,,DEM,Unverified Candidate 4,23
+Lee,0023 PINE GROVE CHURCH,U.S. Senate,,DEM,Dakarai Larriett,44
+Lee,0023 PINE GROVE CHURCH,U.S. Senate,,DEM,Kyle Sweetser,15
+Lee,0023 PINE GROVE CHURCH,U.S. Senate,,DEM,Everett Wess,28
+Lee,0023 PINE GROVE CHURCH,U.S. Senate,,DEM,Mark S. Wheeler II,23
 Lee,0023 PINE GROVE CHURCH,Attorney General,,REP,Jay Mitchell,216
 Lee,0023 PINE GROVE CHURCH,Attorney General,,REP,Katherine Robertson,129
 Lee,0023 PINE GROVE CHURCH,Attorney General,,REP,Pamela L. Casey,79
-Lee,0023 PINE GROVE CHURCH,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,166
-Lee,0023 PINE GROVE CHURCH,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,126
-Lee,0023 PINE GROVE CHURCH,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,115
 Lee,0023 PINE GROVE CHURCH,Governor,,REP,"""Alabama"" Will Santivasci",32
 Lee,0023 PINE GROVE CHURCH,Governor,,REP,Ken McFeeters,54
 Lee,0023 PINE GROVE CHURCH,Governor,,REP,Thomas Tuberville,393
@@ -1614,6 +1638,9 @@ Lee,0023 PINE GROVE CHURCH,U.S. Senate,,REP,Morgan Murphy,21
 Lee,0023 PINE GROVE CHURCH,U.S. Senate,,REP,Rodney Walker,37
 Lee,0023 PINE GROVE CHURCH,U.S. Senate,,REP,Seth Burton,36
 Lee,0023 PINE GROVE CHURCH,U.S. Senate,,REP,Steve Marshall,77
+Lee,0024 SMITHS STATION JR HS,Commissioner of Agriculture and Industries,,REP,Cory Hill,468
+Lee,0024 SMITHS STATION JR HS,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,408
+Lee,0024 SMITHS STATION JR HS,Commissioner of Agriculture and Industries,,REP,Jack Williams,318
 Lee,0024 SMITHS STATION JR HS,Proposed Statewide Amendment 1,,,No,300
 Lee,0024 SMITHS STATION JR HS,Proposed Statewide Amendment 1,,,Yes,1733
 Lee,0024 SMITHS STATION JR HS,Proposed Statewide Amendment 2,,,No,851
@@ -1624,28 +1651,25 @@ Lee,0024 SMITHS STATION JR HS,Governor,,DEM,Jamel J. Brown,44
 Lee,0024 SMITHS STATION JR HS,Governor,,DEM,"Nathan ""Nate"" Mathis",13
 Lee,0024 SMITHS STATION JR HS,Governor,,DEM,Will Boyd,89
 Lee,0024 SMITHS STATION JR HS,Governor,,DEM,Yolanda Rochelle Flowers,102
-Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,0
-Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,0
-Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,0
-Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,0
-Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,0
-Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,0
-Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,0
-Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,0
+Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,0
+Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,0
+Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,0
+Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,0
+Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,0
+Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,0
+Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,0
+Lee,0024 SMITHS STATION JR HS,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,0
 Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,DEM,Darryl D. Perryman,362
 Lee,0024 SMITHS STATION JR HS,Lieutenant Governor,,DEM,Phillip Ensler,346
 Lee,0024 SMITHS STATION JR HS,State House,38,DEM,Christopher F. Davis,0
 Lee,0024 SMITHS STATION JR HS,State House,38,DEM,Hazel Floyd,0
-Lee,0024 SMITHS STATION JR HS,U.S. Senate,,DEM,Unverified Candidate 1,286
-Lee,0024 SMITHS STATION JR HS,U.S. Senate,,DEM,Unverified Candidate 2,78
-Lee,0024 SMITHS STATION JR HS,U.S. Senate,,DEM,Unverified Candidate 3,225
-Lee,0024 SMITHS STATION JR HS,U.S. Senate,,DEM,Unverified Candidate 4,126
+Lee,0024 SMITHS STATION JR HS,U.S. Senate,,DEM,Dakarai Larriett,286
+Lee,0024 SMITHS STATION JR HS,U.S. Senate,,DEM,Kyle Sweetser,78
+Lee,0024 SMITHS STATION JR HS,U.S. Senate,,DEM,Everett Wess,225
+Lee,0024 SMITHS STATION JR HS,U.S. Senate,,DEM,Mark S. Wheeler II,126
 Lee,0024 SMITHS STATION JR HS,Attorney General,,REP,Jay Mitchell,637
 Lee,0024 SMITHS STATION JR HS,Attorney General,,REP,Katherine Robertson,351
 Lee,0024 SMITHS STATION JR HS,Attorney General,,REP,Pamela L. Casey,253
-Lee,0024 SMITHS STATION JR HS,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,468
-Lee,0024 SMITHS STATION JR HS,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,408
-Lee,0024 SMITHS STATION JR HS,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,318
 Lee,0024 SMITHS STATION JR HS,Governor,,REP,"""Alabama"" Will Santivasci",81
 Lee,0024 SMITHS STATION JR HS,Governor,,REP,Ken McFeeters,120
 Lee,0024 SMITHS STATION JR HS,Governor,,REP,Thomas Tuberville,1107
@@ -1686,6 +1710,9 @@ Lee,0024 SMITHS STATION JR HS,U.S. Senate,,REP,Morgan Murphy,40
 Lee,0024 SMITHS STATION JR HS,U.S. Senate,,REP,Rodney Walker,91
 Lee,0024 SMITHS STATION JR HS,U.S. Senate,,REP,Seth Burton,146
 Lee,0024 SMITHS STATION JR HS,U.S. Senate,,REP,Steve Marshall,226
+Lee,0025 GLENWOOD SCHOOL,Commissioner of Agriculture and Industries,,REP,Cory Hill,290
+Lee,0025 GLENWOOD SCHOOL,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,286
+Lee,0025 GLENWOOD SCHOOL,Commissioner of Agriculture and Industries,,REP,Jack Williams,230
 Lee,0025 GLENWOOD SCHOOL,Proposed Statewide Amendment 1,,,No,142
 Lee,0025 GLENWOOD SCHOOL,Proposed Statewide Amendment 1,,,Yes,1160
 Lee,0025 GLENWOOD SCHOOL,Proposed Statewide Amendment 2,,,No,531
@@ -1698,16 +1725,13 @@ Lee,0025 GLENWOOD SCHOOL,Governor,,DEM,Will Boyd,52
 Lee,0025 GLENWOOD SCHOOL,Governor,,DEM,Yolanda Rochelle Flowers,59
 Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,DEM,Darryl D. Perryman,205
 Lee,0025 GLENWOOD SCHOOL,Lieutenant Governor,,DEM,Phillip Ensler,170
-Lee,0025 GLENWOOD SCHOOL,U.S. Senate,,DEM,Unverified Candidate 1,165
-Lee,0025 GLENWOOD SCHOOL,U.S. Senate,,DEM,Unverified Candidate 2,43
-Lee,0025 GLENWOOD SCHOOL,U.S. Senate,,DEM,Unverified Candidate 3,92
-Lee,0025 GLENWOOD SCHOOL,U.S. Senate,,DEM,Unverified Candidate 4,73
+Lee,0025 GLENWOOD SCHOOL,U.S. Senate,,DEM,Dakarai Larriett,165
+Lee,0025 GLENWOOD SCHOOL,U.S. Senate,,DEM,Kyle Sweetser,43
+Lee,0025 GLENWOOD SCHOOL,U.S. Senate,,DEM,Everett Wess,92
+Lee,0025 GLENWOOD SCHOOL,U.S. Senate,,DEM,Mark S. Wheeler II,73
 Lee,0025 GLENWOOD SCHOOL,Attorney General,,REP,Jay Mitchell,415
 Lee,0025 GLENWOOD SCHOOL,Attorney General,,REP,Katherine Robertson,238
 Lee,0025 GLENWOOD SCHOOL,Attorney General,,REP,Pamela L. Casey,205
-Lee,0025 GLENWOOD SCHOOL,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,290
-Lee,0025 GLENWOOD SCHOOL,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,286
-Lee,0025 GLENWOOD SCHOOL,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,230
 Lee,0025 GLENWOOD SCHOOL,Governor,,REP,"""Alabama"" Will Santivasci",28
 Lee,0025 GLENWOOD SCHOOL,Governor,,REP,Ken McFeeters,80
 Lee,0025 GLENWOOD SCHOOL,Governor,,REP,Thomas Tuberville,825
@@ -1746,6 +1770,9 @@ Lee,0025 GLENWOOD SCHOOL,U.S. Senate,,REP,Morgan Murphy,19
 Lee,0025 GLENWOOD SCHOOL,U.S. Senate,,REP,Rodney Walker,71
 Lee,0025 GLENWOOD SCHOOL,U.S. Senate,,REP,Seth Burton,94
 Lee,0025 GLENWOOD SCHOOL,U.S. Senate,,REP,Steve Marshall,147
+Lee,0026 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Cory Hill,5
+Lee,0026 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,1
+Lee,0026 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Jack Williams,3
 Lee,0026 PROVISIONAL,Proposed Statewide Amendment 1,,,No,2
 Lee,0026 PROVISIONAL,Proposed Statewide Amendment 1,,,Yes,17
 Lee,0026 PROVISIONAL,Proposed Statewide Amendment 2,,,No,4
@@ -1758,18 +1785,18 @@ Lee,0026 PROVISIONAL,Governor,,DEM,Jamel J. Brown,0
 Lee,0026 PROVISIONAL,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Lee,0026 PROVISIONAL,Governor,,DEM,Will Boyd,0
 Lee,0026 PROVISIONAL,Governor,,DEM,Yolanda Rochelle Flowers,0
-Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,0
-Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,0
-Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,0
-Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,0
-Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,0
-Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,1
-Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,0
-Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,0
+Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,0
+Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,0
+Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,0
+Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,0
+Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,0
+Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,1
+Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,0
+Lee,0026 PROVISIONAL,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,0
 Lee,0026 PROVISIONAL,Lieutenant Governor,,DEM,Darryl D. Perryman,1
 Lee,0026 PROVISIONAL,Lieutenant Governor,,DEM,Phillip Ensler,1
-Lee,0026 PROVISIONAL,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,0
-Lee,0026 PROVISIONAL,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,0
+Lee,0026 PROVISIONAL,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,0
+Lee,0026 PROVISIONAL,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,0
 Lee,0026 PROVISIONAL,State Democratic Executive Committee,,DEM,Jacquelyn Carlisle,0
 Lee,0026 PROVISIONAL,State Democratic Executive Committee,,DEM,Kennedie Clinton,0
 Lee,0026 PROVISIONAL,State House,38,DEM,Christopher F. Davis,0
@@ -1778,16 +1805,13 @@ Lee,0026 PROVISIONAL,State House,82,DEM,Jamie Lowe,0
 Lee,0026 PROVISIONAL,State House,82,DEM,Pebblin W. Warren,0
 Lee,0026 PROVISIONAL,State House,82,DEM,"Sidney ""Doc"" Brown",0
 Lee,0026 PROVISIONAL,State House,82,DEM,Terrence K. Johnson,0
-Lee,0026 PROVISIONAL,U.S. Senate,,DEM,Unverified Candidate 1,1
-Lee,0026 PROVISIONAL,U.S. Senate,,DEM,Unverified Candidate 2,0
-Lee,0026 PROVISIONAL,U.S. Senate,,DEM,Unverified Candidate 3,0
-Lee,0026 PROVISIONAL,U.S. Senate,,DEM,Unverified Candidate 4,1
+Lee,0026 PROVISIONAL,U.S. Senate,,DEM,Dakarai Larriett,1
+Lee,0026 PROVISIONAL,U.S. Senate,,DEM,Kyle Sweetser,0
+Lee,0026 PROVISIONAL,U.S. Senate,,DEM,Everett Wess,0
+Lee,0026 PROVISIONAL,U.S. Senate,,DEM,Mark S. Wheeler II,1
 Lee,0026 PROVISIONAL,Attorney General,,REP,Jay Mitchell,4
 Lee,0026 PROVISIONAL,Attorney General,,REP,Katherine Robertson,4
 Lee,0026 PROVISIONAL,Attorney General,,REP,Pamela L. Casey,1
-Lee,0026 PROVISIONAL,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 1,5
-Lee,0026 PROVISIONAL,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 2,1
-Lee,0026 PROVISIONAL,Commissidner of Agriculture and Industries,,REP,Unverified Candidate 3,3
 Lee,0026 PROVISIONAL,Governor,,REP,"""Alabama"" Will Santivasci",1
 Lee,0026 PROVISIONAL,Governor,,REP,Ken McFeeters,2
 Lee,0026 PROVISIONAL,Governor,,REP,Thomas Tuberville,11
@@ -1835,6 +1859,9 @@ Lee,0026 PROVISIONAL,U.S. Senate,,REP,Morgan Murphy,1
 Lee,0026 PROVISIONAL,U.S. Senate,,REP,Rodney Walker,1
 Lee,0026 PROVISIONAL,U.S. Senate,,REP,Seth Burton,0
 Lee,0026 PROVISIONAL,U.S. Senate,,REP,Steve Marshall,4
+Lee,0028 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Cory Hill,132
+Lee,0028 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,137
+Lee,0028 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Jack Williams,122
 Lee,0028 ABSENTEE,Proposed Statewide Amendment 1,,,No,66
 Lee,0028 ABSENTEE,Proposed Statewide Amendment 1,,,Yes,540
 Lee,0028 ABSENTEE,Proposed Statewide Amendment 2,,,No,209
@@ -1847,18 +1874,18 @@ Lee,0028 ABSENTEE,Governor,,DEM,Jamel J. Brown,1
 Lee,0028 ABSENTEE,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Lee,0028 ABSENTEE,Governor,,DEM,Will Boyd,9
 Lee,0028 ABSENTEE,Governor,,DEM,Yolanda Rochelle Flowers,6
-Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 1,8
-Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 2,7
-Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 3,5
-Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 4,5
-Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 5,8
-Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 6,10
-Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 7,5
-Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,Unverified Candidate 8,9
+Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,NANCY CARLTON BENDINGER,8
+Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,SUSAN CLARK,7
+Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,PARKER HAMILTON,5
+Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,MARTHA HICKS,5
+Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BERNICE HOWARD,8
+Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,TAMEKA LOCKHART,10
+Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,BARBARA McINNIS,5
+Lee,0028 ABSENTEE,Lee County Democratic Executive Committee (Female). District No. 4,,DEM,LILLIAN SNIPES,9
 Lee,0028 ABSENTEE,Lieutenant Governor,,DEM,Darryl D. Perryman,45
 Lee,0028 ABSENTEE,Lieutenant Governor,,DEM,Phillip Ensler,81
-Lee,0028 ABSENTEE,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 1,17
-Lee,0028 ABSENTEE,"Member, Lee County Commission, District No. 5",,DEM,Unverified Candidate 2,19
+Lee,0028 ABSENTEE,"Member, Lee County Commission, District No. 5",,DEM,DERRIC A. BAKER,17
+Lee,0028 ABSENTEE,"Member, Lee County Commission, District No. 5",,DEM,RICHARD LAGRAND SR.,19
 Lee,0028 ABSENTEE,State Democratic Executive Committee,,DEM,Jacquelyn Carlisle,19
 Lee,0028 ABSENTEE,State Democratic Executive Committee,,DEM,Kennedie Clinton,5
 Lee,0028 ABSENTEE,State House,38,DEM,Christopher F. Davis,6
@@ -1867,10 +1894,10 @@ Lee,0028 ABSENTEE,State House,82,DEM,Jamie Lowe,8
 Lee,0028 ABSENTEE,State House,82,DEM,Pebblin W. Warren,17
 Lee,0028 ABSENTEE,State House,82,DEM,"Sidney ""Doc"" Brown",1
 Lee,0028 ABSENTEE,State House,82,DEM,Terrence K. Johnson,0
-Lee,0028 ABSENTEE,U.S. Senate,,DEM,Unverified Candidate 1,42
-Lee,0028 ABSENTEE,U.S. Senate,,DEM,Unverified Candidate 2,19
-Lee,0028 ABSENTEE,U.S. Senate,,DEM,Unverified Candidate 3,39
-Lee,0028 ABSENTEE,U.S. Senate,,DEM,Unverified Candidate 4,24
+Lee,0028 ABSENTEE,U.S. Senate,,DEM,Dakarai Larriett,42
+Lee,0028 ABSENTEE,U.S. Senate,,DEM,Kyle Sweetser,19
+Lee,0028 ABSENTEE,U.S. Senate,,DEM,Everett Wess,39
+Lee,0028 ABSENTEE,U.S. Senate,,DEM,Mark S. Wheeler II,24
 Lee,0028 ABSENTEE,Attorney General,,REP,Jay Mitchell,156
 Lee,0028 ABSENTEE,Attorney General,,REP,Katherine Robertson,206
 Lee,0028 ABSENTEE,Attorney General,,REP,Pamela L. Casey,83

@@ -1,4 +1,26 @@
 county,precinct,office,district,party,candidate,votes
+Greene,0001 WM. MCKINLEY BRANCH,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",30
+Greene,0001 WM. MCKINLEY BRANCH,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,67
+Greene,0001 WM. MCKINLEY BRANCH,Governor,,DEM,"Chad ""Chig"" Martin",0
+Greene,0001 WM. MCKINLEY BRANCH,Governor,,DEM,Doug Jones,78
+Greene,0001 WM. MCKINLEY BRANCH,Governor,,DEM,Jamel J. Brown,6
+Greene,0001 WM. MCKINLEY BRANCH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Greene,0001 WM. MCKINLEY BRANCH,Governor,,DEM,Will Boyd,11
+Greene,0001 WM. MCKINLEY BRANCH,Governor,,DEM,Yolanda Rochelle Flowers,4
+Greene,0001 WM. MCKINLEY BRANCH,Lieutenant Governor,,DEM,Darryl D. Perryman,47
+Greene,0001 WM. MCKINLEY BRANCH,Lieutenant Governor,,DEM,Phillip Ensler,29
+Greene,0001 WM. MCKINLEY BRANCH,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,37
+Greene,0001 WM. MCKINLEY BRANCH,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,16
+Greene,0001 WM. MCKINLEY BRANCH,"Public Service Commission, Place No. 1",,DEM,John Northrop,13
+Greene,0001 WM. MCKINLEY BRANCH,State Democratic Executive Committee,,DEM,Curtis L. Travis,69
+Greene,0001 WM. MCKINLEY BRANCH,State Democratic Executive Committee,,DEM,Jonathan Rossell,7
+Greene,0001 WM. MCKINLEY BRANCH,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,14
+Greene,0001 WM. MCKINLEY BRANCH,State House,72,DEM,Curtis L Travis,55
+Greene,0001 WM. MCKINLEY BRANCH,State House,72,DEM,Michael Williams,41
+Greene,0001 WM. MCKINLEY BRANCH,U.S. Senate,,DEM,Dakarai Larriett,29
+Greene,0001 WM. MCKINLEY BRANCH,U.S. Senate,,DEM,Everett Wess,24
+Greene,0001 WM. MCKINLEY BRANCH,U.S. Senate,,DEM,Kyle Sweetser,10
+Greene,0001 WM. MCKINLEY BRANCH,U.S. Senate,,DEM,Mark S. Wheeler II,10
 Greene,0001 WM. MCKINLEY BRANCH,Attorney General,,REP,Jay Mitchell,3
 Greene,0001 WM. MCKINLEY BRANCH,Attorney General,,REP,Katherine Robertson,1
 Greene,0001 WM. MCKINLEY BRANCH,Attorney General,,REP,Pamela L. Casey,0
@@ -20,6 +42,28 @@ Greene,0001 WM. MCKINLEY BRANCH,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0001 WM. MCKINLEY BRANCH,U.S. Senate,,REP,Rodney Walker,0
 Greene,0001 WM. MCKINLEY BRANCH,U.S. Senate,,REP,Seth Burton,0
 Greene,0001 WM. MCKINLEY BRANCH,U.S. Senate,,REP,Steve Marshall,1
+Greene,0002 MANTUA FIRE STATION,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",15
+Greene,0002 MANTUA FIRE STATION,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,83
+Greene,0002 MANTUA FIRE STATION,Governor,,DEM,"Chad ""Chig"" Martin",0
+Greene,0002 MANTUA FIRE STATION,Governor,,DEM,Doug Jones,74
+Greene,0002 MANTUA FIRE STATION,Governor,,DEM,Jamel J. Brown,7
+Greene,0002 MANTUA FIRE STATION,Governor,,DEM,"Nathan ""Nate"" Mathis",4
+Greene,0002 MANTUA FIRE STATION,Governor,,DEM,Will Boyd,4
+Greene,0002 MANTUA FIRE STATION,Governor,,DEM,Yolanda Rochelle Flowers,11
+Greene,0002 MANTUA FIRE STATION,Lieutenant Governor,,DEM,Darryl D. Perryman,29
+Greene,0002 MANTUA FIRE STATION,Lieutenant Governor,,DEM,Phillip Ensler,59
+Greene,0002 MANTUA FIRE STATION,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,66
+Greene,0002 MANTUA FIRE STATION,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,13
+Greene,0002 MANTUA FIRE STATION,"Public Service Commission, Place No. 1",,DEM,John Northrop,10
+Greene,0002 MANTUA FIRE STATION,State Democratic Executive Committee,,DEM,Curtis L. Travis,89
+Greene,0002 MANTUA FIRE STATION,State Democratic Executive Committee,,DEM,Jonathan Rossell,4
+Greene,0002 MANTUA FIRE STATION,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,4
+Greene,0002 MANTUA FIRE STATION,State House,72,DEM,Curtis L Travis,77
+Greene,0002 MANTUA FIRE STATION,State House,72,DEM,Michael Williams,23
+Greene,0002 MANTUA FIRE STATION,U.S. Senate,,DEM,Dakarai Larriett,9
+Greene,0002 MANTUA FIRE STATION,U.S. Senate,,DEM,Everett Wess,49
+Greene,0002 MANTUA FIRE STATION,U.S. Senate,,DEM,Kyle Sweetser,11
+Greene,0002 MANTUA FIRE STATION,U.S. Senate,,DEM,Mark S. Wheeler II,17
 Greene,0002 MANTUA FIRE STATION,Attorney General,,REP,Jay Mitchell,3
 Greene,0002 MANTUA FIRE STATION,Attorney General,,REP,Katherine Robertson,2
 Greene,0002 MANTUA FIRE STATION,Attorney General,,REP,Pamela L. Casey,0
@@ -41,6 +85,28 @@ Greene,0002 MANTUA FIRE STATION,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0002 MANTUA FIRE STATION,U.S. Senate,,REP,Rodney Walker,0
 Greene,0002 MANTUA FIRE STATION,U.S. Senate,,REP,Seth Burton,0
 Greene,0002 MANTUA FIRE STATION,U.S. Senate,,REP,Steve Marshall,3
+Greene,0003 JENA FIRE STATION,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",12
+Greene,0003 JENA FIRE STATION,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,16
+Greene,0003 JENA FIRE STATION,Governor,,DEM,"Chad ""Chig"" Martin",1
+Greene,0003 JENA FIRE STATION,Governor,,DEM,Doug Jones,22
+Greene,0003 JENA FIRE STATION,Governor,,DEM,Jamel J. Brown,4
+Greene,0003 JENA FIRE STATION,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Greene,0003 JENA FIRE STATION,Governor,,DEM,Will Boyd,1
+Greene,0003 JENA FIRE STATION,Governor,,DEM,Yolanda Rochelle Flowers,4
+Greene,0003 JENA FIRE STATION,Lieutenant Governor,,DEM,Darryl D. Perryman,11
+Greene,0003 JENA FIRE STATION,Lieutenant Governor,,DEM,Phillip Ensler,12
+Greene,0003 JENA FIRE STATION,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,10
+Greene,0003 JENA FIRE STATION,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,7
+Greene,0003 JENA FIRE STATION,"Public Service Commission, Place No. 1",,DEM,John Northrop,5
+Greene,0003 JENA FIRE STATION,State Democratic Executive Committee,,DEM,Curtis L. Travis,22
+Greene,0003 JENA FIRE STATION,State Democratic Executive Committee,,DEM,Jonathan Rossell,2
+Greene,0003 JENA FIRE STATION,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,4
+Greene,0003 JENA FIRE STATION,State House,72,DEM,Curtis L Travis,22
+Greene,0003 JENA FIRE STATION,State House,72,DEM,Michael Williams,6
+Greene,0003 JENA FIRE STATION,U.S. Senate,,DEM,Dakarai Larriett,4
+Greene,0003 JENA FIRE STATION,U.S. Senate,,DEM,Everett Wess,12
+Greene,0003 JENA FIRE STATION,U.S. Senate,,DEM,Kyle Sweetser,3
+Greene,0003 JENA FIRE STATION,U.S. Senate,,DEM,Mark S. Wheeler II,3
 Greene,0003 JENA FIRE STATION,Attorney General,,REP,Jay Mitchell,12
 Greene,0003 JENA FIRE STATION,Attorney General,,REP,Katherine Robertson,10
 Greene,0003 JENA FIRE STATION,Attorney General,,REP,Pamela L. Casey,3
@@ -62,6 +128,28 @@ Greene,0003 JENA FIRE STATION,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0003 JENA FIRE STATION,U.S. Senate,,REP,Rodney Walker,0
 Greene,0003 JENA FIRE STATION,U.S. Senate,,REP,Seth Burton,1
 Greene,0003 JENA FIRE STATION,U.S. Senate,,REP,Steve Marshall,2
+Greene,0004 UNION FIRE STATION,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",24
+Greene,0004 UNION FIRE STATION,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,110
+Greene,0004 UNION FIRE STATION,Governor,,DEM,"Chad ""Chig"" Martin",1
+Greene,0004 UNION FIRE STATION,Governor,,DEM,Doug Jones,110
+Greene,0004 UNION FIRE STATION,Governor,,DEM,Jamel J. Brown,5
+Greene,0004 UNION FIRE STATION,Governor,,DEM,"Nathan ""Nate"" Mathis",2
+Greene,0004 UNION FIRE STATION,Governor,,DEM,Will Boyd,5
+Greene,0004 UNION FIRE STATION,Governor,,DEM,Yolanda Rochelle Flowers,13
+Greene,0004 UNION FIRE STATION,Lieutenant Governor,,DEM,Darryl D. Perryman,46
+Greene,0004 UNION FIRE STATION,Lieutenant Governor,,DEM,Phillip Ensler,71
+Greene,0004 UNION FIRE STATION,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,81
+Greene,0004 UNION FIRE STATION,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,10
+Greene,0004 UNION FIRE STATION,"Public Service Commission, Place No. 1",,DEM,John Northrop,24
+Greene,0004 UNION FIRE STATION,State Democratic Executive Committee,,DEM,Curtis L. Travis,89
+Greene,0004 UNION FIRE STATION,State Democratic Executive Committee,,DEM,Jonathan Rossell,13
+Greene,0004 UNION FIRE STATION,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,22
+Greene,0004 UNION FIRE STATION,State House,72,DEM,Curtis L Travis,63
+Greene,0004 UNION FIRE STATION,State House,72,DEM,Michael Williams,74
+Greene,0004 UNION FIRE STATION,U.S. Senate,,DEM,Dakarai Larriett,23
+Greene,0004 UNION FIRE STATION,U.S. Senate,,DEM,Everett Wess,61
+Greene,0004 UNION FIRE STATION,U.S. Senate,,DEM,Kyle Sweetser,22
+Greene,0004 UNION FIRE STATION,U.S. Senate,,DEM,Mark S. Wheeler II,11
 Greene,0004 UNION FIRE STATION,Attorney General,,REP,Jay Mitchell,1
 Greene,0004 UNION FIRE STATION,Attorney General,,REP,Katherine Robertson,7
 Greene,0004 UNION FIRE STATION,Attorney General,,REP,Pamela L. Casey,1
@@ -83,6 +171,28 @@ Greene,0004 UNION FIRE STATION,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0004 UNION FIRE STATION,U.S. Senate,,REP,Rodney Walker,1
 Greene,0004 UNION FIRE STATION,U.S. Senate,,REP,Seth Burton,0
 Greene,0004 UNION FIRE STATION,U.S. Senate,,REP,Steve Marshall,2
+Greene,0005 KNOXVILLE F STATION,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",36
+Greene,0005 KNOXVILLE F STATION,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,55
+Greene,0005 KNOXVILLE F STATION,Governor,,DEM,"Chad ""Chig"" Martin",6
+Greene,0005 KNOXVILLE F STATION,Governor,,DEM,Doug Jones,62
+Greene,0005 KNOXVILLE F STATION,Governor,,DEM,Jamel J. Brown,5
+Greene,0005 KNOXVILLE F STATION,Governor,,DEM,"Nathan ""Nate"" Mathis",2
+Greene,0005 KNOXVILLE F STATION,Governor,,DEM,Will Boyd,2
+Greene,0005 KNOXVILLE F STATION,Governor,,DEM,Yolanda Rochelle Flowers,6
+Greene,0005 KNOXVILLE F STATION,Lieutenant Governor,,DEM,Darryl D. Perryman,28
+Greene,0005 KNOXVILLE F STATION,Lieutenant Governor,,DEM,Phillip Ensler,38
+Greene,0005 KNOXVILLE F STATION,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,39
+Greene,0005 KNOXVILLE F STATION,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,14
+Greene,0005 KNOXVILLE F STATION,"Public Service Commission, Place No. 1",,DEM,John Northrop,13
+Greene,0005 KNOXVILLE F STATION,State Democratic Executive Committee,,DEM,Curtis L. Travis,55
+Greene,0005 KNOXVILLE F STATION,State Democratic Executive Committee,,DEM,Jonathan Rossell,11
+Greene,0005 KNOXVILLE F STATION,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,16
+Greene,0005 KNOXVILLE F STATION,State House,72,DEM,Curtis L Travis,48
+Greene,0005 KNOXVILLE F STATION,State House,72,DEM,Michael Williams,31
+Greene,0005 KNOXVILLE F STATION,U.S. Senate,,DEM,Dakarai Larriett,15
+Greene,0005 KNOXVILLE F STATION,U.S. Senate,,DEM,Everett Wess,29
+Greene,0005 KNOXVILLE F STATION,U.S. Senate,,DEM,Kyle Sweetser,6
+Greene,0005 KNOXVILLE F STATION,U.S. Senate,,DEM,Mark S. Wheeler II,17
 Greene,0005 KNOXVILLE F STATION,Attorney General,,REP,Jay Mitchell,0
 Greene,0005 KNOXVILLE F STATION,Attorney General,,REP,Katherine Robertson,9
 Greene,0005 KNOXVILLE F STATION,Attorney General,,REP,Pamela L. Casey,3
@@ -104,6 +214,28 @@ Greene,0005 KNOXVILLE F STATION,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0005 KNOXVILLE F STATION,U.S. Senate,,REP,Rodney Walker,0
 Greene,0005 KNOXVILLE F STATION,U.S. Senate,,REP,Seth Burton,0
 Greene,0005 KNOXVILLE F STATION,U.S. Senate,,REP,Steve Marshall,4
+Greene,0006 NATIONAL GUARD ARMORY,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",181
+Greene,0006 NATIONAL GUARD ARMORY,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,240
+Greene,0006 NATIONAL GUARD ARMORY,Governor,,DEM,"Chad ""Chig"" Martin",8
+Greene,0006 NATIONAL GUARD ARMORY,Governor,,DEM,Doug Jones,271
+Greene,0006 NATIONAL GUARD ARMORY,Governor,,DEM,Jamel J. Brown,39
+Greene,0006 NATIONAL GUARD ARMORY,Governor,,DEM,"Nathan ""Nate"" Mathis",13
+Greene,0006 NATIONAL GUARD ARMORY,Governor,,DEM,Will Boyd,24
+Greene,0006 NATIONAL GUARD ARMORY,Governor,,DEM,Yolanda Rochelle Flowers,27
+Greene,0006 NATIONAL GUARD ARMORY,Lieutenant Governor,,DEM,Darryl D. Perryman,172
+Greene,0006 NATIONAL GUARD ARMORY,Lieutenant Governor,,DEM,Phillip Ensler,141
+Greene,0006 NATIONAL GUARD ARMORY,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,164
+Greene,0006 NATIONAL GUARD ARMORY,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,89
+Greene,0006 NATIONAL GUARD ARMORY,"Public Service Commission, Place No. 1",,DEM,John Northrop,42
+Greene,0006 NATIONAL GUARD ARMORY,State Democratic Executive Committee,,DEM,Curtis L. Travis,256
+Greene,0006 NATIONAL GUARD ARMORY,State Democratic Executive Committee,,DEM,Jonathan Rossell,40
+Greene,0006 NATIONAL GUARD ARMORY,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,72
+Greene,0006 NATIONAL GUARD ARMORY,State House,72,DEM,Curtis L Travis,216
+Greene,0006 NATIONAL GUARD ARMORY,State House,72,DEM,Michael Williams,172
+Greene,0006 NATIONAL GUARD ARMORY,U.S. Senate,,DEM,Dakarai Larriett,80
+Greene,0006 NATIONAL GUARD ARMORY,U.S. Senate,,DEM,Everett Wess,89
+Greene,0006 NATIONAL GUARD ARMORY,U.S. Senate,,DEM,Kyle Sweetser,61
+Greene,0006 NATIONAL GUARD ARMORY,U.S. Senate,,DEM,Mark S. Wheeler II,73
 Greene,0006 NATIONAL GUARD ARMORY,Attorney General,,REP,Jay Mitchell,13
 Greene,0006 NATIONAL GUARD ARMORY,Attorney General,,REP,Katherine Robertson,21
 Greene,0006 NATIONAL GUARD ARMORY,Attorney General,,REP,Pamela L. Casey,5
@@ -125,6 +257,28 @@ Greene,0006 NATIONAL GUARD ARMORY,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0006 NATIONAL GUARD ARMORY,U.S. Senate,,REP,Rodney Walker,1
 Greene,0006 NATIONAL GUARD ARMORY,U.S. Senate,,REP,Seth Burton,0
 Greene,0006 NATIONAL GUARD ARMORY,U.S. Senate,,REP,Steve Marshall,12
+Greene,0007 BAMA BINGO-SOUTH FORK,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",23
+Greene,0007 BAMA BINGO-SOUTH FORK,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,36
+Greene,0007 BAMA BINGO-SOUTH FORK,Governor,,DEM,"Chad ""Chig"" Martin",1
+Greene,0007 BAMA BINGO-SOUTH FORK,Governor,,DEM,Doug Jones,37
+Greene,0007 BAMA BINGO-SOUTH FORK,Governor,,DEM,Jamel J. Brown,7
+Greene,0007 BAMA BINGO-SOUTH FORK,Governor,,DEM,"Nathan ""Nate"" Mathis",2
+Greene,0007 BAMA BINGO-SOUTH FORK,Governor,,DEM,Will Boyd,2
+Greene,0007 BAMA BINGO-SOUTH FORK,Governor,,DEM,Yolanda Rochelle Flowers,4
+Greene,0007 BAMA BINGO-SOUTH FORK,Lieutenant Governor,,DEM,Darryl D. Perryman,27
+Greene,0007 BAMA BINGO-SOUTH FORK,Lieutenant Governor,,DEM,Phillip Ensler,13
+Greene,0007 BAMA BINGO-SOUTH FORK,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,24
+Greene,0007 BAMA BINGO-SOUTH FORK,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,12
+Greene,0007 BAMA BINGO-SOUTH FORK,"Public Service Commission, Place No. 1",,DEM,John Northrop,5
+Greene,0007 BAMA BINGO-SOUTH FORK,State Democratic Executive Committee,,DEM,Curtis L. Travis,44
+Greene,0007 BAMA BINGO-SOUTH FORK,State Democratic Executive Committee,,DEM,Jonathan Rossell,2
+Greene,0007 BAMA BINGO-SOUTH FORK,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,8
+Greene,0007 BAMA BINGO-SOUTH FORK,State House,72,DEM,Curtis L Travis,32
+Greene,0007 BAMA BINGO-SOUTH FORK,State House,72,DEM,Michael Williams,23
+Greene,0007 BAMA BINGO-SOUTH FORK,U.S. Senate,,DEM,Dakarai Larriett,15
+Greene,0007 BAMA BINGO-SOUTH FORK,U.S. Senate,,DEM,Everett Wess,2
+Greene,0007 BAMA BINGO-SOUTH FORK,U.S. Senate,,DEM,Kyle Sweetser,5
+Greene,0007 BAMA BINGO-SOUTH FORK,U.S. Senate,,DEM,Mark S. Wheeler II,17
 Greene,0007 BAMA BINGO-SOUTH FORK,Attorney General,,REP,Jay Mitchell,0
 Greene,0007 BAMA BINGO-SOUTH FORK,Attorney General,,REP,Katherine Robertson,1
 Greene,0007 BAMA BINGO-SOUTH FORK,Attorney General,,REP,Pamela L. Casey,0
@@ -146,6 +300,28 @@ Greene,0007 BAMA BINGO-SOUTH FORK,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0007 BAMA BINGO-SOUTH FORK,U.S. Senate,,REP,Rodney Walker,0
 Greene,0007 BAMA BINGO-SOUTH FORK,U.S. Senate,,REP,Seth Burton,0
 Greene,0007 BAMA BINGO-SOUTH FORK,U.S. Senate,,REP,Steve Marshall,1
+Greene,0008 EUTAW ACTIVITY CTR.,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",78
+Greene,0008 EUTAW ACTIVITY CTR.,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,227
+Greene,0008 EUTAW ACTIVITY CTR.,Governor,,DEM,"Chad ""Chig"" Martin",2
+Greene,0008 EUTAW ACTIVITY CTR.,Governor,,DEM,Doug Jones,214
+Greene,0008 EUTAW ACTIVITY CTR.,Governor,,DEM,Jamel J. Brown,29
+Greene,0008 EUTAW ACTIVITY CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",11
+Greene,0008 EUTAW ACTIVITY CTR.,Governor,,DEM,Will Boyd,16
+Greene,0008 EUTAW ACTIVITY CTR.,Governor,,DEM,Yolanda Rochelle Flowers,19
+Greene,0008 EUTAW ACTIVITY CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,130
+Greene,0008 EUTAW ACTIVITY CTR.,Lieutenant Governor,,DEM,Phillip Ensler,111
+Greene,0008 EUTAW ACTIVITY CTR.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,168
+Greene,0008 EUTAW ACTIVITY CTR.,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,39
+Greene,0008 EUTAW ACTIVITY CTR.,"Public Service Commission, Place No. 1",,DEM,John Northrop,37
+Greene,0008 EUTAW ACTIVITY CTR.,State Democratic Executive Committee,,DEM,Curtis L. Travis,175
+Greene,0008 EUTAW ACTIVITY CTR.,State Democratic Executive Committee,,DEM,Jonathan Rossell,23
+Greene,0008 EUTAW ACTIVITY CTR.,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,80
+Greene,0008 EUTAW ACTIVITY CTR.,State House,72,DEM,Curtis L Travis,184
+Greene,0008 EUTAW ACTIVITY CTR.,State House,72,DEM,Michael Williams,102
+Greene,0008 EUTAW ACTIVITY CTR.,U.S. Senate,,DEM,Dakarai Larriett,61
+Greene,0008 EUTAW ACTIVITY CTR.,U.S. Senate,,DEM,Everett Wess,85
+Greene,0008 EUTAW ACTIVITY CTR.,U.S. Senate,,DEM,Kyle Sweetser,52
+Greene,0008 EUTAW ACTIVITY CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,45
 Greene,0008 EUTAW ACTIVITY CTR.,Attorney General,,REP,Jay Mitchell,3
 Greene,0008 EUTAW ACTIVITY CTR.,Attorney General,,REP,Katherine Robertson,2
 Greene,0008 EUTAW ACTIVITY CTR.,Attorney General,,REP,Pamela L. Casey,0
@@ -167,6 +343,28 @@ Greene,0008 EUTAW ACTIVITY CTR.,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0008 EUTAW ACTIVITY CTR.,U.S. Senate,,REP,Rodney Walker,0
 Greene,0008 EUTAW ACTIVITY CTR.,U.S. Senate,,REP,Seth Burton,0
 Greene,0008 EUTAW ACTIVITY CTR.,U.S. Senate,,REP,Steve Marshall,0
+Greene,0009 BROWN MORROW BRANCH,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",78
+Greene,0009 BROWN MORROW BRANCH,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,236
+Greene,0009 BROWN MORROW BRANCH,Governor,,DEM,"Chad ""Chig"" Martin",5
+Greene,0009 BROWN MORROW BRANCH,Governor,,DEM,Doug Jones,205
+Greene,0009 BROWN MORROW BRANCH,Governor,,DEM,Jamel J. Brown,53
+Greene,0009 BROWN MORROW BRANCH,Governor,,DEM,"Nathan ""Nate"" Mathis",8
+Greene,0009 BROWN MORROW BRANCH,Governor,,DEM,Will Boyd,15
+Greene,0009 BROWN MORROW BRANCH,Governor,,DEM,Yolanda Rochelle Flowers,17
+Greene,0009 BROWN MORROW BRANCH,Lieutenant Governor,,DEM,Darryl D. Perryman,98
+Greene,0009 BROWN MORROW BRANCH,Lieutenant Governor,,DEM,Phillip Ensler,140
+Greene,0009 BROWN MORROW BRANCH,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,168
+Greene,0009 BROWN MORROW BRANCH,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,46
+Greene,0009 BROWN MORROW BRANCH,"Public Service Commission, Place No. 1",,DEM,John Northrop,21
+Greene,0009 BROWN MORROW BRANCH,State Democratic Executive Committee,,DEM,Curtis L. Travis,219
+Greene,0009 BROWN MORROW BRANCH,State Democratic Executive Committee,,DEM,Jonathan Rossell,17
+Greene,0009 BROWN MORROW BRANCH,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,57
+Greene,0009 BROWN MORROW BRANCH,State House,72,DEM,Curtis L Travis,176
+Greene,0009 BROWN MORROW BRANCH,State House,72,DEM,Michael Williams,125
+Greene,0009 BROWN MORROW BRANCH,U.S. Senate,,DEM,Dakarai Larriett,66
+Greene,0009 BROWN MORROW BRANCH,U.S. Senate,,DEM,Everett Wess,107
+Greene,0009 BROWN MORROW BRANCH,U.S. Senate,,DEM,Kyle Sweetser,25
+Greene,0009 BROWN MORROW BRANCH,U.S. Senate,,DEM,Mark S. Wheeler II,44
 Greene,0009 BROWN MORROW BRANCH,Attorney General,,REP,Jay Mitchell,1
 Greene,0009 BROWN MORROW BRANCH,Attorney General,,REP,Katherine Robertson,2
 Greene,0009 BROWN MORROW BRANCH,Attorney General,,REP,Pamela L. Casey,0
@@ -188,6 +386,28 @@ Greene,0009 BROWN MORROW BRANCH,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0009 BROWN MORROW BRANCH,U.S. Senate,,REP,Rodney Walker,2
 Greene,0009 BROWN MORROW BRANCH,U.S. Senate,,REP,Seth Burton,0
 Greene,0009 BROWN MORROW BRANCH,U.S. Senate,,REP,Steve Marshall,0
+Greene,0010 FORKLAND CITY HALL,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",55
+Greene,0010 FORKLAND CITY HALL,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,289
+Greene,0010 FORKLAND CITY HALL,Governor,,DEM,"Chad ""Chig"" Martin",7
+Greene,0010 FORKLAND CITY HALL,Governor,,DEM,Doug Jones,294
+Greene,0010 FORKLAND CITY HALL,Governor,,DEM,Jamel J. Brown,15
+Greene,0010 FORKLAND CITY HALL,Governor,,DEM,"Nathan ""Nate"" Mathis",3
+Greene,0010 FORKLAND CITY HALL,Governor,,DEM,Will Boyd,13
+Greene,0010 FORKLAND CITY HALL,Governor,,DEM,Yolanda Rochelle Flowers,13
+Greene,0010 FORKLAND CITY HALL,Lieutenant Governor,,DEM,Darryl D. Perryman,135
+Greene,0010 FORKLAND CITY HALL,Lieutenant Governor,,DEM,Phillip Ensler,137
+Greene,0010 FORKLAND CITY HALL,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,130
+Greene,0010 FORKLAND CITY HALL,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,46
+Greene,0010 FORKLAND CITY HALL,"Public Service Commission, Place No. 1",,DEM,John Northrop,60
+Greene,0010 FORKLAND CITY HALL,State Democratic Executive Committee,,DEM,Curtis L. Travis,288
+Greene,0010 FORKLAND CITY HALL,State Democratic Executive Committee,,DEM,Jonathan Rossell,17
+Greene,0010 FORKLAND CITY HALL,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,26
+Greene,0010 FORKLAND CITY HALL,State House,72,DEM,Curtis L Travis,262
+Greene,0010 FORKLAND CITY HALL,State House,72,DEM,Michael Williams,77
+Greene,0010 FORKLAND CITY HALL,U.S. Senate,,DEM,Dakarai Larriett,82
+Greene,0010 FORKLAND CITY HALL,U.S. Senate,,DEM,Everett Wess,114
+Greene,0010 FORKLAND CITY HALL,U.S. Senate,,DEM,Kyle Sweetser,30
+Greene,0010 FORKLAND CITY HALL,U.S. Senate,,DEM,Mark S. Wheeler II,42
 Greene,0010 FORKLAND CITY HALL,Attorney General,,REP,Jay Mitchell,8
 Greene,0010 FORKLAND CITY HALL,Attorney General,,REP,Katherine Robertson,14
 Greene,0010 FORKLAND CITY HALL,Attorney General,,REP,Pamela L. Casey,5
@@ -209,6 +429,28 @@ Greene,0010 FORKLAND CITY HALL,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0010 FORKLAND CITY HALL,U.S. Senate,,REP,Rodney Walker,0
 Greene,0010 FORKLAND CITY HALL,U.S. Senate,,REP,Seth Burton,0
 Greene,0010 FORKLAND CITY HALL,U.S. Senate,,REP,Steve Marshall,9
+Greene,0011 TISHABEE COMM. CTR.,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",5
+Greene,0011 TISHABEE COMM. CTR.,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,152
+Greene,0011 TISHABEE COMM. CTR.,Governor,,DEM,"Chad ""Chig"" Martin",1
+Greene,0011 TISHABEE COMM. CTR.,Governor,,DEM,Doug Jones,136
+Greene,0011 TISHABEE COMM. CTR.,Governor,,DEM,Jamel J. Brown,6
+Greene,0011 TISHABEE COMM. CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",2
+Greene,0011 TISHABEE COMM. CTR.,Governor,,DEM,Will Boyd,3
+Greene,0011 TISHABEE COMM. CTR.,Governor,,DEM,Yolanda Rochelle Flowers,6
+Greene,0011 TISHABEE COMM. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,60
+Greene,0011 TISHABEE COMM. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,44
+Greene,0011 TISHABEE COMM. CTR.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,42
+Greene,0011 TISHABEE COMM. CTR.,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,13
+Greene,0011 TISHABEE COMM. CTR.,"Public Service Commission, Place No. 1",,DEM,John Northrop,32
+Greene,0011 TISHABEE COMM. CTR.,State Democratic Executive Committee,,DEM,Curtis L. Travis,129
+Greene,0011 TISHABEE COMM. CTR.,State Democratic Executive Committee,,DEM,Jonathan Rossell,5
+Greene,0011 TISHABEE COMM. CTR.,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,7
+Greene,0011 TISHABEE COMM. CTR.,State House,72,DEM,Curtis L Travis,125
+Greene,0011 TISHABEE COMM. CTR.,State House,72,DEM,Michael Williams,26
+Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,DEM,Dakarai Larriett,15
+Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,DEM,Everett Wess,44
+Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,DEM,Kyle Sweetser,11
+Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,21
 Greene,0011 TISHABEE COMM. CTR.,Attorney General,,REP,Jay Mitchell,1
 Greene,0011 TISHABEE COMM. CTR.,Attorney General,,REP,Katherine Robertson,6
 Greene,0011 TISHABEE COMM. CTR.,Attorney General,,REP,Pamela L. Casey,0
@@ -230,6 +472,28 @@ Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,REP,Rodney Walker,0
 Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,REP,Seth Burton,0
 Greene,0011 TISHABEE COMM. CTR.,U.S. Senate,,REP,Steve Marshall,3
+Greene,0012 BOLIGEE FIRE STATION,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",25
+Greene,0012 BOLIGEE FIRE STATION,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,142
+Greene,0012 BOLIGEE FIRE STATION,Governor,,DEM,"Chad ""Chig"" Martin",2
+Greene,0012 BOLIGEE FIRE STATION,Governor,,DEM,Doug Jones,132
+Greene,0012 BOLIGEE FIRE STATION,Governor,,DEM,Jamel J. Brown,10
+Greene,0012 BOLIGEE FIRE STATION,Governor,,DEM,"Nathan ""Nate"" Mathis",3
+Greene,0012 BOLIGEE FIRE STATION,Governor,,DEM,Will Boyd,4
+Greene,0012 BOLIGEE FIRE STATION,Governor,,DEM,Yolanda Rochelle Flowers,8
+Greene,0012 BOLIGEE FIRE STATION,Lieutenant Governor,,DEM,Darryl D. Perryman,63
+Greene,0012 BOLIGEE FIRE STATION,Lieutenant Governor,,DEM,Phillip Ensler,69
+Greene,0012 BOLIGEE FIRE STATION,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,85
+Greene,0012 BOLIGEE FIRE STATION,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,27
+Greene,0012 BOLIGEE FIRE STATION,"Public Service Commission, Place No. 1",,DEM,John Northrop,22
+Greene,0012 BOLIGEE FIRE STATION,State Democratic Executive Committee,,DEM,Curtis L. Travis,131
+Greene,0012 BOLIGEE FIRE STATION,State Democratic Executive Committee,,DEM,Jonathan Rossell,8
+Greene,0012 BOLIGEE FIRE STATION,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,20
+Greene,0012 BOLIGEE FIRE STATION,State House,72,DEM,Curtis L Travis,102
+Greene,0012 BOLIGEE FIRE STATION,State House,72,DEM,Michael Williams,64
+Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,DEM,Dakarai Larriett,28
+Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,DEM,Everett Wess,55
+Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,DEM,Kyle Sweetser,19
+Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,DEM,Mark S. Wheeler II,30
 Greene,0012 BOLIGEE FIRE STATION,Attorney General,,REP,Jay Mitchell,3
 Greene,0012 BOLIGEE FIRE STATION,Attorney General,,REP,Katherine Robertson,7
 Greene,0012 BOLIGEE FIRE STATION,Attorney General,,REP,Pamela L. Casey,0
@@ -251,6 +515,28 @@ Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,REP,Rodney Walker,0
 Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,REP,Seth Burton,0
 Greene,0012 BOLIGEE FIRE STATION,U.S. Senate,,REP,Steve Marshall,3
+Greene,0013 W GREENE F STATION,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",22
+Greene,0013 W GREENE F STATION,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,148
+Greene,0013 W GREENE F STATION,Governor,,DEM,"Chad ""Chig"" Martin",2
+Greene,0013 W GREENE F STATION,Governor,,DEM,Doug Jones,126
+Greene,0013 W GREENE F STATION,Governor,,DEM,Jamel J. Brown,14
+Greene,0013 W GREENE F STATION,Governor,,DEM,"Nathan ""Nate"" Mathis",2
+Greene,0013 W GREENE F STATION,Governor,,DEM,Will Boyd,6
+Greene,0013 W GREENE F STATION,Governor,,DEM,Yolanda Rochelle Flowers,13
+Greene,0013 W GREENE F STATION,Lieutenant Governor,,DEM,Darryl D. Perryman,69
+Greene,0013 W GREENE F STATION,Lieutenant Governor,,DEM,Phillip Ensler,47
+Greene,0013 W GREENE F STATION,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,69
+Greene,0013 W GREENE F STATION,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,26
+Greene,0013 W GREENE F STATION,"Public Service Commission, Place No. 1",,DEM,John Northrop,14
+Greene,0013 W GREENE F STATION,State Democratic Executive Committee,,DEM,Curtis L. Travis,121
+Greene,0013 W GREENE F STATION,State Democratic Executive Committee,,DEM,Jonathan Rossell,13
+Greene,0013 W GREENE F STATION,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,14
+Greene,0013 W GREENE F STATION,State House,72,DEM,Curtis L Travis,89
+Greene,0013 W GREENE F STATION,State House,72,DEM,Michael Williams,79
+Greene,0013 W GREENE F STATION,U.S. Senate,,DEM,Dakarai Larriett,24
+Greene,0013 W GREENE F STATION,U.S. Senate,,DEM,Everett Wess,59
+Greene,0013 W GREENE F STATION,U.S. Senate,,DEM,Kyle Sweetser,7
+Greene,0013 W GREENE F STATION,U.S. Senate,,DEM,Mark S. Wheeler II,23
 Greene,0013 W GREENE F STATION,Attorney General,,REP,Jay Mitchell,0
 Greene,0013 W GREENE F STATION,Attorney General,,REP,Katherine Robertson,1
 Greene,0013 W GREENE F STATION,Attorney General,,REP,Pamela L. Casey,0
@@ -272,6 +558,28 @@ Greene,0013 W GREENE F STATION,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0013 W GREENE F STATION,U.S. Senate,,REP,Rodney Walker,0
 Greene,0013 W GREENE F STATION,U.S. Senate,,REP,Seth Burton,0
 Greene,0013 W GREENE F STATION,U.S. Senate,,REP,Steve Marshall,0
+Greene,0014 THE SPOT,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",31
+Greene,0014 THE SPOT,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,106
+Greene,0014 THE SPOT,Governor,,DEM,"Chad ""Chig"" Martin",2
+Greene,0014 THE SPOT,Governor,,DEM,Doug Jones,93
+Greene,0014 THE SPOT,Governor,,DEM,Jamel J. Brown,16
+Greene,0014 THE SPOT,Governor,,DEM,"Nathan ""Nate"" Mathis",6
+Greene,0014 THE SPOT,Governor,,DEM,Will Boyd,3
+Greene,0014 THE SPOT,Governor,,DEM,Yolanda Rochelle Flowers,9
+Greene,0014 THE SPOT,Lieutenant Governor,,DEM,Darryl D. Perryman,55
+Greene,0014 THE SPOT,Lieutenant Governor,,DEM,Phillip Ensler,60
+Greene,0014 THE SPOT,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,81
+Greene,0014 THE SPOT,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,15
+Greene,0014 THE SPOT,"Public Service Commission, Place No. 1",,DEM,John Northrop,12
+Greene,0014 THE SPOT,State Democratic Executive Committee,,DEM,Curtis L. Travis,97
+Greene,0014 THE SPOT,State Democratic Executive Committee,,DEM,Jonathan Rossell,13
+Greene,0014 THE SPOT,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,18
+Greene,0014 THE SPOT,State House,72,DEM,Curtis L Travis,86
+Greene,0014 THE SPOT,State House,72,DEM,Michael Williams,48
+Greene,0014 THE SPOT,U.S. Senate,,DEM,Dakarai Larriett,26
+Greene,0014 THE SPOT,U.S. Senate,,DEM,Everett Wess,43
+Greene,0014 THE SPOT,U.S. Senate,,DEM,Kyle Sweetser,19
+Greene,0014 THE SPOT,U.S. Senate,,DEM,Mark S. Wheeler II,26
 Greene,0014 THE SPOT,Attorney General,,REP,Jay Mitchell,6
 Greene,0014 THE SPOT,Attorney General,,REP,Katherine Robertson,10
 Greene,0014 THE SPOT,Attorney General,,REP,Pamela L. Casey,2
@@ -293,6 +601,28 @@ Greene,0014 THE SPOT,U.S. Senate,,REP,Morgan Murphy,1
 Greene,0014 THE SPOT,U.S. Senate,,REP,Rodney Walker,0
 Greene,0014 THE SPOT,U.S. Senate,,REP,Seth Burton,0
 Greene,0014 THE SPOT,U.S. Senate,,REP,Steve Marshall,3
+Greene,0015 PROVISIONAL,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",2
+Greene,0015 PROVISIONAL,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,5
+Greene,0015 PROVISIONAL,Governor,,DEM,"Chad ""Chig"" Martin",0
+Greene,0015 PROVISIONAL,Governor,,DEM,Doug Jones,4
+Greene,0015 PROVISIONAL,Governor,,DEM,Jamel J. Brown,1
+Greene,0015 PROVISIONAL,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Greene,0015 PROVISIONAL,Governor,,DEM,Will Boyd,0
+Greene,0015 PROVISIONAL,Governor,,DEM,Yolanda Rochelle Flowers,1
+Greene,0015 PROVISIONAL,Lieutenant Governor,,DEM,Darryl D. Perryman,3
+Greene,0015 PROVISIONAL,Lieutenant Governor,,DEM,Phillip Ensler,2
+Greene,0015 PROVISIONAL,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,3
+Greene,0015 PROVISIONAL,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,0
+Greene,0015 PROVISIONAL,"Public Service Commission, Place No. 1",,DEM,John Northrop,2
+Greene,0015 PROVISIONAL,State Democratic Executive Committee,,DEM,Curtis L. Travis,4
+Greene,0015 PROVISIONAL,State Democratic Executive Committee,,DEM,Jonathan Rossell,0
+Greene,0015 PROVISIONAL,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,2
+Greene,0015 PROVISIONAL,State House,72,DEM,Curtis L Travis,2
+Greene,0015 PROVISIONAL,State House,72,DEM,Michael Williams,3
+Greene,0015 PROVISIONAL,U.S. Senate,,DEM,Dakarai Larriett,2
+Greene,0015 PROVISIONAL,U.S. Senate,,DEM,Everett Wess,1
+Greene,0015 PROVISIONAL,U.S. Senate,,DEM,Kyle Sweetser,2
+Greene,0015 PROVISIONAL,U.S. Senate,,DEM,Mark S. Wheeler II,0
 Greene,0015 PROVISIONAL,Attorney General,,REP,Jay Mitchell,0
 Greene,0015 PROVISIONAL,Attorney General,,REP,Katherine Robertson,0
 Greene,0015 PROVISIONAL,Attorney General,,REP,Pamela L. Casey,0
@@ -314,6 +644,28 @@ Greene,0015 PROVISIONAL,U.S. Senate,,REP,Morgan Murphy,0
 Greene,0015 PROVISIONAL,U.S. Senate,,REP,Rodney Walker,0
 Greene,0015 PROVISIONAL,U.S. Senate,,REP,Seth Burton,0
 Greene,0015 PROVISIONAL,U.S. Senate,,REP,Steve Marshall,0
+Greene,0017 ABSENTEE,"District Court Judge, Greene County, Place 1",,DEM,"Robert J. Lee, Sr.",75
+Greene,0017 ABSENTEE,"District Court Judge, Greene County, Place 1",,DEM,Tonjula Carey,305
+Greene,0017 ABSENTEE,Governor,,DEM,"Chad ""Chig"" Martin",3
+Greene,0017 ABSENTEE,Governor,,DEM,Doug Jones,239
+Greene,0017 ABSENTEE,Governor,,DEM,Jamel J. Brown,13
+Greene,0017 ABSENTEE,Governor,,DEM,"Nathan ""Nate"" Mathis",5
+Greene,0017 ABSENTEE,Governor,,DEM,Will Boyd,20
+Greene,0017 ABSENTEE,Governor,,DEM,Yolanda Rochelle Flowers,79
+Greene,0017 ABSENTEE,Lieutenant Governor,,DEM,Darryl D. Perryman,180
+Greene,0017 ABSENTEE,Lieutenant Governor,,DEM,Phillip Ensler,105
+Greene,0017 ABSENTEE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,179
+Greene,0017 ABSENTEE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,51
+Greene,0017 ABSENTEE,"Public Service Commission, Place No. 1",,DEM,John Northrop,38
+Greene,0017 ABSENTEE,State Democratic Executive Committee,,DEM,Curtis L. Travis,272
+Greene,0017 ABSENTEE,State Democratic Executive Committee,,DEM,Jonathan Rossell,32
+Greene,0017 ABSENTEE,State Democratic Executive Committee,,DEM,Ke'Undra Quintez Cox,48
+Greene,0017 ABSENTEE,State House,72,DEM,Curtis L Travis,247
+Greene,0017 ABSENTEE,State House,72,DEM,Michael Williams,116
+Greene,0017 ABSENTEE,U.S. Senate,,DEM,Dakarai Larriett,104
+Greene,0017 ABSENTEE,U.S. Senate,,DEM,Everett Wess,102
+Greene,0017 ABSENTEE,U.S. Senate,,DEM,Kyle Sweetser,30
+Greene,0017 ABSENTEE,U.S. Senate,,DEM,Mark S. Wheeler II,62
 Greene,0017 ABSENTEE,Attorney General,,REP,Jay Mitchell,5
 Greene,0017 ABSENTEE,Attorney General,,REP,Katherine Robertson,1
 Greene,0017 ABSENTEE,Attorney General,,REP,Pamela L. Casey,0
