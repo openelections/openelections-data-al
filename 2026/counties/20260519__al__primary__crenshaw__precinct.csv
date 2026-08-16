@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,votes
-Crenshaw,0001 PANOLA COMM. CTR,Proposed Statewioe Amendment 1,,,No,21
-Crenshaw,0001 PANOLA COMM. CTR,Proposed Statewioe Amendment 1,,,Yes,139
+Crenshaw,0001 PANOLA COMM. CTR,Proposed Statewide Amendment 1,,,No,21
+Crenshaw,0001 PANOLA COMM. CTR,Proposed Statewide Amendment 1,,,Yes,139
 Crenshaw,0001 PANOLA COMM. CTR,U.S. Senate,,DEM,Dakarai Larriett,4
 Crenshaw,0001 PANOLA COMM. CTR,U.S. Senate,,DEM,Kyle Sweetser,1
 Crenshaw,0001 PANOLA COMM. CTR,U.S. Senate,,DEM,Mark S. Wheeler II,3
@@ -8,12 +8,8 @@ Crenshaw,0001 PANOLA COMM. CTR,U.S. Senate,,DEM,Everett Wess,13
 Crenshaw,0001 PANOLA COMM. CTR,Governor,,REP,"""Alabama"" Will Santivasci",11
 Crenshaw,0001 PANOLA COMM. CTR,Governor,,REP,Ken McFeeters,10
 Crenshaw,0001 PANOLA COMM. CTR,Governor,,REP,Thomas Tuberville,121
-Crenshaw,0002 DANIELVILLE SCH,Proposed Statewioe Amendment 1,,,No,15
-Crenshaw,0002 DANIELVILLE SCH,Proposed Statewioe Amendment 1,,,No,61
-Crenshaw,0002 DANIELVILLE SCH,Proposed Statewioe Amendment 1,,,No,68
-Crenshaw,0002 DANIELVILLE SCH,Proposed Statewioe Amendment 1,,,Yes,153
-Crenshaw,0002 DANIELVILLE SCH,Proposed Statewioe Amendment 1,,,Yes,91
-Crenshaw,0002 DANIELVILLE SCH,Proposed Statewioe Amendment 1,,,Yes,95
+Crenshaw,0002 DANIELVILLE SCH,Proposed Statewide Amendment 1,,,No,15
+Crenshaw,0002 DANIELVILLE SCH,Proposed Statewide Amendment 1,,,Yes,153
 Crenshaw,0002 DANIELVILLE SCH,U.S. Senate,,DEM,Dakarai Larriett,1
 Crenshaw,0002 DANIELVILLE SCH,U.S. Senate,,DEM,Kyle Sweetser,3
 Crenshaw,0002 DANIELVILLE SCH,U.S. Senate,,DEM,Mark S. Wheeler II,0
@@ -21,10 +17,8 @@ Crenshaw,0002 DANIELVILLE SCH,U.S. Senate,,DEM,Everett Wess,4
 Crenshaw,0002 DANIELVILLE SCH,Governor,,REP,"""Alabama"" Will Santivasci",4
 Crenshaw,0002 DANIELVILLE SCH,Governor,,REP,Ken McFeeters,9
 Crenshaw,0002 DANIELVILLE SCH,Governor,,REP,Thomas Tuberville,156
-Crenshaw,0003 PETREY COMM. CTR,Proposed Statewioe Amendment 1,,,No,34
-Crenshaw,0003 PETREY COMM. CTR,Proposed Statewioe Amendment 1,,,No,94
-Crenshaw,0003 PETREY COMM. CTR,Proposed Statewioe Amendment 1,,,Yes,283
-Crenshaw,0003 PETREY COMM. CTR,Proposed Statewioe Amendment 1,,,Yes,218
+Crenshaw,0003 PETREY COMM. CTR,Proposed Statewide Amendment 1,,,No,34
+Crenshaw,0003 PETREY COMM. CTR,Proposed Statewide Amendment 1,,,Yes,283
 Crenshaw,0003 PETREY COMM. CTR,U.S. Senate,,DEM,Dakarai Larriett,29
 Crenshaw,0003 PETREY COMM. CTR,U.S. Senate,,DEM,Kyle Sweetser,16
 Crenshaw,0003 PETREY COMM. CTR,U.S. Senate,,DEM,Mark S. Wheeler II,16
@@ -32,10 +26,8 @@ Crenshaw,0003 PETREY COMM. CTR,U.S. Senate,,DEM,Everett Wess,112
 Crenshaw,0003 PETREY COMM. CTR,Governor,,REP,"""Alabama"" Will Santivasci",8
 Crenshaw,0003 PETREY COMM. CTR,Governor,,REP,Ken McFeeters,4
 Crenshaw,0003 PETREY COMM. CTR,Governor,,REP,Thomas Tuberville,131
-Crenshaw,0004 HONORAVILLE FIRE ST,Proposed Statewioe Amendment 1,,,No,9
-Crenshaw,0004 HONORAVILLE FIRE ST,Proposed Statewioe Amendment 1,,,No,45
-Crenshaw,0004 HONORAVILLE FIRE ST,Proposed Statewioe Amendment 1,,,Yes,88
-Crenshaw,0004 HONORAVILLE FIRE ST,Proposed Statewioe Amendment 1,,,Yes,48
+Crenshaw,0004 HONORAVILLE FIRE ST,Proposed Statewide Amendment 1,,,No,9
+Crenshaw,0004 HONORAVILLE FIRE ST,Proposed Statewide Amendment 1,,,Yes,88
 Crenshaw,0004 HONORAVILLE FIRE ST,U.S. Senate,,DEM,Dakarai Larriett,1
 Crenshaw,0004 HONORAVILLE FIRE ST,U.S. Senate,,DEM,Kyle Sweetser,0
 Crenshaw,0004 HONORAVILLE FIRE ST,U.S. Senate,,DEM,Mark S. Wheeler II,1
@@ -43,10 +35,8 @@ Crenshaw,0004 HONORAVILLE FIRE ST,U.S. Senate,,DEM,Everett Wess,3
 Crenshaw,0004 HONORAVILLE FIRE ST,Governor,,REP,"""Alabama"" Will Santivasci",7
 Crenshaw,0004 HONORAVILLE FIRE ST,Governor,,REP,Ken McFeeters,9
 Crenshaw,0004 HONORAVILLE FIRE ST,Governor,,REP,Thomas Tuberville,84
-Crenshaw,0005 RUTLEDGE COMM. CTR,Proposed Statewioe Amendment 1,,,No,20
-Crenshaw,0005 RUTLEDGE COMM. CTR,Proposed Statewioe Amendment 1,,,No,115
-Crenshaw,0005 RUTLEDGE COMM. CTR,Proposed Statewioe Amendment 1,,,Yes,283
-Crenshaw,0005 RUTLEDGE COMM. CTR,Proposed Statewioe Amendment 1,,,Yes,172
+Crenshaw,0005 RUTLEDGE COMM. CTR,Proposed Statewide Amendment 1,,,No,20
+Crenshaw,0005 RUTLEDGE COMM. CTR,Proposed Statewide Amendment 1,,,Yes,283
 Crenshaw,0005 RUTLEDGE COMM. CTR,U.S. Senate,,DEM,Dakarai Larriett,8
 Crenshaw,0005 RUTLEDGE COMM. CTR,U.S. Senate,,DEM,Kyle Sweetser,5
 Crenshaw,0005 RUTLEDGE COMM. CTR,U.S. Senate,,DEM,Mark S. Wheeler II,8
@@ -54,10 +44,8 @@ Crenshaw,0005 RUTLEDGE COMM. CTR,U.S. Senate,,DEM,Everett Wess,36
 Crenshaw,0005 RUTLEDGE COMM. CTR,Governor,,REP,"""Alabama"" Will Santivasci",9
 Crenshaw,0005 RUTLEDGE COMM. CTR,Governor,,REP,Ken McFeeters,13
 Crenshaw,0005 RUTLEDGE COMM. CTR,Governor,,REP,Thomas Tuberville,218
-Crenshaw,0006 BRANTLEY COMM. CTR,Proposed Statewioe Amendment 1,,,No,23
-Crenshaw,0006 BRANTLEY COMM. CTR,Proposed Statewioe Amendment 1,,,No,113
-Crenshaw,0006 BRANTLEY COMM. CTR,Proposed Statewioe Amendment 1,,,Yes,342
-Crenshaw,0006 BRANTLEY COMM. CTR,Proposed Statewioe Amendment 1,,,Yes,239
+Crenshaw,0006 BRANTLEY COMM. CTR,Proposed Statewide Amendment 1,,,No,23
+Crenshaw,0006 BRANTLEY COMM. CTR,Proposed Statewide Amendment 1,,,Yes,342
 Crenshaw,0006 BRANTLEY COMM. CTR,U.S. Senate,,DEM,Dakarai Larriett,27
 Crenshaw,0006 BRANTLEY COMM. CTR,U.S. Senate,,DEM,Kyle Sweetser,3
 Crenshaw,0006 BRANTLEY COMM. CTR,U.S. Senate,,DEM,Mark S. Wheeler II,12
@@ -65,10 +53,8 @@ Crenshaw,0006 BRANTLEY COMM. CTR,U.S. Senate,,DEM,Everett Wess,85
 Crenshaw,0006 BRANTLEY COMM. CTR,Governor,,REP,"""Alabama"" Will Santivasci",7
 Crenshaw,0006 BRANTLEY COMM. CTR,Governor,,REP,Ken McFeeters,4
 Crenshaw,0006 BRANTLEY COMM. CTR,Governor,,REP,Thomas Tuberville,235
-Crenshaw,0007 GLENWOOD CITY HALL,Proposed Statewioe Amendment 1,,,No,9
-Crenshaw,0007 GLENWOOD CITY HALL,Proposed Statewioe Amendment 1,,,No,32
-Crenshaw,0007 GLENWOOD CITY HALL,Proposed Statewioe Amendment 1,,,Yes,78
-Crenshaw,0007 GLENWOOD CITY HALL,Proposed Statewioe Amendment 1,,,Yes,49
+Crenshaw,0007 GLENWOOD CITY HALL,Proposed Statewide Amendment 1,,,No,9
+Crenshaw,0007 GLENWOOD CITY HALL,Proposed Statewide Amendment 1,,,Yes,78
 Crenshaw,0007 GLENWOOD CITY HALL,U.S. Senate,,DEM,Dakarai Larriett,1
 Crenshaw,0007 GLENWOOD CITY HALL,U.S. Senate,,DEM,Kyle Sweetser,1
 Crenshaw,0007 GLENWOOD CITY HALL,U.S. Senate,,DEM,Mark S. Wheeler II,2
@@ -76,10 +62,8 @@ Crenshaw,0007 GLENWOOD CITY HALL,U.S. Senate,,DEM,Everett Wess,9
 Crenshaw,0007 GLENWOOD CITY HALL,Governor,,REP,"""Alabama"" Will Santivasci",2
 Crenshaw,0007 GLENWOOD CITY HALL,Governor,,REP,Ken McFeeters,6
 Crenshaw,0007 GLENWOOD CITY HALL,Governor,,REP,Thomas Tuberville,71
-Crenshaw,0008 WEEDS SIORF BRANTLEY,Proposed Statewioe Amendment 1,,,No,10
-Crenshaw,0008 WEEDS SIORF BRANTLEY,Proposed Statewioe Amendment 1,,,No,58
-Crenshaw,0008 WEEDS SIORF BRANTLEY,Proposed Statewioe Amendment 1,,,Yes,117
-Crenshaw,0008 WEEDS SIORF BRANTLEY,Proposed Statewioe Amendment 1,,,Yes,62
+Crenshaw,0008 WEEDS SIORF BRANTLEY,Proposed Statewide Amendment 1,,,No,10
+Crenshaw,0008 WEEDS SIORF BRANTLEY,Proposed Statewide Amendment 1,,,Yes,117
 Crenshaw,0008 WEEDS SIORF BRANTLEY,U.S. Senate,,DEM,Dakarai Larriett,3
 Crenshaw,0008 WEEDS SIORF BRANTLEY,U.S. Senate,,DEM,Kyle Sweetser,0
 Crenshaw,0008 WEEDS SIORF BRANTLEY,U.S. Senate,,DEM,Mark S. Wheeler II,2
@@ -87,10 +71,8 @@ Crenshaw,0008 WEEDS SIORF BRANTLEY,U.S. Senate,,DEM,Everett Wess,3
 Crenshaw,0008 WEEDS SIORF BRANTLEY,Governor,,REP,"""Alabama"" Will Santivasci",5
 Crenshaw,0008 WEEDS SIORF BRANTLEY,Governor,,REP,Ken McFeeters,1
 Crenshaw,0008 WEEDS SIORF BRANTLEY,Governor,,REP,Thomas Tuberville,113
-Crenshaw,0009 PLEASANT HOME SCH,Proposed Statewioe Amendment 1,,,No,7
-Crenshaw,0009 PLEASANT HOME SCH,Proposed Statewioe Amendment 1,,,No,17
-Crenshaw,0009 PLEASANT HOME SCH,Proposed Statewioe Amendment 1,,,Yes,50
-Crenshaw,0009 PLEASANT HOME SCH,Proposed Statewioe Amendment 1,,,Yes,39
+Crenshaw,0009 PLEASANT HOME SCH,Proposed Statewide Amendment 1,,,No,7
+Crenshaw,0009 PLEASANT HOME SCH,Proposed Statewide Amendment 1,,,Yes,50
 Crenshaw,0009 PLEASANT HOME SCH,U.S. Senate,,DEM,Dakarai Larriett,3
 Crenshaw,0009 PLEASANT HOME SCH,U.S. Senate,,DEM,Kyle Sweetser,2
 Crenshaw,0009 PLEASANT HOME SCH,U.S. Senate,,DEM,Mark S. Wheeler II,3
@@ -98,10 +80,8 @@ Crenshaw,0009 PLEASANT HOME SCH,U.S. Senate,,DEM,Everett Wess,8
 Crenshaw,0009 PLEASANT HOME SCH,Governor,,REP,"""Alabama"" Will Santivasci",0
 Crenshaw,0009 PLEASANT HOME SCH,Governor,,REP,Ken McFeeters,1
 Crenshaw,0009 PLEASANT HOME SCH,Governor,,REP,Thomas Tuberville,38
-Crenshaw,0010 HIGHLAND HOME FD,Proposed Statewioe Amendment 1,,,No,20
-Crenshaw,0010 HIGHLAND HOME FD,Proposed Statewioe Amendment 1,,,No,102
-Crenshaw,0010 HIGHLAND HOME FD,Proposed Statewioe Amendment 1,,,Yes,238
-Crenshaw,0010 HIGHLAND HOME FD,Proposed Statewioe Amendment 1,,,Yes,145
+Crenshaw,0010 HIGHLAND HOME FD,Proposed Statewide Amendment 1,,,No,20
+Crenshaw,0010 HIGHLAND HOME FD,Proposed Statewide Amendment 1,,,Yes,238
 Crenshaw,0010 HIGHLAND HOME FD,U.S. Senate,,DEM,Dakarai Larriett,7
 Crenshaw,0010 HIGHLAND HOME FD,U.S. Senate,,DEM,Kyle Sweetser,2
 Crenshaw,0010 HIGHLAND HOME FD,U.S. Senate,,DEM,Mark S. Wheeler II,3
@@ -109,10 +89,8 @@ Crenshaw,0010 HIGHLAND HOME FD,U.S. Senate,,DEM,Everett Wess,6
 Crenshaw,0010 HIGHLAND HOME FD,Governor,,REP,"""Alabama"" Will Santivasci",12
 Crenshaw,0010 HIGHLAND HOME FD,Governor,,REP,Ken McFeeters,11
 Crenshaw,0010 HIGHLAND HOME FD,Governor,,REP,Thomas Tuberville,230
-Crenshaw,0011 COUNTY COURTHOUSE,Proposed Statewioe Amendment 1,,,No,39
-Crenshaw,0011 COUNTY COURTHOUSE,Proposed Statewioe Amendment 1,,,No,163
-Crenshaw,0011 COUNTY COURTHOUSE,Proposed Statewioe Amendment 1,,,Yes,412
-Crenshaw,0011 COUNTY COURTHOUSE,Proposed Statewioe Amendment 1,,,Yes,271
+Crenshaw,0011 COUNTY COURTHOUSE,Proposed Statewide Amendment 1,,,No,39
+Crenshaw,0011 COUNTY COURTHOUSE,Proposed Statewide Amendment 1,,,Yes,412
 Crenshaw,0011 COUNTY COURTHOUSE,U.S. Senate,,DEM,Dakarai Larriett,12
 Crenshaw,0011 COUNTY COURTHOUSE,U.S. Senate,,DEM,Kyle Sweetser,4
 Crenshaw,0011 COUNTY COURTHOUSE,U.S. Senate,,DEM,Mark S. Wheeler II,18
@@ -120,10 +98,8 @@ Crenshaw,0011 COUNTY COURTHOUSE,U.S. Senate,,DEM,Everett Wess,12
 Crenshaw,0011 COUNTY COURTHOUSE,Governor,,REP,"""Alabama"" Will Santivasci",12
 Crenshaw,0011 COUNTY COURTHOUSE,Governor,,REP,Ken McFeeters,25
 Crenshaw,0011 COUNTY COURTHOUSE,Governor,,REP,Thomas Tuberville,378
-Crenshaw,0012 DOZIER CITY HALL,Proposed Statewioe Amendment 1,,,No,6
-Crenshaw,0012 DOZIER CITY HALL,Proposed Statewioe Amendment 1,,,No,41
-Crenshaw,0012 DOZIER CITY HALL,Proposed Statewioe Amendment 1,,,Yes,106
-Crenshaw,0012 DOZIER CITY HALL,Proposed Statewioe Amendment 1,,,Yes,68
+Crenshaw,0012 DOZIER CITY HALL,Proposed Statewide Amendment 1,,,No,6
+Crenshaw,0012 DOZIER CITY HALL,Proposed Statewide Amendment 1,,,Yes,106
 Crenshaw,0012 DOZIER CITY HALL,U.S. Senate,,DEM,Dakarai Larriett,7
 Crenshaw,0012 DOZIER CITY HALL,U.S. Senate,,DEM,Kyle Sweetser,2
 Crenshaw,0012 DOZIER CITY HALL,U.S. Senate,,DEM,Mark S. Wheeler II,8
@@ -131,10 +107,8 @@ Crenshaw,0012 DOZIER CITY HALL,U.S. Senate,,DEM,Everett Wess,21
 Crenshaw,0012 DOZIER CITY HALL,Governor,,REP,"""Alabama"" Will Santivasci",3
 Crenshaw,0012 DOZIER CITY HALL,Governor,,REP,Ken McFeeters,4
 Crenshaw,0012 DOZIER CITY HALL,Governor,,REP,Thomas Tuberville,72
-Crenshaw,0013 HARBIN FORM CTR,Proposed Statewioe Amendment 1,,,No,13
-Crenshaw,0013 HARBIN FORM CTR,Proposed Statewioe Amendment 1,,,No,46
-Crenshaw,0013 HARBIN FORM CTR,Proposed Statewioe Amendment 1,,,Yes,227
-Crenshaw,0013 HARBIN FORM CTR,Proposed Statewioe Amendment 1,,,Yes,190
+Crenshaw,0013 HARBIN FORM CTR,Proposed Statewide Amendment 1,,,No,13
+Crenshaw,0013 HARBIN FORM CTR,Proposed Statewide Amendment 1,,,Yes,227
 Crenshaw,0013 HARBIN FORM CTR,U.S. Senate,,DEM,Dakarai Larriett,14
 Crenshaw,0013 HARBIN FORM CTR,U.S. Senate,,DEM,Kyle Sweetser,7
 Crenshaw,0013 HARBIN FORM CTR,U.S. Senate,,DEM,Mark S. Wheeler II,9
@@ -142,10 +116,8 @@ Crenshaw,0013 HARBIN FORM CTR,U.S. Senate,,DEM,Everett Wess,111
 Crenshaw,0013 HARBIN FORM CTR,Governor,,REP,"""Alabama"" Will Santivasci",7
 Crenshaw,0013 HARBIN FORM CTR,Governor,,REP,Ken McFeeters,6
 Crenshaw,0013 HARBIN FORM CTR,Governor,,REP,Thomas Tuberville,82
-Crenshaw,0014 SHROWNJELL FD,Proposed Statewioe Amendment 1,,,No,10
-Crenshaw,0014 SHROWNJELL FD,Proposed Statewioe Amendment 1,,,No,67
-Crenshaw,0014 SHROWNJELL FD,Proposed Statewioe Amendment 1,,,Yes,169
-Crenshaw,0014 SHROWNJELL FD,Proposed Statewioe Amendment 1,,,Yes,105
+Crenshaw,0014 SHROWNJELL FD,Proposed Statewide Amendment 1,,,No,10
+Crenshaw,0014 SHROWNJELL FD,Proposed Statewide Amendment 1,,,Yes,169
 Crenshaw,0014 SHROWNJELL FD,U.S. Senate,,DEM,Dakarai Larriett,3
 Crenshaw,0014 SHROWNJELL FD,U.S. Senate,,DEM,Kyle Sweetser,4
 Crenshaw,0014 SHROWNJELL FD,U.S. Senate,,DEM,Mark S. Wheeler II,2
@@ -153,10 +125,8 @@ Crenshaw,0014 SHROWNJELL FD,U.S. Senate,,DEM,Everett Wess,7
 Crenshaw,0014 SHROWNJELL FD,Governor,,REP,"""Alabama"" Will Santivasci",11
 Crenshaw,0014 SHROWNJELL FD,Governor,,REP,Ken McFeeters,5
 Crenshaw,0014 SHROWNJELL FD,Governor,,REP,Thomas Tuberville,160
-Crenshaw,0015 CHAPEL HILL COMM CTR,Proposed Statewioe Amendment 1,,,No,9
-Crenshaw,0015 CHAPEL HILL COMM CTR,Proposed Statewioe Amendment 1,,,No,54
-Crenshaw,0015 CHAPEL HILL COMM CTR,Proposed Statewioe Amendment 1,,,Yes,153
-Crenshaw,0015 CHAPEL HILL COMM CTR,Proposed Statewioe Amendment 1,,,Yes,100
+Crenshaw,0015 CHAPEL HILL COMM CTR,Proposed Statewide Amendment 1,,,No,9
+Crenshaw,0015 CHAPEL HILL COMM CTR,Proposed Statewide Amendment 1,,,Yes,153
 Crenshaw,0015 CHAPEL HILL COMM CTR,U.S. Senate,,DEM,Dakarai Larriett,2
 Crenshaw,0015 CHAPEL HILL COMM CTR,U.S. Senate,,DEM,Kyle Sweetser,0
 Crenshaw,0015 CHAPEL HILL COMM CTR,U.S. Senate,,DEM,Mark S. Wheeler II,4
@@ -164,10 +134,8 @@ Crenshaw,0015 CHAPEL HILL COMM CTR,U.S. Senate,,DEM,Everett Wess,1
 Crenshaw,0015 CHAPEL HILL COMM CTR,Governor,,REP,"""Alabama"" Will Santivasci",4
 Crenshaw,0015 CHAPEL HILL COMM CTR,Governor,,REP,Ken McFeeters,8
 Crenshaw,0015 CHAPEL HILL COMM CTR,Governor,,REP,Thomas Tuberville,149
-Crenshaw,0016 ABSENT E,Proposed Statewioe Amendment 1,,,No,11
-Crenshaw,0016 ABSENT E,Proposed Statewioe Amendment 1,,,No,24
-Crenshaw,0016 ABSENT E,Proposed Statewioe Amendment 1,,,Yes,86
-Crenshaw,0016 ABSENT E,Proposed Statewioe Amendment 1,,,Yes,57
+Crenshaw,0016 ABSENT E,Proposed Statewide Amendment 1,,,No,11
+Crenshaw,0016 ABSENT E,Proposed Statewide Amendment 1,,,Yes,86
 Crenshaw,0016 ABSENT E,U.S. Senate,,DEM,Dakarai Larriett,1
 Crenshaw,0016 ABSENT E,U.S. Senate,,DEM,Kyle Sweetser,1
 Crenshaw,0016 ABSENT E,U.S. Senate,,DEM,Mark S. Wheeler II,0
@@ -175,10 +143,8 @@ Crenshaw,0016 ABSENT E,U.S. Senate,,DEM,Everett Wess,0
 Crenshaw,0016 ABSENT E,Governor,,REP,"""Alabama"" Will Santivasci",3
 Crenshaw,0016 ABSENT E,Governor,,REP,Ken McFeeters,3
 Crenshaw,0016 ABSENT E,Governor,,REP,Thomas Tuberville,88
-Crenshaw,0017 PROVISIONAL,Proposed Statewioe Amendment 1,,,No,0
-Crenshaw,0017 PROVISIONAL,Proposed Statewioe Amendment 1,,,No,0
-Crenshaw,0017 PROVISIONAL,Proposed Statewioe Amendment 1,,,Yes,0
-Crenshaw,0017 PROVISIONAL,Proposed Statewioe Amendment 1,,,Yes,0
+Crenshaw,0017 PROVISIONAL,Proposed Statewide Amendment 1,,,No,0
+Crenshaw,0017 PROVISIONAL,Proposed Statewide Amendment 1,,,Yes,0
 Crenshaw,0017 PROVISIONAL,U.S. Senate,,DEM,Dakarai Larriett,0
 Crenshaw,0017 PROVISIONAL,U.S. Senate,,DEM,Kyle Sweetser,0
 Crenshaw,0017 PROVISIONAL,U.S. Senate,,DEM,Mark S. Wheeler II,0
