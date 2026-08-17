@@ -95,7 +95,7 @@ class Verifier(object):
 	# races which are titled by "Judicial Circuit" rather than a county.
 	validOfficeRE = re.compile(
 		r'^(?:'
-		r'Public Service Commission(?:,? Place(?: No\.?)? \d+)?'
+		r'Public Service Commission(?:er)?(?:,? Place(?: No\.?)? \d+)?'
 		r'|Proposed Statewide Amendment(?: (?:One|Two|\d+))?'
 		r'|State (?:Democratic|Republican) Exec(?:utive)? Comm(?:ittee)?.*'
 		r'|(?:Circuit|District) Court Judge\b.*'

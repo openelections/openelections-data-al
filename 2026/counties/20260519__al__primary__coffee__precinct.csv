@@ -1,9 +1,9 @@
 county,precinct,office,district,party,candidate,votes
 Coffee,0001 ELBA CH OF CHRIST,Proposed Statewide Amendment 1,,,No,22
 Coffee,0001 ELBA CH OF CHRIST,Proposed Statewide Amendment 1,,,Yes,321
-Coffee,0001 ELBA CH OF CHRIST,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,25
-Coffee,0001 ELBA CH OF CHRIST,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,18
-Coffee,0001 ELBA CH OF CHRIST,"Public Service Commission, Place No. 1",,DEM,John Northrop,9
+Coffee,0001 ELBA CH OF CHRIST,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,25
+Coffee,0001 ELBA CH OF CHRIST,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,18
+Coffee,0001 ELBA CH OF CHRIST,"Public Service Commissioner, Place 1",,DEM,John Northrop,9
 Coffee,0001 ELBA CH OF CHRIST,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,34
 Coffee,0001 ELBA CH OF CHRIST,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,31
 Coffee,0001 ELBA CH OF CHRIST,State Democratic Executive Committee,,DEM,Patrick E Wise,20
@@ -63,9 +63,9 @@ Coffee,0002 WISE MILL,Proposed Statewide Amendment 1,,,No,26
 Coffee,0002 WISE MILL,Proposed Statewide Amendment 1,,,Yes,175
 Coffee,0002 WISE MILL,Lieutenant Governor,,DEM,Darryl D. Perryman,20
 Coffee,0002 WISE MILL,Lieutenant Governor,,DEM,Phillip Ensler,29
-Coffee,0002 WISE MILL,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,3
-Coffee,0002 WISE MILL,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,8
-Coffee,0002 WISE MILL,"Public Service Commission, Place No. 1",,DEM,John Northrop,3
+Coffee,0002 WISE MILL,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,3
+Coffee,0002 WISE MILL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,8
+Coffee,0002 WISE MILL,"Public Service Commissioner, Place 1",,DEM,John Northrop,3
 Coffee,0002 WISE MILL,U.S. Senate,,DEM,Dakarai Larriett,1
 Coffee,0002 WISE MILL,U.S. Senate,,DEM,Everett Wess,3
 Coffee,0002 WISE MILL,U.S. Senate,,DEM,Kyle Sweetser,5
@@ -119,9 +119,9 @@ Coffee,0003 NEW BROCKTON COMM.,Proposed Statewide Amendment 1,,,No,39
 Coffee,0003 NEW BROCKTON COMM.,Proposed Statewide Amendment 1,,,Yes,260
 Coffee,0003 NEW BROCKTON COMM.,Lieutenant Governor,,DEM,Darryl D. Perryman,6
 Coffee,0003 NEW BROCKTON COMM.,Lieutenant Governor,,DEM,Phillip Ensler,8
-Coffee,0003 NEW BROCKTON COMM.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,28
-Coffee,0003 NEW BROCKTON COMM.,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,13
-Coffee,0003 NEW BROCKTON COMM.,"Public Service Commission, Place No. 1",,DEM,John Northrop,7
+Coffee,0003 NEW BROCKTON COMM.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,28
+Coffee,0003 NEW BROCKTON COMM.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,13
+Coffee,0003 NEW BROCKTON COMM.,"Public Service Commissioner, Place 1",,DEM,John Northrop,7
 Coffee,0003 NEW BROCKTON COMM.,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,23
 Coffee,0003 NEW BROCKTON COMM.,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,29
 Coffee,0003 NEW BROCKTON COMM.,State Democratic Executive Committee,,DEM,Patrick E Wise,19
@@ -181,9 +181,9 @@ Coffee,0004 PINE LEVEL SR. CTR.,Proposed Statewide Amendment 1,,,No,12
 Coffee,0004 PINE LEVEL SR. CTR.,Proposed Statewide Amendment 1,,,Yes,66
 Coffee,0004 PINE LEVEL SR. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,12
 Coffee,0004 PINE LEVEL SR. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,38
-Coffee,0004 PINE LEVEL SR. CTR.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,0
-Coffee,0004 PINE LEVEL SR. CTR.,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,2
-Coffee,0004 PINE LEVEL SR. CTR.,"Public Service Commission, Place No. 1",,DEM,John Northrop,0
+Coffee,0004 PINE LEVEL SR. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,0
+Coffee,0004 PINE LEVEL SR. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,2
+Coffee,0004 PINE LEVEL SR. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,0
 Coffee,0004 PINE LEVEL SR. CTR.,U.S. Senate,,DEM,Dakarai Larriett,1
 Coffee,0004 PINE LEVEL SR. CTR.,U.S. Senate,,DEM,Everett Wess,0
 Coffee,0004 PINE LEVEL SR. CTR.,U.S. Senate,,DEM,Kyle Sweetser,1
@@ -237,9 +237,9 @@ Coffee,0005 NEWBIA VTG HOUSE,Proposed Statewide Amendment 1,,,No,9
 Coffee,0005 NEWBIA VTG HOUSE,Proposed Statewide Amendment 1,,,Yes,28
 Coffee,0005 NEWBIA VTG HOUSE,Lieutenant Governor,,DEM,Darryl D. Perryman,0
 Coffee,0005 NEWBIA VTG HOUSE,Lieutenant Governor,,DEM,Phillip Ensler,2
-Coffee,0005 NEWBIA VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,0
-Coffee,0005 NEWBIA VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,0
-Coffee,0005 NEWBIA VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,John Northrop,1
+Coffee,0005 NEWBIA VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,0
+Coffee,0005 NEWBIA VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,0
+Coffee,0005 NEWBIA VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,John Northrop,1
 Coffee,0005 NEWBIA VTG HOUSE,U.S. Senate,,DEM,Dakarai Larriett,0
 Coffee,0005 NEWBIA VTG HOUSE,U.S. Senate,,DEM,Everett Wess,0
 Coffee,0005 NEWBIA VTG HOUSE,U.S. Senate,,DEM,Kyle Sweetser,0
@@ -293,9 +293,9 @@ Coffee,0006 BLUFF SPGS VTG HOUSE,Proposed Statewide Amendment 1,,,No,3
 Coffee,0006 BLUFF SPGS VTG HOUSE,Proposed Statewide Amendment 1,,,Yes,23
 Coffee,0006 BLUFF SPGS VTG HOUSE,Lieutenant Governor,,DEM,Darryl D. Perryman,1
 Coffee,0006 BLUFF SPGS VTG HOUSE,Lieutenant Governor,,DEM,Phillip Ensler,0
-Coffee,0006 BLUFF SPGS VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,0
-Coffee,0006 BLUFF SPGS VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,0
-Coffee,0006 BLUFF SPGS VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,John Northrop,0
+Coffee,0006 BLUFF SPGS VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,0
+Coffee,0006 BLUFF SPGS VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,0
+Coffee,0006 BLUFF SPGS VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,John Northrop,0
 Coffee,0006 BLUFF SPGS VTG HOUSE,U.S. Senate,,DEM,Dakarai Larriett,0
 Coffee,0006 BLUFF SPGS VTG HOUSE,U.S. Senate,,DEM,Everett Wess,0
 Coffee,0006 BLUFF SPGS VTG HOUSE,U.S. Senate,,DEM,Kyle Sweetser,0
@@ -349,9 +349,9 @@ Coffee,0007 ZION CHAPEL SR. CTR.,Proposed Statewide Amendment 1,,,No,26
 Coffee,0007 ZION CHAPEL SR. CTR.,Proposed Statewide Amendment 1,,,Yes,127
 Coffee,0007 ZION CHAPEL SR. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,4
 Coffee,0007 ZION CHAPEL SR. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,4
-Coffee,0007 ZION CHAPEL SR. CTR.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,5
-Coffee,0007 ZION CHAPEL SR. CTR.,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,2
-Coffee,0007 ZION CHAPEL SR. CTR.,"Public Service Commission, Place No. 1",,DEM,John Northrop,1
+Coffee,0007 ZION CHAPEL SR. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,5
+Coffee,0007 ZION CHAPEL SR. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,2
+Coffee,0007 ZION CHAPEL SR. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,1
 Coffee,0007 ZION CHAPEL SR. CTR.,U.S. Senate,,DEM,Dakarai Larriett,2
 Coffee,0007 ZION CHAPEL SR. CTR.,U.S. Senate,,DEM,Everett Wess,0
 Coffee,0007 ZION CHAPEL SR. CTR.,U.S. Senate,,DEM,Kyle Sweetser,2
@@ -405,9 +405,9 @@ Coffee,0008 LEE COMM. VTG HOUSE,Proposed Statewide Amendment 1,,,No,16
 Coffee,0008 LEE COMM. VTG HOUSE,Proposed Statewide Amendment 1,,,Yes,45
 Coffee,0008 LEE COMM. VTG HOUSE,Lieutenant Governor,,DEM,Darryl D. Perryman,4
 Coffee,0008 LEE COMM. VTG HOUSE,Lieutenant Governor,,DEM,Phillip Ensler,3
-Coffee,0008 LEE COMM. VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,4
-Coffee,0008 LEE COMM. VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,2
-Coffee,0008 LEE COMM. VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,John Northrop,1
+Coffee,0008 LEE COMM. VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,4
+Coffee,0008 LEE COMM. VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,2
+Coffee,0008 LEE COMM. VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,John Northrop,1
 Coffee,0008 LEE COMM. VTG HOUSE,U.S. Senate,,DEM,Dakarai Larriett,1
 Coffee,0008 LEE COMM. VTG HOUSE,U.S. Senate,,DEM,Everett Wess,3
 Coffee,0008 LEE COMM. VTG HOUSE,U.S. Senate,,DEM,Kyle Sweetser,2
@@ -461,9 +461,9 @@ Coffee,0009 HERITAGE UMC,Proposed Statewide Amendment 1,,,No,76
 Coffee,0009 HERITAGE UMC,Proposed Statewide Amendment 1,,,Yes,401
 Coffee,0009 HERITAGE UMC,Lieutenant Governor,,DEM,Darryl D. Perryman,77
 Coffee,0009 HERITAGE UMC,Lieutenant Governor,,DEM,Phillip Ensler,102
-Coffee,0009 HERITAGE UMC,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,101
-Coffee,0009 HERITAGE UMC,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,46
-Coffee,0009 HERITAGE UMC,"Public Service Commission, Place No. 1",,DEM,John Northrop,31
+Coffee,0009 HERITAGE UMC,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,101
+Coffee,0009 HERITAGE UMC,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,46
+Coffee,0009 HERITAGE UMC,"Public Service Commissioner, Place 1",,DEM,John Northrop,31
 Coffee,0009 HERITAGE UMC,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,100
 Coffee,0009 HERITAGE UMC,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,110
 Coffee,0009 HERITAGE UMC,State Democratic Executive Committee,,DEM,Patrick E Wise,74
@@ -523,9 +523,9 @@ Coffee,0010 FRISCO VTG HOUSE,Proposed Statewide Amendment 1,,,No,35
 Coffee,0010 FRISCO VTG HOUSE,Proposed Statewide Amendment 1,,,Yes,194
 Coffee,0010 FRISCO VTG HOUSE,Lieutenant Governor,,DEM,Darryl D. Perryman,22
 Coffee,0010 FRISCO VTG HOUSE,Lieutenant Governor,,DEM,Phillip Ensler,26
-Coffee,0010 FRISCO VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,24
-Coffee,0010 FRISCO VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,20
-Coffee,0010 FRISCO VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,John Northrop,6
+Coffee,0010 FRISCO VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,24
+Coffee,0010 FRISCO VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,20
+Coffee,0010 FRISCO VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,John Northrop,6
 Coffee,0010 FRISCO VTG HOUSE,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,34
 Coffee,0010 FRISCO VTG HOUSE,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,17
 Coffee,0010 FRISCO VTG HOUSE,State Democratic Executive Committee,,DEM,Patrick E Wise,33
@@ -585,9 +585,9 @@ Coffee,0011 EANON VTG HOUSE,Proposed Statewide Amendment 1,,,No,28
 Coffee,0011 EANON VTG HOUSE,Proposed Statewide Amendment 1,,,Yes,178
 Coffee,0011 EANON VTG HOUSE,Lieutenant Governor,,DEM,Darryl D. Perryman,2
 Coffee,0011 EANON VTG HOUSE,Lieutenant Governor,,DEM,Phillip Ensler,6
-Coffee,0011 EANON VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,3
-Coffee,0011 EANON VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,4
-Coffee,0011 EANON VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,John Northrop,1
+Coffee,0011 EANON VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,3
+Coffee,0011 EANON VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,4
+Coffee,0011 EANON VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,John Northrop,1
 Coffee,0011 EANON VTG HOUSE,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,3
 Coffee,0011 EANON VTG HOUSE,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,3
 Coffee,0011 EANON VTG HOUSE,State Democratic Executive Committee,,DEM,Patrick E Wise,4
@@ -647,9 +647,9 @@ Coffee,0012 HOLLEY'S STORE,Proposed Statewide Amendment 1,,,No,1
 Coffee,0012 HOLLEY'S STORE,Proposed Statewide Amendment 1,,,Yes,34
 Coffee,0012 HOLLEY'S STORE,Lieutenant Governor,,DEM,Darryl D. Perryman,0
 Coffee,0012 HOLLEY'S STORE,Lieutenant Governor,,DEM,Phillip Ensler,1
-Coffee,0012 HOLLEY'S STORE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,0
-Coffee,0012 HOLLEY'S STORE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,0
-Coffee,0012 HOLLEY'S STORE,"Public Service Commission, Place No. 1",,DEM,John Northrop,1
+Coffee,0012 HOLLEY'S STORE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,0
+Coffee,0012 HOLLEY'S STORE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,0
+Coffee,0012 HOLLEY'S STORE,"Public Service Commissioner, Place 1",,DEM,John Northrop,1
 Coffee,0012 HOLLEY'S STORE,State Democratic Executive Committee,,DEM,Harriet Hubbard,1
 Coffee,0012 HOLLEY'S STORE,State Democratic Executive Committee,,DEM,Jackie R. Woods,1
 Coffee,0012 HOLLEY'S STORE,State Democratic Executive Committee,,DEM,Steve Hubbard,0
@@ -707,9 +707,9 @@ Coffee,0013 DAMASCUS SR. CTR.,Proposed Statewide Amendment 1,,,No,14
 Coffee,0013 DAMASCUS SR. CTR.,Proposed Statewide Amendment 1,,,Yes,199
 Coffee,0013 DAMASCUS SR. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,5
 Coffee,0013 DAMASCUS SR. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,5
-Coffee,0013 DAMASCUS SR. CTR.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,2
-Coffee,0013 DAMASCUS SR. CTR.,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,4
-Coffee,0013 DAMASCUS SR. CTR.,"Public Service Commission, Place No. 1",,DEM,John Northrop,4
+Coffee,0013 DAMASCUS SR. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,2
+Coffee,0013 DAMASCUS SR. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,4
+Coffee,0013 DAMASCUS SR. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,4
 Coffee,0013 DAMASCUS SR. CTR.,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,3
 Coffee,0013 DAMASCUS SR. CTR.,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,7
 Coffee,0013 DAMASCUS SR. CTR.,State Democratic Executive Committee,,DEM,Patrick E Wise,3
@@ -769,9 +769,9 @@ Coffee,0014 PLEASANT RIDGE VTG,Proposed Statewide Amendment 1,,,No,43
 Coffee,0014 PLEASANT RIDGE VTG,Proposed Statewide Amendment 1,,,Yes,290
 Coffee,0014 PLEASANT RIDGE VTG,Lieutenant Governor,,DEM,Darryl D. Perryman,15
 Coffee,0014 PLEASANT RIDGE VTG,Lieutenant Governor,,DEM,Phillip Ensler,33
-Coffee,0014 PLEASANT RIDGE VTG,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,24
-Coffee,0014 PLEASANT RIDGE VTG,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,17
-Coffee,0014 PLEASANT RIDGE VTG,"Public Service Commission, Place No. 1",,DEM,John Northrop,6
+Coffee,0014 PLEASANT RIDGE VTG,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,24
+Coffee,0014 PLEASANT RIDGE VTG,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,17
+Coffee,0014 PLEASANT RIDGE VTG,"Public Service Commissioner, Place 1",,DEM,John Northrop,6
 Coffee,0014 PLEASANT RIDGE VTG,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,27
 Coffee,0014 PLEASANT RIDGE VTG,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,28
 Coffee,0014 PLEASANT RIDGE VTG,State Democratic Executive Committee,,DEM,Patrick E Wise,19
@@ -831,9 +831,9 @@ Coffee,0015 INO SR. CTR.,Proposed Statewide Amendment 1,,,No,9
 Coffee,0015 INO SR. CTR.,Proposed Statewide Amendment 1,,,Yes,56
 Coffee,0015 INO SR. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,0
 Coffee,0015 INO SR. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,0
-Coffee,0015 INO SR. CTR.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,0
-Coffee,0015 INO SR. CTR.,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,0
-Coffee,0015 INO SR. CTR.,"Public Service Commission, Place No. 1",,DEM,John Northrop,0
+Coffee,0015 INO SR. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,0
+Coffee,0015 INO SR. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,0
+Coffee,0015 INO SR. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,0
 Coffee,0015 INO SR. CTR.,State Democratic Executive Committee,,DEM,Harriet Hubbard,0
 Coffee,0015 INO SR. CTR.,State Democratic Executive Committee,,DEM,Jackie R. Woods,0
 Coffee,0015 INO SR. CTR.,State Democratic Executive Committee,,DEM,Steve Hubbard,0
@@ -891,9 +891,9 @@ Coffee,0016 GOODMAN VTG HOUSE,Proposed Statewide Amendment 1,,,No,19
 Coffee,0016 GOODMAN VTG HOUSE,Proposed Statewide Amendment 1,,,Yes,178
 Coffee,0016 GOODMAN VTG HOUSE,Lieutenant Governor,,DEM,Darryl D. Perryman,8
 Coffee,0016 GOODMAN VTG HOUSE,Lieutenant Governor,,DEM,Phillip Ensler,6
-Coffee,0016 GOODMAN VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,3
-Coffee,0016 GOODMAN VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,4
-Coffee,0016 GOODMAN VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,John Northrop,5
+Coffee,0016 GOODMAN VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,3
+Coffee,0016 GOODMAN VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,4
+Coffee,0016 GOODMAN VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,John Northrop,5
 Coffee,0016 GOODMAN VTG HOUSE,State Democratic Executive Committee,,DEM,Harriet Hubbard,8
 Coffee,0016 GOODMAN VTG HOUSE,State Democratic Executive Committee,,DEM,Jackie R. Woods,7
 Coffee,0016 GOODMAN VTG HOUSE,State Democratic Executive Committee,,DEM,Steve Hubbard,5
@@ -951,9 +951,9 @@ Coffee,0017 KINSTON CITY HALL,Proposed Statewide Amendment 1,,,No,6
 Coffee,0017 KINSTON CITY HALL,Proposed Statewide Amendment 1,,,Yes,131
 Coffee,0017 KINSTON CITY HALL,Lieutenant Governor,,DEM,Darryl D. Perryman,3
 Coffee,0017 KINSTON CITY HALL,Lieutenant Governor,,DEM,Phillip Ensler,3
-Coffee,0017 KINSTON CITY HALL,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,3
-Coffee,0017 KINSTON CITY HALL,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,3
-Coffee,0017 KINSTON CITY HALL,"Public Service Commission, Place No. 1",,DEM,John Northrop,1
+Coffee,0017 KINSTON CITY HALL,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,3
+Coffee,0017 KINSTON CITY HALL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,3
+Coffee,0017 KINSTON CITY HALL,"Public Service Commissioner, Place 1",,DEM,John Northrop,1
 Coffee,0017 KINSTON CITY HALL,State Democratic Executive Committee,,DEM,Harriet Hubbard,3
 Coffee,0017 KINSTON CITY HALL,State Democratic Executive Committee,,DEM,Jackie R. Woods,5
 Coffee,0017 KINSTON CITY HALL,State Democratic Executive Committee,,DEM,Steve Hubbard,3
@@ -1013,9 +1013,9 @@ Coffee,0018 BASIN VTG HOUSE,Proposed Statewide Amendment 2,,,No,32
 Coffee,0018 BASIN VTG HOUSE,Proposed Statewide Amendment 2,,,Yes,68
 Coffee,0018 BASIN VTG HOUSE,Lieutenant Governor,,DEM,Darryl D. Perryman,2
 Coffee,0018 BASIN VTG HOUSE,Lieutenant Governor,,DEM,Phillip Ensler,1
-Coffee,0018 BASIN VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,1
-Coffee,0018 BASIN VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,1
-Coffee,0018 BASIN VTG HOUSE,"Public Service Commission, Place No. 1",,DEM,John Northrop,1
+Coffee,0018 BASIN VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,1
+Coffee,0018 BASIN VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,1
+Coffee,0018 BASIN VTG HOUSE,"Public Service Commissioner, Place 1",,DEM,John Northrop,1
 Coffee,0018 BASIN VTG HOUSE,State Democratic Executive Committee,,DEM,Harriet Hubbard,1
 Coffee,0018 BASIN VTG HOUSE,State Democratic Executive Committee,,DEM,Jackie R. Woods,2
 Coffee,0018 BASIN VTG HOUSE,State Democratic Executive Committee,,DEM,Steve Hubbard,1
@@ -1075,9 +1075,9 @@ Coffee,0019 ELBA MASONIC LODGE,Proposed Statewide Amendment 2,,,No,63
 Coffee,0019 ELBA MASONIC LODGE,Proposed Statewide Amendment 2,,,Yes,91
 Coffee,0019 ELBA MASONIC LODGE,Lieutenant Governor,,DEM,Darryl D. Perryman,22
 Coffee,0019 ELBA MASONIC LODGE,Lieutenant Governor,,DEM,Phillip Ensler,35
-Coffee,0019 ELBA MASONIC LODGE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,31
-Coffee,0019 ELBA MASONIC LODGE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,16
-Coffee,0019 ELBA MASONIC LODGE,"Public Service Commission, Place No. 1",,DEM,John Northrop,8
+Coffee,0019 ELBA MASONIC LODGE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,31
+Coffee,0019 ELBA MASONIC LODGE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,16
+Coffee,0019 ELBA MASONIC LODGE,"Public Service Commissioner, Place 1",,DEM,John Northrop,8
 Coffee,0019 ELBA MASONIC LODGE,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,31
 Coffee,0019 ELBA MASONIC LODGE,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,30
 Coffee,0019 ELBA MASONIC LODGE,State Democratic Executive Committee,,DEM,Patrick E Wise,25
@@ -1139,9 +1139,9 @@ Coffee,0020 EPRISE STATE COMM. COLL.,Proposed Statewide Amendment 2,,,No,165
 Coffee,0020 EPRISE STATE COMM. COLL.,Proposed Statewide Amendment 2,,,Yes,228
 Coffee,0020 EPRISE STATE COMM. COLL.,Lieutenant Governor,,DEM,Darryl D. Perryman,74
 Coffee,0020 EPRISE STATE COMM. COLL.,Lieutenant Governor,,DEM,Phillip Ensler,87
-Coffee,0020 EPRISE STATE COMM. COLL.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,86
-Coffee,0020 EPRISE STATE COMM. COLL.,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,41
-Coffee,0020 EPRISE STATE COMM. COLL.,"Public Service Commission, Place No. 1",,DEM,John Northrop,32
+Coffee,0020 EPRISE STATE COMM. COLL.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,86
+Coffee,0020 EPRISE STATE COMM. COLL.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,41
+Coffee,0020 EPRISE STATE COMM. COLL.,"Public Service Commissioner, Place 1",,DEM,John Northrop,32
 Coffee,0020 EPRISE STATE COMM. COLL.,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,99
 Coffee,0020 EPRISE STATE COMM. COLL.,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,98
 Coffee,0020 EPRISE STATE COMM. COLL.,State Democratic Executive Committee,,DEM,Patrick E Wise,63
@@ -1203,9 +1203,9 @@ Coffee,0021 MT PLEASANT SR. CTR.,Proposed Statewide Amendment 2,,,No,223
 Coffee,0021 MT PLEASANT SR. CTR.,Proposed Statewide Amendment 2,,,Yes,303
 Coffee,0021 MT PLEASANT SR. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,13
 Coffee,0021 MT PLEASANT SR. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,17
-Coffee,0021 MT PLEASANT SR. CTR.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,15
-Coffee,0021 MT PLEASANT SR. CTR.,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,10
-Coffee,0021 MT PLEASANT SR. CTR.,"Public Service Commission, Place No. 1",,DEM,John Northrop,5
+Coffee,0021 MT PLEASANT SR. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,15
+Coffee,0021 MT PLEASANT SR. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,10
+Coffee,0021 MT PLEASANT SR. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,5
 Coffee,0021 MT PLEASANT SR. CTR.,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,16
 Coffee,0021 MT PLEASANT SR. CTR.,State Democratic Executive Committee,,DEM,Harriet Hubbard,0
 Coffee,0021 MT PLEASANT SR. CTR.,State Democratic Executive Committee,,DEM,Jackie R. Woods,0
@@ -1271,9 +1271,9 @@ Coffee,0022 TRI-COMM VFD (COOL SPGS),Proposed Statewide Amendment 2,,,No,128
 Coffee,0022 TRI-COMM VFD (COOL SPGS),Proposed Statewide Amendment 2,,,Yes,196
 Coffee,0022 TRI-COMM VFD (COOL SPGS),Lieutenant Governor,,DEM,Darryl D. Perryman,22
 Coffee,0022 TRI-COMM VFD (COOL SPGS),Lieutenant Governor,,DEM,Phillip Ensler,21
-Coffee,0022 TRI-COMM VFD (COOL SPGS),"Public Service Commission, Place No. 1",,DEM,James O. Gordon,20
-Coffee,0022 TRI-COMM VFD (COOL SPGS),"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,20
-Coffee,0022 TRI-COMM VFD (COOL SPGS),"Public Service Commission, Place No. 1",,DEM,John Northrop,2
+Coffee,0022 TRI-COMM VFD (COOL SPGS),"Public Service Commissioner, Place 1",,DEM,James O. Gordon,20
+Coffee,0022 TRI-COMM VFD (COOL SPGS),"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,20
+Coffee,0022 TRI-COMM VFD (COOL SPGS),"Public Service Commissioner, Place 1",,DEM,John Northrop,2
 Coffee,0022 TRI-COMM VFD (COOL SPGS),State Democratic Executive Committee,,DEM,Allie Bell-Reddick,22
 Coffee,0022 TRI-COMM VFD (COOL SPGS),State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,26
 Coffee,0022 TRI-COMM VFD (COOL SPGS),State Democratic Executive Committee,,DEM,Patrick E Wise,15
@@ -1335,9 +1335,9 @@ Coffee,0023 ELBA ZION CHRISTIAN COMM.,Proposed Statewide Amendment 2,,,No,42
 Coffee,0023 ELBA ZION CHRISTIAN COMM.,Proposed Statewide Amendment 2,,,Yes,78
 Coffee,0023 ELBA ZION CHRISTIAN COMM.,Lieutenant Governor,,DEM,Darryl D. Perryman,51
 Coffee,0023 ELBA ZION CHRISTIAN COMM.,Lieutenant Governor,,DEM,Phillip Ensler,47
-Coffee,0023 ELBA ZION CHRISTIAN COMM.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,63
-Coffee,0023 ELBA ZION CHRISTIAN COMM.,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,24
-Coffee,0023 ELBA ZION CHRISTIAN COMM.,"Public Service Commission, Place No. 1",,DEM,John Northrop,7
+Coffee,0023 ELBA ZION CHRISTIAN COMM.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,63
+Coffee,0023 ELBA ZION CHRISTIAN COMM.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,24
+Coffee,0023 ELBA ZION CHRISTIAN COMM.,"Public Service Commissioner, Place 1",,DEM,John Northrop,7
 Coffee,0023 ELBA ZION CHRISTIAN COMM.,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,67
 Coffee,0023 ELBA ZION CHRISTIAN COMM.,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,55
 Coffee,0023 ELBA ZION CHRISTIAN COMM.,State Democratic Executive Committee,,DEM,Patrick E Wise,41
@@ -1399,9 +1399,9 @@ Coffee,0024 NEW BROCKTON SR. CTR.,Proposed Statewide Amendment 2,,,No,48
 Coffee,0024 NEW BROCKTON SR. CTR.,Proposed Statewide Amendment 2,,,Yes,111
 Coffee,0024 NEW BROCKTON SR. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,33
 Coffee,0024 NEW BROCKTON SR. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,28
-Coffee,0024 NEW BROCKTON SR. CTR.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,32
-Coffee,0024 NEW BROCKTON SR. CTR.,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,18
-Coffee,0024 NEW BROCKTON SR. CTR.,"Public Service Commission, Place No. 1",,DEM,John Northrop,5
+Coffee,0024 NEW BROCKTON SR. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,32
+Coffee,0024 NEW BROCKTON SR. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,18
+Coffee,0024 NEW BROCKTON SR. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,5
 Coffee,0024 NEW BROCKTON SR. CTR.,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,28
 Coffee,0024 NEW BROCKTON SR. CTR.,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,36
 Coffee,0024 NEW BROCKTON SR. CTR.,State Democratic Executive Committee,,DEM,Patrick E Wise,26
@@ -1463,9 +1463,9 @@ Coffee,0025 JOHNS CHAPEL AME,Proposed Statewide Amendment 2,,,No,189
 Coffee,0025 JOHNS CHAPEL AME,Proposed Statewide Amendment 2,,,Yes,316
 Coffee,0025 JOHNS CHAPEL AME,Lieutenant Governor,,DEM,Darryl D. Perryman,133
 Coffee,0025 JOHNS CHAPEL AME,Lieutenant Governor,,DEM,Phillip Ensler,145
-Coffee,0025 JOHNS CHAPEL AME,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,161
-Coffee,0025 JOHNS CHAPEL AME,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,74
-Coffee,0025 JOHNS CHAPEL AME,"Public Service Commission, Place No. 1",,DEM,John Northrop,38
+Coffee,0025 JOHNS CHAPEL AME,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,161
+Coffee,0025 JOHNS CHAPEL AME,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,74
+Coffee,0025 JOHNS CHAPEL AME,"Public Service Commissioner, Place 1",,DEM,John Northrop,38
 Coffee,0025 JOHNS CHAPEL AME,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,148
 Coffee,0025 JOHNS CHAPEL AME,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,198
 Coffee,0025 JOHNS CHAPEL AME,State Democratic Executive Committee,,DEM,Patrick E Wise,92
@@ -1527,9 +1527,9 @@ Coffee,0026 YMCA,Proposed Statewide Amendment 2,,,No,524
 Coffee,0026 YMCA,Proposed Statewide Amendment 2,,,Yes,827
 Coffee,0026 YMCA,Lieutenant Governor,,DEM,Darryl D. Perryman,101
 Coffee,0026 YMCA,Lieutenant Governor,,DEM,Phillip Ensler,137
-Coffee,0026 YMCA,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,125
-Coffee,0026 YMCA,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,70
-Coffee,0026 YMCA,"Public Service Commission, Place No. 1",,DEM,John Northrop,35
+Coffee,0026 YMCA,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,125
+Coffee,0026 YMCA,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,70
+Coffee,0026 YMCA,"Public Service Commissioner, Place 1",,DEM,John Northrop,35
 Coffee,0026 YMCA,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,133
 Coffee,0026 YMCA,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,119
 Coffee,0026 YMCA,State Democratic Executive Committee,,DEM,Patrick E Wise,123
@@ -1591,9 +1591,9 @@ Coffee,0027 ENTERPRISE CIVIC CTR.,Proposed Statewide Amendment 2,,,No,445
 Coffee,0027 ENTERPRISE CIVIC CTR.,Proposed Statewide Amendment 2,,,Yes,699
 Coffee,0027 ENTERPRISE CIVIC CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,72
 Coffee,0027 ENTERPRISE CIVIC CTR.,Lieutenant Governor,,DEM,Phillip Ensler,113
-Coffee,0027 ENTERPRISE CIVIC CTR.,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,96
-Coffee,0027 ENTERPRISE CIVIC CTR.,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,61
-Coffee,0027 ENTERPRISE CIVIC CTR.,"Public Service Commission, Place No. 1",,DEM,John Northrop,24
+Coffee,0027 ENTERPRISE CIVIC CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,96
+Coffee,0027 ENTERPRISE CIVIC CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,61
+Coffee,0027 ENTERPRISE CIVIC CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,24
 Coffee,0027 ENTERPRISE CIVIC CTR.,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,113
 Coffee,0027 ENTERPRISE CIVIC CTR.,State Democratic Executive Committee,,DEM,Jerrold A. Whitehurst,103
 Coffee,0027 ENTERPRISE CIVIC CTR.,State Democratic Executive Committee,,DEM,Patrick E Wise,82
@@ -1655,9 +1655,9 @@ Coffee,0028 ABSENTEE,Proposed Statewide Amendment 2,,,No,75
 Coffee,0028 ABSENTEE,Proposed Statewide Amendment 2,,,Yes,130
 Coffee,0028 ABSENTEE,Lieutenant Governor,,DEM,Darryl D. Perryman,13
 Coffee,0028 ABSENTEE,Lieutenant Governor,,DEM,Phillip Ensler,16
-Coffee,0028 ABSENTEE,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,13
-Coffee,0028 ABSENTEE,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,8
-Coffee,0028 ABSENTEE,"Public Service Commission, Place No. 1",,DEM,John Northrop,9
+Coffee,0028 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,13
+Coffee,0028 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,8
+Coffee,0028 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,John Northrop,9
 Coffee,0028 ABSENTEE,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,23
 Coffee,0028 ABSENTEE,State Democratic Executive Committee,,DEM,Harriet Hubbard,1
 Coffee,0028 ABSENTEE,State Democratic Executive Committee,,DEM,Jackie R. Woods,1
@@ -1723,9 +1723,9 @@ Coffee,0029 PROVISIONAL,Proposed Statewide Amendment 2,,,No,5
 Coffee,0029 PROVISIONAL,Proposed Statewide Amendment 2,,,Yes,6
 Coffee,0029 PROVISIONAL,Lieutenant Governor,,DEM,Darryl D. Perryman,2
 Coffee,0029 PROVISIONAL,Lieutenant Governor,,DEM,Phillip Ensler,4
-Coffee,0029 PROVISIONAL,"Public Service Commission, Place No. 1",,DEM,James O. Gordon,3
-Coffee,0029 PROVISIONAL,"Public Service Commission, Place No. 1",,DEM,Jeff Ramsey,1
-Coffee,0029 PROVISIONAL,"Public Service Commission, Place No. 1",,DEM,John Northrop,2
+Coffee,0029 PROVISIONAL,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,3
+Coffee,0029 PROVISIONAL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,1
+Coffee,0029 PROVISIONAL,"Public Service Commissioner, Place 1",,DEM,John Northrop,2
 Coffee,0029 PROVISIONAL,State Democratic Executive Committee,,DEM,Allie Bell-Reddick,3
 Coffee,0029 PROVISIONAL,State Democratic Executive Committee,,DEM,Harriet Hubbard,0
 Coffee,0029 PROVISIONAL,State Democratic Executive Committee,,DEM,Jackie R. Woods,0
