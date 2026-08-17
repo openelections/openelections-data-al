@@ -1,4 +1,19 @@
 county,precinct,office,district,party,candidate,votes
+St. Clair,0001 ASHVILLE CITY HALL,Governor,,DEM,Will Boyd,15
+St. Clair,0001 ASHVILLE CITY HALL,Governor,,DEM,Jamel J. Brown,1
+St. Clair,0001 ASHVILLE CITY HALL,Governor,,DEM,Yolanda Rochelle Flowers,2
+St. Clair,0001 ASHVILLE CITY HALL,Governor,,DEM,Doug Jones,87
+St. Clair,0001 ASHVILLE CITY HALL,Governor,,DEM,"Chad ""Chig"" Martin",1
+St. Clair,0001 ASHVILLE CITY HALL,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+St. Clair,0001 ASHVILLE CITY HALL,Lieutenant Governor,,DEM,Phillip Ensler,71
+St. Clair,0001 ASHVILLE CITY HALL,Lieutenant Governor,,DEM,Darryl D. Perryman,28
+St. Clair,0001 ASHVILLE CITY HALL,U.S. Senate,,DEM,Dakarai Larriett,21
+St. Clair,0001 ASHVILLE CITY HALL,U.S. Senate,,DEM,Kyle Sweetser,10
+St. Clair,0001 ASHVILLE CITY HALL,U.S. Senate,,DEM,Everett Wess,59
+St. Clair,0001 ASHVILLE CITY HALL,U.S. Senate,,DEM,Mark S. Wheeler II,11
+St. Clair,0001 ASHVILLE CITY HALL,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,60
+St. Clair,0001 ASHVILLE CITY HALL,"Public Service Commissioner, Place 1",,DEM,John Northrop,10
+St. Clair,0001 ASHVILLE CITY HALL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,30
 St. Clair,0001 ASHVILLE CITY HALL,Attorney General,,REP,Jay Mitchell,88
 St. Clair,0001 ASHVILLE CITY HALL,Attorney General,,REP,Katherine Robertson,80
 St. Clair,0001 ASHVILLE CITY HALL,Attorney General,,REP,Pamela L. Casey,115
@@ -53,6 +68,21 @@ St. Clair,0001 ASHVILLE CITY HALL,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0001 ASHVILLE CITY HALL,U.S. Senate,,REP,Rodney Walker,15
 St. Clair,0001 ASHVILLE CITY HALL,U.S. Senate,,REP,Seth Burton,4
 St. Clair,0001 ASHVILLE CITY HALL,U.S. Senate,,REP,Steve Marshall,94
+St. Clair,0002 SHOAL CREEK COMM. CTR.,Governor,,DEM,Will Boyd,1
+St. Clair,0002 SHOAL CREEK COMM. CTR.,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0002 SHOAL CREEK COMM. CTR.,Governor,,DEM,Yolanda Rochelle Flowers,1
+St. Clair,0002 SHOAL CREEK COMM. CTR.,Governor,,DEM,Doug Jones,7
+St. Clair,0002 SHOAL CREEK COMM. CTR.,Governor,,DEM,"Chad ""Chig"" Martin",1
+St. Clair,0002 SHOAL CREEK COMM. CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0002 SHOAL CREEK COMM. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,6
+St. Clair,0002 SHOAL CREEK COMM. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,2
+St. Clair,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,DEM,Dakarai Larriett,2
+St. Clair,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,DEM,Kyle Sweetser,3
+St. Clair,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,DEM,Everett Wess,2
+St. Clair,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,1
+St. Clair,0002 SHOAL CREEK COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,0
+St. Clair,0002 SHOAL CREEK COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,5
+St. Clair,0002 SHOAL CREEK COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,3
 St. Clair,0002 SHOAL CREEK COMM. CTR.,Attorney General,,REP,Jay Mitchell,43
 St. Clair,0002 SHOAL CREEK COMM. CTR.,Attorney General,,REP,Katherine Robertson,63
 St. Clair,0002 SHOAL CREEK COMM. CTR.,Attorney General,,REP,Pamela L. Casey,57
@@ -107,6 +137,21 @@ St. Clair,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,3
 St. Clair,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,REP,Rodney Walker,9
 St. Clair,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,REP,Seth Burton,7
 St. Clair,0002 SHOAL CREEK COMM. CTR.,U.S. Senate,,REP,Steve Marshall,55
+St. Clair,0003 ODENVILLE CIVIC CTR.,Governor,,DEM,Will Boyd,18
+St. Clair,0003 ODENVILLE CIVIC CTR.,Governor,,DEM,Jamel J. Brown,3
+St. Clair,0003 ODENVILLE CIVIC CTR.,Governor,,DEM,Yolanda Rochelle Flowers,11
+St. Clair,0003 ODENVILLE CIVIC CTR.,Governor,,DEM,Doug Jones,90
+St. Clair,0003 ODENVILLE CIVIC CTR.,Governor,,DEM,"Chad ""Chig"" Martin",5
+St. Clair,0003 ODENVILLE CIVIC CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0003 ODENVILLE CIVIC CTR.,Lieutenant Governor,,DEM,Phillip Ensler,52
+St. Clair,0003 ODENVILLE CIVIC CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,63
+St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,DEM,Dakarai Larriett,45
+St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,DEM,Kyle Sweetser,21
+St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,DEM,Everett Wess,29
+St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,21
+St. Clair,0003 ODENVILLE CIVIC CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,51
+St. Clair,0003 ODENVILLE CIVIC CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,24
+St. Clair,0003 ODENVILLE CIVIC CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,40
 St. Clair,0003 ODENVILLE CIVIC CTR.,Attorney General,,REP,Jay Mitchell,155
 St. Clair,0003 ODENVILLE CIVIC CTR.,Attorney General,,REP,Katherine Robertson,214
 St. Clair,0003 ODENVILLE CIVIC CTR.,Attorney General,,REP,Pamela L. Casey,171
@@ -163,6 +208,21 @@ St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,REP,Morgan Murphy,8
 St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,REP,Rodney Walker,15
 St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,REP,Seth Burton,9
 St. Clair,0003 ODENVILLE CIVIC CTR.,U.S. Senate,,REP,Steve Marshall,166
+St. Clair,0004 SPRINGVILLE 1ST UNITED,Governor,,DEM,Will Boyd,17
+St. Clair,0004 SPRINGVILLE 1ST UNITED,Governor,,DEM,Jamel J. Brown,4
+St. Clair,0004 SPRINGVILLE 1ST UNITED,Governor,,DEM,Yolanda Rochelle Flowers,12
+St. Clair,0004 SPRINGVILLE 1ST UNITED,Governor,,DEM,Doug Jones,205
+St. Clair,0004 SPRINGVILLE 1ST UNITED,Governor,,DEM,"Chad ""Chig"" Martin",12
+St. Clair,0004 SPRINGVILLE 1ST UNITED,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0004 SPRINGVILLE 1ST UNITED,Lieutenant Governor,,DEM,Phillip Ensler,125
+St. Clair,0004 SPRINGVILLE 1ST UNITED,Lieutenant Governor,,DEM,Darryl D. Perryman,117
+St. Clair,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,DEM,Dakarai Larriett,74
+St. Clair,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,DEM,Kyle Sweetser,36
+St. Clair,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,DEM,Everett Wess,77
+St. Clair,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,DEM,Mark S. Wheeler II,53
+St. Clair,0004 SPRINGVILLE 1ST UNITED,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,117
+St. Clair,0004 SPRINGVILLE 1ST UNITED,"Public Service Commissioner, Place 1",,DEM,John Northrop,44
+St. Clair,0004 SPRINGVILLE 1ST UNITED,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,77
 St. Clair,0004 SPRINGVILLE 1ST UNITED,Attorney General,,REP,Jay Mitchell,398
 St. Clair,0004 SPRINGVILLE 1ST UNITED,Attorney General,,REP,Katherine Robertson,435
 St. Clair,0004 SPRINGVILLE 1ST UNITED,Attorney General,,REP,Pamela L. Casey,393
@@ -219,6 +279,21 @@ St. Clair,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,REP,Morgan Murphy,10
 St. Clair,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,REP,Rodney Walker,19
 St. Clair,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,REP,Seth Burton,30
 St. Clair,0004 SPRINGVILLE 1ST UNITED,U.S. Senate,,REP,Steve Marshall,316
+St. Clair,0005 FRIENDSHIP BAPTIST CH,Governor,,DEM,Will Boyd,5
+St. Clair,0005 FRIENDSHIP BAPTIST CH,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0005 FRIENDSHIP BAPTIST CH,Governor,,DEM,Yolanda Rochelle Flowers,1
+St. Clair,0005 FRIENDSHIP BAPTIST CH,Governor,,DEM,Doug Jones,29
+St. Clair,0005 FRIENDSHIP BAPTIST CH,Governor,,DEM,"Chad ""Chig"" Martin",4
+St. Clair,0005 FRIENDSHIP BAPTIST CH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0005 FRIENDSHIP BAPTIST CH,Lieutenant Governor,,DEM,Phillip Ensler,18
+St. Clair,0005 FRIENDSHIP BAPTIST CH,Lieutenant Governor,,DEM,Darryl D. Perryman,19
+St. Clair,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,DEM,Dakarai Larriett,9
+St. Clair,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,DEM,Kyle Sweetser,4
+St. Clair,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,DEM,Everett Wess,11
+St. Clair,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,DEM,Mark S. Wheeler II,12
+St. Clair,0005 FRIENDSHIP BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,9
+St. Clair,0005 FRIENDSHIP BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,6
+St. Clair,0005 FRIENDSHIP BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,22
 St. Clair,0005 FRIENDSHIP BAPTIST CH,Attorney General,,REP,Jay Mitchell,126
 St. Clair,0005 FRIENDSHIP BAPTIST CH,Attorney General,,REP,Katherine Robertson,161
 St. Clair,0005 FRIENDSHIP BAPTIST CH,Attorney General,,REP,Pamela L. Casey,156
@@ -275,6 +350,21 @@ St. Clair,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,REP,Morgan Murphy,4
 St. Clair,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,REP,Rodney Walker,9
 St. Clair,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,REP,Seth Burton,8
 St. Clair,0005 FRIENDSHIP BAPTIST CH,U.S. Senate,,REP,Steve Marshall,131
+St. Clair,0006 STEELE COMM. CTR.,Governor,,DEM,Will Boyd,0
+St. Clair,0006 STEELE COMM. CTR.,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0006 STEELE COMM. CTR.,Governor,,DEM,Yolanda Rochelle Flowers,0
+St. Clair,0006 STEELE COMM. CTR.,Governor,,DEM,Doug Jones,6
+St. Clair,0006 STEELE COMM. CTR.,Governor,,DEM,"Chad ""Chig"" Martin",1
+St. Clair,0006 STEELE COMM. CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0006 STEELE COMM. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,5
+St. Clair,0006 STEELE COMM. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,1
+St. Clair,0006 STEELE COMM. CTR.,U.S. Senate,,DEM,Dakarai Larriett,0
+St. Clair,0006 STEELE COMM. CTR.,U.S. Senate,,DEM,Kyle Sweetser,6
+St. Clair,0006 STEELE COMM. CTR.,U.S. Senate,,DEM,Everett Wess,0
+St. Clair,0006 STEELE COMM. CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,0
+St. Clair,0006 STEELE COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,1
+St. Clair,0006 STEELE COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,0
+St. Clair,0006 STEELE COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,5
 St. Clair,0006 STEELE COMM. CTR.,Attorney General,,REP,Jay Mitchell,61
 St. Clair,0006 STEELE COMM. CTR.,Attorney General,,REP,Katherine Robertson,63
 St. Clair,0006 STEELE COMM. CTR.,Attorney General,,REP,Pamela L. Casey,52
@@ -329,6 +419,21 @@ St. Clair,0006 STEELE COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,1
 St. Clair,0006 STEELE COMM. CTR.,U.S. Senate,,REP,Rodney Walker,8
 St. Clair,0006 STEELE COMM. CTR.,U.S. Senate,,REP,Seth Burton,2
 St. Clair,0006 STEELE COMM. CTR.,U.S. Senate,,REP,Steve Marshall,47
+St. Clair,0007 BRANCHVILLE CUMBERLAND,Governor,,DEM,Will Boyd,16
+St. Clair,0007 BRANCHVILLE CUMBERLAND,Governor,,DEM,Jamel J. Brown,1
+St. Clair,0007 BRANCHVILLE CUMBERLAND,Governor,,DEM,Yolanda Rochelle Flowers,8
+St. Clair,0007 BRANCHVILLE CUMBERLAND,Governor,,DEM,Doug Jones,97
+St. Clair,0007 BRANCHVILLE CUMBERLAND,Governor,,DEM,"Chad ""Chig"" Martin",5
+St. Clair,0007 BRANCHVILLE CUMBERLAND,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0007 BRANCHVILLE CUMBERLAND,Lieutenant Governor,,DEM,Phillip Ensler,51
+St. Clair,0007 BRANCHVILLE CUMBERLAND,Lieutenant Governor,,DEM,Darryl D. Perryman,63
+St. Clair,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,DEM,Dakarai Larriett,46
+St. Clair,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,DEM,Kyle Sweetser,13
+St. Clair,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,DEM,Everett Wess,25
+St. Clair,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,DEM,Mark S. Wheeler II,30
+St. Clair,0007 BRANCHVILLE CUMBERLAND,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,40
+St. Clair,0007 BRANCHVILLE CUMBERLAND,"Public Service Commissioner, Place 1",,DEM,John Northrop,25
+St. Clair,0007 BRANCHVILLE CUMBERLAND,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,46
 St. Clair,0007 BRANCHVILLE CUMBERLAND,Attorney General,,REP,Jay Mitchell,126
 St. Clair,0007 BRANCHVILLE CUMBERLAND,Attorney General,,REP,Katherine Robertson,169
 St. Clair,0007 BRANCHVILLE CUMBERLAND,Attorney General,,REP,Pamela L. Casey,159
@@ -385,6 +490,21 @@ St. Clair,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,REP,Morgan Murphy,7
 St. Clair,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,REP,Rodney Walker,9
 St. Clair,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,REP,Seth Burton,6
 St. Clair,0007 BRANCHVILLE CUMBERLAND,U.S. Senate,,REP,Steve Marshall,162
+St. Clair,0008 ARGO CITY HALL,Governor,,DEM,Will Boyd,28
+St. Clair,0008 ARGO CITY HALL,Governor,,DEM,Jamel J. Brown,2
+St. Clair,0008 ARGO CITY HALL,Governor,,DEM,Yolanda Rochelle Flowers,11
+St. Clair,0008 ARGO CITY HALL,Governor,,DEM,Doug Jones,312
+St. Clair,0008 ARGO CITY HALL,Governor,,DEM,"Chad ""Chig"" Martin",7
+St. Clair,0008 ARGO CITY HALL,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+St. Clair,0008 ARGO CITY HALL,Lieutenant Governor,,DEM,Phillip Ensler,157
+St. Clair,0008 ARGO CITY HALL,Lieutenant Governor,,DEM,Darryl D. Perryman,183
+St. Clair,0008 ARGO CITY HALL,U.S. Senate,,DEM,Dakarai Larriett,151
+St. Clair,0008 ARGO CITY HALL,U.S. Senate,,DEM,Kyle Sweetser,29
+St. Clair,0008 ARGO CITY HALL,U.S. Senate,,DEM,Everett Wess,116
+St. Clair,0008 ARGO CITY HALL,U.S. Senate,,DEM,Mark S. Wheeler II,55
+St. Clair,0008 ARGO CITY HALL,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,151
+St. Clair,0008 ARGO CITY HALL,"Public Service Commissioner, Place 1",,DEM,John Northrop,59
+St. Clair,0008 ARGO CITY HALL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,137
 St. Clair,0008 ARGO CITY HALL,Attorney General,,REP,Jay Mitchell,185
 St. Clair,0008 ARGO CITY HALL,Attorney General,,REP,Katherine Robertson,187
 St. Clair,0008 ARGO CITY HALL,Attorney General,,REP,Pamela L. Casey,114
@@ -441,6 +561,21 @@ St. Clair,0008 ARGO CITY HALL,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0008 ARGO CITY HALL,U.S. Senate,,REP,Rodney Walker,11
 St. Clair,0008 ARGO CITY HALL,U.S. Senate,,REP,Seth Burton,8
 St. Clair,0008 ARGO CITY HALL,U.S. Senate,,REP,Steve Marshall,121
+St. Clair,0009 RAGLAND TOWN HALL,Governor,,DEM,Will Boyd,13
+St. Clair,0009 RAGLAND TOWN HALL,Governor,,DEM,Jamel J. Brown,10
+St. Clair,0009 RAGLAND TOWN HALL,Governor,,DEM,Yolanda Rochelle Flowers,6
+St. Clair,0009 RAGLAND TOWN HALL,Governor,,DEM,Doug Jones,54
+St. Clair,0009 RAGLAND TOWN HALL,Governor,,DEM,"Chad ""Chig"" Martin",2
+St. Clair,0009 RAGLAND TOWN HALL,Governor,,DEM,"Nathan ""Nate"" Mathis",2
+St. Clair,0009 RAGLAND TOWN HALL,Lieutenant Governor,,DEM,Phillip Ensler,37
+St. Clair,0009 RAGLAND TOWN HALL,Lieutenant Governor,,DEM,Darryl D. Perryman,45
+St. Clair,0009 RAGLAND TOWN HALL,U.S. Senate,,DEM,Dakarai Larriett,35
+St. Clair,0009 RAGLAND TOWN HALL,U.S. Senate,,DEM,Kyle Sweetser,9
+St. Clair,0009 RAGLAND TOWN HALL,U.S. Senate,,DEM,Everett Wess,22
+St. Clair,0009 RAGLAND TOWN HALL,U.S. Senate,,DEM,Mark S. Wheeler II,16
+St. Clair,0009 RAGLAND TOWN HALL,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,44
+St. Clair,0009 RAGLAND TOWN HALL,"Public Service Commissioner, Place 1",,DEM,John Northrop,12
+St. Clair,0009 RAGLAND TOWN HALL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,26
 St. Clair,0009 RAGLAND TOWN HALL,Attorney General,,REP,Jay Mitchell,136
 St. Clair,0009 RAGLAND TOWN HALL,Attorney General,,REP,Katherine Robertson,180
 St. Clair,0009 RAGLAND TOWN HALL,Attorney General,,REP,Pamela L. Casey,146
@@ -495,6 +630,21 @@ St. Clair,0009 RAGLAND TOWN HALL,U.S. Senate,,REP,Morgan Murphy,9
 St. Clair,0009 RAGLAND TOWN HALL,U.S. Senate,,REP,Rodney Walker,21
 St. Clair,0009 RAGLAND TOWN HALL,U.S. Senate,,REP,Seth Burton,27
 St. Clair,0009 RAGLAND TOWN HALL,U.S. Senate,,REP,Steve Marshall,165
+St. Clair,0010 WATTSVILLE VFD,Governor,,DEM,Will Boyd,4
+St. Clair,0010 WATTSVILLE VFD,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0010 WATTSVILLE VFD,Governor,,DEM,Yolanda Rochelle Flowers,3
+St. Clair,0010 WATTSVILLE VFD,Governor,,DEM,Doug Jones,16
+St. Clair,0010 WATTSVILLE VFD,Governor,,DEM,"Chad ""Chig"" Martin",0
+St. Clair,0010 WATTSVILLE VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0010 WATTSVILLE VFD,Lieutenant Governor,,DEM,Phillip Ensler,14
+St. Clair,0010 WATTSVILLE VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,8
+St. Clair,0010 WATTSVILLE VFD,U.S. Senate,,DEM,Dakarai Larriett,10
+St. Clair,0010 WATTSVILLE VFD,U.S. Senate,,DEM,Kyle Sweetser,1
+St. Clair,0010 WATTSVILLE VFD,U.S. Senate,,DEM,Everett Wess,6
+St. Clair,0010 WATTSVILLE VFD,U.S. Senate,,DEM,Mark S. Wheeler II,6
+St. Clair,0010 WATTSVILLE VFD,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,8
+St. Clair,0010 WATTSVILLE VFD,"Public Service Commissioner, Place 1",,DEM,John Northrop,9
+St. Clair,0010 WATTSVILLE VFD,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,5
 St. Clair,0010 WATTSVILLE VFD,Attorney General,,REP,Jay Mitchell,79
 St. Clair,0010 WATTSVILLE VFD,Attorney General,,REP,Katherine Robertson,117
 St. Clair,0010 WATTSVILLE VFD,Attorney General,,REP,Pamela L. Casey,82
@@ -551,6 +701,21 @@ St. Clair,0010 WATTSVILLE VFD,U.S. Senate,,REP,Morgan Murphy,5
 St. Clair,0010 WATTSVILLE VFD,U.S. Senate,,REP,Rodney Walker,13
 St. Clair,0010 WATTSVILLE VFD,U.S. Senate,,REP,Seth Burton,8
 St. Clair,0010 WATTSVILLE VFD,U.S. Senate,,REP,Steve Marshall,77
+St. Clair,0011 POPLAR SPRGS CH,Governor,,DEM,Will Boyd,1
+St. Clair,0011 POPLAR SPRGS CH,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0011 POPLAR SPRGS CH,Governor,,DEM,Yolanda Rochelle Flowers,0
+St. Clair,0011 POPLAR SPRGS CH,Governor,,DEM,Doug Jones,18
+St. Clair,0011 POPLAR SPRGS CH,Governor,,DEM,"Chad ""Chig"" Martin",0
+St. Clair,0011 POPLAR SPRGS CH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0011 POPLAR SPRGS CH,Lieutenant Governor,,DEM,Phillip Ensler,8
+St. Clair,0011 POPLAR SPRGS CH,Lieutenant Governor,,DEM,Darryl D. Perryman,10
+St. Clair,0011 POPLAR SPRGS CH,U.S. Senate,,DEM,Dakarai Larriett,9
+St. Clair,0011 POPLAR SPRGS CH,U.S. Senate,,DEM,Kyle Sweetser,4
+St. Clair,0011 POPLAR SPRGS CH,U.S. Senate,,DEM,Everett Wess,4
+St. Clair,0011 POPLAR SPRGS CH,U.S. Senate,,DEM,Mark S. Wheeler II,1
+St. Clair,0011 POPLAR SPRGS CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,6
+St. Clair,0011 POPLAR SPRGS CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,4
+St. Clair,0011 POPLAR SPRGS CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,9
 St. Clair,0011 POPLAR SPRGS CH,Attorney General,,REP,Jay Mitchell,48
 St. Clair,0011 POPLAR SPRGS CH,Attorney General,,REP,Katherine Robertson,53
 St. Clair,0011 POPLAR SPRGS CH,Attorney General,,REP,Pamela L. Casey,69
@@ -603,6 +768,21 @@ St. Clair,0011 POPLAR SPRGS CH,U.S. Senate,,REP,Morgan Murphy,1
 St. Clair,0011 POPLAR SPRGS CH,U.S. Senate,,REP,Rodney Walker,2
 St. Clair,0011 POPLAR SPRGS CH,U.S. Senate,,REP,Seth Burton,5
 St. Clair,0011 POPLAR SPRGS CH,U.S. Senate,,REP,Steve Marshall,32
+St. Clair,0012 CELEBRATIONS,Governor,,DEM,Will Boyd,6
+St. Clair,0012 CELEBRATIONS,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0012 CELEBRATIONS,Governor,,DEM,Yolanda Rochelle Flowers,4
+St. Clair,0012 CELEBRATIONS,Governor,,DEM,Doug Jones,59
+St. Clair,0012 CELEBRATIONS,Governor,,DEM,"Chad ""Chig"" Martin",1
+St. Clair,0012 CELEBRATIONS,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0012 CELEBRATIONS,Lieutenant Governor,,DEM,Phillip Ensler,41
+St. Clair,0012 CELEBRATIONS,Lieutenant Governor,,DEM,Darryl D. Perryman,24
+St. Clair,0012 CELEBRATIONS,U.S. Senate,,DEM,Dakarai Larriett,18
+St. Clair,0012 CELEBRATIONS,U.S. Senate,,DEM,Kyle Sweetser,10
+St. Clair,0012 CELEBRATIONS,U.S. Senate,,DEM,Everett Wess,27
+St. Clair,0012 CELEBRATIONS,U.S. Senate,,DEM,Mark S. Wheeler II,11
+St. Clair,0012 CELEBRATIONS,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,27
+St. Clair,0012 CELEBRATIONS,"Public Service Commissioner, Place 1",,DEM,John Northrop,11
+St. Clair,0012 CELEBRATIONS,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,24
 St. Clair,0012 CELEBRATIONS,Attorney General,,REP,Jay Mitchell,158
 St. Clair,0012 CELEBRATIONS,Attorney General,,REP,Katherine Robertson,221
 St. Clair,0012 CELEBRATIONS,Attorney General,,REP,Pamela L. Casey,107
@@ -659,6 +839,21 @@ St. Clair,0012 CELEBRATIONS,U.S. Senate,,REP,Morgan Murphy,3
 St. Clair,0012 CELEBRATIONS,U.S. Senate,,REP,Rodney Walker,7
 St. Clair,0012 CELEBRATIONS,U.S. Senate,,REP,Seth Burton,3
 St. Clair,0012 CELEBRATIONS,U.S. Senate,,REP,Steve Marshall,139
+St. Clair,0013 NEW LONDON VFD,Governor,,DEM,Will Boyd,11
+St. Clair,0013 NEW LONDON VFD,Governor,,DEM,Jamel J. Brown,1
+St. Clair,0013 NEW LONDON VFD,Governor,,DEM,Yolanda Rochelle Flowers,2
+St. Clair,0013 NEW LONDON VFD,Governor,,DEM,Doug Jones,50
+St. Clair,0013 NEW LONDON VFD,Governor,,DEM,"Chad ""Chig"" Martin",0
+St. Clair,0013 NEW LONDON VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+St. Clair,0013 NEW LONDON VFD,Lieutenant Governor,,DEM,Phillip Ensler,44
+St. Clair,0013 NEW LONDON VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,19
+St. Clair,0013 NEW LONDON VFD,U.S. Senate,,DEM,Dakarai Larriett,21
+St. Clair,0013 NEW LONDON VFD,U.S. Senate,,DEM,Kyle Sweetser,8
+St. Clair,0013 NEW LONDON VFD,U.S. Senate,,DEM,Everett Wess,27
+St. Clair,0013 NEW LONDON VFD,U.S. Senate,,DEM,Mark S. Wheeler II,9
+St. Clair,0013 NEW LONDON VFD,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,37
+St. Clair,0013 NEW LONDON VFD,"Public Service Commissioner, Place 1",,DEM,John Northrop,8
+St. Clair,0013 NEW LONDON VFD,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,19
 St. Clair,0013 NEW LONDON VFD,Attorney General,,REP,Jay Mitchell,74
 St. Clair,0013 NEW LONDON VFD,Attorney General,,REP,Katherine Robertson,110
 St. Clair,0013 NEW LONDON VFD,Attorney General,,REP,Pamela L. Casey,66
@@ -715,6 +910,21 @@ St. Clair,0013 NEW LONDON VFD,U.S. Senate,,REP,Morgan Murphy,4
 St. Clair,0013 NEW LONDON VFD,U.S. Senate,,REP,Rodney Walker,4
 St. Clair,0013 NEW LONDON VFD,U.S. Senate,,REP,Seth Burton,2
 St. Clair,0013 NEW LONDON VFD,U.S. Senate,,REP,Steve Marshall,75
+St. Clair,0014 WOLF CREEK VFD,Governor,,DEM,Will Boyd,4
+St. Clair,0014 WOLF CREEK VFD,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0014 WOLF CREEK VFD,Governor,,DEM,Yolanda Rochelle Flowers,0
+St. Clair,0014 WOLF CREEK VFD,Governor,,DEM,Doug Jones,5
+St. Clair,0014 WOLF CREEK VFD,Governor,,DEM,"Chad ""Chig"" Martin",0
+St. Clair,0014 WOLF CREEK VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+St. Clair,0014 WOLF CREEK VFD,Lieutenant Governor,,DEM,Phillip Ensler,6
+St. Clair,0014 WOLF CREEK VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,3
+St. Clair,0014 WOLF CREEK VFD,U.S. Senate,,DEM,Dakarai Larriett,2
+St. Clair,0014 WOLF CREEK VFD,U.S. Senate,,DEM,Kyle Sweetser,0
+St. Clair,0014 WOLF CREEK VFD,U.S. Senate,,DEM,Everett Wess,2
+St. Clair,0014 WOLF CREEK VFD,U.S. Senate,,DEM,Mark S. Wheeler II,5
+St. Clair,0014 WOLF CREEK VFD,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,2
+St. Clair,0014 WOLF CREEK VFD,"Public Service Commissioner, Place 1",,DEM,John Northrop,0
+St. Clair,0014 WOLF CREEK VFD,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,5
 St. Clair,0014 WOLF CREEK VFD,Attorney General,,REP,Jay Mitchell,27
 St. Clair,0014 WOLF CREEK VFD,Attorney General,,REP,Katherine Robertson,68
 St. Clair,0014 WOLF CREEK VFD,Attorney General,,REP,Pamela L. Casey,20
@@ -771,6 +981,21 @@ St. Clair,0014 WOLF CREEK VFD,U.S. Senate,,REP,Morgan Murphy,3
 St. Clair,0014 WOLF CREEK VFD,U.S. Senate,,REP,Rodney Walker,0
 St. Clair,0014 WOLF CREEK VFD,U.S. Senate,,REP,Seth Burton,2
 St. Clair,0014 WOLF CREEK VFD,U.S. Senate,,REP,Steve Marshall,44
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Governor,,DEM,Will Boyd,30
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Governor,,DEM,Jamel J. Brown,11
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Governor,,DEM,Yolanda Rochelle Flowers,12
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Governor,,DEM,Doug Jones,249
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Governor,,DEM,"Chad ""Chig"" Martin",8
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Lieutenant Governor,,DEM,Phillip Ensler,154
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Lieutenant Governor,,DEM,Darryl D. Perryman,149
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,DEM,Dakarai Larriett,85
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,DEM,Kyle Sweetser,46
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,DEM,Everett Wess,129
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,DEM,Mark S. Wheeler II,41
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,161
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,"Public Service Commissioner, Place 1",,DEM,John Northrop,60
+St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,76
 St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Attorney General,,REP,Jay Mitchell,130
 St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Attorney General,,REP,Katherine Robertson,163
 St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,Attorney General,,REP,Pamela L. Casey,104
@@ -825,6 +1050,21 @@ St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,REP,Morgan Murphy,9
 St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,REP,Rodney Walker,9
 St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,REP,Seth Burton,10
 St. Clair,0015 BOYS&GIRLS CLUB-PELL CITY,U.S. Senate,,REP,Steve Marshall,100
+St. Clair,0016 COOK SPRGS BAPT CH,Governor,,DEM,Will Boyd,3
+St. Clair,0016 COOK SPRGS BAPT CH,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0016 COOK SPRGS BAPT CH,Governor,,DEM,Yolanda Rochelle Flowers,1
+St. Clair,0016 COOK SPRGS BAPT CH,Governor,,DEM,Doug Jones,23
+St. Clair,0016 COOK SPRGS BAPT CH,Governor,,DEM,"Chad ""Chig"" Martin",0
+St. Clair,0016 COOK SPRGS BAPT CH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0016 COOK SPRGS BAPT CH,Lieutenant Governor,,DEM,Phillip Ensler,17
+St. Clair,0016 COOK SPRGS BAPT CH,Lieutenant Governor,,DEM,Darryl D. Perryman,8
+St. Clair,0016 COOK SPRGS BAPT CH,U.S. Senate,,DEM,Dakarai Larriett,3
+St. Clair,0016 COOK SPRGS BAPT CH,U.S. Senate,,DEM,Kyle Sweetser,12
+St. Clair,0016 COOK SPRGS BAPT CH,U.S. Senate,,DEM,Everett Wess,4
+St. Clair,0016 COOK SPRGS BAPT CH,U.S. Senate,,DEM,Mark S. Wheeler II,6
+St. Clair,0016 COOK SPRGS BAPT CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,7
+St. Clair,0016 COOK SPRGS BAPT CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,7
+St. Clair,0016 COOK SPRGS BAPT CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,10
 St. Clair,0016 COOK SPRGS BAPT CH,Attorney General,,REP,Jay Mitchell,79
 St. Clair,0016 COOK SPRGS BAPT CH,Attorney General,,REP,Katherine Robertson,80
 St. Clair,0016 COOK SPRGS BAPT CH,Attorney General,,REP,Pamela L. Casey,77
@@ -883,6 +1123,21 @@ St. Clair,0016 COOK SPRGS BAPT CH,U.S. Senate,,REP,Morgan Murphy,3
 St. Clair,0016 COOK SPRGS BAPT CH,U.S. Senate,,REP,Rodney Walker,9
 St. Clair,0016 COOK SPRGS BAPT CH,U.S. Senate,,REP,Seth Burton,4
 St. Clair,0016 COOK SPRGS BAPT CH,U.S. Senate,,REP,Steve Marshall,68
+St. Clair,0017 MOODY CIVIC CTR.,Governor,,DEM,Will Boyd,38
+St. Clair,0017 MOODY CIVIC CTR.,Governor,,DEM,Jamel J. Brown,7
+St. Clair,0017 MOODY CIVIC CTR.,Governor,,DEM,Yolanda Rochelle Flowers,22
+St. Clair,0017 MOODY CIVIC CTR.,Governor,,DEM,Doug Jones,461
+St. Clair,0017 MOODY CIVIC CTR.,Governor,,DEM,"Chad ""Chig"" Martin",8
+St. Clair,0017 MOODY CIVIC CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",2
+St. Clair,0017 MOODY CIVIC CTR.,Lieutenant Governor,,DEM,Phillip Ensler,274
+St. Clair,0017 MOODY CIVIC CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,232
+St. Clair,0017 MOODY CIVIC CTR.,U.S. Senate,,DEM,Dakarai Larriett,179
+St. Clair,0017 MOODY CIVIC CTR.,U.S. Senate,,DEM,Kyle Sweetser,81
+St. Clair,0017 MOODY CIVIC CTR.,U.S. Senate,,DEM,Everett Wess,144
+St. Clair,0017 MOODY CIVIC CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,111
+St. Clair,0017 MOODY CIVIC CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,220
+St. Clair,0017 MOODY CIVIC CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,96
+St. Clair,0017 MOODY CIVIC CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,194
 St. Clair,0017 MOODY CIVIC CTR.,Attorney General,,REP,Jay Mitchell,363
 St. Clair,0017 MOODY CIVIC CTR.,Attorney General,,REP,Katherine Robertson,441
 St. Clair,0017 MOODY CIVIC CTR.,Attorney General,,REP,Pamela L. Casey,322
@@ -939,6 +1194,21 @@ St. Clair,0017 MOODY CIVIC CTR.,U.S. Senate,,REP,Morgan Murphy,11
 St. Clair,0017 MOODY CIVIC CTR.,U.S. Senate,,REP,Rodney Walker,24
 St. Clair,0017 MOODY CIVIC CTR.,U.S. Senate,,REP,Seth Burton,27
 St. Clair,0017 MOODY CIVIC CTR.,U.S. Senate,,REP,Steve Marshall,340
+St. Clair,0018 PINEDALE VFD,Governor,,DEM,Will Boyd,0
+St. Clair,0018 PINEDALE VFD,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0018 PINEDALE VFD,Governor,,DEM,Yolanda Rochelle Flowers,1
+St. Clair,0018 PINEDALE VFD,Governor,,DEM,Doug Jones,11
+St. Clair,0018 PINEDALE VFD,Governor,,DEM,"Chad ""Chig"" Martin",1
+St. Clair,0018 PINEDALE VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+St. Clair,0018 PINEDALE VFD,Lieutenant Governor,,DEM,Phillip Ensler,10
+St. Clair,0018 PINEDALE VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,4
+St. Clair,0018 PINEDALE VFD,U.S. Senate,,DEM,Dakarai Larriett,4
+St. Clair,0018 PINEDALE VFD,U.S. Senate,,DEM,Kyle Sweetser,1
+St. Clair,0018 PINEDALE VFD,U.S. Senate,,DEM,Everett Wess,5
+St. Clair,0018 PINEDALE VFD,U.S. Senate,,DEM,Mark S. Wheeler II,4
+St. Clair,0018 PINEDALE VFD,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,2
+St. Clair,0018 PINEDALE VFD,"Public Service Commissioner, Place 1",,DEM,John Northrop,5
+St. Clair,0018 PINEDALE VFD,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,7
 St. Clair,0018 PINEDALE VFD,Attorney General,,REP,Jay Mitchell,54
 St. Clair,0018 PINEDALE VFD,Attorney General,,REP,Katherine Robertson,55
 St. Clair,0018 PINEDALE VFD,Attorney General,,REP,Pamela L. Casey,41
@@ -993,6 +1263,21 @@ St. Clair,0018 PINEDALE VFD,U.S. Senate,,REP,Morgan Murphy,1
 St. Clair,0018 PINEDALE VFD,U.S. Senate,,REP,Rodney Walker,4
 St. Clair,0018 PINEDALE VFD,U.S. Senate,,REP,Seth Burton,0
 St. Clair,0018 PINEDALE VFD,U.S. Senate,,REP,Steve Marshall,33
+St. Clair,0019 CROPWELL BAPTIST CH,Governor,,DEM,Will Boyd,28
+St. Clair,0019 CROPWELL BAPTIST CH,Governor,,DEM,Jamel J. Brown,4
+St. Clair,0019 CROPWELL BAPTIST CH,Governor,,DEM,Yolanda Rochelle Flowers,6
+St. Clair,0019 CROPWELL BAPTIST CH,Governor,,DEM,Doug Jones,174
+St. Clair,0019 CROPWELL BAPTIST CH,Governor,,DEM,"Chad ""Chig"" Martin",9
+St. Clair,0019 CROPWELL BAPTIST CH,Governor,,DEM,"Nathan ""Nate"" Mathis",2
+St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,DEM,Phillip Ensler,117
+St. Clair,0019 CROPWELL BAPTIST CH,Lieutenant Governor,,DEM,Darryl D. Perryman,93
+St. Clair,0019 CROPWELL BAPTIST CH,U.S. Senate,,DEM,Dakarai Larriett,80
+St. Clair,0019 CROPWELL BAPTIST CH,U.S. Senate,,DEM,Kyle Sweetser,20
+St. Clair,0019 CROPWELL BAPTIST CH,U.S. Senate,,DEM,Everett Wess,72
+St. Clair,0019 CROPWELL BAPTIST CH,U.S. Senate,,DEM,Mark S. Wheeler II,40
+St. Clair,0019 CROPWELL BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,121
+St. Clair,0019 CROPWELL BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,37
+St. Clair,0019 CROPWELL BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,50
 St. Clair,0019 CROPWELL BAPTIST CH,Attorney General,,REP,Jay Mitchell,344
 St. Clair,0019 CROPWELL BAPTIST CH,Attorney General,,REP,Katherine Robertson,396
 St. Clair,0019 CROPWELL BAPTIST CH,Attorney General,,REP,Pamela L. Casey,204
@@ -1047,6 +1332,21 @@ St. Clair,0019 CROPWELL BAPTIST CH,U.S. Senate,,REP,Morgan Murphy,8
 St. Clair,0019 CROPWELL BAPTIST CH,U.S. Senate,,REP,Rodney Walker,25
 St. Clair,0019 CROPWELL BAPTIST CH,U.S. Senate,,REP,Seth Burton,15
 St. Clair,0019 CROPWELL BAPTIST CH,U.S. Senate,,REP,Steve Marshall,342
+St. Clair,0020 RIVERSIDE COMM. CTR,Governor,,DEM,Will Boyd,7
+St. Clair,0020 RIVERSIDE COMM. CTR,Governor,,DEM,Jamel J. Brown,2
+St. Clair,0020 RIVERSIDE COMM. CTR,Governor,,DEM,Yolanda Rochelle Flowers,3
+St. Clair,0020 RIVERSIDE COMM. CTR,Governor,,DEM,Doug Jones,54
+St. Clair,0020 RIVERSIDE COMM. CTR,Governor,,DEM,"Chad ""Chig"" Martin",0
+St. Clair,0020 RIVERSIDE COMM. CTR,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,DEM,Phillip Ensler,29
+St. Clair,0020 RIVERSIDE COMM. CTR,Lieutenant Governor,,DEM,Darryl D. Perryman,32
+St. Clair,0020 RIVERSIDE COMM. CTR,U.S. Senate,,DEM,Dakarai Larriett,16
+St. Clair,0020 RIVERSIDE COMM. CTR,U.S. Senate,,DEM,Kyle Sweetser,7
+St. Clair,0020 RIVERSIDE COMM. CTR,U.S. Senate,,DEM,Everett Wess,21
+St. Clair,0020 RIVERSIDE COMM. CTR,U.S. Senate,,DEM,Mark S. Wheeler II,17
+St. Clair,0020 RIVERSIDE COMM. CTR,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,34
+St. Clair,0020 RIVERSIDE COMM. CTR,"Public Service Commissioner, Place 1",,DEM,John Northrop,7
+St. Clair,0020 RIVERSIDE COMM. CTR,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,21
 St. Clair,0020 RIVERSIDE COMM. CTR,Attorney General,,REP,Jay Mitchell,79
 St. Clair,0020 RIVERSIDE COMM. CTR,Attorney General,,REP,Katherine Robertson,112
 St. Clair,0020 RIVERSIDE COMM. CTR,Attorney General,,REP,Pamela L. Casey,57
@@ -1101,6 +1401,21 @@ St. Clair,0020 RIVERSIDE COMM. CTR,U.S. Senate,,REP,Morgan Murphy,3
 St. Clair,0020 RIVERSIDE COMM. CTR,U.S. Senate,,REP,Rodney Walker,7
 St. Clair,0020 RIVERSIDE COMM. CTR,U.S. Senate,,REP,Seth Burton,3
 St. Clair,0020 RIVERSIDE COMM. CTR,U.S. Senate,,REP,Steve Marshall,87
+St. Clair,0021 FAIRVIEW CH,Governor,,DEM,Will Boyd,0
+St. Clair,0021 FAIRVIEW CH,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0021 FAIRVIEW CH,Governor,,DEM,Yolanda Rochelle Flowers,0
+St. Clair,0021 FAIRVIEW CH,Governor,,DEM,Doug Jones,5
+St. Clair,0021 FAIRVIEW CH,Governor,,DEM,"Chad ""Chig"" Martin",0
+St. Clair,0021 FAIRVIEW CH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,DEM,Phillip Ensler,1
+St. Clair,0021 FAIRVIEW CH,Lieutenant Governor,,DEM,Darryl D. Perryman,4
+St. Clair,0021 FAIRVIEW CH,U.S. Senate,,DEM,Dakarai Larriett,0
+St. Clair,0021 FAIRVIEW CH,U.S. Senate,,DEM,Kyle Sweetser,0
+St. Clair,0021 FAIRVIEW CH,U.S. Senate,,DEM,Everett Wess,1
+St. Clair,0021 FAIRVIEW CH,U.S. Senate,,DEM,Mark S. Wheeler II,4
+St. Clair,0021 FAIRVIEW CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,0
+St. Clair,0021 FAIRVIEW CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,2
+St. Clair,0021 FAIRVIEW CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,3
 St. Clair,0021 FAIRVIEW CH,Attorney General,,REP,Jay Mitchell,21
 St. Clair,0021 FAIRVIEW CH,Attorney General,,REP,Katherine Robertson,53
 St. Clair,0021 FAIRVIEW CH,Attorney General,,REP,Pamela L. Casey,28
@@ -1155,6 +1470,21 @@ St. Clair,0021 FAIRVIEW CH,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0021 FAIRVIEW CH,U.S. Senate,,REP,Rodney Walker,3
 St. Clair,0021 FAIRVIEW CH,U.S. Senate,,REP,Seth Burton,5
 St. Clair,0021 FAIRVIEW CH,U.S. Senate,,REP,Steve Marshall,41
+St. Clair,0022 GUM SPRGS CH,Governor,,DEM,Will Boyd,3
+St. Clair,0022 GUM SPRGS CH,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0022 GUM SPRGS CH,Governor,,DEM,Yolanda Rochelle Flowers,0
+St. Clair,0022 GUM SPRGS CH,Governor,,DEM,Doug Jones,5
+St. Clair,0022 GUM SPRGS CH,Governor,,DEM,"Chad ""Chig"" Martin",0
+St. Clair,0022 GUM SPRGS CH,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,DEM,Phillip Ensler,7
+St. Clair,0022 GUM SPRGS CH,Lieutenant Governor,,DEM,Darryl D. Perryman,2
+St. Clair,0022 GUM SPRGS CH,U.S. Senate,,DEM,Dakarai Larriett,3
+St. Clair,0022 GUM SPRGS CH,U.S. Senate,,DEM,Kyle Sweetser,3
+St. Clair,0022 GUM SPRGS CH,U.S. Senate,,DEM,Everett Wess,1
+St. Clair,0022 GUM SPRGS CH,U.S. Senate,,DEM,Mark S. Wheeler II,2
+St. Clair,0022 GUM SPRGS CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,2
+St. Clair,0022 GUM SPRGS CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,1
+St. Clair,0022 GUM SPRGS CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,6
 St. Clair,0022 GUM SPRGS CH,Attorney General,,REP,Jay Mitchell,55
 St. Clair,0022 GUM SPRGS CH,Attorney General,,REP,Katherine Robertson,50
 St. Clair,0022 GUM SPRGS CH,Attorney General,,REP,Pamela L. Casey,57
@@ -1209,6 +1539,21 @@ St. Clair,0022 GUM SPRGS CH,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0022 GUM SPRGS CH,U.S. Senate,,REP,Rodney Walker,8
 St. Clair,0022 GUM SPRGS CH,U.S. Senate,,REP,Seth Burton,3
 St. Clair,0022 GUM SPRGS CH,U.S. Senate,,REP,Steve Marshall,35
+St. Clair,0023 PRESCOTT BAPTIST CH,Governor,,DEM,Will Boyd,4
+St. Clair,0023 PRESCOTT BAPTIST CH,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0023 PRESCOTT BAPTIST CH,Governor,,DEM,Yolanda Rochelle Flowers,1
+St. Clair,0023 PRESCOTT BAPTIST CH,Governor,,DEM,Doug Jones,7
+St. Clair,0023 PRESCOTT BAPTIST CH,Governor,,DEM,"Chad ""Chig"" Martin",1
+St. Clair,0023 PRESCOTT BAPTIST CH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,DEM,Phillip Ensler,7
+St. Clair,0023 PRESCOTT BAPTIST CH,Lieutenant Governor,,DEM,Darryl D. Perryman,4
+St. Clair,0023 PRESCOTT BAPTIST CH,U.S. Senate,,DEM,Dakarai Larriett,4
+St. Clair,0023 PRESCOTT BAPTIST CH,U.S. Senate,,DEM,Kyle Sweetser,2
+St. Clair,0023 PRESCOTT BAPTIST CH,U.S. Senate,,DEM,Everett Wess,3
+St. Clair,0023 PRESCOTT BAPTIST CH,U.S. Senate,,DEM,Mark S. Wheeler II,3
+St. Clair,0023 PRESCOTT BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,4
+St. Clair,0023 PRESCOTT BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,2
+St. Clair,0023 PRESCOTT BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,6
 St. Clair,0023 PRESCOTT BAPTIST CH,Attorney General,,REP,Jay Mitchell,85
 St. Clair,0023 PRESCOTT BAPTIST CH,Attorney General,,REP,Katherine Robertson,57
 St. Clair,0023 PRESCOTT BAPTIST CH,Attorney General,,REP,Pamela L. Casey,31
@@ -1265,6 +1610,21 @@ St. Clair,0023 PRESCOTT BAPTIST CH,U.S. Senate,,REP,Morgan Murphy,1
 St. Clair,0023 PRESCOTT BAPTIST CH,U.S. Senate,,REP,Rodney Walker,6
 St. Clair,0023 PRESCOTT BAPTIST CH,U.S. Senate,,REP,Seth Burton,4
 St. Clair,0023 PRESCOTT BAPTIST CH,U.S. Senate,,REP,Steve Marshall,52
+St. Clair,0024 NEW HOPE BAPTIST CH,Governor,,DEM,Will Boyd,7
+St. Clair,0024 NEW HOPE BAPTIST CH,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0024 NEW HOPE BAPTIST CH,Governor,,DEM,Yolanda Rochelle Flowers,2
+St. Clair,0024 NEW HOPE BAPTIST CH,Governor,,DEM,Doug Jones,18
+St. Clair,0024 NEW HOPE BAPTIST CH,Governor,,DEM,"Chad ""Chig"" Martin",4
+St. Clair,0024 NEW HOPE BAPTIST CH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,DEM,Phillip Ensler,15
+St. Clair,0024 NEW HOPE BAPTIST CH,Lieutenant Governor,,DEM,Darryl D. Perryman,14
+St. Clair,0024 NEW HOPE BAPTIST CH,U.S. Senate,,DEM,Dakarai Larriett,7
+St. Clair,0024 NEW HOPE BAPTIST CH,U.S. Senate,,DEM,Kyle Sweetser,14
+St. Clair,0024 NEW HOPE BAPTIST CH,U.S. Senate,,DEM,Everett Wess,4
+St. Clair,0024 NEW HOPE BAPTIST CH,U.S. Senate,,DEM,Mark S. Wheeler II,5
+St. Clair,0024 NEW HOPE BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,4
+St. Clair,0024 NEW HOPE BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,13
+St. Clair,0024 NEW HOPE BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,13
 St. Clair,0024 NEW HOPE BAPTIST CH,Attorney General,,REP,Jay Mitchell,50
 St. Clair,0024 NEW HOPE BAPTIST CH,Attorney General,,REP,Katherine Robertson,97
 St. Clair,0024 NEW HOPE BAPTIST CH,Attorney General,,REP,Pamela L. Casey,51
@@ -1321,6 +1681,21 @@ St. Clair,0024 NEW HOPE BAPTIST CH,U.S. Senate,,REP,Morgan Murphy,1
 St. Clair,0024 NEW HOPE BAPTIST CH,U.S. Senate,,REP,Rodney Walker,6
 St. Clair,0024 NEW HOPE BAPTIST CH,U.S. Senate,,REP,Seth Burton,0
 St. Clair,0024 NEW HOPE BAPTIST CH,U.S. Senate,,REP,Steve Marshall,57
+St. Clair,0025 NORTH VALLEY CH,Governor,,DEM,Will Boyd,45
+St. Clair,0025 NORTH VALLEY CH,Governor,,DEM,Jamel J. Brown,10
+St. Clair,0025 NORTH VALLEY CH,Governor,,DEM,Yolanda Rochelle Flowers,28
+St. Clair,0025 NORTH VALLEY CH,Governor,,DEM,Doug Jones,413
+St. Clair,0025 NORTH VALLEY CH,Governor,,DEM,"Chad ""Chig"" Martin",4
+St. Clair,0025 NORTH VALLEY CH,Governor,,DEM,"Nathan ""Nate"" Mathis",2
+St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,DEM,Phillip Ensler,151
+St. Clair,0025 NORTH VALLEY CH,Lieutenant Governor,,DEM,Darryl D. Perryman,312
+St. Clair,0025 NORTH VALLEY CH,U.S. Senate,,DEM,Dakarai Larriett,204
+St. Clair,0025 NORTH VALLEY CH,U.S. Senate,,DEM,Kyle Sweetser,50
+St. Clair,0025 NORTH VALLEY CH,U.S. Senate,,DEM,Everett Wess,129
+St. Clair,0025 NORTH VALLEY CH,U.S. Senate,,DEM,Mark S. Wheeler II,85
+St. Clair,0025 NORTH VALLEY CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,185
+St. Clair,0025 NORTH VALLEY CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,89
+St. Clair,0025 NORTH VALLEY CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,188
 St. Clair,0025 NORTH VALLEY CH,Attorney General,,REP,Jay Mitchell,149
 St. Clair,0025 NORTH VALLEY CH,Attorney General,,REP,Katherine Robertson,171
 St. Clair,0025 NORTH VALLEY CH,Attorney General,,REP,Pamela L. Casey,113
@@ -1377,6 +1752,21 @@ St. Clair,0025 NORTH VALLEY CH,U.S. Senate,,REP,Morgan Murphy,9
 St. Clair,0025 NORTH VALLEY CH,U.S. Senate,,REP,Rodney Walker,9
 St. Clair,0025 NORTH VALLEY CH,U.S. Senate,,REP,Seth Burton,5
 St. Clair,0025 NORTH VALLEY CH,U.S. Senate,,REP,Steve Marshall,101
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Governor,,DEM,Will Boyd,7
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Governor,,DEM,Jamel J. Brown,1
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Governor,,DEM,Yolanda Rochelle Flowers,6
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Governor,,DEM,Doug Jones,41
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Governor,,DEM,"Chad ""Chig"" Martin",0
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,DEM,Phillip Ensler,36
+St. Clair,0026 WHITES CHAPEL TOWN HALL,Lieutenant Governor,,DEM,Darryl D. Perryman,19
+St. Clair,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,DEM,Dakarai Larriett,20
+St. Clair,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,DEM,Kyle Sweetser,7
+St. Clair,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,DEM,Everett Wess,21
+St. Clair,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,DEM,Mark S. Wheeler II,7
+St. Clair,0026 WHITES CHAPEL TOWN HALL,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,24
+St. Clair,0026 WHITES CHAPEL TOWN HALL,"Public Service Commissioner, Place 1",,DEM,John Northrop,8
+St. Clair,0026 WHITES CHAPEL TOWN HALL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,18
 St. Clair,0026 WHITES CHAPEL TOWN HALL,Attorney General,,REP,Jay Mitchell,41
 St. Clair,0026 WHITES CHAPEL TOWN HALL,Attorney General,,REP,Katherine Robertson,74
 St. Clair,0026 WHITES CHAPEL TOWN HALL,Attorney General,,REP,Pamela L. Casey,43
@@ -1433,6 +1823,21 @@ St. Clair,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,REP,Morgan Murphy,3
 St. Clair,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,REP,Rodney Walker,1
 St. Clair,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,REP,Seth Burton,2
 St. Clair,0026 WHITES CHAPEL TOWN HALL,U.S. Senate,,REP,Steve Marshall,46
+St. Clair,0027 CHANDLER MT. COMM. CTR.,Governor,,DEM,Will Boyd,0
+St. Clair,0027 CHANDLER MT. COMM. CTR.,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0027 CHANDLER MT. COMM. CTR.,Governor,,DEM,Yolanda Rochelle Flowers,0
+St. Clair,0027 CHANDLER MT. COMM. CTR.,Governor,,DEM,Doug Jones,3
+St. Clair,0027 CHANDLER MT. COMM. CTR.,Governor,,DEM,"Chad ""Chig"" Martin",1
+St. Clair,0027 CHANDLER MT. COMM. CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,2
+St. Clair,0027 CHANDLER MT. COMM. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,1
+St. Clair,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,DEM,Dakarai Larriett,1
+St. Clair,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,DEM,Kyle Sweetser,2
+St. Clair,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,DEM,Everett Wess,1
+St. Clair,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,0
+St. Clair,0027 CHANDLER MT. COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,0
+St. Clair,0027 CHANDLER MT. COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,3
+St. Clair,0027 CHANDLER MT. COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,1
 St. Clair,0027 CHANDLER MT. COMM. CTR.,Attorney General,,REP,Jay Mitchell,17
 St. Clair,0027 CHANDLER MT. COMM. CTR.,Attorney General,,REP,Katherine Robertson,17
 St. Clair,0027 CHANDLER MT. COMM. CTR.,Attorney General,,REP,Pamela L. Casey,21
@@ -1487,6 +1892,21 @@ St. Clair,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,0
 St. Clair,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,REP,Rodney Walker,0
 St. Clair,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,REP,Seth Burton,1
 St. Clair,0027 CHANDLER MT. COMM. CTR.,U.S. Senate,,REP,Steve Marshall,14
+St. Clair,0028 GALLANT VFD,Governor,,DEM,Will Boyd,0
+St. Clair,0028 GALLANT VFD,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0028 GALLANT VFD,Governor,,DEM,Yolanda Rochelle Flowers,0
+St. Clair,0028 GALLANT VFD,Governor,,DEM,Doug Jones,4
+St. Clair,0028 GALLANT VFD,Governor,,DEM,"Chad ""Chig"" Martin",0
+St. Clair,0028 GALLANT VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0028 GALLANT VFD,Lieutenant Governor,,DEM,Phillip Ensler,3
+St. Clair,0028 GALLANT VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,1
+St. Clair,0028 GALLANT VFD,U.S. Senate,,DEM,Dakarai Larriett,0
+St. Clair,0028 GALLANT VFD,U.S. Senate,,DEM,Kyle Sweetser,1
+St. Clair,0028 GALLANT VFD,U.S. Senate,,DEM,Everett Wess,1
+St. Clair,0028 GALLANT VFD,U.S. Senate,,DEM,Mark S. Wheeler II,2
+St. Clair,0028 GALLANT VFD,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,2
+St. Clair,0028 GALLANT VFD,"Public Service Commissioner, Place 1",,DEM,John Northrop,0
+St. Clair,0028 GALLANT VFD,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,2
 St. Clair,0028 GALLANT VFD,Attorney General,,REP,Jay Mitchell,10
 St. Clair,0028 GALLANT VFD,Attorney General,,REP,Katherine Robertson,16
 St. Clair,0028 GALLANT VFD,Attorney General,,REP,Pamela L. Casey,24
@@ -1541,6 +1961,21 @@ St. Clair,0028 GALLANT VFD,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0028 GALLANT VFD,U.S. Senate,,REP,Rodney Walker,0
 St. Clair,0028 GALLANT VFD,U.S. Senate,,REP,Seth Burton,1
 St. Clair,0028 GALLANT VFD,U.S. Senate,,REP,Steve Marshall,16
+St. Clair,0029 SLATE UNION CH,Governor,,DEM,Will Boyd,1
+St. Clair,0029 SLATE UNION CH,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0029 SLATE UNION CH,Governor,,DEM,Yolanda Rochelle Flowers,0
+St. Clair,0029 SLATE UNION CH,Governor,,DEM,Doug Jones,6
+St. Clair,0029 SLATE UNION CH,Governor,,DEM,"Chad ""Chig"" Martin",0
+St. Clair,0029 SLATE UNION CH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,DEM,Phillip Ensler,3
+St. Clair,0029 SLATE UNION CH,Lieutenant Governor,,DEM,Darryl D. Perryman,3
+St. Clair,0029 SLATE UNION CH,U.S. Senate,,DEM,Dakarai Larriett,0
+St. Clair,0029 SLATE UNION CH,U.S. Senate,,DEM,Kyle Sweetser,0
+St. Clair,0029 SLATE UNION CH,U.S. Senate,,DEM,Everett Wess,4
+St. Clair,0029 SLATE UNION CH,U.S. Senate,,DEM,Mark S. Wheeler II,2
+St. Clair,0029 SLATE UNION CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,2
+St. Clair,0029 SLATE UNION CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,3
+St. Clair,0029 SLATE UNION CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,1
 St. Clair,0029 SLATE UNION CH,Attorney General,,REP,Jay Mitchell,53
 St. Clair,0029 SLATE UNION CH,Attorney General,,REP,Katherine Robertson,73
 St. Clair,0029 SLATE UNION CH,Attorney General,,REP,Pamela L. Casey,81
@@ -1595,6 +2030,21 @@ St. Clair,0029 SLATE UNION CH,U.S. Senate,,REP,Morgan Murphy,4
 St. Clair,0029 SLATE UNION CH,U.S. Senate,,REP,Rodney Walker,6
 St. Clair,0029 SLATE UNION CH,U.S. Senate,,REP,Seth Burton,3
 St. Clair,0029 SLATE UNION CH,U.S. Senate,,REP,Steve Marshall,54
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Governor,,DEM,Will Boyd,12
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Governor,,DEM,Jamel J. Brown,1
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Governor,,DEM,Yolanda Rochelle Flowers,3
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Governor,,DEM,Doug Jones,99
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Governor,,DEM,"Chad ""Chig"" Martin",2
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,DEM,Phillip Ensler,63
+St. Clair,0030 CEDAR GROVE BAPTIST CH,Lieutenant Governor,,DEM,Darryl D. Perryman,48
+St. Clair,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,DEM,Dakarai Larriett,41
+St. Clair,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,DEM,Kyle Sweetser,11
+St. Clair,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,DEM,Everett Wess,35
+St. Clair,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,DEM,Mark S. Wheeler II,25
+St. Clair,0030 CEDAR GROVE BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,53
+St. Clair,0030 CEDAR GROVE BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,11
+St. Clair,0030 CEDAR GROVE BAPTIST CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,44
 St. Clair,0030 CEDAR GROVE BAPTIST CH,Attorney General,,REP,Jay Mitchell,86
 St. Clair,0030 CEDAR GROVE BAPTIST CH,Attorney General,,REP,Katherine Robertson,122
 St. Clair,0030 CEDAR GROVE BAPTIST CH,Attorney General,,REP,Pamela L. Casey,54
@@ -1651,6 +2101,21 @@ St. Clair,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,REP,Rodney Walker,4
 St. Clair,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,REP,Seth Burton,5
 St. Clair,0030 CEDAR GROVE BAPTIST CH,U.S. Senate,,REP,Steve Marshall,83
+St. Clair,0031 ABSENTEE,Governor,,DEM,Will Boyd,3
+St. Clair,0031 ABSENTEE,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0031 ABSENTEE,Governor,,DEM,Yolanda Rochelle Flowers,1
+St. Clair,0031 ABSENTEE,Governor,,DEM,Doug Jones,39
+St. Clair,0031 ABSENTEE,Governor,,DEM,"Chad ""Chig"" Martin",3
+St. Clair,0031 ABSENTEE,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+St. Clair,0031 ABSENTEE,Lieutenant Governor,,DEM,Phillip Ensler,28
+St. Clair,0031 ABSENTEE,Lieutenant Governor,,DEM,Darryl D. Perryman,18
+St. Clair,0031 ABSENTEE,U.S. Senate,,DEM,Dakarai Larriett,10
+St. Clair,0031 ABSENTEE,U.S. Senate,,DEM,Kyle Sweetser,7
+St. Clair,0031 ABSENTEE,U.S. Senate,,DEM,Everett Wess,18
+St. Clair,0031 ABSENTEE,U.S. Senate,,DEM,Mark S. Wheeler II,13
+St. Clair,0031 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,20
+St. Clair,0031 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,John Northrop,12
+St. Clair,0031 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,15
 St. Clair,0031 ABSENTEE,Attorney General,,REP,Jay Mitchell,62
 St. Clair,0031 ABSENTEE,Attorney General,,REP,Katherine Robertson,64
 St. Clair,0031 ABSENTEE,Attorney General,,REP,Pamela L. Casey,64
@@ -1709,6 +2174,21 @@ St. Clair,0031 ABSENTEE,U.S. Senate,,REP,Morgan Murphy,2
 St. Clair,0031 ABSENTEE,U.S. Senate,,REP,Rodney Walker,2
 St. Clair,0031 ABSENTEE,U.S. Senate,,REP,Seth Burton,7
 St. Clair,0031 ABSENTEE,U.S. Senate,,REP,Steve Marshall,71
+St. Clair,0032 PROVISIONAL,Governor,,DEM,Will Boyd,2
+St. Clair,0032 PROVISIONAL,Governor,,DEM,Jamel J. Brown,0
+St. Clair,0032 PROVISIONAL,Governor,,DEM,Yolanda Rochelle Flowers,0
+St. Clair,0032 PROVISIONAL,Governor,,DEM,Doug Jones,8
+St. Clair,0032 PROVISIONAL,Governor,,DEM,"Chad ""Chig"" Martin",2
+St. Clair,0032 PROVISIONAL,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+St. Clair,0032 PROVISIONAL,Lieutenant Governor,,DEM,Phillip Ensler,2
+St. Clair,0032 PROVISIONAL,Lieutenant Governor,,DEM,Darryl D. Perryman,9
+St. Clair,0032 PROVISIONAL,U.S. Senate,,DEM,Dakarai Larriett,4
+St. Clair,0032 PROVISIONAL,U.S. Senate,,DEM,Kyle Sweetser,2
+St. Clair,0032 PROVISIONAL,U.S. Senate,,DEM,Everett Wess,3
+St. Clair,0032 PROVISIONAL,U.S. Senate,,DEM,Mark S. Wheeler II,3
+St. Clair,0032 PROVISIONAL,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,4
+St. Clair,0032 PROVISIONAL,"Public Service Commissioner, Place 1",,DEM,John Northrop,1
+St. Clair,0032 PROVISIONAL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,7
 St. Clair,0032 PROVISIONAL,Attorney General,,REP,Jay Mitchell,0
 St. Clair,0032 PROVISIONAL,Attorney General,,REP,Katherine Robertson,4
 St. Clair,0032 PROVISIONAL,Attorney General,,REP,Pamela L. Casey,2
