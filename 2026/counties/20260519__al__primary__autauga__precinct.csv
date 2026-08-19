@@ -21,6 +21,8 @@ Autauga,0001 10 JONES COMM. CTR.,Governor,,DEM,Yolanda Rochelle Flowers,11
 Autauga,0001 10 JONES COMM. CTR.,Governor,,REP,"""Alabama"" Will Santivasci",3
 Autauga,0001 10 JONES COMM. CTR.,Governor,,REP,Ken McFeeters,6
 Autauga,0001 10 JONES COMM. CTR.,Governor,,REP,Thomas Tuberville,86
+Autauga,0001 10 JONES COMM. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,34
+Autauga,0001 10 JONES COMM. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,26
 Autauga,0001 10 JONES COMM. CTR.,Lieutenant Governor,,REP,George Childress,2
 Autauga,0001 10 JONES COMM. CTR.,Lieutenant Governor,,REP,John Wahl,30
 Autauga,0001 10 JONES COMM. CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,4
@@ -34,6 +36,9 @@ Autauga,0001 10 JONES COMM. CTR.,"Public Service Commission, Place No. 2",,REP,B
 Autauga,0001 10 JONES COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,16
 Autauga,0001 10 JONES COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,48
 Autauga,0001 10 JONES COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,9
+Autauga,0001 10 JONES COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,26
+Autauga,0001 10 JONES COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,17
+Autauga,0001 10 JONES COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,11
 Autauga,0001 10 JONES COMM. CTR.,Secretary of State,,REP,Caroleene Dobson,65
 Autauga,0001 10 JONES COMM. CTR.,Secretary of State,,REP,Christopher Christian Horn,15
 Autauga,0001 10 JONES COMM. CTR.,Secretary of State,,REP,Glenda S. Jackson,5
@@ -58,7 +63,7 @@ Autauga,0002 20 HERITAGE BAPT.,Attorney General,,REP,Pamela L. Casey,179
 Autauga,0002 20 HERITAGE BAPT.,Autauga County Sheriff,,REP,Kevin McNatt,50
 Autauga,0002 20 HERITAGE BAPT.,Autauga County Sheriff,,REP,Mark B. Harrell,330
 Autauga,0002 20 HERITAGE BAPT.,Autauga County Sheriff,,REP,Nicholas Cognasi,27
-Autauga,0002 20 HERITAGE BAPT.,Autauga County Sheriff,,REP,Ty Thompson,325
+Autauga,0002 20 HERITAGE BAPT.,Autauga County Sheriff,,REP,Ty Thompson,326
 Autauga,0002 20 HERITAGE BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,60
 Autauga,0002 20 HERITAGE BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,328
 Autauga,0002 20 HERITAGE BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,293
@@ -74,6 +79,8 @@ Autauga,0002 20 HERITAGE BAPT.,Governor,,DEM,Yolanda Rochelle Flowers,20
 Autauga,0002 20 HERITAGE BAPT.,Governor,,REP,"""Alabama"" Will Santivasci",38
 Autauga,0002 20 HERITAGE BAPT.,Governor,,REP,Ken McFeeters,63
 Autauga,0002 20 HERITAGE BAPT.,Governor,,REP,Thomas Tuberville,633
+Autauga,0002 20 HERITAGE BAPT.,Lieutenant Governor,,DEM,Darryl D. Perryman,102
+Autauga,0002 20 HERITAGE BAPT.,Lieutenant Governor,,DEM,Phillip Ensler,141
 Autauga,0002 20 HERITAGE BAPT.,Lieutenant Governor,,REP,George Childress,6
 Autauga,0002 20 HERITAGE BAPT.,Lieutenant Governor,,REP,John Wahl,213
 Autauga,0002 20 HERITAGE BAPT.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,36
@@ -87,6 +94,9 @@ Autauga,0002 20 HERITAGE BAPT.,"Public Service Commission, Place No. 2",,REP,Bre
 Autauga,0002 20 HERITAGE BAPT.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,150
 Autauga,0002 20 HERITAGE BAPT.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,306
 Autauga,0002 20 HERITAGE BAPT.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,91
+Autauga,0002 20 HERITAGE BAPT.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,119
+Autauga,0002 20 HERITAGE BAPT.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,79
+Autauga,0002 20 HERITAGE BAPT.,"Public Service Commissioner, Place 1",,DEM,John Northrop,40
 Autauga,0002 20 HERITAGE BAPT.,Secretary of State,,REP,Caroleene Dobson,477
 Autauga,0002 20 HERITAGE BAPT.,Secretary of State,,REP,Christopher Christian Horn,125
 Autauga,0002 20 HERITAGE BAPT.,Secretary of State,,REP,Glenda S. Jackson,69
@@ -108,6 +118,13 @@ Autauga,0002 20 HERITAGE BAPT.,U.S. Senate,,REP,Steve Marshall,188
 Autauga,0003 30 VIDA COMMU CTR,Attorney General,,REP,Jay Mitchell,50
 Autauga,0003 30 VIDA COMMU CTR,Attorney General,,REP,Katherine Robertson,83
 Autauga,0003 30 VIDA COMMU CTR,Attorney General,,REP,Pamela L. Casey,37
+Autauga,0003 30 VIDA COMMU CTR,Autauga County Sheriff,,REP,Kevin McNatt,19
+Autauga,0003 30 VIDA COMMU CTR,Autauga County Sheriff,,REP,Mark B. Harrell,126
+Autauga,0003 30 VIDA COMMU CTR,Autauga County Sheriff,,REP,Nicholas Cognasi,4
+Autauga,0003 30 VIDA COMMU CTR,Autauga County Sheriff,,REP,Ty Thompson,37
+Autauga,0003 30 VIDA COMMU CTR,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,15
+Autauga,0003 30 VIDA COMMU CTR,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,75
+Autauga,0003 30 VIDA COMMU CTR,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,88
 Autauga,0003 30 VIDA COMMU CTR,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,38
 Autauga,0003 30 VIDA COMMU CTR,Commissioner of Agriculture and Industries,,REP,Cory Hill,76
 Autauga,0003 30 VIDA COMMU CTR,Commissioner of Agriculture and Industries,,REP,Jack Williams,43
@@ -117,8 +134,12 @@ Autauga,0003 30 VIDA COMMU CTR,Governor,,DEM,Jamel J. Brown,3
 Autauga,0003 30 VIDA COMMU CTR,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Autauga,0003 30 VIDA COMMU CTR,Governor,,DEM,Will Boyd,3
 Autauga,0003 30 VIDA COMMU CTR,Governor,,DEM,Yolanda Rochelle Flowers,0
+Autauga,0003 30 VIDA COMMU CTR,Governor,,REP,"""Alabama"" Will Santivasci",1
 Autauga,0003 30 VIDA COMMU CTR,Governor,,REP,Ken McFeeters,12
 Autauga,0003 30 VIDA COMMU CTR,Governor,,REP,Thomas Tuberville,168
+Autauga,0003 30 VIDA COMMU CTR,Lieutenant Governor,,DEM,Darryl D. Perryman,3
+Autauga,0003 30 VIDA COMMU CTR,Lieutenant Governor,,DEM,Phillip Ensler,4
+Autauga,0003 30 VIDA COMMU CTR,Lieutenant Governor,,REP,George Childress,1
 Autauga,0003 30 VIDA COMMU CTR,Lieutenant Governor,,REP,John Wahl,52
 Autauga,0003 30 VIDA COMMU CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,11
 Autauga,0003 30 VIDA COMMU CTR,Lieutenant Governor,,REP,Pat Bishop,8
@@ -131,18 +152,25 @@ Autauga,0003 30 VIDA COMMU CTR,"Public Service Commission, Place No. 2",,REP,Bre
 Autauga,0003 30 VIDA COMMU CTR,"Public Service Commission, Place No. 2",,REP,Chris Beeker,34
 Autauga,0003 30 VIDA COMMU CTR,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,78
 Autauga,0003 30 VIDA COMMU CTR,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,16
+Autauga,0003 30 VIDA COMMU CTR,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,2
+Autauga,0003 30 VIDA COMMU CTR,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,5
+Autauga,0003 30 VIDA COMMU CTR,"Public Service Commissioner, Place 1",,DEM,John Northrop,0
 Autauga,0003 30 VIDA COMMU CTR,Secretary of State,,REP,Caroleene Dobson,117
 Autauga,0003 30 VIDA COMMU CTR,Secretary of State,,REP,Christopher Christian Horn,28
 Autauga,0003 30 VIDA COMMU CTR,Secretary of State,,REP,Glenda S. Jackson,14
 Autauga,0003 30 VIDA COMMU CTR,State Auditor,,REP,Andrew Sorrell,91
 Autauga,0003 30 VIDA COMMU CTR,State Auditor,,REP,Derek Chen,71
+Autauga,0003 30 VIDA COMMU CTR,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Carol Monfee Jahns,56
+Autauga,0003 30 VIDA COMMU CTR,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,93
 Autauga,0003 30 VIDA COMMU CTR,State Treasurer,,REP,Steve Lolley,30
 Autauga,0003 30 VIDA COMMU CTR,State Treasurer,,REP,Young Boozer,135
 Autauga,0003 30 VIDA COMMU CTR,U.S. House,6,REP,Case Dixon,32
 Autauga,0003 30 VIDA COMMU CTR,U.S. House,6,REP,Gary Palmer,131
 Autauga,0003 30 VIDA COMMU CTR,U.S. Senate,,REP,Barry Moore,79
+Autauga,0003 30 VIDA COMMU CTR,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
 Autauga,0003 30 VIDA COMMU CTR,U.S. Senate,,REP,Jared Hudson,36
 Autauga,0003 30 VIDA COMMU CTR,U.S. Senate,,REP,Morgan Murphy,2
+Autauga,0003 30 VIDA COMMU CTR,U.S. Senate,,REP,Rodney Walker,1
 Autauga,0003 30 VIDA COMMU CTR,U.S. Senate,,REP,Seth Burton,5
 Autauga,0003 30 VIDA COMMU CTR,U.S. Senate,,REP,Steve Marshall,51
 Autauga,0004 CENTRAL AL COMM COL,Attorney General,,REP,Jay Mitchell,209
@@ -152,6 +180,9 @@ Autauga,0004 CENTRAL AL COMM COL,Autauga County Sheriff,,REP,Kevin McNatt,44
 Autauga,0004 CENTRAL AL COMM COL,Autauga County Sheriff,,REP,Mark B. Harrell,204
 Autauga,0004 CENTRAL AL COMM COL,Autauga County Sheriff,,REP,Nicholas Cognasi,11
 Autauga,0004 CENTRAL AL COMM COL,Autauga County Sheriff,,REP,Ty Thompson,254
+Autauga,0004 CENTRAL AL COMM COL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,45
+Autauga,0004 CENTRAL AL COMM COL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,233
+Autauga,0004 CENTRAL AL COMM COL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,203
 Autauga,0004 CENTRAL AL COMM COL,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,189
 Autauga,0004 CENTRAL AL COMM COL,Commissioner of Agriculture and Industries,,REP,Cory Hill,159
 Autauga,0004 CENTRAL AL COMM COL,Commissioner of Agriculture and Industries,,REP,Jack Williams,109
@@ -164,6 +195,8 @@ Autauga,0004 CENTRAL AL COMM COL,Governor,,DEM,Yolanda Rochelle Flowers,15
 Autauga,0004 CENTRAL AL COMM COL,Governor,,REP,"""Alabama"" Will Santivasci",16
 Autauga,0004 CENTRAL AL COMM COL,Governor,,REP,Ken McFeeters,56
 Autauga,0004 CENTRAL AL COMM COL,Governor,,REP,Thomas Tuberville,439
+Autauga,0004 CENTRAL AL COMM COL,Lieutenant Governor,,DEM,Darryl D. Perryman,167
+Autauga,0004 CENTRAL AL COMM COL,Lieutenant Governor,,DEM,Phillip Ensler,179
 Autauga,0004 CENTRAL AL COMM COL,Lieutenant Governor,,REP,George Childress,9
 Autauga,0004 CENTRAL AL COMM COL,Lieutenant Governor,,REP,John Wahl,166
 Autauga,0004 CENTRAL AL COMM COL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,31
@@ -177,6 +210,9 @@ Autauga,0004 CENTRAL AL COMM COL,"Public Service Commission, Place No. 2",,REP,B
 Autauga,0004 CENTRAL AL COMM COL,"Public Service Commission, Place No. 2",,REP,Chris Beeker,74
 Autauga,0004 CENTRAL AL COMM COL,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,212
 Autauga,0004 CENTRAL AL COMM COL,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,66
+Autauga,0004 CENTRAL AL COMM COL,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,176
+Autauga,0004 CENTRAL AL COMM COL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,88
+Autauga,0004 CENTRAL AL COMM COL,"Public Service Commissioner, Place 1",,DEM,John Northrop,65
 Autauga,0004 CENTRAL AL COMM COL,Secretary of State,,REP,Caroleene Dobson,336
 Autauga,0004 CENTRAL AL COMM COL,Secretary of State,,REP,Christopher Christian Horn,84
 Autauga,0004 CENTRAL AL COMM COL,Secretary of State,,REP,Glenda S. Jackson,42
@@ -198,6 +234,13 @@ Autauga,0004 CENTRAL AL COMM COL,U.S. Senate,,REP,Steve Marshall,126
 Autauga,0005 50 WHITE CITY VFD,Attorney General,,REP,Jay Mitchell,77
 Autauga,0005 50 WHITE CITY VFD,Attorney General,,REP,Katherine Robertson,74
 Autauga,0005 50 WHITE CITY VFD,Attorney General,,REP,Pamela L. Casey,29
+Autauga,0005 50 WHITE CITY VFD,Autauga County Sheriff,,REP,Kevin McNatt,17
+Autauga,0005 50 WHITE CITY VFD,Autauga County Sheriff,,REP,Mark B. Harrell,125
+Autauga,0005 50 WHITE CITY VFD,Autauga County Sheriff,,REP,Nicholas Cognasi,4
+Autauga,0005 50 WHITE CITY VFD,Autauga County Sheriff,,REP,Ty Thompson,46
+Autauga,0005 50 WHITE CITY VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,29
+Autauga,0005 50 WHITE CITY VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,64
+Autauga,0005 50 WHITE CITY VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,89
 Autauga,0005 50 WHITE CITY VFD,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,57
 Autauga,0005 50 WHITE CITY VFD,Commissioner of Agriculture and Industries,,REP,Cory Hill,74
 Autauga,0005 50 WHITE CITY VFD,Commissioner of Agriculture and Industries,,REP,Jack Williams,47
@@ -210,6 +253,8 @@ Autauga,0005 50 WHITE CITY VFD,Governor,,DEM,Yolanda Rochelle Flowers,1
 Autauga,0005 50 WHITE CITY VFD,Governor,,REP,"""Alabama"" Will Santivasci",9
 Autauga,0005 50 WHITE CITY VFD,Governor,,REP,Ken McFeeters,12
 Autauga,0005 50 WHITE CITY VFD,Governor,,REP,Thomas Tuberville,167
+Autauga,0005 50 WHITE CITY VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,22
+Autauga,0005 50 WHITE CITY VFD,Lieutenant Governor,,DEM,Phillip Ensler,25
 Autauga,0005 50 WHITE CITY VFD,Lieutenant Governor,,REP,George Childress,2
 Autauga,0005 50 WHITE CITY VFD,Lieutenant Governor,,REP,John Wahl,60
 Autauga,0005 50 WHITE CITY VFD,Lieutenant Governor,,REP,Nicole Jones Wadsworth,8
@@ -231,6 +276,8 @@ Autauga,0005 50 WHITE CITY VFD,Secretary of State,,REP,Christopher Christian Hor
 Autauga,0005 50 WHITE CITY VFD,Secretary of State,,REP,Glenda S. Jackson,15
 Autauga,0005 50 WHITE CITY VFD,State Auditor,,REP,Andrew Sorrell,106
 Autauga,0005 50 WHITE CITY VFD,State Auditor,,REP,Derek Chen,70
+Autauga,0005 50 WHITE CITY VFD,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Carol Monfee Jahns,50
+Autauga,0005 50 WHITE CITY VFD,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,116
 Autauga,0005 50 WHITE CITY VFD,State Treasurer,,REP,Steve Lolley,45
 Autauga,0005 50 WHITE CITY VFD,State Treasurer,,REP,Young Boozer,132
 Autauga,0005 50 WHITE CITY VFD,U.S. House,6,REP,Case Dixon,49
@@ -264,6 +311,8 @@ Autauga,0006 60 MARBURY MIDDLE SCH,Governor,,DEM,Yolanda Rochelle Flowers,1
 Autauga,0006 60 MARBURY MIDDLE SCH,Governor,,REP,"""Alabama"" Will Santivasci",23
 Autauga,0006 60 MARBURY MIDDLE SCH,Governor,,REP,Ken McFeeters,29
 Autauga,0006 60 MARBURY MIDDLE SCH,Governor,,REP,Thomas Tuberville,265
+Autauga,0006 60 MARBURY MIDDLE SCH,Lieutenant Governor,,DEM,Darryl D. Perryman,19
+Autauga,0006 60 MARBURY MIDDLE SCH,Lieutenant Governor,,DEM,Phillip Ensler,17
 Autauga,0006 60 MARBURY MIDDLE SCH,Lieutenant Governor,,REP,George Childress,7
 Autauga,0006 60 MARBURY MIDDLE SCH,Lieutenant Governor,,REP,John Wahl,111
 Autauga,0006 60 MARBURY MIDDLE SCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,14
@@ -301,6 +350,13 @@ Autauga,0006 60 MARBURY MIDDLE SCH,U.S. Senate,,REP,Steve Marshall,75
 Autauga,0007 BOONE'S CHAPEL,Attorney General,,REP,Jay Mitchell,321
 Autauga,0007 BOONE'S CHAPEL,Attorney General,,REP,Katherine Robertson,206
 Autauga,0007 BOONE'S CHAPEL,Attorney General,,REP,Pamela L. Casey,146
+Autauga,0007 BOONE'S CHAPEL,Autauga County Sheriff,,REP,Kevin McNatt,118
+Autauga,0007 BOONE'S CHAPEL,Autauga County Sheriff,,REP,Mark B. Harrell,312
+Autauga,0007 BOONE'S CHAPEL,Autauga County Sheriff,,REP,Nicholas Cognasi,13
+Autauga,0007 BOONE'S CHAPEL,Autauga County Sheriff,,REP,Ty Thompson,265
+Autauga,0007 BOONE'S CHAPEL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,47
+Autauga,0007 BOONE'S CHAPEL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,289
+Autauga,0007 BOONE'S CHAPEL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,315
 Autauga,0007 BOONE'S CHAPEL,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,235
 Autauga,0007 BOONE'S CHAPEL,Commissioner of Agriculture and Industries,,REP,Cory Hill,224
 Autauga,0007 BOONE'S CHAPEL,Commissioner of Agriculture and Industries,,REP,Jack Williams,168
@@ -313,6 +369,8 @@ Autauga,0007 BOONE'S CHAPEL,Governor,,DEM,Yolanda Rochelle Flowers,8
 Autauga,0007 BOONE'S CHAPEL,Governor,,REP,"""Alabama"" Will Santivasci",33
 Autauga,0007 BOONE'S CHAPEL,Governor,,REP,Ken McFeeters,34
 Autauga,0007 BOONE'S CHAPEL,Governor,,REP,Thomas Tuberville,636
+Autauga,0007 BOONE'S CHAPEL,Lieutenant Governor,,DEM,Darryl D. Perryman,50
+Autauga,0007 BOONE'S CHAPEL,Lieutenant Governor,,DEM,Phillip Ensler,61
 Autauga,0007 BOONE'S CHAPEL,Lieutenant Governor,,REP,George Childress,7
 Autauga,0007 BOONE'S CHAPEL,Lieutenant Governor,,REP,John Wahl,215
 Autauga,0007 BOONE'S CHAPEL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,31
@@ -334,6 +392,8 @@ Autauga,0007 BOONE'S CHAPEL,Secretary of State,,REP,Christopher Christian Horn,1
 Autauga,0007 BOONE'S CHAPEL,Secretary of State,,REP,Glenda S. Jackson,54
 Autauga,0007 BOONE'S CHAPEL,State Auditor,,REP,Andrew Sorrell,454
 Autauga,0007 BOONE'S CHAPEL,State Auditor,,REP,Derek Chen,174
+Autauga,0007 BOONE'S CHAPEL,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Carol Monfee Jahns,207
+Autauga,0007 BOONE'S CHAPEL,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,378
 Autauga,0007 BOONE'S CHAPEL,State Treasurer,,REP,Steve Lolley,159
 Autauga,0007 BOONE'S CHAPEL,State Treasurer,,REP,Young Boozer,498
 Autauga,0007 BOONE'S CHAPEL,U.S. House,6,REP,Case Dixon,164
@@ -352,6 +412,9 @@ Autauga,0008 80 FRIENDSHIP BAPT.,Autauga County Sheriff,,REP,Kevin McNatt,20
 Autauga,0008 80 FRIENDSHIP BAPT.,Autauga County Sheriff,,REP,Mark B. Harrell,95
 Autauga,0008 80 FRIENDSHIP BAPT.,Autauga County Sheriff,,REP,Nicholas Cognasi,0
 Autauga,0008 80 FRIENDSHIP BAPT.,Autauga County Sheriff,,REP,Ty Thompson,25
+Autauga,0008 80 FRIENDSHIP BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,13
+Autauga,0008 80 FRIENDSHIP BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,38
+Autauga,0008 80 FRIENDSHIP BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,87
 Autauga,0008 80 FRIENDSHIP BAPT.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,38
 Autauga,0008 80 FRIENDSHIP BAPT.,Commissioner of Agriculture and Industries,,REP,Cory Hill,50
 Autauga,0008 80 FRIENDSHIP BAPT.,Commissioner of Agriculture and Industries,,REP,Jack Williams,39
@@ -364,6 +427,8 @@ Autauga,0008 80 FRIENDSHIP BAPT.,Governor,,DEM,Yolanda Rochelle Flowers,2
 Autauga,0008 80 FRIENDSHIP BAPT.,Governor,,REP,"""Alabama"" Will Santivasci",4
 Autauga,0008 80 FRIENDSHIP BAPT.,Governor,,REP,Ken McFeeters,6
 Autauga,0008 80 FRIENDSHIP BAPT.,Governor,,REP,Thomas Tuberville,129
+Autauga,0008 80 FRIENDSHIP BAPT.,Lieutenant Governor,,DEM,Darryl D. Perryman,47
+Autauga,0008 80 FRIENDSHIP BAPT.,Lieutenant Governor,,DEM,Phillip Ensler,69
 Autauga,0008 80 FRIENDSHIP BAPT.,Lieutenant Governor,,REP,George Childress,4
 Autauga,0008 80 FRIENDSHIP BAPT.,Lieutenant Governor,,REP,John Wahl,30
 Autauga,0008 80 FRIENDSHIP BAPT.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,7
@@ -401,6 +466,13 @@ Autauga,0008 80 FRIENDSHIP BAPT.,U.S. Senate,,REP,Steve Marshall,25
 Autauga,0009 90 BOOTH VFD,Attorney General,,REP,Jay Mitchell,121
 Autauga,0009 90 BOOTH VFD,Attorney General,,REP,Katherine Robertson,75
 Autauga,0009 90 BOOTH VFD,Attorney General,,REP,Pamela L. Casey,49
+Autauga,0009 90 BOOTH VFD,Autauga County Sheriff,,REP,Kevin McNatt,45
+Autauga,0009 90 BOOTH VFD,Autauga County Sheriff,,REP,Mark B. Harrell,122
+Autauga,0009 90 BOOTH VFD,Autauga County Sheriff,,REP,Nicholas Cognasi,4
+Autauga,0009 90 BOOTH VFD,Autauga County Sheriff,,REP,Ty Thompson,83
+Autauga,0009 90 BOOTH VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,8
+Autauga,0009 90 BOOTH VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,129
+Autauga,0009 90 BOOTH VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,111
 Autauga,0009 90 BOOTH VFD,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,84
 Autauga,0009 90 BOOTH VFD,Commissioner of Agriculture and Industries,,REP,Cory Hill,74
 Autauga,0009 90 BOOTH VFD,Commissioner of Agriculture and Industries,,REP,Jack Williams,72
@@ -413,6 +485,8 @@ Autauga,0009 90 BOOTH VFD,Governor,,DEM,Yolanda Rochelle Flowers,1
 Autauga,0009 90 BOOTH VFD,Governor,,REP,"""Alabama"" Will Santivasci",7
 Autauga,0009 90 BOOTH VFD,Governor,,REP,Ken McFeeters,11
 Autauga,0009 90 BOOTH VFD,Governor,,REP,Thomas Tuberville,236
+Autauga,0009 90 BOOTH VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,26
+Autauga,0009 90 BOOTH VFD,Lieutenant Governor,,DEM,Phillip Ensler,56
 Autauga,0009 90 BOOTH VFD,Lieutenant Governor,,REP,George Childress,5
 Autauga,0009 90 BOOTH VFD,Lieutenant Governor,,REP,John Wahl,80
 Autauga,0009 90 BOOTH VFD,Lieutenant Governor,,REP,Nicole Jones Wadsworth,16
@@ -434,6 +508,8 @@ Autauga,0009 90 BOOTH VFD,Secretary of State,,REP,Christopher Christian Horn,54
 Autauga,0009 90 BOOTH VFD,Secretary of State,,REP,Glenda S. Jackson,21
 Autauga,0009 90 BOOTH VFD,State Auditor,,REP,Andrew Sorrell,153
 Autauga,0009 90 BOOTH VFD,State Auditor,,REP,Derek Chen,84
+Autauga,0009 90 BOOTH VFD,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Carol Monfee Jahns,80
+Autauga,0009 90 BOOTH VFD,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,144
 Autauga,0009 90 BOOTH VFD,State Treasurer,,REP,Steve Lolley,63
 Autauga,0009 90 BOOTH VFD,State Treasurer,,REP,Young Boozer,181
 Autauga,0009 90 BOOTH VFD,U.S. House,6,REP,Case Dixon,61
@@ -448,6 +524,13 @@ Autauga,0009 90 BOOTH VFD,U.S. Senate,,REP,Steve Marshall,48
 Autauga,0010 TRINITY PRATTVILLE CHURCH,Attorney General,,REP,Jay Mitchell,296
 Autauga,0010 TRINITY PRATTVILLE CHURCH,Attorney General,,REP,Katherine Robertson,233
 Autauga,0010 TRINITY PRATTVILLE CHURCH,Attorney General,,REP,Pamela L. Casey,180
+Autauga,0010 TRINITY PRATTVILLE CHURCH,Autauga County Sheriff,,REP,Kevin McNatt,55
+Autauga,0010 TRINITY PRATTVILLE CHURCH,Autauga County Sheriff,,REP,Mark B. Harrell,338
+Autauga,0010 TRINITY PRATTVILLE CHURCH,Autauga County Sheriff,,REP,Nicholas Cognasi,32
+Autauga,0010 TRINITY PRATTVILLE CHURCH,Autauga County Sheriff,,REP,Ty Thompson,305
+Autauga,0010 TRINITY PRATTVILLE CHURCH,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,65
+Autauga,0010 TRINITY PRATTVILLE CHURCH,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,347
+Autauga,0010 TRINITY PRATTVILLE CHURCH,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,266
 Autauga,0010 TRINITY PRATTVILLE CHURCH,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,222
 Autauga,0010 TRINITY PRATTVILLE CHURCH,Commissioner of Agriculture and Industries,,REP,Cory Hill,265
 Autauga,0010 TRINITY PRATTVILLE CHURCH,Commissioner of Agriculture and Industries,,REP,Jack Williams,160
@@ -460,6 +543,8 @@ Autauga,0010 TRINITY PRATTVILLE CHURCH,Governor,,DEM,Yolanda Rochelle Flowers,10
 Autauga,0010 TRINITY PRATTVILLE CHURCH,Governor,,REP,"""Alabama"" Will Santivasci",34
 Autauga,0010 TRINITY PRATTVILLE CHURCH,Governor,,REP,Ken McFeeters,54
 Autauga,0010 TRINITY PRATTVILLE CHURCH,Governor,,REP,Thomas Tuberville,648
+Autauga,0010 TRINITY PRATTVILLE CHURCH,Lieutenant Governor,,DEM,Darryl D. Perryman,61
+Autauga,0010 TRINITY PRATTVILLE CHURCH,Lieutenant Governor,,DEM,Phillip Ensler,83
 Autauga,0010 TRINITY PRATTVILLE CHURCH,Lieutenant Governor,,REP,George Childress,18
 Autauga,0010 TRINITY PRATTVILLE CHURCH,Lieutenant Governor,,REP,John Wahl,226
 Autauga,0010 TRINITY PRATTVILLE CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,42
@@ -481,6 +566,8 @@ Autauga,0010 TRINITY PRATTVILLE CHURCH,Secretary of State,,REP,Christopher Chris
 Autauga,0010 TRINITY PRATTVILLE CHURCH,Secretary of State,,REP,Glenda S. Jackson,53
 Autauga,0010 TRINITY PRATTVILLE CHURCH,State Auditor,,REP,Andrew Sorrell,405
 Autauga,0010 TRINITY PRATTVILLE CHURCH,State Auditor,,REP,Derek Chen,270
+Autauga,0010 TRINITY PRATTVILLE CHURCH,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Carol Monfee Jahns,243
+Autauga,0010 TRINITY PRATTVILLE CHURCH,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,362
 Autauga,0010 TRINITY PRATTVILLE CHURCH,State Treasurer,,REP,Steve Lolley,154
 Autauga,0010 TRINITY PRATTVILLE CHURCH,State Treasurer,,REP,Young Boozer,549
 Autauga,0010 TRINITY PRATTVILLE CHURCH,U.S. House,6,REP,Case Dixon,124
@@ -495,6 +582,13 @@ Autauga,0010 TRINITY PRATTVILLE CHURCH,U.S. Senate,,REP,Steve Marshall,204
 Autauga,0011 110 CENTRAL AL ELECTRIC,Attorney General,,REP,Jay Mitchell,20
 Autauga,0011 110 CENTRAL AL ELECTRIC,Attorney General,,REP,Katherine Robertson,30
 Autauga,0011 110 CENTRAL AL ELECTRIC,Attorney General,,REP,Pamela L. Casey,16
+Autauga,0011 110 CENTRAL AL ELECTRIC,Autauga County Sheriff,,REP,Kevin McNatt,8
+Autauga,0011 110 CENTRAL AL ELECTRIC,Autauga County Sheriff,,REP,Mark B. Harrell,38
+Autauga,0011 110 CENTRAL AL ELECTRIC,Autauga County Sheriff,,REP,Nicholas Cognasi,1
+Autauga,0011 110 CENTRAL AL ELECTRIC,Autauga County Sheriff,,REP,Ty Thompson,19
+Autauga,0011 110 CENTRAL AL ELECTRIC,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,5
+Autauga,0011 110 CENTRAL AL ELECTRIC,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,27
+Autauga,0011 110 CENTRAL AL ELECTRIC,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,30
 Autauga,0011 110 CENTRAL AL ELECTRIC,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,20
 Autauga,0011 110 CENTRAL AL ELECTRIC,Commissioner of Agriculture and Industries,,REP,Cory Hill,35
 Autauga,0011 110 CENTRAL AL ELECTRIC,Commissioner of Agriculture and Industries,,REP,Jack Williams,11
@@ -505,8 +599,10 @@ Autauga,0011 110 CENTRAL AL ELECTRIC,Governor,,DEM,"Nathan ""Nate"" Mathis",1
 Autauga,0011 110 CENTRAL AL ELECTRIC,Governor,,DEM,Will Boyd,12
 Autauga,0011 110 CENTRAL AL ELECTRIC,Governor,,DEM,Yolanda Rochelle Flowers,5
 Autauga,0011 110 CENTRAL AL ELECTRIC,Governor,,REP,"""Alabama"" Will Santivasci",1
-Autauga,0011 110 CENTRAL AL ELECTRIC,Governor,,REP,Ken McFeeters,1
+Autauga,0011 110 CENTRAL AL ELECTRIC,Governor,,REP,Ken McFeeters,3
 Autauga,0011 110 CENTRAL AL ELECTRIC,Governor,,REP,Thomas Tuberville,65
+Autauga,0011 110 CENTRAL AL ELECTRIC,Lieutenant Governor,,DEM,Darryl D. Perryman,38
+Autauga,0011 110 CENTRAL AL ELECTRIC,Lieutenant Governor,,DEM,Phillip Ensler,46
 Autauga,0011 110 CENTRAL AL ELECTRIC,Lieutenant Governor,,REP,George Childress,0
 Autauga,0011 110 CENTRAL AL ELECTRIC,Lieutenant Governor,,REP,John Wahl,8
 Autauga,0011 110 CENTRAL AL ELECTRIC,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
@@ -528,6 +624,8 @@ Autauga,0011 110 CENTRAL AL ELECTRIC,Secretary of State,,REP,Christopher Christi
 Autauga,0011 110 CENTRAL AL ELECTRIC,Secretary of State,,REP,Glenda S. Jackson,7
 Autauga,0011 110 CENTRAL AL ELECTRIC,State Auditor,,REP,Andrew Sorrell,38
 Autauga,0011 110 CENTRAL AL ELECTRIC,State Auditor,,REP,Derek Chen,28
+Autauga,0011 110 CENTRAL AL ELECTRIC,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Carol Monfee Jahns,24
+Autauga,0011 110 CENTRAL AL ELECTRIC,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,35
 Autauga,0011 110 CENTRAL AL ELECTRIC,State Treasurer,,REP,Steve Lolley,17
 Autauga,0011 110 CENTRAL AL ELECTRIC,State Treasurer,,REP,Young Boozer,50
 Autauga,0011 110 CENTRAL AL ELECTRIC,U.S. House,6,REP,Case Dixon,4
@@ -607,6 +705,9 @@ Autauga,0013 150 PRATTMONT BAPT.,Autauga County Sheriff,,REP,Ty Thompson,87
 Autauga,0013 150 PRATTMONT BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,12
 Autauga,0013 150 PRATTMONT BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,114
 Autauga,0013 150 PRATTMONT BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,94
+Autauga,0013 150 PRATTMONT BAPT.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,93
+Autauga,0013 150 PRATTMONT BAPT.,Commissioner of Agriculture and Industries,,REP,Cory Hill,75
+Autauga,0013 150 PRATTMONT BAPT.,Commissioner of Agriculture and Industries,,REP,Jack Williams,46
 Autauga,0013 150 PRATTMONT BAPT.,Governor,,DEM,"Chad ""Chig"" Martin",2
 Autauga,0013 150 PRATTMONT BAPT.,Governor,,DEM,Doug Jones,84
 Autauga,0013 150 PRATTMONT BAPT.,Governor,,DEM,Jamel J. Brown,12
@@ -625,11 +726,24 @@ Autauga,0013 150 PRATTMONT BAPT.,Lieutenant Governor,,REP,Pat Bishop,4
 Autauga,0013 150 PRATTMONT BAPT.,Lieutenant Governor,,REP,Rick Pate,32
 Autauga,0013 150 PRATTMONT BAPT.,Lieutenant Governor,,REP,Stewart Hill Tankersley,9
 Autauga,0013 150 PRATTMONT BAPT.,Lieutenant Governor,,REP,Wes Allen,80
+Autauga,0013 150 PRATTMONT BAPT.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,45
+Autauga,0013 150 PRATTMONT BAPT.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,161
+Autauga,0013 150 PRATTMONT BAPT.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,41
+Autauga,0013 150 PRATTMONT BAPT.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,42
+Autauga,0013 150 PRATTMONT BAPT.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,109
+Autauga,0013 150 PRATTMONT BAPT.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,23
 Autauga,0013 150 PRATTMONT BAPT.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,65
 Autauga,0013 150 PRATTMONT BAPT.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,30
 Autauga,0013 150 PRATTMONT BAPT.,"Public Service Commissioner, Place 1",,DEM,John Northrop,22
+Autauga,0013 150 PRATTMONT BAPT.,Secretary of State,,REP,Caroleene Dobson,152
+Autauga,0013 150 PRATTMONT BAPT.,Secretary of State,,REP,Christopher Christian Horn,34
+Autauga,0013 150 PRATTMONT BAPT.,Secretary of State,,REP,Glenda S. Jackson,25
+Autauga,0013 150 PRATTMONT BAPT.,State Auditor,,REP,Andrew Sorrell,140
+Autauga,0013 150 PRATTMONT BAPT.,State Auditor,,REP,Derek Chen,81
 Autauga,0013 150 PRATTMONT BAPT.,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Carol Monfee Jahns,80
 Autauga,0013 150 PRATTMONT BAPT.,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,122
+Autauga,0013 150 PRATTMONT BAPT.,State Treasurer,,REP,Steve Lolley,53
+Autauga,0013 150 PRATTMONT BAPT.,State Treasurer,,REP,Young Boozer,170
 Autauga,0013 150 PRATTMONT BAPT.,U.S. House,6,REP,Case Dixon,49
 Autauga,0013 150 PRATTMONT BAPT.,U.S. House,6,REP,Gary Palmer,162
 Autauga,0013 150 PRATTMONT BAPT.,U.S. Senate,,REP,Barry Moore,109
@@ -644,9 +758,11 @@ Autauga,0014 160 DOSTER COMM. CTR.,Attorney General,,REP,Katherine Robertson,534
 Autauga,0014 160 DOSTER COMM. CTR.,Attorney General,,REP,Pamela L. Casey,337
 Autauga,0014 160 DOSTER COMM. CTR.,Autauga County Sheriff,,REP,Kevin McNatt,152
 Autauga,0014 160 DOSTER COMM. CTR.,Autauga County Sheriff,,REP,Mark B. Harrell,696
+Autauga,0014 160 DOSTER COMM. CTR.,Autauga County Sheriff,,REP,Nicholas Cognasi,37
 Autauga,0014 160 DOSTER COMM. CTR.,Autauga County Sheriff,,REP,Ty Thompson,666
 Autauga,0014 160 DOSTER COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,85
 Autauga,0014 160 DOSTER COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,795
+Autauga,0014 160 DOSTER COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,582
 Autauga,0014 160 DOSTER COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,492
 Autauga,0014 160 DOSTER COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Cory Hill,514
 Autauga,0014 160 DOSTER COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Jack Williams,347
@@ -682,6 +798,7 @@ Autauga,0014 160 DOSTER COMM. CTR.,Secretary of State,,REP,Christopher Christian
 Autauga,0014 160 DOSTER COMM. CTR.,Secretary of State,,REP,Glenda S. Jackson,113
 Autauga,0014 160 DOSTER COMM. CTR.,State Auditor,,REP,Andrew Sorrell,890
 Autauga,0014 160 DOSTER COMM. CTR.,State Auditor,,REP,Derek Chen,501
+Autauga,0014 160 DOSTER COMM. CTR.,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Carol Monfee Jahns,442
 Autauga,0014 160 DOSTER COMM. CTR.,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,832
 Autauga,0014 160 DOSTER COMM. CTR.,State Treasurer,,REP,Steve Lolley,270
 Autauga,0014 160 DOSTER COMM. CTR.,State Treasurer,,REP,Young Boozer,1175
@@ -697,6 +814,13 @@ Autauga,0014 160 DOSTER COMM. CTR.,U.S. Senate,,REP,Steve Marshall,370
 Autauga,0015 170 CAMELLIA BAPT.,Attorney General,,REP,Jay Mitchell,156
 Autauga,0015 170 CAMELLIA BAPT.,Attorney General,,REP,Katherine Robertson,113
 Autauga,0015 170 CAMELLIA BAPT.,Attorney General,,REP,Pamela L. Casey,80
+Autauga,0015 170 CAMELLIA BAPT.,Autauga County Sheriff,,REP,Kevin McNatt,33
+Autauga,0015 170 CAMELLIA BAPT.,Autauga County Sheriff,,REP,Mark B. Harrell,163
+Autauga,0015 170 CAMELLIA BAPT.,Autauga County Sheriff,,REP,Nicholas Cognasi,18
+Autauga,0015 170 CAMELLIA BAPT.,Autauga County Sheriff,,REP,Ty Thompson,154
+Autauga,0015 170 CAMELLIA BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,31
+Autauga,0015 170 CAMELLIA BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,186
+Autauga,0015 170 CAMELLIA BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,130
 Autauga,0015 170 CAMELLIA BAPT.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,136
 Autauga,0015 170 CAMELLIA BAPT.,Commissioner of Agriculture and Industries,,REP,Cory Hill,107
 Autauga,0015 170 CAMELLIA BAPT.,Commissioner of Agriculture and Industries,,REP,Jack Williams,85
@@ -748,6 +872,13 @@ Autauga,0015 170 CAMELLIA BAPT.,U.S. Senate,,REP,Steve Marshall,86
 Autauga,0016 180 OLD KINGSTON VFD,Attorney General,,REP,Jay Mitchell,71
 Autauga,0016 180 OLD KINGSTON VFD,Attorney General,,REP,Katherine Robertson,62
 Autauga,0016 180 OLD KINGSTON VFD,Attorney General,,REP,Pamela L. Casey,28
+Autauga,0016 180 OLD KINGSTON VFD,Autauga County Sheriff,,REP,Kevin McNatt,30
+Autauga,0016 180 OLD KINGSTON VFD,Autauga County Sheriff,,REP,Mark B. Harrell,70
+Autauga,0016 180 OLD KINGSTON VFD,Autauga County Sheriff,,REP,Nicholas Cognasi,2
+Autauga,0016 180 OLD KINGSTON VFD,Autauga County Sheriff,,REP,Ty Thompson,69
+Autauga,0016 180 OLD KINGSTON VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,19
+Autauga,0016 180 OLD KINGSTON VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,61
+Autauga,0016 180 OLD KINGSTON VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,86
 Autauga,0016 180 OLD KINGSTON VFD,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,55
 Autauga,0016 180 OLD KINGSTON VFD,Commissioner of Agriculture and Industries,,REP,Cory Hill,34
 Autauga,0016 180 OLD KINGSTON VFD,Commissioner of Agriculture and Industries,,REP,Jack Williams,62
@@ -762,6 +893,13 @@ Autauga,0016 180 OLD KINGSTON VFD,Governor,,REP,Ken McFeeters,12
 Autauga,0016 180 OLD KINGSTON VFD,Governor,,REP,Thomas Tuberville,144
 Autauga,0016 180 OLD KINGSTON VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,52
 Autauga,0016 180 OLD KINGSTON VFD,Lieutenant Governor,,DEM,Phillip Ensler,74
+Autauga,0016 180 OLD KINGSTON VFD,Lieutenant Governor,,REP,George Childress,7
+Autauga,0016 180 OLD KINGSTON VFD,Lieutenant Governor,,REP,John Wahl,52
+Autauga,0016 180 OLD KINGSTON VFD,Lieutenant Governor,,REP,Nicole Jones Wadsworth,9
+Autauga,0016 180 OLD KINGSTON VFD,Lieutenant Governor,,REP,Pat Bishop,1
+Autauga,0016 180 OLD KINGSTON VFD,Lieutenant Governor,,REP,Rick Pate,26
+Autauga,0016 180 OLD KINGSTON VFD,Lieutenant Governor,,REP,Stewart Hill Tankersley,3
+Autauga,0016 180 OLD KINGSTON VFD,Lieutenant Governor,,REP,Wes Allen,63
 Autauga,0016 180 OLD KINGSTON VFD,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,43
 Autauga,0016 180 OLD KINGSTON VFD,"Public Service Commission, Place No. 1",,REP,Matt Gentry,109
 Autauga,0016 180 OLD KINGSTON VFD,"Public Service Commission, Place No. 2",,REP,Brent Woodall,34
@@ -776,6 +914,8 @@ Autauga,0016 180 OLD KINGSTON VFD,Secretary of State,,REP,Christopher Christian 
 Autauga,0016 180 OLD KINGSTON VFD,Secretary of State,,REP,Glenda S. Jackson,15
 Autauga,0016 180 OLD KINGSTON VFD,State Auditor,,REP,Andrew Sorrell,99
 Autauga,0016 180 OLD KINGSTON VFD,State Auditor,,REP,Derek Chen,56
+Autauga,0016 180 OLD KINGSTON VFD,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Carol Monfee Jahns,66
+Autauga,0016 180 OLD KINGSTON VFD,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,80
 Autauga,0016 180 OLD KINGSTON VFD,State Treasurer,,REP,Steve Lolley,51
 Autauga,0016 180 OLD KINGSTON VFD,State Treasurer,,REP,Young Boozer,109
 Autauga,0016 180 OLD KINGSTON VFD,U.S. House,6,REP,Case Dixon,44
@@ -797,6 +937,9 @@ Autauga,0017 220 UPPER KINGSTON CC,Autauga County Sheriff,,REP,Ty Thompson,148
 Autauga,0017 220 UPPER KINGSTON CC,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,20
 Autauga,0017 220 UPPER KINGSTON CC,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,177
 Autauga,0017 220 UPPER KINGSTON CC,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,129
+Autauga,0017 220 UPPER KINGSTON CC,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,105
+Autauga,0017 220 UPPER KINGSTON CC,Commissioner of Agriculture and Industries,,REP,Cory Hill,98
+Autauga,0017 220 UPPER KINGSTON CC,Commissioner of Agriculture and Industries,,REP,Jack Williams,97
 Autauga,0017 220 UPPER KINGSTON CC,Governor,,DEM,"Chad ""Chig"" Martin",2
 Autauga,0017 220 UPPER KINGSTON CC,Governor,,DEM,Doug Jones,97
 Autauga,0017 220 UPPER KINGSTON CC,Governor,,DEM,Jamel J. Brown,3
@@ -815,11 +958,24 @@ Autauga,0017 220 UPPER KINGSTON CC,Lieutenant Governor,,REP,Pat Bishop,7
 Autauga,0017 220 UPPER KINGSTON CC,Lieutenant Governor,,REP,Rick Pate,55
 Autauga,0017 220 UPPER KINGSTON CC,Lieutenant Governor,,REP,Stewart Hill Tankersley,16
 Autauga,0017 220 UPPER KINGSTON CC,Lieutenant Governor,,REP,Wes Allen,126
+Autauga,0017 220 UPPER KINGSTON CC,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,87
+Autauga,0017 220 UPPER KINGSTON CC,"Public Service Commission, Place No. 1",,REP,Matt Gentry,214
+Autauga,0017 220 UPPER KINGSTON CC,"Public Service Commission, Place No. 2",,REP,Brent Woodall,46
+Autauga,0017 220 UPPER KINGSTON CC,"Public Service Commission, Place No. 2",,REP,Chris Beeker,67
+Autauga,0017 220 UPPER KINGSTON CC,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,136
+Autauga,0017 220 UPPER KINGSTON CC,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,47
 Autauga,0017 220 UPPER KINGSTON CC,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,77
 Autauga,0017 220 UPPER KINGSTON CC,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,23
 Autauga,0017 220 UPPER KINGSTON CC,"Public Service Commissioner, Place 1",,DEM,John Northrop,14
+Autauga,0017 220 UPPER KINGSTON CC,Secretary of State,,REP,Caroleene Dobson,219
+Autauga,0017 220 UPPER KINGSTON CC,Secretary of State,,REP,Christopher Christian Horn,70
+Autauga,0017 220 UPPER KINGSTON CC,Secretary of State,,REP,Glenda S. Jackson,24
+Autauga,0017 220 UPPER KINGSTON CC,State Auditor,,REP,Andrew Sorrell,222
+Autauga,0017 220 UPPER KINGSTON CC,State Auditor,,REP,Derek Chen,94
 Autauga,0017 220 UPPER KINGSTON CC,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Carol Monfee Jahns,103
 Autauga,0017 220 UPPER KINGSTON CC,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,178
+Autauga,0017 220 UPPER KINGSTON CC,State Treasurer,,REP,Steve Lolley,63
+Autauga,0017 220 UPPER KINGSTON CC,State Treasurer,,REP,Young Boozer,265
 Autauga,0017 220 UPPER KINGSTON CC,U.S. House,6,REP,Case Dixon,66
 Autauga,0017 220 UPPER KINGSTON CC,U.S. House,6,REP,Gary Palmer,243
 Autauga,0017 220 UPPER KINGSTON CC,U.S. Senate,,REP,Barry Moore,171
@@ -832,6 +988,13 @@ Autauga,0017 220 UPPER KINGSTON CC,U.S. Senate,,REP,Steve Marshall,85
 Autauga,0018 230 COUNTY LINE BAPT.,Attorney General,,REP,Jay Mitchell,170
 Autauga,0018 230 COUNTY LINE BAPT.,Attorney General,,REP,Katherine Robertson,134
 Autauga,0018 230 COUNTY LINE BAPT.,Attorney General,,REP,Pamela L. Casey,96
+Autauga,0018 230 COUNTY LINE BAPT.,Autauga County Sheriff,,REP,Kevin McNatt,48
+Autauga,0018 230 COUNTY LINE BAPT.,Autauga County Sheriff,,REP,Mark B. Harrell,188
+Autauga,0018 230 COUNTY LINE BAPT.,Autauga County Sheriff,,REP,Nicholas Cognasi,7
+Autauga,0018 230 COUNTY LINE BAPT.,Autauga County Sheriff,,REP,Ty Thompson,161
+Autauga,0018 230 COUNTY LINE BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,26
+Autauga,0018 230 COUNTY LINE BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,181
+Autauga,0018 230 COUNTY LINE BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,177
 Autauga,0018 230 COUNTY LINE BAPT.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,140
 Autauga,0018 230 COUNTY LINE BAPT.,Commissioner of Agriculture and Industries,,REP,Cory Hill,141
 Autauga,0018 230 COUNTY LINE BAPT.,Commissioner of Agriculture and Industries,,REP,Jack Williams,96
@@ -867,6 +1030,8 @@ Autauga,0018 230 COUNTY LINE BAPT.,Secretary of State,,REP,Christopher Christian
 Autauga,0018 230 COUNTY LINE BAPT.,Secretary of State,,REP,Glenda S. Jackson,31
 Autauga,0018 230 COUNTY LINE BAPT.,State Auditor,,REP,Andrew Sorrell,275
 Autauga,0018 230 COUNTY LINE BAPT.,State Auditor,,REP,Derek Chen,113
+Autauga,0018 230 COUNTY LINE BAPT.,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Carol Monfee Jahns,135
+Autauga,0018 230 COUNTY LINE BAPT.,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,221
 Autauga,0018 230 COUNTY LINE BAPT.,State Treasurer,,REP,Steve Lolley,102
 Autauga,0018 230 COUNTY LINE BAPT.,State Treasurer,,REP,Young Boozer,292
 Autauga,0018 230 COUNTY LINE BAPT.,U.S. House,6,REP,Case Dixon,99
@@ -881,6 +1046,13 @@ Autauga,0018 230 COUNTY LINE BAPT.,U.S. Senate,,REP,Steve Marshall,99
 Autauga,0019 240 GLYNWOOD BAPT.,Attorney General,,REP,Jay Mitchell,173
 Autauga,0019 240 GLYNWOOD BAPT.,Attorney General,,REP,Katherine Robertson,181
 Autauga,0019 240 GLYNWOOD BAPT.,Attorney General,,REP,Pamela L. Casey,121
+Autauga,0019 240 GLYNWOOD BAPT.,Autauga County Sheriff,,REP,Kevin McNatt,57
+Autauga,0019 240 GLYNWOOD BAPT.,Autauga County Sheriff,,REP,Mark B. Harrell,227
+Autauga,0019 240 GLYNWOOD BAPT.,Autauga County Sheriff,,REP,Nicholas Cognasi,12
+Autauga,0019 240 GLYNWOOD BAPT.,Autauga County Sheriff,,REP,Ty Thompson,201
+Autauga,0019 240 GLYNWOOD BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,31
+Autauga,0019 240 GLYNWOOD BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,258
+Autauga,0019 240 GLYNWOOD BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,162
 Autauga,0019 240 GLYNWOOD BAPT.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,173
 Autauga,0019 240 GLYNWOOD BAPT.,Commissioner of Agriculture and Industries,,REP,Cory Hill,152
 Autauga,0019 240 GLYNWOOD BAPT.,Commissioner of Agriculture and Industries,,REP,Jack Williams,113
@@ -916,11 +1088,14 @@ Autauga,0019 240 GLYNWOOD BAPT.,Secretary of State,,REP,Christopher Christian Ho
 Autauga,0019 240 GLYNWOOD BAPT.,Secretary of State,,REP,Glenda S. Jackson,39
 Autauga,0019 240 GLYNWOOD BAPT.,State Auditor,,REP,Andrew Sorrell,286
 Autauga,0019 240 GLYNWOOD BAPT.,State Auditor,,REP,Derek Chen,167
+Autauga,0019 240 GLYNWOOD BAPT.,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Carol Monfee Jahns,146
+Autauga,0019 240 GLYNWOOD BAPT.,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,260
 Autauga,0019 240 GLYNWOOD BAPT.,State Treasurer,,REP,Steve Lolley,90
 Autauga,0019 240 GLYNWOOD BAPT.,State Treasurer,,REP,Young Boozer,381
 Autauga,0019 240 GLYNWOOD BAPT.,U.S. House,6,REP,Case Dixon,101
 Autauga,0019 240 GLYNWOOD BAPT.,U.S. House,6,REP,Gary Palmer,345
 Autauga,0019 240 GLYNWOOD BAPT.,U.S. Senate,,REP,Barry Moore,219
+Autauga,0019 240 GLYNWOOD BAPT.,U.S. Senate,,REP,Dale Shelton Deas Jr.,4
 Autauga,0019 240 GLYNWOOD BAPT.,U.S. Senate,,REP,Jared Hudson,111
 Autauga,0019 240 GLYNWOOD BAPT.,U.S. Senate,,REP,Morgan Murphy,7
 Autauga,0019 240 GLYNWOOD BAPT.,U.S. Senate,,REP,Rodney Walker,9
@@ -929,6 +1104,13 @@ Autauga,0019 240 GLYNWOOD BAPT.,U.S. Senate,,REP,Steve Marshall,132
 Autauga,0020 ABSENTEE,Attorney General,,REP,Jay Mitchell,63
 Autauga,0020 ABSENTEE,Attorney General,,REP,Katherine Robertson,99
 Autauga,0020 ABSENTEE,Attorney General,,REP,Pamela L. Casey,40
+Autauga,0020 ABSENTEE,Autauga County Sheriff,,REP,Kevin McNatt,20
+Autauga,0020 ABSENTEE,Autauga County Sheriff,,REP,Mark B. Harrell,117
+Autauga,0020 ABSENTEE,Autauga County Sheriff,,REP,Nicholas Cognasi,6
+Autauga,0020 ABSENTEE,Autauga County Sheriff,,REP,Ty Thompson,69
+Autauga,0020 ABSENTEE,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,19
+Autauga,0020 ABSENTEE,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,85
+Autauga,0020 ABSENTEE,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,92
 Autauga,0020 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,44
 Autauga,0020 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Cory Hill,68
 Autauga,0020 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Jack Williams,63
@@ -959,11 +1141,13 @@ Autauga,0020 ABSENTEE,"Public Service Commission, Place No. 2",,REP,Priscilla An
 Autauga,0020 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,16
 Autauga,0020 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,13
 Autauga,0020 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,John Northrop,16
-Autauga,0020 ABSENTEE,Secretary of State,,REP,Caroleene Dobson,125
+Autauga,0020 ABSENTEE,Secretary of State,,REP,Caroleene Dobson,126
 Autauga,0020 ABSENTEE,Secretary of State,,REP,Christopher Christian Horn,39
 Autauga,0020 ABSENTEE,Secretary of State,,REP,Glenda S. Jackson,20
 Autauga,0020 ABSENTEE,State Auditor,,REP,Andrew Sorrell,130
 Autauga,0020 ABSENTEE,State Auditor,,REP,Derek Chen,60
+Autauga,0020 ABSENTEE,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Carol Monfee Jahns,65
+Autauga,0020 ABSENTEE,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,104
 Autauga,0020 ABSENTEE,State Treasurer,,REP,Steve Lolley,47
 Autauga,0020 ABSENTEE,State Treasurer,,REP,Young Boozer,149
 Autauga,0020 ABSENTEE,U.S. House,6,REP,Case Dixon,47
@@ -975,8 +1159,16 @@ Autauga,0020 ABSENTEE,U.S. Senate,,REP,Morgan Murphy,1
 Autauga,0020 ABSENTEE,U.S. Senate,,REP,Rodney Walker,6
 Autauga,0020 ABSENTEE,U.S. Senate,,REP,Seth Burton,3
 Autauga,0020 ABSENTEE,U.S. Senate,,REP,Steve Marshall,66
+Autauga,0021 PROVISIONAL,Attorney General,,REP,Jay Mitchell,3
+Autauga,0021 PROVISIONAL,Attorney General,,REP,Katherine Robertson,3
+Autauga,0021 PROVISIONAL,Attorney General,,REP,Pamela L. Casey,1
+Autauga,0021 PROVISIONAL,Autauga County Sheriff,,REP,Kevin McNatt,1
+Autauga,0021 PROVISIONAL,Autauga County Sheriff,,REP,Mark B. Harrell,1
 Autauga,0021 PROVISIONAL,Autauga County Sheriff,,REP,Nicholas Cognasi,0
+Autauga,0021 PROVISIONAL,Autauga County Sheriff,,REP,Ty Thompson,5
 Autauga,0021 PROVISIONAL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,0
+Autauga,0021 PROVISIONAL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,6
+Autauga,0021 PROVISIONAL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,1
 Autauga,0021 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,2
 Autauga,0021 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Cory Hill,3
 Autauga,0021 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Jack Williams,1
@@ -986,13 +1178,18 @@ Autauga,0021 PROVISIONAL,Governor,,DEM,Jamel J. Brown,1
 Autauga,0021 PROVISIONAL,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Autauga,0021 PROVISIONAL,Governor,,DEM,Will Boyd,2
 Autauga,0021 PROVISIONAL,Governor,,DEM,Yolanda Rochelle Flowers,0
+Autauga,0021 PROVISIONAL,Governor,,REP,"""Alabama"" Will Santivasci",3
+Autauga,0021 PROVISIONAL,Governor,,REP,Ken McFeeters,1
+Autauga,0021 PROVISIONAL,Governor,,REP,Thomas Tuberville,3
 Autauga,0021 PROVISIONAL,Lieutenant Governor,,DEM,Darryl D. Perryman,6
 Autauga,0021 PROVISIONAL,Lieutenant Governor,,DEM,Phillip Ensler,5
 Autauga,0021 PROVISIONAL,Lieutenant Governor,,REP,George Childress,0
 Autauga,0021 PROVISIONAL,Lieutenant Governor,,REP,John Wahl,0
 Autauga,0021 PROVISIONAL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
 Autauga,0021 PROVISIONAL,Lieutenant Governor,,REP,Pat Bishop,0
+Autauga,0021 PROVISIONAL,Lieutenant Governor,,REP,Rick Pate,3
 Autauga,0021 PROVISIONAL,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Autauga,0021 PROVISIONAL,Lieutenant Governor,,REP,Wes Allen,3
 Autauga,0021 PROVISIONAL,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,0
 Autauga,0021 PROVISIONAL,"Public Service Commission, Place No. 1",,REP,Matt Gentry,6
 Autauga,0021 PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Brent Woodall,1
@@ -1011,6 +1208,12 @@ Autauga,0021 PROVISIONAL,"State Republican Execuive Committee, Autauga County, P
 Autauga,0021 PROVISIONAL,"State Republican Execuive Committee, Autauga County, Place No.2",,REP,Josh Pendergrass,3
 Autauga,0021 PROVISIONAL,State Treasurer,,REP,Steve Lolley,1
 Autauga,0021 PROVISIONAL,State Treasurer,,REP,Young Boozer,5
+Autauga,0021 PROVISIONAL,U.S. House,6,REP,Case Dixon,3
+Autauga,0021 PROVISIONAL,U.S. House,6,REP,Gary Palmer,3
+Autauga,0021 PROVISIONAL,U.S. Senate,,REP,Barry Moore,2
+Autauga,0021 PROVISIONAL,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
+Autauga,0021 PROVISIONAL,U.S. Senate,,REP,Jared Hudson,1
 Autauga,0021 PROVISIONAL,U.S. Senate,,REP,Morgan Murphy,0
 Autauga,0021 PROVISIONAL,U.S. Senate,,REP,Rodney Walker,0
 Autauga,0021 PROVISIONAL,U.S. Senate,,REP,Seth Burton,0
+Autauga,0021 PROVISIONAL,U.S. Senate,,REP,Steve Marshall,2

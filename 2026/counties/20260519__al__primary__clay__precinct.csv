@@ -1,4 +1,684 @@
 county,precinct,office,district,party,candidate,votes
+Clay,ABSENTEE,Attorney General,,REP,Jay Mitchell,16
+Clay,ABSENTEE,Attorney General,,REP,Katherine Robertson,27
+Clay,ABSENTEE,Attorney General,,REP,Pamela L. Casey,5
+Clay,ABSENTEE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,14
+Clay,ABSENTEE,Commissioner of Agriculture and Industries,,REP,Cory Hill,15
+Clay,ABSENTEE,Commissioner of Agriculture and Industries,,REP,Jack Williams,18
+Clay,ABSENTEE,Governor,,REP,"""Alabama"" Will Santivasci",4
+Clay,ABSENTEE,Governor,,REP,Ken McFeeters,6
+Clay,ABSENTEE,Governor,,REP,Thomas Tuberville,44
+Clay,ABSENTEE,Lieutenant Governor,,REP,George Childress,2
+Clay,ABSENTEE,Lieutenant Governor,,REP,John Wahl,25
+Clay,ABSENTEE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,3
+Clay,ABSENTEE,Lieutenant Governor,,REP,Pat Bishop,2
+Clay,ABSENTEE,Lieutenant Governor,,REP,Rick Pate,4
+Clay,ABSENTEE,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Clay,ABSENTEE,Lieutenant Governor,,REP,Wes Allen,15
+Clay,ABSENTEE,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,12
+Clay,ABSENTEE,"Public Service Commission, Place No. 1",,REP,Matt Gentry,31
+Clay,ABSENTEE,"Public Service Commission, Place No. 2",,REP,Brent Woodall,11
+Clay,ABSENTEE,"Public Service Commission, Place No. 2",,REP,Chris Beeker,14
+Clay,ABSENTEE,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,11
+Clay,ABSENTEE,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,8
+Clay,ABSENTEE,Secretary of State,,REP,Caroleene Dobson,29
+Clay,ABSENTEE,Secretary of State,,REP,Christopher Christian Horn,11
+Clay,ABSENTEE,Secretary of State,,REP,Glenda S. Jackson,8
+Clay,ABSENTEE,State Auditor,,REP,Andrew Sorrell,28
+Clay,ABSENTEE,State Auditor,,REP,Derek Chen,17
+Clay,ABSENTEE,State Senate,13,REP,Gerald Dial,22
+Clay,ABSENTEE,State Senate,13,REP,Randy Price,33
+Clay,ABSENTEE,State Treasurer,,REP,Steve Lolley,16
+Clay,ABSENTEE,State Treasurer,,REP,Young Boozer,28
+Clay,ABSENTEE,U.S. House,3,REP,Mike Rogers,48
+Clay,ABSENTEE,U.S. House,3,REP,Terri LaPoint,7
+Clay,ABSENTEE,U.S. Senate,,REP,Barry Moore,8
+Clay,ABSENTEE,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
+Clay,ABSENTEE,U.S. Senate,,REP,Jared Hudson,15
+Clay,ABSENTEE,U.S. Senate,,REP,Morgan Murphy,2
+Clay,ABSENTEE,U.S. Senate,,REP,Rodney Walker,14
+Clay,ABSENTEE,U.S. Senate,,REP,Seth Burton,1
+Clay,ABSENTEE,U.S. Senate,,REP,Steve Marshall,13
+Clay,BARFIELD VFD,Attorney General,,REP,Jay Mitchell,89
+Clay,BARFIELD VFD,Attorney General,,REP,Katherine Robertson,95
+Clay,BARFIELD VFD,Attorney General,,REP,Pamela L. Casey,54
+Clay,BARFIELD VFD,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,64
+Clay,BARFIELD VFD,Commissioner of Agriculture and Industries,,REP,Cory Hill,90
+Clay,BARFIELD VFD,Commissioner of Agriculture and Industries,,REP,Jack Williams,76
+Clay,BARFIELD VFD,Governor,,REP,"""Alabama"" Will Santivasci",8
+Clay,BARFIELD VFD,Governor,,REP,Ken McFeeters,16
+Clay,BARFIELD VFD,Governor,,REP,Thomas Tuberville,220
+Clay,BARFIELD VFD,Lieutenant Governor,,REP,George Childress,5
+Clay,BARFIELD VFD,Lieutenant Governor,,REP,John Wahl,97
+Clay,BARFIELD VFD,Lieutenant Governor,,REP,Nicole Jones Wadsworth,13
+Clay,BARFIELD VFD,Lieutenant Governor,,REP,Pat Bishop,5
+Clay,BARFIELD VFD,Lieutenant Governor,,REP,Rick Pate,26
+Clay,BARFIELD VFD,Lieutenant Governor,,REP,Stewart Hill Tankersley,6
+Clay,BARFIELD VFD,Lieutenant Governor,,REP,Wes Allen,83
+Clay,BARFIELD VFD,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,57
+Clay,BARFIELD VFD,"Public Service Commission, Place No. 1",,REP,Matt Gentry,167
+Clay,BARFIELD VFD,"Public Service Commission, Place No. 2",,REP,Brent Woodall,36
+Clay,BARFIELD VFD,"Public Service Commission, Place No. 2",,REP,Chris Beeker,75
+Clay,BARFIELD VFD,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,95
+Clay,BARFIELD VFD,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,27
+Clay,BARFIELD VFD,Secretary of State,,REP,Caroleene Dobson,130
+Clay,BARFIELD VFD,Secretary of State,,REP,Christopher Christian Horn,71
+Clay,BARFIELD VFD,Secretary of State,,REP,Glenda S. Jackson,25
+Clay,BARFIELD VFD,State Auditor,,REP,Andrew Sorrell,161
+Clay,BARFIELD VFD,State Auditor,,REP,Derek Chen,69
+Clay,BARFIELD VFD,State Senate,13,REP,Gerald Dial,110
+Clay,BARFIELD VFD,State Senate,13,REP,Randy Price,131
+Clay,BARFIELD VFD,State Treasurer,,REP,Steve Lolley,75
+Clay,BARFIELD VFD,State Treasurer,,REP,Young Boozer,157
+Clay,BARFIELD VFD,U.S. House,3,REP,Mike Rogers,194
+Clay,BARFIELD VFD,U.S. House,3,REP,Terri LaPoint,47
+Clay,BARFIELD VFD,U.S. Senate,,REP,Barry Moore,48
+Clay,BARFIELD VFD,U.S. Senate,,REP,Dale Shelton Deas Jr.,3
+Clay,BARFIELD VFD,U.S. Senate,,REP,Jared Hudson,81
+Clay,BARFIELD VFD,U.S. Senate,,REP,Morgan Murphy,6
+Clay,BARFIELD VFD,U.S. Senate,,REP,Rodney Walker,62
+Clay,BARFIELD VFD,U.S. Senate,,REP,Seth Burton,4
+Clay,BARFIELD VFD,U.S. Senate,,REP,Steve Marshall,40
+Clay,BIBB GRAVES SCH/COMM.,Attorney General,,REP,Jay Mitchell,37
+Clay,BIBB GRAVES SCH/COMM.,Attorney General,,REP,Katherine Robertson,46
+Clay,BIBB GRAVES SCH/COMM.,Attorney General,,REP,Pamela L. Casey,13
+Clay,BIBB GRAVES SCH/COMM.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,29
+Clay,BIBB GRAVES SCH/COMM.,Commissioner of Agriculture and Industries,,REP,Cory Hill,30
+Clay,BIBB GRAVES SCH/COMM.,Commissioner of Agriculture and Industries,,REP,Jack Williams,34
+Clay,BIBB GRAVES SCH/COMM.,Governor,,REP,"""Alabama"" Will Santivasci",5
+Clay,BIBB GRAVES SCH/COMM.,Governor,,REP,Ken McFeeters,7
+Clay,BIBB GRAVES SCH/COMM.,Governor,,REP,Thomas Tuberville,89
+Clay,BIBB GRAVES SCH/COMM.,Lieutenant Governor,,REP,George Childress,0
+Clay,BIBB GRAVES SCH/COMM.,Lieutenant Governor,,REP,John Wahl,44
+Clay,BIBB GRAVES SCH/COMM.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
+Clay,BIBB GRAVES SCH/COMM.,Lieutenant Governor,,REP,Pat Bishop,1
+Clay,BIBB GRAVES SCH/COMM.,Lieutenant Governor,,REP,Rick Pate,9
+Clay,BIBB GRAVES SCH/COMM.,Lieutenant Governor,,REP,Stewart Hill Tankersley,1
+Clay,BIBB GRAVES SCH/COMM.,Lieutenant Governor,,REP,Wes Allen,36
+Clay,BIBB GRAVES SCH/COMM.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,21
+Clay,BIBB GRAVES SCH/COMM.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,70
+Clay,BIBB GRAVES SCH/COMM.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,17
+Clay,BIBB GRAVES SCH/COMM.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,28
+Clay,BIBB GRAVES SCH/COMM.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,33
+Clay,BIBB GRAVES SCH/COMM.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,15
+Clay,BIBB GRAVES SCH/COMM.,Secretary of State,,REP,Caroleene Dobson,47
+Clay,BIBB GRAVES SCH/COMM.,Secretary of State,,REP,Christopher Christian Horn,25
+Clay,BIBB GRAVES SCH/COMM.,Secretary of State,,REP,Glenda S. Jackson,16
+Clay,BIBB GRAVES SCH/COMM.,State Auditor,,REP,Andrew Sorrell,63
+Clay,BIBB GRAVES SCH/COMM.,State Auditor,,REP,Derek Chen,29
+Clay,BIBB GRAVES SCH/COMM.,State Senate,13,REP,Gerald Dial,35
+Clay,BIBB GRAVES SCH/COMM.,State Senate,13,REP,Randy Price,63
+Clay,BIBB GRAVES SCH/COMM.,State Treasurer,,REP,Steve Lolley,48
+Clay,BIBB GRAVES SCH/COMM.,State Treasurer,,REP,Young Boozer,45
+Clay,BIBB GRAVES SCH/COMM.,U.S. House,3,REP,Mike Rogers,88
+Clay,BIBB GRAVES SCH/COMM.,U.S. House,3,REP,Terri LaPoint,10
+Clay,BIBB GRAVES SCH/COMM.,U.S. Senate,,REP,Barry Moore,30
+Clay,BIBB GRAVES SCH/COMM.,U.S. Senate,,REP,Dale Shelton Deas Jr.,4
+Clay,BIBB GRAVES SCH/COMM.,U.S. Senate,,REP,Jared Hudson,20
+Clay,BIBB GRAVES SCH/COMM.,U.S. Senate,,REP,Morgan Murphy,4
+Clay,BIBB GRAVES SCH/COMM.,U.S. Senate,,REP,Rodney Walker,10
+Clay,BIBB GRAVES SCH/COMM.,U.S. Senate,,REP,Seth Burton,1
+Clay,BIBB GRAVES SCH/COMM.,U.S. Senate,,REP,Steve Marshall,28
+Clay,BLUFF SPRINGS FIRE,Attorney General,,REP,Jay Mitchell,38
+Clay,BLUFF SPRINGS FIRE,Attorney General,,REP,Katherine Robertson,54
+Clay,BLUFF SPRINGS FIRE,Attorney General,,REP,Pamela L. Casey,11
+Clay,BLUFF SPRINGS FIRE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,20
+Clay,BLUFF SPRINGS FIRE,Commissioner of Agriculture and Industries,,REP,Cory Hill,44
+Clay,BLUFF SPRINGS FIRE,Commissioner of Agriculture and Industries,,REP,Jack Williams,31
+Clay,BLUFF SPRINGS FIRE,Governor,,REP,"""Alabama"" Will Santivasci",3
+Clay,BLUFF SPRINGS FIRE,Governor,,REP,Ken McFeeters,2
+Clay,BLUFF SPRINGS FIRE,Governor,,REP,Thomas Tuberville,110
+Clay,BLUFF SPRINGS FIRE,Lieutenant Governor,,REP,George Childress,3
+Clay,BLUFF SPRINGS FIRE,Lieutenant Governor,,REP,John Wahl,43
+Clay,BLUFF SPRINGS FIRE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,2
+Clay,BLUFF SPRINGS FIRE,Lieutenant Governor,,REP,Pat Bishop,0
+Clay,BLUFF SPRINGS FIRE,Lieutenant Governor,,REP,Rick Pate,9
+Clay,BLUFF SPRINGS FIRE,Lieutenant Governor,,REP,Stewart Hill Tankersley,1
+Clay,BLUFF SPRINGS FIRE,Lieutenant Governor,,REP,Wes Allen,50
+Clay,BLUFF SPRINGS FIRE,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,39
+Clay,BLUFF SPRINGS FIRE,"Public Service Commission, Place No. 1",,REP,Matt Gentry,57
+Clay,BLUFF SPRINGS FIRE,"Public Service Commission, Place No. 2",,REP,Brent Woodall,11
+Clay,BLUFF SPRINGS FIRE,"Public Service Commission, Place No. 2",,REP,Chris Beeker,31
+Clay,BLUFF SPRINGS FIRE,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,44
+Clay,BLUFF SPRINGS FIRE,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,11
+Clay,BLUFF SPRINGS FIRE,Secretary of State,,REP,Caroleene Dobson,61
+Clay,BLUFF SPRINGS FIRE,Secretary of State,,REP,Christopher Christian Horn,27
+Clay,BLUFF SPRINGS FIRE,Secretary of State,,REP,Glenda S. Jackson,9
+Clay,BLUFF SPRINGS FIRE,State Auditor,,REP,Andrew Sorrell,68
+Clay,BLUFF SPRINGS FIRE,State Auditor,,REP,Derek Chen,33
+Clay,BLUFF SPRINGS FIRE,State Senate,13,REP,Gerald Dial,34
+Clay,BLUFF SPRINGS FIRE,State Senate,13,REP,Randy Price,78
+Clay,BLUFF SPRINGS FIRE,State Treasurer,,REP,Steve Lolley,33
+Clay,BLUFF SPRINGS FIRE,State Treasurer,,REP,Young Boozer,63
+Clay,BLUFF SPRINGS FIRE,U.S. House,3,REP,Mike Rogers,94
+Clay,BLUFF SPRINGS FIRE,U.S. House,3,REP,Terri LaPoint,18
+Clay,BLUFF SPRINGS FIRE,U.S. Senate,,REP,Barry Moore,24
+Clay,BLUFF SPRINGS FIRE,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Clay,BLUFF SPRINGS FIRE,U.S. Senate,,REP,Jared Hudson,28
+Clay,BLUFF SPRINGS FIRE,U.S. Senate,,REP,Morgan Murphy,0
+Clay,BLUFF SPRINGS FIRE,U.S. Senate,,REP,Rodney Walker,21
+Clay,BLUFF SPRINGS FIRE,U.S. Senate,,REP,Seth Burton,1
+Clay,BLUFF SPRINGS FIRE,U.S. Senate,,REP,Steve Marshall,40
+Clay,COLETA VALLEY FIRE,Attorney General,,REP,Jay Mitchell,23
+Clay,COLETA VALLEY FIRE,Attorney General,,REP,Katherine Robertson,24
+Clay,COLETA VALLEY FIRE,Attorney General,,REP,Pamela L. Casey,4
+Clay,COLETA VALLEY FIRE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,15
+Clay,COLETA VALLEY FIRE,Commissioner of Agriculture and Industries,,REP,Cory Hill,13
+Clay,COLETA VALLEY FIRE,Commissioner of Agriculture and Industries,,REP,Jack Williams,18
+Clay,COLETA VALLEY FIRE,Governor,,REP,"""Alabama"" Will Santivasci",4
+Clay,COLETA VALLEY FIRE,Governor,,REP,Ken McFeeters,1
+Clay,COLETA VALLEY FIRE,Governor,,REP,Thomas Tuberville,50
+Clay,COLETA VALLEY FIRE,Lieutenant Governor,,REP,George Childress,2
+Clay,COLETA VALLEY FIRE,Lieutenant Governor,,REP,John Wahl,29
+Clay,COLETA VALLEY FIRE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,2
+Clay,COLETA VALLEY FIRE,Lieutenant Governor,,REP,Pat Bishop,1
+Clay,COLETA VALLEY FIRE,Lieutenant Governor,,REP,Rick Pate,4
+Clay,COLETA VALLEY FIRE,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Clay,COLETA VALLEY FIRE,Lieutenant Governor,,REP,Wes Allen,12
+Clay,COLETA VALLEY FIRE,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,11
+Clay,COLETA VALLEY FIRE,"Public Service Commission, Place No. 1",,REP,Matt Gentry,35
+Clay,COLETA VALLEY FIRE,"Public Service Commission, Place No. 2",,REP,Brent Woodall,10
+Clay,COLETA VALLEY FIRE,"Public Service Commission, Place No. 2",,REP,Chris Beeker,10
+Clay,COLETA VALLEY FIRE,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,23
+Clay,COLETA VALLEY FIRE,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,5
+Clay,COLETA VALLEY FIRE,Secretary of State,,REP,Caroleene Dobson,22
+Clay,COLETA VALLEY FIRE,Secretary of State,,REP,Christopher Christian Horn,20
+Clay,COLETA VALLEY FIRE,Secretary of State,,REP,Glenda S. Jackson,6
+Clay,COLETA VALLEY FIRE,State Auditor,,REP,Andrew Sorrell,27
+Clay,COLETA VALLEY FIRE,State Auditor,,REP,Derek Chen,23
+Clay,COLETA VALLEY FIRE,State Senate,13,REP,Gerald Dial,15
+Clay,COLETA VALLEY FIRE,State Senate,13,REP,Randy Price,36
+Clay,COLETA VALLEY FIRE,State Treasurer,,REP,Steve Lolley,18
+Clay,COLETA VALLEY FIRE,State Treasurer,,REP,Young Boozer,28
+Clay,COLETA VALLEY FIRE,U.S. House,3,REP,Mike Rogers,43
+Clay,COLETA VALLEY FIRE,U.S. House,3,REP,Terri LaPoint,8
+Clay,COLETA VALLEY FIRE,U.S. Senate,,REP,Barry Moore,14
+Clay,COLETA VALLEY FIRE,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Clay,COLETA VALLEY FIRE,U.S. Senate,,REP,Jared Hudson,19
+Clay,COLETA VALLEY FIRE,U.S. Senate,,REP,Morgan Murphy,1
+Clay,COLETA VALLEY FIRE,U.S. Senate,,REP,Rodney Walker,7
+Clay,COLETA VALLEY FIRE,U.S. Senate,,REP,Seth Burton,2
+Clay,COLETA VALLEY FIRE,U.S. Senate,,REP,Steve Marshall,12
+Clay,COURTHOUSE ANNEX,Attorney General,,REP,Jay Mitchell,114
+Clay,COURTHOUSE ANNEX,Attorney General,,REP,Katherine Robertson,187
+Clay,COURTHOUSE ANNEX,Attorney General,,REP,Pamela L. Casey,96
+Clay,COURTHOUSE ANNEX,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,114
+Clay,COURTHOUSE ANNEX,Commissioner of Agriculture and Industries,,REP,Cory Hill,133
+Clay,COURTHOUSE ANNEX,Commissioner of Agriculture and Industries,,REP,Jack Williams,117
+Clay,COURTHOUSE ANNEX,Governor,,REP,"""Alabama"" Will Santivasci",24
+Clay,COURTHOUSE ANNEX,Governor,,REP,Ken McFeeters,20
+Clay,COURTHOUSE ANNEX,Governor,,REP,Thomas Tuberville,371
+Clay,COURTHOUSE ANNEX,Lieutenant Governor,,REP,George Childress,3
+Clay,COURTHOUSE ANNEX,Lieutenant Governor,,REP,John Wahl,164
+Clay,COURTHOUSE ANNEX,Lieutenant Governor,,REP,Nicole Jones Wadsworth,11
+Clay,COURTHOUSE ANNEX,Lieutenant Governor,,REP,Pat Bishop,8
+Clay,COURTHOUSE ANNEX,Lieutenant Governor,,REP,Rick Pate,20
+Clay,COURTHOUSE ANNEX,Lieutenant Governor,,REP,Stewart Hill Tankersley,6
+Clay,COURTHOUSE ANNEX,Lieutenant Governor,,REP,Wes Allen,190
+Clay,COURTHOUSE ANNEX,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,86
+Clay,COURTHOUSE ANNEX,"Public Service Commission, Place No. 1",,REP,Matt Gentry,284
+Clay,COURTHOUSE ANNEX,"Public Service Commission, Place No. 2",,REP,Brent Woodall,30
+Clay,COURTHOUSE ANNEX,"Public Service Commission, Place No. 2",,REP,Chris Beeker,121
+Clay,COURTHOUSE ANNEX,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,187
+Clay,COURTHOUSE ANNEX,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,38
+Clay,COURTHOUSE ANNEX,Secretary of State,,REP,Caroleene Dobson,257
+Clay,COURTHOUSE ANNEX,Secretary of State,,REP,Christopher Christian Horn,71
+Clay,COURTHOUSE ANNEX,Secretary of State,,REP,Glenda S. Jackson,43
+Clay,COURTHOUSE ANNEX,State Auditor,,REP,Andrew Sorrell,252
+Clay,COURTHOUSE ANNEX,State Auditor,,REP,Derek Chen,132
+Clay,COURTHOUSE ANNEX,State Senate,13,REP,Gerald Dial,156
+Clay,COURTHOUSE ANNEX,State Senate,13,REP,Randy Price,254
+Clay,COURTHOUSE ANNEX,State Treasurer,,REP,Steve Lolley,99
+Clay,COURTHOUSE ANNEX,State Treasurer,,REP,Young Boozer,285
+Clay,COURTHOUSE ANNEX,U.S. House,3,REP,Mike Rogers,364
+Clay,COURTHOUSE ANNEX,U.S. House,3,REP,Terri LaPoint,46
+Clay,COURTHOUSE ANNEX,U.S. Senate,,REP,Barry Moore,101
+Clay,COURTHOUSE ANNEX,U.S. Senate,,REP,Dale Shelton Deas Jr.,5
+Clay,COURTHOUSE ANNEX,U.S. Senate,,REP,Jared Hudson,96
+Clay,COURTHOUSE ANNEX,U.S. Senate,,REP,Morgan Murphy,1
+Clay,COURTHOUSE ANNEX,U.S. Senate,,REP,Rodney Walker,92
+Clay,COURTHOUSE ANNEX,U.S. Senate,,REP,Seth Burton,2
+Clay,COURTHOUSE ANNEX,U.S. Senate,,REP,Steve Marshall,118
+Clay,CRAGFORD FIRE,Attorney General,,REP,Jay Mitchell,19
+Clay,CRAGFORD FIRE,Attorney General,,REP,Katherine Robertson,27
+Clay,CRAGFORD FIRE,Attorney General,,REP,Pamela L. Casey,19
+Clay,CRAGFORD FIRE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,22
+Clay,CRAGFORD FIRE,Commissioner of Agriculture and Industries,,REP,Cory Hill,20
+Clay,CRAGFORD FIRE,Commissioner of Agriculture and Industries,,REP,Jack Williams,16
+Clay,CRAGFORD FIRE,Governor,,REP,"""Alabama"" Will Santivasci",1
+Clay,CRAGFORD FIRE,Governor,,REP,Ken McFeeters,7
+Clay,CRAGFORD FIRE,Governor,,REP,Thomas Tuberville,66
+Clay,CRAGFORD FIRE,Lieutenant Governor,,REP,George Childress,3
+Clay,CRAGFORD FIRE,Lieutenant Governor,,REP,John Wahl,33
+Clay,CRAGFORD FIRE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,2
+Clay,CRAGFORD FIRE,Lieutenant Governor,,REP,Pat Bishop,0
+Clay,CRAGFORD FIRE,Lieutenant Governor,,REP,Rick Pate,6
+Clay,CRAGFORD FIRE,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Clay,CRAGFORD FIRE,Lieutenant Governor,,REP,Wes Allen,25
+Clay,CRAGFORD FIRE,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,18
+Clay,CRAGFORD FIRE,"Public Service Commission, Place No. 1",,REP,Matt Gentry,37
+Clay,CRAGFORD FIRE,"Public Service Commission, Place No. 2",,REP,Brent Woodall,5
+Clay,CRAGFORD FIRE,"Public Service Commission, Place No. 2",,REP,Chris Beeker,16
+Clay,CRAGFORD FIRE,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,33
+Clay,CRAGFORD FIRE,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,9
+Clay,CRAGFORD FIRE,Secretary of State,,REP,Caroleene Dobson,31
+Clay,CRAGFORD FIRE,Secretary of State,,REP,Christopher Christian Horn,15
+Clay,CRAGFORD FIRE,Secretary of State,,REP,Glenda S. Jackson,8
+Clay,CRAGFORD FIRE,State Auditor,,REP,Andrew Sorrell,45
+Clay,CRAGFORD FIRE,State Auditor,,REP,Derek Chen,12
+Clay,CRAGFORD FIRE,State Senate,13,REP,Gerald Dial,30
+Clay,CRAGFORD FIRE,State Senate,13,REP,Randy Price,44
+Clay,CRAGFORD FIRE,State Treasurer,,REP,Steve Lolley,17
+Clay,CRAGFORD FIRE,State Treasurer,,REP,Young Boozer,42
+Clay,CRAGFORD FIRE,U.S. House,3,REP,Mike Rogers,59
+Clay,CRAGFORD FIRE,U.S. House,3,REP,Terri LaPoint,14
+Clay,CRAGFORD FIRE,U.S. Senate,,REP,Barry Moore,20
+Clay,CRAGFORD FIRE,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
+Clay,CRAGFORD FIRE,U.S. Senate,,REP,Jared Hudson,16
+Clay,CRAGFORD FIRE,U.S. Senate,,REP,Morgan Murphy,0
+Clay,CRAGFORD FIRE,U.S. Senate,,REP,Rodney Walker,20
+Clay,CRAGFORD FIRE,U.S. Senate,,REP,Seth Burton,1
+Clay,CRAGFORD FIRE,U.S. Senate,,REP,Steve Marshall,15
+Clay,DELTA COMM. CTR.,Attorney General,,REP,Jay Mitchell,28
+Clay,DELTA COMM. CTR.,Attorney General,,REP,Katherine Robertson,43
+Clay,DELTA COMM. CTR.,Attorney General,,REP,Pamela L. Casey,24
+Clay,DELTA COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,24
+Clay,DELTA COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Cory Hill,46
+Clay,DELTA COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Jack Williams,20
+Clay,DELTA COMM. CTR.,Governor,,REP,"""Alabama"" Will Santivasci",3
+Clay,DELTA COMM. CTR.,Governor,,REP,Ken McFeeters,6
+Clay,DELTA COMM. CTR.,Governor,,REP,Thomas Tuberville,95
+Clay,DELTA COMM. CTR.,Lieutenant Governor,,REP,George Childress,3
+Clay,DELTA COMM. CTR.,Lieutenant Governor,,REP,John Wahl,41
+Clay,DELTA COMM. CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,4
+Clay,DELTA COMM. CTR.,Lieutenant Governor,,REP,Pat Bishop,4
+Clay,DELTA COMM. CTR.,Lieutenant Governor,,REP,Rick Pate,8
+Clay,DELTA COMM. CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Clay,DELTA COMM. CTR.,Lieutenant Governor,,REP,Wes Allen,39
+Clay,DELTA COMM. CTR.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,24
+Clay,DELTA COMM. CTR.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,64
+Clay,DELTA COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,12
+Clay,DELTA COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,33
+Clay,DELTA COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,39
+Clay,DELTA COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,7
+Clay,DELTA COMM. CTR.,Secretary of State,,REP,Caroleene Dobson,41
+Clay,DELTA COMM. CTR.,Secretary of State,,REP,Christopher Christian Horn,39
+Clay,DELTA COMM. CTR.,Secretary of State,,REP,Glenda S. Jackson,11
+Clay,DELTA COMM. CTR.,State Auditor,,REP,Andrew Sorrell,60
+Clay,DELTA COMM. CTR.,State Auditor,,REP,Derek Chen,32
+Clay,DELTA COMM. CTR.,State Senate,13,REP,Gerald Dial,71
+Clay,DELTA COMM. CTR.,State Senate,13,REP,Randy Price,34
+Clay,DELTA COMM. CTR.,State Treasurer,,REP,Steve Lolley,33
+Clay,DELTA COMM. CTR.,State Treasurer,,REP,Young Boozer,62
+Clay,DELTA COMM. CTR.,U.S. House,3,REP,Mike Rogers,94
+Clay,DELTA COMM. CTR.,U.S. House,3,REP,Terri LaPoint,10
+Clay,DELTA COMM. CTR.,U.S. Senate,,REP,Barry Moore,27
+Clay,DELTA COMM. CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,2
+Clay,DELTA COMM. CTR.,U.S. Senate,,REP,Jared Hudson,28
+Clay,DELTA COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,0
+Clay,DELTA COMM. CTR.,U.S. Senate,,REP,Rodney Walker,25
+Clay,DELTA COMM. CTR.,U.S. Senate,,REP,Seth Burton,0
+Clay,DELTA COMM. CTR.,U.S. Senate,,REP,Steve Marshall,22
+Clay,FARMER&#x27;S MARKET,Attorney General,,REP,Jay Mitchell,96
+Clay,FARMER&#x27;S MARKET,Attorney General,,REP,Katherine Robertson,136
+Clay,FARMER&#x27;S MARKET,Attorney General,,REP,Pamela L. Casey,87
+Clay,FARMER&#x27;S MARKET,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,73
+Clay,FARMER&#x27;S MARKET,Commissioner of Agriculture and Industries,,REP,Cory Hill,130
+Clay,FARMER&#x27;S MARKET,Commissioner of Agriculture and Industries,,REP,Jack Williams,103
+Clay,FARMER&#x27;S MARKET,Governor,,REP,"""Alabama"" Will Santivasci",15
+Clay,FARMER&#x27;S MARKET,Governor,,REP,Ken McFeeters,34
+Clay,FARMER&#x27;S MARKET,Governor,,REP,Thomas Tuberville,287
+Clay,FARMER&#x27;S MARKET,Lieutenant Governor,,REP,George Childress,7
+Clay,FARMER&#x27;S MARKET,Lieutenant Governor,,REP,John Wahl,107
+Clay,FARMER&#x27;S MARKET,Lieutenant Governor,,REP,Nicole Jones Wadsworth,6
+Clay,FARMER&#x27;S MARKET,Lieutenant Governor,,REP,Pat Bishop,7
+Clay,FARMER&#x27;S MARKET,Lieutenant Governor,,REP,Rick Pate,45
+Clay,FARMER&#x27;S MARKET,Lieutenant Governor,,REP,Stewart Hill Tankersley,4
+Clay,FARMER&#x27;S MARKET,Lieutenant Governor,,REP,Wes Allen,145
+Clay,FARMER&#x27;S MARKET,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,67
+Clay,FARMER&#x27;S MARKET,"Public Service Commission, Place No. 1",,REP,Matt Gentry,227
+Clay,FARMER&#x27;S MARKET,"Public Service Commission, Place No. 2",,REP,Brent Woodall,43
+Clay,FARMER&#x27;S MARKET,"Public Service Commission, Place No. 2",,REP,Chris Beeker,81
+Clay,FARMER&#x27;S MARKET,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,150
+Clay,FARMER&#x27;S MARKET,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,32
+Clay,FARMER&#x27;S MARKET,Secretary of State,,REP,Caroleene Dobson,178
+Clay,FARMER&#x27;S MARKET,Secretary of State,,REP,Christopher Christian Horn,84
+Clay,FARMER&#x27;S MARKET,Secretary of State,,REP,Glenda S. Jackson,41
+Clay,FARMER&#x27;S MARKET,State Auditor,,REP,Andrew Sorrell,210
+Clay,FARMER&#x27;S MARKET,State Auditor,,REP,Derek Chen,94
+Clay,FARMER&#x27;S MARKET,State Senate,13,REP,Gerald Dial,188
+Clay,FARMER&#x27;S MARKET,State Senate,13,REP,Randy Price,143
+Clay,FARMER&#x27;S MARKET,State Treasurer,,REP,Steve Lolley,92
+Clay,FARMER&#x27;S MARKET,State Treasurer,,REP,Young Boozer,210
+Clay,FARMER&#x27;S MARKET,U.S. House,3,REP,Mike Rogers,292
+Clay,FARMER&#x27;S MARKET,U.S. House,3,REP,Terri LaPoint,42
+Clay,FARMER&#x27;S MARKET,U.S. Senate,,REP,Barry Moore,76
+Clay,FARMER&#x27;S MARKET,U.S. Senate,,REP,Dale Shelton Deas Jr.,7
+Clay,FARMER&#x27;S MARKET,U.S. Senate,,REP,Jared Hudson,65
+Clay,FARMER&#x27;S MARKET,U.S. Senate,,REP,Morgan Murphy,3
+Clay,FARMER&#x27;S MARKET,U.S. Senate,,REP,Rodney Walker,84
+Clay,FARMER&#x27;S MARKET,U.S. Senate,,REP,Seth Burton,3
+Clay,FARMER&#x27;S MARKET,U.S. Senate,,REP,Steve Marshall,99
+Clay,HIGHLAND COPPERMINE,Attorney General,,REP,Jay Mitchell,32
+Clay,HIGHLAND COPPERMINE,Attorney General,,REP,Katherine Robertson,35
+Clay,HIGHLAND COPPERMINE,Attorney General,,REP,Pamela L. Casey,19
+Clay,HIGHLAND COPPERMINE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,16
+Clay,HIGHLAND COPPERMINE,Commissioner of Agriculture and Industries,,REP,Cory Hill,37
+Clay,HIGHLAND COPPERMINE,Commissioner of Agriculture and Industries,,REP,Jack Williams,34
+Clay,HIGHLAND COPPERMINE,Governor,,REP,"""Alabama"" Will Santivasci",11
+Clay,HIGHLAND COPPERMINE,Governor,,REP,Ken McFeeters,7
+Clay,HIGHLAND COPPERMINE,Governor,,REP,Thomas Tuberville,71
+Clay,HIGHLAND COPPERMINE,Lieutenant Governor,,REP,George Childress,2
+Clay,HIGHLAND COPPERMINE,Lieutenant Governor,,REP,John Wahl,40
+Clay,HIGHLAND COPPERMINE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
+Clay,HIGHLAND COPPERMINE,Lieutenant Governor,,REP,Pat Bishop,1
+Clay,HIGHLAND COPPERMINE,Lieutenant Governor,,REP,Rick Pate,6
+Clay,HIGHLAND COPPERMINE,Lieutenant Governor,,REP,Stewart Hill Tankersley,1
+Clay,HIGHLAND COPPERMINE,Lieutenant Governor,,REP,Wes Allen,35
+Clay,HIGHLAND COPPERMINE,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,26
+Clay,HIGHLAND COPPERMINE,"Public Service Commission, Place No. 1",,REP,Matt Gentry,58
+Clay,HIGHLAND COPPERMINE,"Public Service Commission, Place No. 2",,REP,Brent Woodall,7
+Clay,HIGHLAND COPPERMINE,"Public Service Commission, Place No. 2",,REP,Chris Beeker,31
+Clay,HIGHLAND COPPERMINE,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,33
+Clay,HIGHLAND COPPERMINE,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,15
+Clay,HIGHLAND COPPERMINE,Secretary of State,,REP,Caroleene Dobson,45
+Clay,HIGHLAND COPPERMINE,Secretary of State,,REP,Christopher Christian Horn,28
+Clay,HIGHLAND COPPERMINE,Secretary of State,,REP,Glenda S. Jackson,13
+Clay,HIGHLAND COPPERMINE,State Auditor,,REP,Andrew Sorrell,56
+Clay,HIGHLAND COPPERMINE,State Auditor,,REP,Derek Chen,31
+Clay,HIGHLAND COPPERMINE,State Senate,13,REP,Gerald Dial,31
+Clay,HIGHLAND COPPERMINE,State Senate,13,REP,Randy Price,57
+Clay,HIGHLAND COPPERMINE,State Treasurer,,REP,Steve Lolley,31
+Clay,HIGHLAND COPPERMINE,State Treasurer,,REP,Young Boozer,55
+Clay,HIGHLAND COPPERMINE,U.S. House,3,REP,Mike Rogers,78
+Clay,HIGHLAND COPPERMINE,U.S. House,3,REP,Terri LaPoint,10
+Clay,HIGHLAND COPPERMINE,U.S. Senate,,REP,Barry Moore,27
+Clay,HIGHLAND COPPERMINE,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Clay,HIGHLAND COPPERMINE,U.S. Senate,,REP,Jared Hudson,13
+Clay,HIGHLAND COPPERMINE,U.S. Senate,,REP,Morgan Murphy,1
+Clay,HIGHLAND COPPERMINE,U.S. Senate,,REP,Rodney Walker,21
+Clay,HIGHLAND COPPERMINE,U.S. Senate,,REP,Seth Burton,4
+Clay,HIGHLAND COPPERMINE,U.S. Senate,,REP,Steve Marshall,23
+Clay,HIPINE FIRE DEPT.,Attorney General,,REP,Jay Mitchell,11
+Clay,HIPINE FIRE DEPT.,Attorney General,,REP,Katherine Robertson,11
+Clay,HIPINE FIRE DEPT.,Attorney General,,REP,Pamela L. Casey,2
+Clay,HIPINE FIRE DEPT.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,6
+Clay,HIPINE FIRE DEPT.,Commissioner of Agriculture and Industries,,REP,Cory Hill,11
+Clay,HIPINE FIRE DEPT.,Commissioner of Agriculture and Industries,,REP,Jack Williams,10
+Clay,HIPINE FIRE DEPT.,Governor,,REP,"""Alabama"" Will Santivasci",0
+Clay,HIPINE FIRE DEPT.,Governor,,REP,Ken McFeeters,0
+Clay,HIPINE FIRE DEPT.,Governor,,REP,Thomas Tuberville,30
+Clay,HIPINE FIRE DEPT.,Lieutenant Governor,,REP,George Childress,0
+Clay,HIPINE FIRE DEPT.,Lieutenant Governor,,REP,John Wahl,7
+Clay,HIPINE FIRE DEPT.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,2
+Clay,HIPINE FIRE DEPT.,Lieutenant Governor,,REP,Pat Bishop,1
+Clay,HIPINE FIRE DEPT.,Lieutenant Governor,,REP,Rick Pate,2
+Clay,HIPINE FIRE DEPT.,Lieutenant Governor,,REP,Stewart Hill Tankersley,2
+Clay,HIPINE FIRE DEPT.,Lieutenant Governor,,REP,Wes Allen,12
+Clay,HIPINE FIRE DEPT.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,9
+Clay,HIPINE FIRE DEPT.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,16
+Clay,HIPINE FIRE DEPT.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,4
+Clay,HIPINE FIRE DEPT.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,10
+Clay,HIPINE FIRE DEPT.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,10
+Clay,HIPINE FIRE DEPT.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,2
+Clay,HIPINE FIRE DEPT.,Secretary of State,,REP,Caroleene Dobson,13
+Clay,HIPINE FIRE DEPT.,Secretary of State,,REP,Christopher Christian Horn,11
+Clay,HIPINE FIRE DEPT.,Secretary of State,,REP,Glenda S. Jackson,1
+Clay,HIPINE FIRE DEPT.,State Auditor,,REP,Andrew Sorrell,21
+Clay,HIPINE FIRE DEPT.,State Auditor,,REP,Derek Chen,5
+Clay,HIPINE FIRE DEPT.,State Senate,13,REP,Gerald Dial,9
+Clay,HIPINE FIRE DEPT.,State Senate,13,REP,Randy Price,19
+Clay,HIPINE FIRE DEPT.,State Treasurer,,REP,Steve Lolley,10
+Clay,HIPINE FIRE DEPT.,State Treasurer,,REP,Young Boozer,14
+Clay,HIPINE FIRE DEPT.,U.S. House,3,REP,Mike Rogers,28
+Clay,HIPINE FIRE DEPT.,U.S. House,3,REP,Terri LaPoint,1
+Clay,HIPINE FIRE DEPT.,U.S. Senate,,REP,Barry Moore,13
+Clay,HIPINE FIRE DEPT.,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Clay,HIPINE FIRE DEPT.,U.S. Senate,,REP,Jared Hudson,2
+Clay,HIPINE FIRE DEPT.,U.S. Senate,,REP,Morgan Murphy,0
+Clay,HIPINE FIRE DEPT.,U.S. Senate,,REP,Rodney Walker,6
+Clay,HIPINE FIRE DEPT.,U.S. Senate,,REP,Seth Burton,1
+Clay,HIPINE FIRE DEPT.,U.S. Senate,,REP,Steve Marshall,7
+Clay,HOLLINS COMM. CTR.,Attorney General,,REP,Jay Mitchell,36
+Clay,HOLLINS COMM. CTR.,Attorney General,,REP,Katherine Robertson,44
+Clay,HOLLINS COMM. CTR.,Attorney General,,REP,Pamela L. Casey,17
+Clay,HOLLINS COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,19
+Clay,HOLLINS COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Cory Hill,35
+Clay,HOLLINS COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Jack Williams,30
+Clay,HOLLINS COMM. CTR.,Governor,,REP,"""Alabama"" Will Santivasci",5
+Clay,HOLLINS COMM. CTR.,Governor,,REP,Ken McFeeters,3
+Clay,HOLLINS COMM. CTR.,Governor,,REP,Thomas Tuberville,89
+Clay,HOLLINS COMM. CTR.,Lieutenant Governor,,REP,George Childress,2
+Clay,HOLLINS COMM. CTR.,Lieutenant Governor,,REP,John Wahl,47
+Clay,HOLLINS COMM. CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
+Clay,HOLLINS COMM. CTR.,Lieutenant Governor,,REP,Pat Bishop,1
+Clay,HOLLINS COMM. CTR.,Lieutenant Governor,,REP,Rick Pate,9
+Clay,HOLLINS COMM. CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,2
+Clay,HOLLINS COMM. CTR.,Lieutenant Governor,,REP,Wes Allen,35
+Clay,HOLLINS COMM. CTR.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,11
+Clay,HOLLINS COMM. CTR.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,75
+Clay,HOLLINS COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,5
+Clay,HOLLINS COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,28
+Clay,HOLLINS COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,49
+Clay,HOLLINS COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,10
+Clay,HOLLINS COMM. CTR.,Secretary of State,,REP,Caroleene Dobson,51
+Clay,HOLLINS COMM. CTR.,Secretary of State,,REP,Christopher Christian Horn,23
+Clay,HOLLINS COMM. CTR.,Secretary of State,,REP,Glenda S. Jackson,14
+Clay,HOLLINS COMM. CTR.,State Auditor,,REP,Andrew Sorrell,56
+Clay,HOLLINS COMM. CTR.,State Auditor,,REP,Derek Chen,32
+Clay,HOLLINS COMM. CTR.,State Senate,13,REP,Gerald Dial,47
+Clay,HOLLINS COMM. CTR.,State Senate,13,REP,Randy Price,48
+Clay,HOLLINS COMM. CTR.,State Treasurer,,REP,Steve Lolley,19
+Clay,HOLLINS COMM. CTR.,State Treasurer,,REP,Young Boozer,68
+Clay,HOLLINS COMM. CTR.,U.S. House,3,REP,Mike Rogers,90
+Clay,HOLLINS COMM. CTR.,U.S. House,3,REP,Terri LaPoint,3
+Clay,HOLLINS COMM. CTR.,U.S. Senate,,REP,Barry Moore,29
+Clay,HOLLINS COMM. CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Clay,HOLLINS COMM. CTR.,U.S. Senate,,REP,Jared Hudson,26
+Clay,HOLLINS COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,0
+Clay,HOLLINS COMM. CTR.,U.S. Senate,,REP,Rodney Walker,9
+Clay,HOLLINS COMM. CTR.,U.S. Senate,,REP,Seth Burton,2
+Clay,HOLLINS COMM. CTR.,U.S. Senate,,REP,Steve Marshall,31
+Clay,IDAHO FIRE DEPT.,Attorney General,,REP,Jay Mitchell,38
+Clay,IDAHO FIRE DEPT.,Attorney General,,REP,Katherine Robertson,53
+Clay,IDAHO FIRE DEPT.,Attorney General,,REP,Pamela L. Casey,18
+Clay,IDAHO FIRE DEPT.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,28
+Clay,IDAHO FIRE DEPT.,Commissioner of Agriculture and Industries,,REP,Cory Hill,37
+Clay,IDAHO FIRE DEPT.,Commissioner of Agriculture and Industries,,REP,Jack Williams,42
+Clay,IDAHO FIRE DEPT.,Governor,,REP,"""Alabama"" Will Santivasci",3
+Clay,IDAHO FIRE DEPT.,Governor,,REP,Ken McFeeters,3
+Clay,IDAHO FIRE DEPT.,Governor,,REP,Thomas Tuberville,109
+Clay,IDAHO FIRE DEPT.,Lieutenant Governor,,REP,George Childress,2
+Clay,IDAHO FIRE DEPT.,Lieutenant Governor,,REP,John Wahl,41
+Clay,IDAHO FIRE DEPT.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,4
+Clay,IDAHO FIRE DEPT.,Lieutenant Governor,,REP,Pat Bishop,4
+Clay,IDAHO FIRE DEPT.,Lieutenant Governor,,REP,Rick Pate,9
+Clay,IDAHO FIRE DEPT.,Lieutenant Governor,,REP,Stewart Hill Tankersley,4
+Clay,IDAHO FIRE DEPT.,Lieutenant Governor,,REP,Wes Allen,49
+Clay,IDAHO FIRE DEPT.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,23
+Clay,IDAHO FIRE DEPT.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,82
+Clay,IDAHO FIRE DEPT.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,14
+Clay,IDAHO FIRE DEPT.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,29
+Clay,IDAHO FIRE DEPT.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,47
+Clay,IDAHO FIRE DEPT.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,18
+Clay,IDAHO FIRE DEPT.,Secretary of State,,REP,Caroleene Dobson,71
+Clay,IDAHO FIRE DEPT.,Secretary of State,,REP,Christopher Christian Horn,35
+Clay,IDAHO FIRE DEPT.,Secretary of State,,REP,Glenda S. Jackson,3
+Clay,IDAHO FIRE DEPT.,State Auditor,,REP,Andrew Sorrell,73
+Clay,IDAHO FIRE DEPT.,State Auditor,,REP,Derek Chen,39
+Clay,IDAHO FIRE DEPT.,State Senate,13,REP,Gerald Dial,40
+Clay,IDAHO FIRE DEPT.,State Senate,13,REP,Randy Price,71
+Clay,IDAHO FIRE DEPT.,State Treasurer,,REP,Steve Lolley,32
+Clay,IDAHO FIRE DEPT.,State Treasurer,,REP,Young Boozer,78
+Clay,IDAHO FIRE DEPT.,U.S. House,3,REP,Mike Rogers,105
+Clay,IDAHO FIRE DEPT.,U.S. House,3,REP,Terri LaPoint,8
+Clay,IDAHO FIRE DEPT.,U.S. Senate,,REP,Barry Moore,26
+Clay,IDAHO FIRE DEPT.,U.S. Senate,,REP,Dale Shelton Deas Jr.,2
+Clay,IDAHO FIRE DEPT.,U.S. Senate,,REP,Jared Hudson,14
+Clay,IDAHO FIRE DEPT.,U.S. Senate,,REP,Morgan Murphy,1
+Clay,IDAHO FIRE DEPT.,U.S. Senate,,REP,Rodney Walker,15
+Clay,IDAHO FIRE DEPT.,U.S. Senate,,REP,Seth Burton,0
+Clay,IDAHO FIRE DEPT.,U.S. Senate,,REP,Steve Marshall,55
+Clay,MELOW VALLEY HIGH,Attorney General,,REP,Jay Mitchell,46
+Clay,MELOW VALLEY HIGH,Attorney General,,REP,Katherine Robertson,63
+Clay,MELOW VALLEY HIGH,Attorney General,,REP,Pamela L. Casey,12
+Clay,MELOW VALLEY HIGH,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,38
+Clay,MELOW VALLEY HIGH,Commissioner of Agriculture and Industries,,REP,Cory Hill,48
+Clay,MELOW VALLEY HIGH,Commissioner of Agriculture and Industries,,REP,Jack Williams,33
+Clay,MELOW VALLEY HIGH,Governor,,REP,"""Alabama"" Will Santivasci",4
+Clay,MELOW VALLEY HIGH,Governor,,REP,Ken McFeeters,4
+Clay,MELOW VALLEY HIGH,Governor,,REP,Thomas Tuberville,122
+Clay,MELOW VALLEY HIGH,Lieutenant Governor,,REP,George Childress,6
+Clay,MELOW VALLEY HIGH,Lieutenant Governor,,REP,John Wahl,53
+Clay,MELOW VALLEY HIGH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,6
+Clay,MELOW VALLEY HIGH,Lieutenant Governor,,REP,Pat Bishop,2
+Clay,MELOW VALLEY HIGH,Lieutenant Governor,,REP,Rick Pate,13
+Clay,MELOW VALLEY HIGH,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Clay,MELOW VALLEY HIGH,Lieutenant Governor,,REP,Wes Allen,43
+Clay,MELOW VALLEY HIGH,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,26
+Clay,MELOW VALLEY HIGH,"Public Service Commission, Place No. 1",,REP,Matt Gentry,86
+Clay,MELOW VALLEY HIGH,"Public Service Commission, Place No. 2",,REP,Brent Woodall,12
+Clay,MELOW VALLEY HIGH,"Public Service Commission, Place No. 2",,REP,Chris Beeker,33
+Clay,MELOW VALLEY HIGH,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,62
+Clay,MELOW VALLEY HIGH,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,11
+Clay,MELOW VALLEY HIGH,Secretary of State,,REP,Caroleene Dobson,80
+Clay,MELOW VALLEY HIGH,Secretary of State,,REP,Christopher Christian Horn,26
+Clay,MELOW VALLEY HIGH,Secretary of State,,REP,Glenda S. Jackson,8
+Clay,MELOW VALLEY HIGH,State Auditor,,REP,Andrew Sorrell,83
+Clay,MELOW VALLEY HIGH,State Auditor,,REP,Derek Chen,36
+Clay,MELOW VALLEY HIGH,State Senate,13,REP,Gerald Dial,38
+Clay,MELOW VALLEY HIGH,State Senate,13,REP,Randy Price,94
+Clay,MELOW VALLEY HIGH,State Treasurer,,REP,Steve Lolley,46
+Clay,MELOW VALLEY HIGH,State Treasurer,,REP,Young Boozer,74
+Clay,MELOW VALLEY HIGH,U.S. House,3,REP,Mike Rogers,113
+Clay,MELOW VALLEY HIGH,U.S. House,3,REP,Terri LaPoint,15
+Clay,MELOW VALLEY HIGH,U.S. Senate,,REP,Barry Moore,29
+Clay,MELOW VALLEY HIGH,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
+Clay,MELOW VALLEY HIGH,U.S. Senate,,REP,Jared Hudson,32
+Clay,MELOW VALLEY HIGH,U.S. Senate,,REP,Morgan Murphy,0
+Clay,MELOW VALLEY HIGH,U.S. Senate,,REP,Rodney Walker,24
+Clay,MELOW VALLEY HIGH,U.S. Senate,,REP,Seth Burton,4
+Clay,MELOW VALLEY HIGH,U.S. Senate,,REP,Steve Marshall,40
+Clay,PROVISIONAL,Attorney General,,REP,Jay Mitchell,3
+Clay,PROVISIONAL,Attorney General,,REP,Katherine Robertson,3
+Clay,PROVISIONAL,Attorney General,,REP,Pamela L. Casey,3
+Clay,PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,0
+Clay,PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Cory Hill,2
+Clay,PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Jack Williams,7
+Clay,PROVISIONAL,Governor,,REP,"""Alabama"" Will Santivasci",1
+Clay,PROVISIONAL,Governor,,REP,Ken McFeeters,1
+Clay,PROVISIONAL,Governor,,REP,Thomas Tuberville,7
+Clay,PROVISIONAL,Lieutenant Governor,,REP,George Childress,1
+Clay,PROVISIONAL,Lieutenant Governor,,REP,John Wahl,3
+Clay,PROVISIONAL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+Clay,PROVISIONAL,Lieutenant Governor,,REP,Pat Bishop,0
+Clay,PROVISIONAL,Lieutenant Governor,,REP,Rick Pate,1
+Clay,PROVISIONAL,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Clay,PROVISIONAL,Lieutenant Governor,,REP,Wes Allen,4
+Clay,PROVISIONAL,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,3
+Clay,PROVISIONAL,"Public Service Commission, Place No. 1",,REP,Matt Gentry,6
+Clay,PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Brent Woodall,1
+Clay,PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Chris Beeker,2
+Clay,PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,6
+Clay,PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,0
+Clay,PROVISIONAL,Secretary of State,,REP,Caroleene Dobson,4
+Clay,PROVISIONAL,Secretary of State,,REP,Christopher Christian Horn,4
+Clay,PROVISIONAL,Secretary of State,,REP,Glenda S. Jackson,1
+Clay,PROVISIONAL,State Auditor,,REP,Andrew Sorrell,4
+Clay,PROVISIONAL,State Auditor,,REP,Derek Chen,5
+Clay,PROVISIONAL,State Senate,13,REP,Gerald Dial,2
+Clay,PROVISIONAL,State Senate,13,REP,Randy Price,7
+Clay,PROVISIONAL,State Treasurer,,REP,Steve Lolley,3
+Clay,PROVISIONAL,State Treasurer,,REP,Young Boozer,6
+Clay,PROVISIONAL,U.S. House,3,REP,Mike Rogers,8
+Clay,PROVISIONAL,U.S. House,3,REP,Terri LaPoint,1
+Clay,PROVISIONAL,U.S. Senate,,REP,Barry Moore,1
+Clay,PROVISIONAL,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Clay,PROVISIONAL,U.S. Senate,,REP,Jared Hudson,3
+Clay,PROVISIONAL,U.S. Senate,,REP,Morgan Murphy,0
+Clay,PROVISIONAL,U.S. Senate,,REP,Rodney Walker,4
+Clay,PROVISIONAL,U.S. Senate,,REP,Seth Burton,0
+Clay,PROVISIONAL,U.S. Senate,,REP,Steve Marshall,1
+Clay,SHINBONE VFD,Attorney General,,REP,Jay Mitchell,29
+Clay,SHINBONE VFD,Attorney General,,REP,Katherine Robertson,40
+Clay,SHINBONE VFD,Attorney General,,REP,Pamela L. Casey,23
+Clay,SHINBONE VFD,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,30
+Clay,SHINBONE VFD,Commissioner of Agriculture and Industries,,REP,Cory Hill,34
+Clay,SHINBONE VFD,Commissioner of Agriculture and Industries,,REP,Jack Williams,24
+Clay,SHINBONE VFD,Governor,,REP,"""Alabama"" Will Santivasci",5
+Clay,SHINBONE VFD,Governor,,REP,Ken McFeeters,5
+Clay,SHINBONE VFD,Governor,,REP,Thomas Tuberville,91
+Clay,SHINBONE VFD,Lieutenant Governor,,REP,George Childress,1
+Clay,SHINBONE VFD,Lieutenant Governor,,REP,John Wahl,40
+Clay,SHINBONE VFD,Lieutenant Governor,,REP,Nicole Jones Wadsworth,2
+Clay,SHINBONE VFD,Lieutenant Governor,,REP,Pat Bishop,5
+Clay,SHINBONE VFD,Lieutenant Governor,,REP,Rick Pate,5
+Clay,SHINBONE VFD,Lieutenant Governor,,REP,Stewart Hill Tankersley,2
+Clay,SHINBONE VFD,Lieutenant Governor,,REP,Wes Allen,38
+Clay,SHINBONE VFD,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,19
+Clay,SHINBONE VFD,"Public Service Commission, Place No. 1",,REP,Matt Gentry,70
+Clay,SHINBONE VFD,"Public Service Commission, Place No. 2",,REP,Brent Woodall,13
+Clay,SHINBONE VFD,"Public Service Commission, Place No. 2",,REP,Chris Beeker,20
+Clay,SHINBONE VFD,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,42
+Clay,SHINBONE VFD,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,14
+Clay,SHINBONE VFD,Secretary of State,,REP,Caroleene Dobson,52
+Clay,SHINBONE VFD,Secretary of State,,REP,Christopher Christian Horn,26
+Clay,SHINBONE VFD,Secretary of State,,REP,Glenda S. Jackson,12
+Clay,SHINBONE VFD,State Auditor,,REP,Andrew Sorrell,61
+Clay,SHINBONE VFD,State Auditor,,REP,Derek Chen,27
+Clay,SHINBONE VFD,State Senate,13,REP,Gerald Dial,32
+Clay,SHINBONE VFD,State Senate,13,REP,Randy Price,68
+Clay,SHINBONE VFD,State Treasurer,,REP,Steve Lolley,29
+Clay,SHINBONE VFD,State Treasurer,,REP,Young Boozer,60
+Clay,SHINBONE VFD,U.S. House,3,REP,Mike Rogers,83
+Clay,SHINBONE VFD,U.S. House,3,REP,Terri LaPoint,17
+Clay,SHINBONE VFD,U.S. Senate,,REP,Barry Moore,26
+Clay,SHINBONE VFD,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Clay,SHINBONE VFD,U.S. Senate,,REP,Jared Hudson,17
+Clay,SHINBONE VFD,U.S. Senate,,REP,Morgan Murphy,0
+Clay,SHINBONE VFD,U.S. Senate,,REP,Rodney Walker,33
+Clay,SHINBONE VFD,U.S. Senate,,REP,Seth Burton,2
+Clay,SHINBONE VFD,U.S. Senate,,REP,Steve Marshall,22
+Clay,TRI-COMM. FIRE,Attorney General,,REP,Jay Mitchell,28
+Clay,TRI-COMM. FIRE,Attorney General,,REP,Katherine Robertson,31
+Clay,TRI-COMM. FIRE,Attorney General,,REP,Pamela L. Casey,15
+Clay,TRI-COMM. FIRE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,14
+Clay,TRI-COMM. FIRE,Commissioner of Agriculture and Industries,,REP,Cory Hill,35
+Clay,TRI-COMM. FIRE,Commissioner of Agriculture and Industries,,REP,Jack Williams,27
+Clay,TRI-COMM. FIRE,Governor,,REP,"""Alabama"" Will Santivasci",0
+Clay,TRI-COMM. FIRE,Governor,,REP,Ken McFeeters,1
+Clay,TRI-COMM. FIRE,Governor,,REP,Thomas Tuberville,79
+Clay,TRI-COMM. FIRE,Lieutenant Governor,,REP,George Childress,3
+Clay,TRI-COMM. FIRE,Lieutenant Governor,,REP,John Wahl,39
+Clay,TRI-COMM. FIRE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,1
+Clay,TRI-COMM. FIRE,Lieutenant Governor,,REP,Pat Bishop,2
+Clay,TRI-COMM. FIRE,Lieutenant Governor,,REP,Rick Pate,4
+Clay,TRI-COMM. FIRE,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Clay,TRI-COMM. FIRE,Lieutenant Governor,,REP,Wes Allen,29
+Clay,TRI-COMM. FIRE,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,15
+Clay,TRI-COMM. FIRE,"Public Service Commission, Place No. 1",,REP,Matt Gentry,59
+Clay,TRI-COMM. FIRE,"Public Service Commission, Place No. 2",,REP,Brent Woodall,17
+Clay,TRI-COMM. FIRE,"Public Service Commission, Place No. 2",,REP,Chris Beeker,27
+Clay,TRI-COMM. FIRE,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,26
+Clay,TRI-COMM. FIRE,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,6
+Clay,TRI-COMM. FIRE,Secretary of State,,REP,Caroleene Dobson,49
+Clay,TRI-COMM. FIRE,Secretary of State,,REP,Christopher Christian Horn,12
+Clay,TRI-COMM. FIRE,Secretary of State,,REP,Glenda S. Jackson,12
+Clay,TRI-COMM. FIRE,State Auditor,,REP,Andrew Sorrell,62
+Clay,TRI-COMM. FIRE,State Auditor,,REP,Derek Chen,13
+Clay,TRI-COMM. FIRE,State Senate,13,REP,Gerald Dial,30
+Clay,TRI-COMM. FIRE,State Senate,13,REP,Randy Price,49
+Clay,TRI-COMM. FIRE,State Treasurer,,REP,Steve Lolley,19
+Clay,TRI-COMM. FIRE,State Treasurer,,REP,Young Boozer,57
+Clay,TRI-COMM. FIRE,U.S. House,3,REP,Mike Rogers,67
+Clay,TRI-COMM. FIRE,U.S. House,3,REP,Terri LaPoint,11
+Clay,TRI-COMM. FIRE,U.S. Senate,,REP,Barry Moore,28
+Clay,TRI-COMM. FIRE,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
+Clay,TRI-COMM. FIRE,U.S. Senate,,REP,Jared Hudson,19
+Clay,TRI-COMM. FIRE,U.S. Senate,,REP,Morgan Murphy,0
+Clay,TRI-COMM. FIRE,U.S. Senate,,REP,Rodney Walker,14
+Clay,TRI-COMM. FIRE,U.S. Senate,,REP,Seth Burton,0
+Clay,TRI-COMM. FIRE,U.S. Senate,,REP,Steve Marshall,18
 Clay,ABSENTEE,Governor,,DEM,"Chad ""Chig"" Martin",0
 Clay,ABSENTEE,Governor,,DEM,Doug Jones,9
 Clay,ABSENTEE,Governor,,DEM,Jamel J. Brown,1

@@ -144,8 +144,8 @@ Hale,0003 BUCKSNORT,Lieutenant Governor,,REP,John Wahl,23
 Hale,0003 BUCKSNORT,U.S. Senate,,REP,Seth Burton,0
 Hale,0003 BUCKSNORT,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
 Hale,0003 BUCKSNORT,U.S. Senate,,REP,Jared Hudson,4
-Hale,0003 BUCKSNORT,U.S. Senate,,REP,Steve Marshall,23
-Hale,0003 BUCKSNORT,U.S. Senate,,REP,Barry Moore,19
+Hale,0003 BUCKSNORT,U.S. Senate,,REP,Steve Marshall,19
+Hale,0003 BUCKSNORT,U.S. Senate,,REP,Barry Moore,23
 Hale,0003 BUCKSNORT,U.S. Senate,,REP,Morgan Murphy,2
 Hale,0003 BUCKSNORT,U.S. Senate,,REP,Rodney Walker,0
 Hale,0003 BUCKSNORT,Attorney General,,REP,Pamela L. Casey,5
@@ -200,8 +200,8 @@ Hale,0004 NAT'L GUA ARMORY,Lieutenant Governor,,REP,John Wahl,60
 Hale,0004 NAT'L GUA ARMORY,U.S. Senate,,REP,Seth Burton,2
 Hale,0004 NAT'L GUA ARMORY,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
 Hale,0004 NAT'L GUA ARMORY,U.S. Senate,,REP,Jared Hudson,39
-Hale,0004 NAT'L GUA ARMORY,U.S. Senate,,REP,Steve Marshall,67
-Hale,0004 NAT'L GUA ARMORY,U.S. Senate,,REP,Barry Moore,83
+Hale,0004 NAT'L GUA ARMORY,U.S. Senate,,REP,Steve Marshall,83
+Hale,0004 NAT'L GUA ARMORY,U.S. Senate,,REP,Barry Moore,67
 Hale,0004 NAT'L GUA ARMORY,U.S. Senate,,REP,Morgan Murphy,0
 Hale,0004 NAT'L GUA ARMORY,U.S. Senate,,REP,Rodney Walker,4
 Hale,0004 NAT'L GUA ARMORY,Attorney General,,REP,Pamela L. Casey,21
@@ -265,7 +265,7 @@ Hale,0005 NEWBERN CITY HALL,Attorney General,,REP,Jay Mitchell,10
 Hale,0005 NEWBERN CITY HALL,Attorney General,,REP,Katherine Robertson,37
 Hale,0005 NEWBERN CITY HALL,Secretary of State,,REP,Caroleene Dobson,41
 Hale,0005 NEWBERN CITY HALL,Secretary of State,,REP,Christopher Christian Horn,2
-Hale,0005 NEWBERN CITY HALL,Secretary of State,,REP,Glenda S. Jackson,0
+Hale,0005 NEWBERN CITY HALL,Secretary of State,,REP,Glenda S. Jackson,4
 Hale,0005 NEWBERN CITY HALL,State Treasurer,,REP,Young Boozer,39
 Hale,0005 NEWBERN CITY HALL,State Treasurer,,REP,Steve Lolley,8
 Hale,0005 NEWBERN CITY HALL,State Auditor,,REP,Derek Chen,39
@@ -368,8 +368,8 @@ Hale,0007 LOCK 5 VFD,Lieutenant Governor,,REP,John Wahl,17
 Hale,0007 LOCK 5 VFD,U.S. Senate,,REP,Seth Burton,0
 Hale,0007 LOCK 5 VFD,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
 Hale,0007 LOCK 5 VFD,U.S. Senate,,REP,Jared Hudson,10
-Hale,0007 LOCK 5 VFD,U.S. Senate,,REP,Steve Marshall,13
-Hale,0007 LOCK 5 VFD,U.S. Senate,,REP,Barry Moore,15
+Hale,0007 LOCK 5 VFD,U.S. Senate,,REP,Steve Marshall,15
+Hale,0007 LOCK 5 VFD,U.S. Senate,,REP,Barry Moore,13
 Hale,0007 LOCK 5 VFD,U.S. Senate,,REP,Morgan Murphy,0
 Hale,0007 LOCK 5 VFD,U.S. Senate,,REP,Rodney Walker,2
 Hale,0007 LOCK 5 VFD,Attorney General,,REP,Pamela L. Casey,2
@@ -424,9 +424,9 @@ Hale,0008 GALLION VFD,Lieutenant Governor,,REP,John Wahl,30
 Hale,0008 GALLION VFD,U.S. Senate,,REP,Seth Burton,1
 Hale,0008 GALLION VFD,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
 Hale,0008 GALLION VFD,U.S. Senate,,REP,Jared Hudson,21
-Hale,0008 GALLION VFD,U.S. Senate,,REP,Steve Marshall,20
-Hale,0008 GALLION VFD,U.S. Senate,,REP,Barry Moore,0
-Hale,0008 GALLION VFD,U.S. Senate,,REP,Morgan Murphy,1
+Hale,0008 GALLION VFD,U.S. Senate,,REP,Steve Marshall,10
+Hale,0008 GALLION VFD,U.S. Senate,,REP,Barry Moore,20
+Hale,0008 GALLION VFD,U.S. Senate,,REP,Morgan Murphy,0
 Hale,0008 GALLION VFD,U.S. Senate,,REP,Rodney Walker,1
 Hale,0008 GALLION VFD,Attorney General,,REP,Pamela L. Casey,9
 Hale,0008 GALLION VFD,Attorney General,,REP,Jay Mitchell,21
@@ -480,7 +480,7 @@ Hale,0009 SUNSHINE HIGH SCH,Lieutenant Governor,,REP,John Wahl,5
 Hale,0009 SUNSHINE HIGH SCH,U.S. Senate,,REP,Seth Burton,0
 Hale,0009 SUNSHINE HIGH SCH,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
 Hale,0009 SUNSHINE HIGH SCH,U.S. Senate,,REP,Jared Hudson,4
-Hale,0009 SUNSHINE HIGH SCH,U.S. Senate,,REP,Steve Marshall,6
+Hale,0009 SUNSHINE HIGH SCH,U.S. Senate,,REP,Steve Marshall,4
 Hale,0009 SUNSHINE HIGH SCH,U.S. Senate,,REP,Barry Moore,6
 Hale,0009 SUNSHINE HIGH SCH,U.S. Senate,,REP,Morgan Murphy,0
 Hale,0009 SUNSHINE HIGH SCH,U.S. Senate,,REP,Rodney Walker,0
@@ -539,7 +539,7 @@ Hale,0010 MT. HERMAN #2,U.S. Senate,,REP,Jared Hudson,9
 Hale,0010 MT. HERMAN #2,U.S. Senate,,REP,Steve Marshall,13
 Hale,0010 MT. HERMAN #2,U.S. Senate,,REP,Barry Moore,10
 Hale,0010 MT. HERMAN #2,U.S. Senate,,REP,Morgan Murphy,0
-Hale,0010 MT. HERMAN #2,U.S. Senate,,REP,Rodney Walker,5
+Hale,0010 MT. HERMAN #2,U.S. Senate,,REP,Rodney Walker,2
 Hale,0010 MT. HERMAN #2,Attorney General,,REP,Pamela L. Casey,5
 Hale,0010 MT. HERMAN #2,Attorney General,,REP,Jay Mitchell,10
 Hale,0010 MT. HERMAN #2,Attorney General,,REP,Katherine Robertson,20
@@ -557,7 +557,7 @@ Hale,0010 MT. HERMAN #2,Public Service Commission Place 1,,REP,Matt Gentry,26
 Hale,0010 MT. HERMAN #2,Public Service Commission Place 1,,REP,Jeremy H. Oden,5
 Hale,0010 MT. HERMAN #2,Public Service Commission Place 2,,REP,Priscilla Andrews,4
 Hale,0010 MT. HERMAN #2,Public Service Commission Place 2,,REP,Chris Beeker,21
-Hale,0010 MT. HERMAN #2,Public Service Commission Place 2,,REP,Brent Woodall,12
+Hale,0010 MT. HERMAN #2,Public Service Commission Place 2,,REP,Brent Woodall,0
 Hale,0010 MT. HERMAN #2,Public Service Commission Place 2,,REP,Jim Zig Zeigler,12
 Hale,0011 VALLEY,Governor,,DEM,"Chad ""Chig"" Martin",0
 Hale,0011 VALLEY,Governor,,DEM,Doug Jones,5
@@ -600,8 +600,8 @@ Hale,0011 VALLEY,Attorney General,,REP,Pamela L. Casey,3
 Hale,0011 VALLEY,Attorney General,,REP,Jay Mitchell,8
 Hale,0011 VALLEY,Attorney General,,REP,Katherine Robertson,16
 Hale,0011 VALLEY,Secretary of State,,REP,Caroleene Dobson,14
-Hale,0011 VALLEY,Secretary of State,,REP,Christopher Christian Horn,3
-Hale,0011 VALLEY,Secretary of State,,REP,Glenda S. Jackson,0
+Hale,0011 VALLEY,Secretary of State,,REP,Christopher Christian Horn,8
+Hale,0011 VALLEY,Secretary of State,,REP,Glenda S. Jackson,3
 Hale,0011 VALLEY,State Treasurer,,REP,Young Boozer,18
 Hale,0011 VALLEY,State Treasurer,,REP,Steve Lolley,9
 Hale,0011 VALLEY,State Auditor,,REP,Derek Chen,9
@@ -712,8 +712,8 @@ Hale,0013 PHIPPS WORK CTR,Attorney General,,REP,Pamela L. Casey,0
 Hale,0013 PHIPPS WORK CTR,Attorney General,,REP,Jay Mitchell,6
 Hale,0013 PHIPPS WORK CTR,Attorney General,,REP,Katherine Robertson,3
 Hale,0013 PHIPPS WORK CTR,Secretary of State,,REP,Caroleene Dobson,5
-Hale,0013 PHIPPS WORK CTR,Secretary of State,,REP,Christopher Christian Horn,1
-Hale,0013 PHIPPS WORK CTR,Secretary of State,,REP,Glenda S. Jackson,0
+Hale,0013 PHIPPS WORK CTR,Secretary of State,,REP,Christopher Christian Horn,2
+Hale,0013 PHIPPS WORK CTR,Secretary of State,,REP,Glenda S. Jackson,1
 Hale,0013 PHIPPS WORK CTR,State Treasurer,,REP,Young Boozer,8
 Hale,0013 PHIPPS WORK CTR,State Treasurer,,REP,Steve Lolley,1
 Hale,0013 PHIPPS WORK CTR,State Auditor,,REP,Derek Chen,1
@@ -769,7 +769,7 @@ Hale,0014 STEWART,Attorney General,,REP,Jay Mitchell,16
 Hale,0014 STEWART,Attorney General,,REP,Katherine Robertson,52
 Hale,0014 STEWART,Secretary of State,,REP,Caroleene Dobson,51
 Hale,0014 STEWART,Secretary of State,,REP,Christopher Christian Horn,13
-Hale,0014 STEWART,Secretary of State,,REP,Glenda S. Jackson,0
+Hale,0014 STEWART,Secretary of State,,REP,Glenda S. Jackson,3
 Hale,0014 STEWART,State Treasurer,,REP,Young Boozer,53
 Hale,0014 STEWART,State Treasurer,,REP,Steve Lolley,16
 Hale,0014 STEWART,State Auditor,,REP,Derek Chen,36
@@ -817,7 +817,7 @@ Hale,0015 ABSENTEE,U.S. Senate,,REP,Seth Burton,0
 Hale,0015 ABSENTEE,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
 Hale,0015 ABSENTEE,U.S. Senate,,REP,Jared Hudson,4
 Hale,0015 ABSENTEE,U.S. Senate,,REP,Steve Marshall,9
-Hale,0015 ABSENTEE,U.S. Senate,,REP,Barry Moore,0
+Hale,0015 ABSENTEE,U.S. Senate,,REP,Barry Moore,1
 Hale,0015 ABSENTEE,U.S. Senate,,REP,Morgan Murphy,0
 Hale,0015 ABSENTEE,U.S. Senate,,REP,Rodney Walker,0
 Hale,0015 ABSENTEE,Attorney General,,REP,Pamela L. Casey,2
@@ -825,7 +825,7 @@ Hale,0015 ABSENTEE,Attorney General,,REP,Jay Mitchell,1
 Hale,0015 ABSENTEE,Attorney General,,REP,Katherine Robertson,10
 Hale,0015 ABSENTEE,Secretary of State,,REP,Caroleene Dobson,9
 Hale,0015 ABSENTEE,Secretary of State,,REP,Christopher Christian Horn,3
-Hale,0015 ABSENTEE,Secretary of State,,REP,Glenda S. Jackson,0
+Hale,0015 ABSENTEE,Secretary of State,,REP,Glenda S. Jackson,1
 Hale,0015 ABSENTEE,State Treasurer,,REP,Young Boozer,8
 Hale,0015 ABSENTEE,State Treasurer,,REP,Steve Lolley,3
 Hale,0015 ABSENTEE,State Auditor,,REP,Derek Chen,8
