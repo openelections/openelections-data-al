@@ -88,6 +88,9 @@ Houston,0002 BAY SPRINGS VFD,Lieutenant Governor,,DEM,Phillip Ensler,19
 Houston,0002 BAY SPRINGS VFD,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,5
 Houston,0002 BAY SPRINGS VFD,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,18
 Houston,0002 BAY SPRINGS VFD,"Public Service Commissioner, Place 1",,DEM,John Northrop,9
+Houston,0002 BAY SPRINGS VFD,State Democratic Executive Committee,,DEM,Jeff Scroggins,5
+Houston,0002 BAY SPRINGS VFD,State Democratic Executive Committee,,DEM,Rufus Lee,11
+Houston,0002 BAY SPRINGS VFD,State Democratic Executive Committee,,DEM,Vincent Owens,20
 Houston,0002 BAY SPRINGS VFD,U.S. Senate,,DEM,Dakarai Larriett,8
 Houston,0002 BAY SPRINGS VFD,U.S. Senate,,DEM,Everett Wess,14
 Houston,0002 BAY SPRINGS VFD,U.S. Senate,,DEM,Kyle Sweetser,4
@@ -808,8 +811,8 @@ Houston,0011 WALTON PARK,Secretary of State,,REP,Christopher Christian Horn,17
 Houston,0011 WALTON PARK,Secretary of State,,REP,Glenda S. Jackson,8
 Houston,0011 WALTON PARK,State Auditor,,REP,Andrew Sorrell,38
 Houston,0011 WALTON PARK,State Auditor,,REP,Derek Chen,11
-Houston,0011 WALTON PARK,State House,,REP,David Money,29
-Houston,0011 WALTON PARK,State House,,REP,Rick Rehm,24
+Houston,0011 WALTON PARK,State House,85,REP,David Money,29
+Houston,0011 WALTON PARK,State House,85,REP,Rick Rehm,24
 Houston,0011 WALTON PARK,State Treasurer,,REP,Steve Lolley,20
 Houston,0011 WALTON PARK,State Treasurer,,REP,Young Boozer,26
 Houston,0011 WALTON PARK,U.S. House,1,REP,Austin Sidwell,2
@@ -886,8 +889,8 @@ Houston,0012 KINSEY SR CTR,Secretary of State,,REP,Christopher Christian Horn,67
 Houston,0012 KINSEY SR CTR,Secretary of State,,REP,Glenda S. Jackson,34
 Houston,0012 KINSEY SR CTR,State Auditor,,REP,Andrew Sorrell,246
 Houston,0012 KINSEY SR CTR,State Auditor,,REP,Derek Chen,57
-Houston,0012 KINSEY SR CTR,State House,,REP,David Money,172
-Houston,0012 KINSEY SR CTR,State House,,REP,Rick Rehm,159
+Houston,0012 KINSEY SR CTR,State House,85,REP,David Money,172
+Houston,0012 KINSEY SR CTR,State House,85,REP,Rick Rehm,159
 Houston,0012 KINSEY SR CTR,State Treasurer,,REP,Steve Lolley,119
 Houston,0012 KINSEY SR CTR,State Treasurer,,REP,Young Boozer,188
 Houston,0012 KINSEY SR CTR,U.S. House,1,REP,Austin Sidwell,11
@@ -964,8 +967,8 @@ Houston,0013 DOTHAN CIVIC CTR,Secretary of State,,REP,Christopher Christian Horn
 Houston,0013 DOTHAN CIVIC CTR,Secretary of State,,REP,Glenda S. Jackson,39
 Houston,0013 DOTHAN CIVIC CTR,State Auditor,,REP,Andrew Sorrell,266
 Houston,0013 DOTHAN CIVIC CTR,State Auditor,,REP,Derek Chen,109
-Houston,0013 DOTHAN CIVIC CTR,State House,,REP,David Money,242
-Houston,0013 DOTHAN CIVIC CTR,State House,,REP,Rick Rehm,168
+Houston,0013 DOTHAN CIVIC CTR,State House,85,REP,David Money,242
+Houston,0013 DOTHAN CIVIC CTR,State House,85,REP,Rick Rehm,168
 Houston,0013 DOTHAN CIVIC CTR,State Treasurer,,REP,Steve Lolley,86
 Houston,0013 DOTHAN CIVIC CTR,State Treasurer,,REP,Young Boozer,298
 Houston,0013 DOTHAN CIVIC CTR,U.S. House,1,REP,Austin Sidwell,9
@@ -1042,8 +1045,8 @@ Houston,0014 ANDREW BELLE COMM CTR,Secretary of State,,REP,Christopher Christian
 Houston,0014 ANDREW BELLE COMM CTR,Secretary of State,,REP,Glenda S. Jackson,6
 Houston,0014 ANDREW BELLE COMM CTR,State Auditor,,REP,Andrew Sorrell,55
 Houston,0014 ANDREW BELLE COMM CTR,State Auditor,,REP,Derek Chen,27
-Houston,0014 ANDREW BELLE COMM CTR,State House,,REP,David Money,48
-Houston,0014 ANDREW BELLE COMM CTR,State House,,REP,Rick Rehm,38
+Houston,0014 ANDREW BELLE COMM CTR,State House,85,REP,David Money,48
+Houston,0014 ANDREW BELLE COMM CTR,State House,85,REP,Rick Rehm,38
 Houston,0014 ANDREW BELLE COMM CTR,State Treasurer,,REP,Steve Lolley,25
 Houston,0014 ANDREW BELLE COMM CTR,State Treasurer,,REP,Young Boozer,57
 Houston,0014 ANDREW BELLE COMM CTR,U.S. House,1,REP,Austin Sidwell,2
@@ -1302,6 +1305,9 @@ Houston,0018 REHOBETH BC MPB,Lieutenant Governor,,DEM,Phillip Ensler,39
 Houston,0018 REHOBETH BC MPB,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,28
 Houston,0018 REHOBETH BC MPB,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,19
 Houston,0018 REHOBETH BC MPB,"Public Service Commissioner, Place 1",,DEM,John Northrop,8
+Houston,0018 REHOBETH BC MPB,State Democratic Executive Committee,,DEM,Jeff Scroggins,0
+Houston,0018 REHOBETH BC MPB,State Democratic Executive Committee,,DEM,Rufus Lee,1
+Houston,0018 REHOBETH BC MPB,State Democratic Executive Committee,,DEM,Vincent Owens,0
 Houston,0018 REHOBETH BC MPB,U.S. Senate,,DEM,Dakarai Larriett,27
 Houston,0018 REHOBETH BC MPB,U.S. Senate,,DEM,Everett Wess,6
 Houston,0018 REHOBETH BC MPB,U.S. Senate,,DEM,Kyle Sweetser,10
@@ -1375,6 +1381,9 @@ Houston,0019 TAYLOR CITY HALL,Lieutenant Governor,,DEM,Phillip Ensler,29
 Houston,0019 TAYLOR CITY HALL,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,35
 Houston,0019 TAYLOR CITY HALL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,19
 Houston,0019 TAYLOR CITY HALL,"Public Service Commissioner, Place 1",,DEM,John Northrop,8
+Houston,0019 TAYLOR CITY HALL,State Democratic Executive Committee,,DEM,Jeff Scroggins,14
+Houston,0019 TAYLOR CITY HALL,State Democratic Executive Committee,,DEM,Rufus Lee,19
+Houston,0019 TAYLOR CITY HALL,State Democratic Executive Committee,,DEM,Vincent Owens,25
 Houston,0019 TAYLOR CITY HALL,U.S. Senate,,DEM,Dakarai Larriett,19
 Houston,0019 TAYLOR CITY HALL,U.S. Senate,,DEM,Everett Wess,20
 Houston,0019 TAYLOR CITY HALL,U.S. Senate,,DEM,Kyle Sweetser,8
@@ -1489,8 +1498,8 @@ Houston,0020 VAUGHN BLUMBERG CTR,Secretary of State,,REP,Christopher Christian H
 Houston,0020 VAUGHN BLUMBERG CTR,Secretary of State,,REP,Glenda S. Jackson,42
 Houston,0020 VAUGHN BLUMBERG CTR,State Auditor,,REP,Andrew Sorrell,273
 Houston,0020 VAUGHN BLUMBERG CTR,State Auditor,,REP,Derek Chen,92
-Houston,0020 VAUGHN BLUMBERG CTR,State House,,REP,David Money,95
-Houston,0020 VAUGHN BLUMBERG CTR,State House,,REP,Rick Rehm,127
+Houston,0020 VAUGHN BLUMBERG CTR,State House,85,REP,David Money,95
+Houston,0020 VAUGHN BLUMBERG CTR,State House,85,REP,Rick Rehm,127
 Houston,0020 VAUGHN BLUMBERG CTR,State House,93,REP,Steve Clouse,119
 Houston,0020 VAUGHN BLUMBERG CTR,State House,93,REP,Stormin' Norman Horton,39
 Houston,0020 VAUGHN BLUMBERG CTR,State Senate,29,REP,Donnie Chesteen,303
@@ -1527,6 +1536,9 @@ Houston,0021 SELMA BAPT CH,Lieutenant Governor,,DEM,Phillip Ensler,80
 Houston,0021 SELMA BAPT CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,72
 Houston,0021 SELMA BAPT CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,60
 Houston,0021 SELMA BAPT CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,28
+Houston,0021 SELMA BAPT CH,State Democratic Executive Committee,,DEM,Jeff Scroggins,0
+Houston,0021 SELMA BAPT CH,State Democratic Executive Committee,,DEM,Rufus Lee,0
+Houston,0021 SELMA BAPT CH,State Democratic Executive Committee,,DEM,Vincent Owens,0
 Houston,0021 SELMA BAPT CH,U.S. Senate,,DEM,Dakarai Larriett,60
 Houston,0021 SELMA BAPT CH,U.S. Senate,,DEM,Everett Wess,45
 Houston,0021 SELMA BAPT CH,U.S. Senate,,DEM,Kyle Sweetser,19
@@ -1748,6 +1760,9 @@ Houston,0024 WICKSBURG VFD,Lieutenant Governor,,DEM,Phillip Ensler,28
 Houston,0024 WICKSBURG VFD,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,12
 Houston,0024 WICKSBURG VFD,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,13
 Houston,0024 WICKSBURG VFD,"Public Service Commissioner, Place 1",,DEM,John Northrop,10
+Houston,0024 WICKSBURG VFD,State Democratic Executive Committee,,DEM,Jeff Scroggins,7
+Houston,0024 WICKSBURG VFD,State Democratic Executive Committee,,DEM,Rufus Lee,15
+Houston,0024 WICKSBURG VFD,State Democratic Executive Committee,,DEM,Vincent Owens,15
 Houston,0024 WICKSBURG VFD,U.S. Senate,,DEM,Dakarai Larriett,13
 Houston,0024 WICKSBURG VFD,U.S. Senate,,DEM,Everett Wess,9
 Houston,0024 WICKSBURG VFD,U.S. Senate,,DEM,Kyle Sweetser,4
@@ -1867,8 +1882,8 @@ Houston,0025 WIREGRASS PARK,Secretary of State,,REP,Christopher Christian Horn,5
 Houston,0025 WIREGRASS PARK,Secretary of State,,REP,Glenda S. Jackson,30
 Houston,0025 WIREGRASS PARK,State Auditor,,REP,Andrew Sorrell,159
 Houston,0025 WIREGRASS PARK,State Auditor,,REP,Derek Chen,42
-Houston,0025 WIREGRASS PARK,State House,,REP,David Money,108
-Houston,0025 WIREGRASS PARK,State House,,REP,Rick Rehm,99
+Houston,0025 WIREGRASS PARK,State House,85,REP,David Money,108
+Houston,0025 WIREGRASS PARK,State House,85,REP,Rick Rehm,99
 Houston,0025 WIREGRASS PARK,State Senate,29,REP,Donnie Chesteen,0
 Houston,0025 WIREGRASS PARK,State Senate,29,REP,Val Glasgow Paul,0
 Houston,0025 WIREGRASS PARK,State Senate,29,REP,Zachary J. Hurst,0
@@ -1903,6 +1918,9 @@ Houston,0026 DOTHAN 1ST ASSEMBLY CLC,Lieutenant Governor,,DEM,Phillip Ensler,83
 Houston,0026 DOTHAN 1ST ASSEMBLY CLC,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,65
 Houston,0026 DOTHAN 1ST ASSEMBLY CLC,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,50
 Houston,0026 DOTHAN 1ST ASSEMBLY CLC,"Public Service Commissioner, Place 1",,DEM,John Northrop,19
+Houston,0026 DOTHAN 1ST ASSEMBLY CLC,State Democratic Executive Committee,,DEM,Jeff Scroggins,25
+Houston,0026 DOTHAN 1ST ASSEMBLY CLC,State Democratic Executive Committee,,DEM,Rufus Lee,40
+Houston,0026 DOTHAN 1ST ASSEMBLY CLC,State Democratic Executive Committee,,DEM,Vincent Owens,66
 Houston,0026 DOTHAN 1ST ASSEMBLY CLC,U.S. Senate,,DEM,Dakarai Larriett,54
 Houston,0026 DOTHAN 1ST ASSEMBLY CLC,U.S. Senate,,DEM,Everett Wess,33
 Houston,0026 DOTHAN 1ST ASSEMBLY CLC,U.S. Senate,,DEM,Kyle Sweetser,23
@@ -1974,6 +1992,9 @@ Houston,0027 MT. GILEAD BAPT CH,Lieutenant Governor,,DEM,Phillip Ensler,82
 Houston,0027 MT. GILEAD BAPT CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,72
 Houston,0027 MT. GILEAD BAPT CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,66
 Houston,0027 MT. GILEAD BAPT CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,30
+Houston,0027 MT. GILEAD BAPT CH,State Democratic Executive Committee,,DEM,Jeff Scroggins,27
+Houston,0027 MT. GILEAD BAPT CH,State Democratic Executive Committee,,DEM,Rufus Lee,64
+Houston,0027 MT. GILEAD BAPT CH,State Democratic Executive Committee,,DEM,Vincent Owens,79
 Houston,0027 MT. GILEAD BAPT CH,U.S. Senate,,DEM,Dakarai Larriett,78
 Houston,0027 MT. GILEAD BAPT CH,U.S. Senate,,DEM,Everett Wess,41
 Houston,0027 MT. GILEAD BAPT CH,U.S. Senate,,DEM,Kyle Sweetser,16
@@ -2053,6 +2074,9 @@ Houston,0028 ABSENTEE,State Democratic Executive Committee,,DEM,Earl Jones,3
 Houston,0028 ABSENTEE,State Democratic Executive Committee,,DEM,Larry E Matthews,14
 Houston,0028 ABSENTEE,State Democratic Executive Committee,,DEM,Letetia Daniels Jackson,17
 Houston,0028 ABSENTEE,State Democratic Executive Committee,,DEM,Sherri Johnson,1
+Houston,0028 ABSENTEE,State Democratic Executive Committee,,DEM,Jeff Scroggins,2
+Houston,0028 ABSENTEE,State Democratic Executive Committee,,DEM,Rufus Lee,3
+Houston,0028 ABSENTEE,State Democratic Executive Committee,,DEM,Vincent Owens,3
 Houston,0028 ABSENTEE,U.S. Senate,,DEM,Dakarai Larriett,9
 Houston,0028 ABSENTEE,U.S. Senate,,DEM,Everett Wess,16
 Houston,0028 ABSENTEE,U.S. Senate,,DEM,Kyle Sweetser,10
@@ -2100,8 +2124,8 @@ Houston,0028 ABSENTEE,Secretary of State,,REP,Christopher Christian Horn,48
 Houston,0028 ABSENTEE,Secretary of State,,REP,Glenda S. Jackson,25
 Houston,0028 ABSENTEE,State Auditor,,REP,Andrew Sorrell,126
 Houston,0028 ABSENTEE,State Auditor,,REP,Derek Chen,37
-Houston,0028 ABSENTEE,State House,,REP,David Money,15
-Houston,0028 ABSENTEE,State House,,REP,Rick Rehm,12
+Houston,0028 ABSENTEE,State House,85,REP,David Money,15
+Houston,0028 ABSENTEE,State House,85,REP,Rick Rehm,12
 Houston,0028 ABSENTEE,State House,93,REP,Steve Clouse,31
 Houston,0028 ABSENTEE,State House,93,REP,Stormin' Norman Horton,6
 Houston,0028 ABSENTEE,State Senate,29,REP,Donnie Chesteen,127
@@ -2144,6 +2168,9 @@ Houston,0029 PROVISIONAL,State Democratic Executive Committee,,DEM,Earl Jones,3
 Houston,0029 PROVISIONAL,State Democratic Executive Committee,,DEM,Larry E Matthews,8
 Houston,0029 PROVISIONAL,State Democratic Executive Committee,,DEM,Letetia Daniels Jackson,9
 Houston,0029 PROVISIONAL,State Democratic Executive Committee,,DEM,Sherri Johnson,2
+Houston,0029 PROVISIONAL,State Democratic Executive Committee,,DEM,Jeff Scroggins,1
+Houston,0029 PROVISIONAL,State Democratic Executive Committee,,DEM,Rufus Lee,0
+Houston,0029 PROVISIONAL,State Democratic Executive Committee,,DEM,Vincent Owens,0
 Houston,0029 PROVISIONAL,U.S. Senate,,DEM,Dakarai Larriett,8
 Houston,0029 PROVISIONAL,U.S. Senate,,DEM,Everett Wess,10
 Houston,0029 PROVISIONAL,U.S. Senate,,DEM,Kyle Sweetser,5
@@ -2191,8 +2218,8 @@ Houston,0029 PROVISIONAL,Secretary of State,,REP,Christopher Christian Horn,6
 Houston,0029 PROVISIONAL,Secretary of State,,REP,Glenda S. Jackson,4
 Houston,0029 PROVISIONAL,State Auditor,,REP,Andrew Sorrell,19
 Houston,0029 PROVISIONAL,State Auditor,,REP,Derek Chen,5
-Houston,0029 PROVISIONAL,State House,,REP,David Money,0
-Houston,0029 PROVISIONAL,State House,,REP,Rick Rehm,0
+Houston,0029 PROVISIONAL,State House,85,REP,David Money,0
+Houston,0029 PROVISIONAL,State House,85,REP,Rick Rehm,0
 Houston,0029 PROVISIONAL,State House,93,REP,Steve Clouse,2
 Houston,0029 PROVISIONAL,State House,93,REP,Stormin' Norman Horton,1
 Houston,0029 PROVISIONAL,State Senate,29,REP,Donnie Chesteen,16
@@ -2235,6 +2262,9 @@ Houston,0030 ABSENTEE PROVISIONAL,State Democratic Executive Committee,,DEM,Earl
 Houston,0030 ABSENTEE PROVISIONAL,State Democratic Executive Committee,,DEM,Larry E Matthews,0
 Houston,0030 ABSENTEE PROVISIONAL,State Democratic Executive Committee,,DEM,Letetia Daniels Jackson,0
 Houston,0030 ABSENTEE PROVISIONAL,State Democratic Executive Committee,,DEM,Sherri Johnson,0
+Houston,0030 ABSENTEE PROVISIONAL,State Democratic Executive Committee,,DEM,Jeff Scroggins,0
+Houston,0030 ABSENTEE PROVISIONAL,State Democratic Executive Committee,,DEM,Rufus Lee,0
+Houston,0030 ABSENTEE PROVISIONAL,State Democratic Executive Committee,,DEM,Vincent Owens,0
 Houston,0030 ABSENTEE PROVISIONAL,U.S. Senate,,DEM,Dakarai Larriett,0
 Houston,0030 ABSENTEE PROVISIONAL,U.S. Senate,,DEM,Everett Wess,0
 Houston,0030 ABSENTEE PROVISIONAL,U.S. Senate,,DEM,Kyle Sweetser,0
@@ -2281,8 +2311,8 @@ Houston,0030 ABSENTEE PROVISIONAL,Secretary of State,,REP,Christopher Christian 
 Houston,0030 ABSENTEE PROVISIONAL,Secretary of State,,REP,Glenda S. Jackson,0
 Houston,0030 ABSENTEE PROVISIONAL,State Auditor,,REP,Andrew Sorrell,0
 Houston,0030 ABSENTEE PROVISIONAL,State Auditor,,REP,Derek Chen,0
-Houston,0030 ABSENTEE PROVISIONAL,State House,,REP,David Money,0
-Houston,0030 ABSENTEE PROVISIONAL,State House,,REP,Rick Rehm,0
+Houston,0030 ABSENTEE PROVISIONAL,State House,85,REP,David Money,0
+Houston,0030 ABSENTEE PROVISIONAL,State House,85,REP,Rick Rehm,0
 Houston,0030 ABSENTEE PROVISIONAL,State House,93,REP,Steve Clouse,0
 Houston,0030 ABSENTEE PROVISIONAL,State House,93,REP,Stormin' Norman Horton,0
 Houston,0030 ABSENTEE PROVISIONAL,State Senate,29,REP,Donnie Chesteen,0

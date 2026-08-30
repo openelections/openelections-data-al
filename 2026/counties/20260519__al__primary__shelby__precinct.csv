@@ -53,8 +53,8 @@ Shelby,0001 DUNNAVANT COMM. CTR.,Shelby County Sheriff,,REP,John Samaniego,71
 Shelby,0001 DUNNAVANT COMM. CTR.,Shelby County Sheriff,,REP,"Ken ""Chief"" Bailey",37
 Shelby,0001 DUNNAVANT COMM. CTR.,State Auditor,,REP,Andrew Sorrell,56
 Shelby,0001 DUNNAVANT COMM. CTR.,State Auditor,,REP,Derek Chen,51
-Shelby,0001 DUNNAVANT COMM. CTR.,State House,45.0,REP,John Dawson,32
-Shelby,0001 DUNNAVANT COMM. CTR.,State House,45.0,REP,Susan DuBose,75
+Shelby,0001 DUNNAVANT COMM. CTR.,State House,45,REP,John Dawson,32
+Shelby,0001 DUNNAVANT COMM. CTR.,State House,45,REP,Susan DuBose,75
 Shelby,0001 DUNNAVANT COMM. CTR.,"State Republican Executive Committee, Shelby County Place 2",,REP,Demus Copeland,16
 Shelby,0001 DUNNAVANT COMM. CTR.,"State Republican Executive Committee, Shelby County Place 2",,REP,Paul Garris,27
 Shelby,0001 DUNNAVANT COMM. CTR.,"State Republican Executive Committee, Shelby County Place 2",,REP,Stephanie Smith,50
@@ -71,14 +71,14 @@ Shelby,0001 DUNNAVANT COMM. CTR.,"State Republican Executive Committee, Shleby C
 Shelby,0001 DUNNAVANT COMM. CTR.,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,15
 Shelby,0001 DUNNAVANT COMM. CTR.,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,52
 Shelby,0001 DUNNAVANT COMM. CTR.,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,38
-Shelby,0001 DUNNAVANT COMM. CTR.,State Senate,15.0,REP,Dan Roberts,57
-Shelby,0001 DUNNAVANT COMM. CTR.,State Senate,15.0,REP,Scott Ortis,45
+Shelby,0001 DUNNAVANT COMM. CTR.,State Senate,15,REP,Dan Roberts,57
+Shelby,0001 DUNNAVANT COMM. CTR.,State Senate,15,REP,Scott Ortis,45
 Shelby,0001 DUNNAVANT COMM. CTR.,State Treasurer,,REP,Steve Lolley,32
 Shelby,0001 DUNNAVANT COMM. CTR.,State Treasurer,,REP,Young Boozer,77
 Shelby,0001 DUNNAVANT COMM. CTR.,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,40
 Shelby,0001 DUNNAVANT COMM. CTR.,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,46
-Shelby,0001 DUNNAVANT COMM. CTR.,U.S. House,6.0,REP,Case Dixon,23
-Shelby,0001 DUNNAVANT COMM. CTR.,U.S. House,6.0,REP,Gary Palmer,86
+Shelby,0001 DUNNAVANT COMM. CTR.,U.S. House,6,REP,Case Dixon,23
+Shelby,0001 DUNNAVANT COMM. CTR.,U.S. House,6,REP,Gary Palmer,86
 Shelby,0001 DUNNAVANT COMM. CTR.,U.S. Senate,,REP,Barry Moore,38
 Shelby,0001 DUNNAVANT COMM. CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,3
 Shelby,0001 DUNNAVANT COMM. CTR.,U.S. Senate,,REP,Jared Hudson,36
@@ -140,8 +140,8 @@ Shelby,0002 VANDIVER STER SR CTR,Shelby County Sheriff,,REP,John Samaniego,151
 Shelby,0002 VANDIVER STER SR CTR,Shelby County Sheriff,,REP,"Ken ""Chief"" Bailey",61
 Shelby,0002 VANDIVER STER SR CTR,State Auditor,,REP,Andrew Sorrell,141
 Shelby,0002 VANDIVER STER SR CTR,State Auditor,,REP,Derek Chen,59
-Shelby,0002 VANDIVER STER SR CTR,State House,45.0,REP,John Dawson,35
-Shelby,0002 VANDIVER STER SR CTR,State House,45.0,REP,Susan DuBose,172
+Shelby,0002 VANDIVER STER SR CTR,State House,45,REP,John Dawson,35
+Shelby,0002 VANDIVER STER SR CTR,State House,45,REP,Susan DuBose,172
 Shelby,0002 VANDIVER STER SR CTR,"State Republican Executive Committee, Shelby County Place 2",,REP,Demus Copeland,20
 Shelby,0002 VANDIVER STER SR CTR,"State Republican Executive Committee, Shelby County Place 2",,REP,Paul Garris,60
 Shelby,0002 VANDIVER STER SR CTR,"State Republican Executive Committee, Shelby County Place 2",,REP,Stephanie Smith,79
@@ -158,14 +158,14 @@ Shelby,0002 VANDIVER STER SR CTR,"State Republican Executive Committee, Shleby C
 Shelby,0002 VANDIVER STER SR CTR,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,39
 Shelby,0002 VANDIVER STER SR CTR,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,101
 Shelby,0002 VANDIVER STER SR CTR,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,59
-Shelby,0002 VANDIVER STER SR CTR,State Senate,15.0,REP,Dan Roberts,102
-Shelby,0002 VANDIVER STER SR CTR,State Senate,15.0,REP,Scott Ortis,101
+Shelby,0002 VANDIVER STER SR CTR,State Senate,15,REP,Dan Roberts,102
+Shelby,0002 VANDIVER STER SR CTR,State Senate,15,REP,Scott Ortis,101
 Shelby,0002 VANDIVER STER SR CTR,State Treasurer,,REP,Steve Lolley,62
 Shelby,0002 VANDIVER STER SR CTR,State Treasurer,,REP,Young Boozer,150
 Shelby,0002 VANDIVER STER SR CTR,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,94
 Shelby,0002 VANDIVER STER SR CTR,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,105
-Shelby,0002 VANDIVER STER SR CTR,U.S. House,6.0,REP,Case Dixon,34
-Shelby,0002 VANDIVER STER SR CTR,U.S. House,6.0,REP,Gary Palmer,185
+Shelby,0002 VANDIVER STER SR CTR,U.S. House,6,REP,Case Dixon,34
+Shelby,0002 VANDIVER STER SR CTR,U.S. House,6,REP,Gary Palmer,185
 Shelby,0002 VANDIVER STER SR CTR,U.S. Senate,,REP,Barry Moore,91
 Shelby,0002 VANDIVER STER SR CTR,U.S. Senate,,REP,Dale Shelton Deas Jr.,3
 Shelby,0002 VANDIVER STER SR CTR,U.S. Senate,,REP,Jared Hudson,78
@@ -241,14 +241,14 @@ Shelby,0003 BEULAH BAPT. CHURCH,"State Republican Executive Committee, Shleby Co
 Shelby,0003 BEULAH BAPT. CHURCH,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,26
 Shelby,0003 BEULAH BAPT. CHURCH,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,50
 Shelby,0003 BEULAH BAPT. CHURCH,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,28
-Shelby,0003 BEULAH BAPT. CHURCH,State Senate,15.0,REP,Dan Roberts,53
-Shelby,0003 BEULAH BAPT. CHURCH,State Senate,15.0,REP,Scott Ortis,43
+Shelby,0003 BEULAH BAPT. CHURCH,State Senate,15,REP,Dan Roberts,53
+Shelby,0003 BEULAH BAPT. CHURCH,State Senate,15,REP,Scott Ortis,43
 Shelby,0003 BEULAH BAPT. CHURCH,State Treasurer,,REP,Steve Lolley,40
 Shelby,0003 BEULAH BAPT. CHURCH,State Treasurer,,REP,Young Boozer,58
 Shelby,0003 BEULAH BAPT. CHURCH,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,50
 Shelby,0003 BEULAH BAPT. CHURCH,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,43
-Shelby,0003 BEULAH BAPT. CHURCH,U.S. House,6.0,REP,Case Dixon,22
-Shelby,0003 BEULAH BAPT. CHURCH,U.S. House,6.0,REP,Gary Palmer,81
+Shelby,0003 BEULAH BAPT. CHURCH,U.S. House,6,REP,Case Dixon,22
+Shelby,0003 BEULAH BAPT. CHURCH,U.S. House,6,REP,Gary Palmer,81
 Shelby,0003 BEULAH BAPT. CHURCH,U.S. Senate,,REP,Barry Moore,28
 Shelby,0003 BEULAH BAPT. CHURCH,U.S. Senate,,REP,Dale Shelton Deas Jr.,2
 Shelby,0003 BEULAH BAPT. CHURCH,U.S. Senate,,REP,Jared Hudson,36
@@ -324,14 +324,14 @@ Shelby,0004 VINCENT REVIVAL CTR.,"State Republican Executive Committee, Shleby C
 Shelby,0004 VINCENT REVIVAL CTR.,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,45
 Shelby,0004 VINCENT REVIVAL CTR.,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,118
 Shelby,0004 VINCENT REVIVAL CTR.,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,74
-Shelby,0004 VINCENT REVIVAL CTR.,State Senate,15.0,REP,Dan Roberts,104
-Shelby,0004 VINCENT REVIVAL CTR.,State Senate,15.0,REP,Scott Ortis,140
+Shelby,0004 VINCENT REVIVAL CTR.,State Senate,15,REP,Dan Roberts,104
+Shelby,0004 VINCENT REVIVAL CTR.,State Senate,15,REP,Scott Ortis,140
 Shelby,0004 VINCENT REVIVAL CTR.,State Treasurer,,REP,Steve Lolley,91
 Shelby,0004 VINCENT REVIVAL CTR.,State Treasurer,,REP,Young Boozer,149
 Shelby,0004 VINCENT REVIVAL CTR.,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,94
 Shelby,0004 VINCENT REVIVAL CTR.,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,147
-Shelby,0004 VINCENT REVIVAL CTR.,U.S. House,6.0,REP,Case Dixon,61
-Shelby,0004 VINCENT REVIVAL CTR.,U.S. House,6.0,REP,Gary Palmer,192
+Shelby,0004 VINCENT REVIVAL CTR.,U.S. House,6,REP,Case Dixon,61
+Shelby,0004 VINCENT REVIVAL CTR.,U.S. House,6,REP,Gary Palmer,192
 Shelby,0004 VINCENT REVIVAL CTR.,U.S. Senate,,REP,Barry Moore,101
 Shelby,0004 VINCENT REVIVAL CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,3
 Shelby,0004 VINCENT REVIVAL CTR.,U.S. Senate,,REP,Jared Hudson,88
@@ -407,14 +407,14 @@ Shelby,0005 HARPERSVILLE COMM. CTR.,"State Republican Executive Committee, Shleb
 Shelby,0005 HARPERSVILLE COMM. CTR.,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,68
 Shelby,0005 HARPERSVILLE COMM. CTR.,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,114
 Shelby,0005 HARPERSVILLE COMM. CTR.,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,108
-Shelby,0005 HARPERSVILLE COMM. CTR.,State Senate,15.0,REP,Dan Roberts,119
-Shelby,0005 HARPERSVILLE COMM. CTR.,State Senate,15.0,REP,Scott Ortis,139
+Shelby,0005 HARPERSVILLE COMM. CTR.,State Senate,15,REP,Dan Roberts,119
+Shelby,0005 HARPERSVILLE COMM. CTR.,State Senate,15,REP,Scott Ortis,139
 Shelby,0005 HARPERSVILLE COMM. CTR.,State Treasurer,,REP,Steve Lolley,86
 Shelby,0005 HARPERSVILLE COMM. CTR.,State Treasurer,,REP,Young Boozer,168
 Shelby,0005 HARPERSVILLE COMM. CTR.,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,103
 Shelby,0005 HARPERSVILLE COMM. CTR.,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,156
-Shelby,0005 HARPERSVILLE COMM. CTR.,U.S. House,6.0,REP,Case Dixon,66
-Shelby,0005 HARPERSVILLE COMM. CTR.,U.S. House,6.0,REP,Gary Palmer,208
+Shelby,0005 HARPERSVILLE COMM. CTR.,U.S. House,6,REP,Case Dixon,66
+Shelby,0005 HARPERSVILLE COMM. CTR.,U.S. House,6,REP,Gary Palmer,208
 Shelby,0005 HARPERSVILLE COMM. CTR.,U.S. Senate,,REP,Barry Moore,81
 Shelby,0005 HARPERSVILLE COMM. CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,4
 Shelby,0005 HARPERSVILLE COMM. CTR.,U.S. Senate,,REP,Jared Hudson,99
@@ -476,8 +476,8 @@ Shelby,0006 NEW LIFE CHURCH,Shelby County Sheriff,,REP,John Samaniego,269
 Shelby,0006 NEW LIFE CHURCH,Shelby County Sheriff,,REP,"Ken ""Chief"" Bailey",77
 Shelby,0006 NEW LIFE CHURCH,State Auditor,,REP,Andrew Sorrell,198
 Shelby,0006 NEW LIFE CHURCH,State Auditor,,REP,Derek Chen,113
-Shelby,0006 NEW LIFE CHURCH,State House,45.0,REP,John Dawson,2
-Shelby,0006 NEW LIFE CHURCH,State House,45.0,REP,Susan DuBose,2
+Shelby,0006 NEW LIFE CHURCH,State House,45,REP,John Dawson,2
+Shelby,0006 NEW LIFE CHURCH,State House,45,REP,Susan DuBose,2
 Shelby,0006 NEW LIFE CHURCH,"State Republican Executive Committee, Shelby County Place 2",,REP,Demus Copeland,42
 Shelby,0006 NEW LIFE CHURCH,"State Republican Executive Committee, Shelby County Place 2",,REP,Paul Garris,104
 Shelby,0006 NEW LIFE CHURCH,"State Republican Executive Committee, Shelby County Place 2",,REP,Stephanie Smith,123
@@ -494,14 +494,14 @@ Shelby,0006 NEW LIFE CHURCH,"State Republican Executive Committee, Shleby County
 Shelby,0006 NEW LIFE CHURCH,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,73
 Shelby,0006 NEW LIFE CHURCH,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,132
 Shelby,0006 NEW LIFE CHURCH,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,125
-Shelby,0006 NEW LIFE CHURCH,State Senate,15.0,REP,Dan Roberts,169
-Shelby,0006 NEW LIFE CHURCH,State Senate,15.0,REP,Scott Ortis,161
+Shelby,0006 NEW LIFE CHURCH,State Senate,15,REP,Dan Roberts,169
+Shelby,0006 NEW LIFE CHURCH,State Senate,15,REP,Scott Ortis,161
 Shelby,0006 NEW LIFE CHURCH,State Treasurer,,REP,Steve Lolley,87
 Shelby,0006 NEW LIFE CHURCH,State Treasurer,,REP,Young Boozer,252
 Shelby,0006 NEW LIFE CHURCH,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,151
 Shelby,0006 NEW LIFE CHURCH,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,156
-Shelby,0006 NEW LIFE CHURCH,U.S. House,6.0,REP,Case Dixon,64
-Shelby,0006 NEW LIFE CHURCH,U.S. House,6.0,REP,Gary Palmer,287
+Shelby,0006 NEW LIFE CHURCH,U.S. House,6,REP,Case Dixon,64
+Shelby,0006 NEW LIFE CHURCH,U.S. House,6,REP,Gary Palmer,287
 Shelby,0006 NEW LIFE CHURCH,U.S. Senate,,REP,Barry Moore,133
 Shelby,0006 NEW LIFE CHURCH,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
 Shelby,0006 NEW LIFE CHURCH,U.S. Senate,,REP,Jared Hudson,130
@@ -563,8 +563,8 @@ Shelby,0007 CHELSEA CHURCH OF GOD,Shelby County Sheriff,,REP,John Samaniego,471
 Shelby,0007 CHELSEA CHURCH OF GOD,Shelby County Sheriff,,REP,"Ken ""Chief"" Bailey",218
 Shelby,0007 CHELSEA CHURCH OF GOD,State Auditor,,REP,Andrew Sorrell,453
 Shelby,0007 CHELSEA CHURCH OF GOD,State Auditor,,REP,Derek Chen,194
-Shelby,0007 CHELSEA CHURCH OF GOD,State House,45.0,REP,John Dawson,164
-Shelby,0007 CHELSEA CHURCH OF GOD,State House,45.0,REP,Susan DuBose,481
+Shelby,0007 CHELSEA CHURCH OF GOD,State House,45,REP,John Dawson,164
+Shelby,0007 CHELSEA CHURCH OF GOD,State House,45,REP,Susan DuBose,481
 Shelby,0007 CHELSEA CHURCH OF GOD,"State Republican Executive Committee, Shelby County Place 2",,REP,Demus Copeland,87
 Shelby,0007 CHELSEA CHURCH OF GOD,"State Republican Executive Committee, Shelby County Place 2",,REP,Paul Garris,196
 Shelby,0007 CHELSEA CHURCH OF GOD,"State Republican Executive Committee, Shelby County Place 2",,REP,Stephanie Smith,268
@@ -581,14 +581,14 @@ Shelby,0007 CHELSEA CHURCH OF GOD,"State Republican Executive Committee, Shleby 
 Shelby,0007 CHELSEA CHURCH OF GOD,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,150
 Shelby,0007 CHELSEA CHURCH OF GOD,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,276
 Shelby,0007 CHELSEA CHURCH OF GOD,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,253
-Shelby,0007 CHELSEA CHURCH OF GOD,State Senate,15.0,REP,Dan Roberts,298
-Shelby,0007 CHELSEA CHURCH OF GOD,State Senate,15.0,REP,Scott Ortis,364
+Shelby,0007 CHELSEA CHURCH OF GOD,State Senate,15,REP,Dan Roberts,298
+Shelby,0007 CHELSEA CHURCH OF GOD,State Senate,15,REP,Scott Ortis,364
 Shelby,0007 CHELSEA CHURCH OF GOD,State Treasurer,,REP,Steve Lolley,206
 Shelby,0007 CHELSEA CHURCH OF GOD,State Treasurer,,REP,Young Boozer,463
 Shelby,0007 CHELSEA CHURCH OF GOD,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,251
 Shelby,0007 CHELSEA CHURCH OF GOD,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,316
-Shelby,0007 CHELSEA CHURCH OF GOD,U.S. House,6.0,REP,Case Dixon,144
-Shelby,0007 CHELSEA CHURCH OF GOD,U.S. House,6.0,REP,Gary Palmer,545
+Shelby,0007 CHELSEA CHURCH OF GOD,U.S. House,6,REP,Case Dixon,144
+Shelby,0007 CHELSEA CHURCH OF GOD,U.S. House,6,REP,Gary Palmer,545
 Shelby,0007 CHELSEA CHURCH OF GOD,U.S. Senate,,REP,Barry Moore,196
 Shelby,0007 CHELSEA CHURCH OF GOD,U.S. Senate,,REP,Dale Shelton Deas Jr.,11
 Shelby,0007 CHELSEA CHURCH OF GOD,U.S. Senate,,REP,Jared Hudson,293
@@ -655,8 +655,8 @@ Shelby,0008 NORTH SHELBY BAPTIST,Shelby County Sheriff,,REP,John Samaniego,387
 Shelby,0008 NORTH SHELBY BAPTIST,Shelby County Sheriff,,REP,"Ken ""Chief"" Bailey",102
 Shelby,0008 NORTH SHELBY BAPTIST,State Auditor,,REP,Andrew Sorrell,299
 Shelby,0008 NORTH SHELBY BAPTIST,State Auditor,,REP,Derek Chen,173
-Shelby,0008 NORTH SHELBY BAPTIST,State House,45.0,REP,John Dawson,34
-Shelby,0008 NORTH SHELBY BAPTIST,State House,45.0,REP,Susan DuBose,170
+Shelby,0008 NORTH SHELBY BAPTIST,State House,45,REP,John Dawson,34
+Shelby,0008 NORTH SHELBY BAPTIST,State House,45,REP,Susan DuBose,170
 Shelby,0008 NORTH SHELBY BAPTIST,"State Republican Executive Committee, Shelby County Place 2",,REP,Demus Copeland,56
 Shelby,0008 NORTH SHELBY BAPTIST,"State Republican Executive Committee, Shelby County Place 2",,REP,Paul Garris,131
 Shelby,0008 NORTH SHELBY BAPTIST,"State Republican Executive Committee, Shelby County Place 2",,REP,Stephanie Smith,188
@@ -673,14 +673,14 @@ Shelby,0008 NORTH SHELBY BAPTIST,"State Republican Executive Committee, Shleby C
 Shelby,0008 NORTH SHELBY BAPTIST,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,89
 Shelby,0008 NORTH SHELBY BAPTIST,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,200
 Shelby,0008 NORTH SHELBY BAPTIST,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,161
-Shelby,0008 NORTH SHELBY BAPTIST,State Senate,15.0,REP,Dan Roberts,248
-Shelby,0008 NORTH SHELBY BAPTIST,State Senate,15.0,REP,Scott Ortis,219
+Shelby,0008 NORTH SHELBY BAPTIST,State Senate,15,REP,Dan Roberts,248
+Shelby,0008 NORTH SHELBY BAPTIST,State Senate,15,REP,Scott Ortis,219
 Shelby,0008 NORTH SHELBY BAPTIST,State Treasurer,,REP,Steve Lolley,118
 Shelby,0008 NORTH SHELBY BAPTIST,State Treasurer,,REP,Young Boozer,361
 Shelby,0008 NORTH SHELBY BAPTIST,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,286
 Shelby,0008 NORTH SHELBY BAPTIST,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,159
-Shelby,0008 NORTH SHELBY BAPTIST,U.S. House,6.0,REP,Case Dixon,75
-Shelby,0008 NORTH SHELBY BAPTIST,U.S. House,6.0,REP,Gary Palmer,419
+Shelby,0008 NORTH SHELBY BAPTIST,U.S. House,6,REP,Case Dixon,75
+Shelby,0008 NORTH SHELBY BAPTIST,U.S. House,6,REP,Gary Palmer,419
 Shelby,0008 NORTH SHELBY BAPTIST,U.S. Senate,,REP,Barry Moore,183
 Shelby,0008 NORTH SHELBY BAPTIST,U.S. Senate,,REP,Dale Shelton Deas Jr.,12
 Shelby,0008 NORTH SHELBY BAPTIST,U.S. Senate,,REP,Jared Hudson,163
@@ -761,14 +761,14 @@ Shelby,0009 ASBURY UN METHODIST,"State Republican Executive Committee, Shleby Co
 Shelby,0009 ASBURY UN METHODIST,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,145
 Shelby,0009 ASBURY UN METHODIST,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,275
 Shelby,0009 ASBURY UN METHODIST,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,166
-Shelby,0009 ASBURY UN METHODIST,State Senate,15.0,REP,Dan Roberts,305
-Shelby,0009 ASBURY UN METHODIST,State Senate,15.0,REP,Scott Ortis,286
+Shelby,0009 ASBURY UN METHODIST,State Senate,15,REP,Dan Roberts,305
+Shelby,0009 ASBURY UN METHODIST,State Senate,15,REP,Scott Ortis,286
 Shelby,0009 ASBURY UN METHODIST,State Treasurer,,REP,Steve Lolley,155
 Shelby,0009 ASBURY UN METHODIST,State Treasurer,,REP,Young Boozer,442
 Shelby,0009 ASBURY UN METHODIST,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,347
 Shelby,0009 ASBURY UN METHODIST,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,226
-Shelby,0009 ASBURY UN METHODIST,U.S. House,6.0,REP,Case Dixon,109
-Shelby,0009 ASBURY UN METHODIST,U.S. House,6.0,REP,Gary Palmer,542
+Shelby,0009 ASBURY UN METHODIST,U.S. House,6,REP,Case Dixon,109
+Shelby,0009 ASBURY UN METHODIST,U.S. House,6,REP,Gary Palmer,542
 Shelby,0009 ASBURY UN METHODIST,U.S. Senate,,REP,Barry Moore,191
 Shelby,0009 ASBURY UN METHODIST,U.S. Senate,,REP,Dale Shelton Deas Jr.,13
 Shelby,0009 ASBURY UN METHODIST,U.S. Senate,,REP,Jared Hudson,252
@@ -830,8 +830,8 @@ Shelby,0010 SHELBY SERVICE BLDG.,Shelby County Sheriff,,REP,John Samaniego,805
 Shelby,0010 SHELBY SERVICE BLDG.,Shelby County Sheriff,,REP,"Ken ""Chief"" Bailey",246
 Shelby,0010 SHELBY SERVICE BLDG.,State Auditor,,REP,Andrew Sorrell,666
 Shelby,0010 SHELBY SERVICE BLDG.,State Auditor,,REP,Derek Chen,306
-Shelby,0010 SHELBY SERVICE BLDG.,State House,45.0,REP,John Dawson,188
-Shelby,0010 SHELBY SERVICE BLDG.,State House,45.0,REP,Susan DuBose,808
+Shelby,0010 SHELBY SERVICE BLDG.,State House,45,REP,John Dawson,188
+Shelby,0010 SHELBY SERVICE BLDG.,State House,45,REP,Susan DuBose,808
 Shelby,0010 SHELBY SERVICE BLDG.,"State Republican Executive Committee, Shelby County Place 2",,REP,Demus Copeland,119
 Shelby,0010 SHELBY SERVICE BLDG.,"State Republican Executive Committee, Shelby County Place 2",,REP,Paul Garris,266
 Shelby,0010 SHELBY SERVICE BLDG.,"State Republican Executive Committee, Shelby County Place 2",,REP,Stephanie Smith,395
@@ -848,14 +848,14 @@ Shelby,0010 SHELBY SERVICE BLDG.,"State Republican Executive Committee, Shleby C
 Shelby,0010 SHELBY SERVICE BLDG.,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,197
 Shelby,0010 SHELBY SERVICE BLDG.,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,409
 Shelby,0010 SHELBY SERVICE BLDG.,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,335
-Shelby,0010 SHELBY SERVICE BLDG.,State Senate,15.0,REP,Dan Roberts,470
-Shelby,0010 SHELBY SERVICE BLDG.,State Senate,15.0,REP,Scott Ortis,524
+Shelby,0010 SHELBY SERVICE BLDG.,State Senate,15,REP,Dan Roberts,470
+Shelby,0010 SHELBY SERVICE BLDG.,State Senate,15,REP,Scott Ortis,524
 Shelby,0010 SHELBY SERVICE BLDG.,State Treasurer,,REP,Steve Lolley,254
 Shelby,0010 SHELBY SERVICE BLDG.,State Treasurer,,REP,Young Boozer,755
 Shelby,0010 SHELBY SERVICE BLDG.,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,528
 Shelby,0010 SHELBY SERVICE BLDG.,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,392
-Shelby,0010 SHELBY SERVICE BLDG.,U.S. House,6.0,REP,Case Dixon,182
-Shelby,0010 SHELBY SERVICE BLDG.,U.S. House,6.0,REP,Gary Palmer,891
+Shelby,0010 SHELBY SERVICE BLDG.,U.S. House,6,REP,Case Dixon,182
+Shelby,0010 SHELBY SERVICE BLDG.,U.S. House,6,REP,Gary Palmer,891
 Shelby,0010 SHELBY SERVICE BLDG.,U.S. Senate,,REP,Barry Moore,327
 Shelby,0010 SHELBY SERVICE BLDG.,U.S. Senate,,REP,Dale Shelton Deas Jr.,16
 Shelby,0010 SHELBY SERVICE BLDG.,U.S. Senate,,REP,Jared Hudson,438
@@ -917,8 +917,8 @@ Shelby,0011 DOUBLE OAK COMM CH,Shelby County Sheriff,,REP,John Samaniego,342
 Shelby,0011 DOUBLE OAK COMM CH,Shelby County Sheriff,,REP,"Ken ""Chief"" Bailey",140
 Shelby,0011 DOUBLE OAK COMM CH,State Auditor,,REP,Andrew Sorrell,317
 Shelby,0011 DOUBLE OAK COMM CH,State Auditor,,REP,Derek Chen,155
-Shelby,0011 DOUBLE OAK COMM CH,State House,45.0,REP,John Dawson,71
-Shelby,0011 DOUBLE OAK COMM CH,State House,45.0,REP,Susan DuBose,427
+Shelby,0011 DOUBLE OAK COMM CH,State House,45,REP,John Dawson,71
+Shelby,0011 DOUBLE OAK COMM CH,State House,45,REP,Susan DuBose,427
 Shelby,0011 DOUBLE OAK COMM CH,"State Republican Executive Committee, Shelby County Place 2",,REP,Demus Copeland,64
 Shelby,0011 DOUBLE OAK COMM CH,"State Republican Executive Committee, Shelby County Place 2",,REP,Paul Garris,108
 Shelby,0011 DOUBLE OAK COMM CH,"State Republican Executive Committee, Shelby County Place 2",,REP,Stephanie Smith,218
@@ -935,14 +935,14 @@ Shelby,0011 DOUBLE OAK COMM CH,"State Republican Executive Committee, Shleby Cou
 Shelby,0011 DOUBLE OAK COMM CH,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,123
 Shelby,0011 DOUBLE OAK COMM CH,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,184
 Shelby,0011 DOUBLE OAK COMM CH,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,182
-Shelby,0011 DOUBLE OAK COMM CH,State Senate,15.0,REP,Dan Roberts,288
-Shelby,0011 DOUBLE OAK COMM CH,State Senate,15.0,REP,Scott Ortis,191
+Shelby,0011 DOUBLE OAK COMM CH,State Senate,15,REP,Dan Roberts,288
+Shelby,0011 DOUBLE OAK COMM CH,State Senate,15,REP,Scott Ortis,191
 Shelby,0011 DOUBLE OAK COMM CH,State Treasurer,,REP,Steve Lolley,122
 Shelby,0011 DOUBLE OAK COMM CH,State Treasurer,,REP,Young Boozer,364
 Shelby,0011 DOUBLE OAK COMM CH,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,160
 Shelby,0011 DOUBLE OAK COMM CH,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,120
-Shelby,0011 DOUBLE OAK COMM CH,U.S. House,6.0,REP,Case Dixon,70
-Shelby,0011 DOUBLE OAK COMM CH,U.S. House,6.0,REP,Gary Palmer,441
+Shelby,0011 DOUBLE OAK COMM CH,U.S. House,6,REP,Case Dixon,70
+Shelby,0011 DOUBLE OAK COMM CH,U.S. House,6,REP,Gary Palmer,441
 Shelby,0011 DOUBLE OAK COMM CH,U.S. Senate,,REP,Barry Moore,192
 Shelby,0011 DOUBLE OAK COMM CH,U.S. Senate,,REP,Dale Shelton Deas Jr.,7
 Shelby,0011 DOUBLE OAK COMM CH,U.S. Senate,,REP,Jared Hudson,180
@@ -1002,8 +1002,8 @@ Shelby,0012 GREYSTONE FARMS CLUB,Shelby County Sheriff,,REP,John Samaniego,163
 Shelby,0012 GREYSTONE FARMS CLUB,Shelby County Sheriff,,REP,"Ken ""Chief"" Bailey",81
 Shelby,0012 GREYSTONE FARMS CLUB,State Auditor,,REP,Andrew Sorrell,158
 Shelby,0012 GREYSTONE FARMS CLUB,State Auditor,,REP,Derek Chen,87
-Shelby,0012 GREYSTONE FARMS CLUB,State House,45.0,REP,John Dawson,48
-Shelby,0012 GREYSTONE FARMS CLUB,State House,45.0,REP,Susan DuBose,199
+Shelby,0012 GREYSTONE FARMS CLUB,State House,45,REP,John Dawson,48
+Shelby,0012 GREYSTONE FARMS CLUB,State House,45,REP,Susan DuBose,199
 Shelby,0012 GREYSTONE FARMS CLUB,"State Republican Executive Committee, Shelby County Place 2",,REP,Demus Copeland,29
 Shelby,0012 GREYSTONE FARMS CLUB,"State Republican Executive Committee, Shelby County Place 2",,REP,Paul Garris,68
 Shelby,0012 GREYSTONE FARMS CLUB,"State Republican Executive Committee, Shelby County Place 2",,REP,Stephanie Smith,101
@@ -1020,12 +1020,12 @@ Shelby,0012 GREYSTONE FARMS CLUB,"State Republican Executive Committee, Shleby C
 Shelby,0012 GREYSTONE FARMS CLUB,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,45
 Shelby,0012 GREYSTONE FARMS CLUB,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,105
 Shelby,0012 GREYSTONE FARMS CLUB,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,83
-Shelby,0012 GREYSTONE FARMS CLUB,State Senate,15.0,REP,Dan Roberts,110
-Shelby,0012 GREYSTONE FARMS CLUB,State Senate,15.0,REP,Scott Ortis,125
+Shelby,0012 GREYSTONE FARMS CLUB,State Senate,15,REP,Dan Roberts,110
+Shelby,0012 GREYSTONE FARMS CLUB,State Senate,15,REP,Scott Ortis,125
 Shelby,0012 GREYSTONE FARMS CLUB,State Treasurer,,REP,Steve Lolley,71
 Shelby,0012 GREYSTONE FARMS CLUB,State Treasurer,,REP,Young Boozer,178
-Shelby,0012 GREYSTONE FARMS CLUB,U.S. House,6.0,REP,Case Dixon,48
-Shelby,0012 GREYSTONE FARMS CLUB,U.S. House,6.0,REP,Gary Palmer,214
+Shelby,0012 GREYSTONE FARMS CLUB,U.S. House,6,REP,Case Dixon,48
+Shelby,0012 GREYSTONE FARMS CLUB,U.S. House,6,REP,Gary Palmer,214
 Shelby,0012 GREYSTONE FARMS CLUB,U.S. Senate,,REP,Barry Moore,92
 Shelby,0012 GREYSTONE FARMS CLUB,U.S. Senate,,REP,Dale Shelton Deas Jr.,2
 Shelby,0012 GREYSTONE FARMS CLUB,U.S. Senate,,REP,Jared Hudson,82
@@ -1087,11 +1087,11 @@ Shelby,0013 GREYSTONE FOUND CLUB,Shelby County Sheriff,,REP,John Samaniego,583
 Shelby,0013 GREYSTONE FOUND CLUB,Shelby County Sheriff,,REP,"Ken ""Chief"" Bailey",190
 Shelby,0013 GREYSTONE FOUND CLUB,State Auditor,,REP,Andrew Sorrell,500
 Shelby,0013 GREYSTONE FOUND CLUB,State Auditor,,REP,Derek Chen,284
-Shelby,0013 GREYSTONE FOUND CLUB,State House,45.0,REP,John Dawson,32
-Shelby,0013 GREYSTONE FOUND CLUB,State House,45.0,REP,Susan DuBose,259
-Shelby,0013 GREYSTONE FOUND CLUB,State House,48.0,REP,Jim Carns,187
-Shelby,0013 GREYSTONE FOUND CLUB,State House,48.0,REP,Lloyd Peeples,298
-Shelby,0013 GREYSTONE FOUND CLUB,State House,48.0,REP,William Wentowski,34
+Shelby,0013 GREYSTONE FOUND CLUB,State House,45,REP,John Dawson,32
+Shelby,0013 GREYSTONE FOUND CLUB,State House,45,REP,Susan DuBose,259
+Shelby,0013 GREYSTONE FOUND CLUB,State House,48,REP,Jim Carns,187
+Shelby,0013 GREYSTONE FOUND CLUB,State House,48,REP,Lloyd Peeples,298
+Shelby,0013 GREYSTONE FOUND CLUB,State House,48,REP,William Wentowski,34
 Shelby,0013 GREYSTONE FOUND CLUB,"State Republican Executive Committee, Shelby County Place 2",,REP,Demus Copeland,95
 Shelby,0013 GREYSTONE FOUND CLUB,"State Republican Executive Committee, Shelby County Place 2",,REP,Paul Garris,178
 Shelby,0013 GREYSTONE FOUND CLUB,"State Republican Executive Committee, Shelby County Place 2",,REP,Stephanie Smith,338
@@ -1108,14 +1108,14 @@ Shelby,0013 GREYSTONE FOUND CLUB,"State Republican Executive Committee, Shleby C
 Shelby,0013 GREYSTONE FOUND CLUB,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,163
 Shelby,0013 GREYSTONE FOUND CLUB,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,254
 Shelby,0013 GREYSTONE FOUND CLUB,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,335
-Shelby,0013 GREYSTONE FOUND CLUB,State Senate,15.0,REP,Dan Roberts,399
-Shelby,0013 GREYSTONE FOUND CLUB,State Senate,15.0,REP,Scott Ortis,372
+Shelby,0013 GREYSTONE FOUND CLUB,State Senate,15,REP,Dan Roberts,399
+Shelby,0013 GREYSTONE FOUND CLUB,State Senate,15,REP,Scott Ortis,372
 Shelby,0013 GREYSTONE FOUND CLUB,State Treasurer,,REP,Steve Lolley,161
 Shelby,0013 GREYSTONE FOUND CLUB,State Treasurer,,REP,Young Boozer,645
 Shelby,0013 GREYSTONE FOUND CLUB,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,16
 Shelby,0013 GREYSTONE FOUND CLUB,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,15
-Shelby,0013 GREYSTONE FOUND CLUB,U.S. House,6.0,REP,Case Dixon,108
-Shelby,0013 GREYSTONE FOUND CLUB,U.S. House,6.0,REP,Gary Palmer,719
+Shelby,0013 GREYSTONE FOUND CLUB,U.S. House,6,REP,Case Dixon,108
+Shelby,0013 GREYSTONE FOUND CLUB,U.S. House,6,REP,Gary Palmer,719
 Shelby,0013 GREYSTONE FOUND CLUB,U.S. Senate,,REP,Barry Moore,289
 Shelby,0013 GREYSTONE FOUND CLUB,U.S. Senate,,REP,Dale Shelton Deas Jr.,12
 Shelby,0013 GREYSTONE FOUND CLUB,U.S. Senate,,REP,Jared Hudson,290
@@ -1180,9 +1180,9 @@ Shelby,0014 CHURCH AT BROOKHILLS,Shelby County Sheriff,,REP,John Samaniego,455
 Shelby,0014 CHURCH AT BROOKHILLS,Shelby County Sheriff,,REP,"Ken ""Chief"" Bailey",177
 Shelby,0014 CHURCH AT BROOKHILLS,State Auditor,,REP,Andrew Sorrell,379
 Shelby,0014 CHURCH AT BROOKHILLS,State Auditor,,REP,Derek Chen,220
-Shelby,0014 CHURCH AT BROOKHILLS,State House,48.0,REP,Jim Carns,177
-Shelby,0014 CHURCH AT BROOKHILLS,State House,48.0,REP,Lloyd Peeples,311
-Shelby,0014 CHURCH AT BROOKHILLS,State House,48.0,REP,William Wentowski,30
+Shelby,0014 CHURCH AT BROOKHILLS,State House,48,REP,Jim Carns,177
+Shelby,0014 CHURCH AT BROOKHILLS,State House,48,REP,Lloyd Peeples,311
+Shelby,0014 CHURCH AT BROOKHILLS,State House,48,REP,William Wentowski,30
 Shelby,0014 CHURCH AT BROOKHILLS,"State Republican Executive Committee, Shelby County Place 2",,REP,Demus Copeland,74
 Shelby,0014 CHURCH AT BROOKHILLS,"State Republican Executive Committee, Shelby County Place 2",,REP,Paul Garris,145
 Shelby,0014 CHURCH AT BROOKHILLS,"State Republican Executive Committee, Shelby County Place 2",,REP,Stephanie Smith,257
@@ -1199,16 +1199,16 @@ Shelby,0014 CHURCH AT BROOKHILLS,"State Republican Executive Committee, Shleby C
 Shelby,0014 CHURCH AT BROOKHILLS,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,137
 Shelby,0014 CHURCH AT BROOKHILLS,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,231
 Shelby,0014 CHURCH AT BROOKHILLS,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,231
-Shelby,0014 CHURCH AT BROOKHILLS,State Senate,15.0,REP,Dan Roberts,231
-Shelby,0014 CHURCH AT BROOKHILLS,State Senate,15.0,REP,Scott Ortis,258
-Shelby,0014 CHURCH AT BROOKHILLS,State Senate,16.0,REP,"J.T. ""Jabo"" Waggoner",61
-Shelby,0014 CHURCH AT BROOKHILLS,State Senate,16.0,REP,Nate Carlson,66
+Shelby,0014 CHURCH AT BROOKHILLS,State Senate,15,REP,Dan Roberts,231
+Shelby,0014 CHURCH AT BROOKHILLS,State Senate,15,REP,Scott Ortis,258
+Shelby,0014 CHURCH AT BROOKHILLS,State Senate,16,REP,"J.T. ""Jabo"" Waggoner",61
+Shelby,0014 CHURCH AT BROOKHILLS,State Senate,16,REP,Nate Carlson,66
 Shelby,0014 CHURCH AT BROOKHILLS,State Treasurer,,REP,Steve Lolley,183
 Shelby,0014 CHURCH AT BROOKHILLS,State Treasurer,,REP,Young Boozer,440
 Shelby,0014 CHURCH AT BROOKHILLS,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,290
 Shelby,0014 CHURCH AT BROOKHILLS,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,196
-Shelby,0014 CHURCH AT BROOKHILLS,U.S. House,6.0,REP,Case Dixon,130
-Shelby,0014 CHURCH AT BROOKHILLS,U.S. House,6.0,REP,Gary Palmer,541
+Shelby,0014 CHURCH AT BROOKHILLS,U.S. House,6,REP,Case Dixon,130
+Shelby,0014 CHURCH AT BROOKHILLS,U.S. House,6,REP,Gary Palmer,541
 Shelby,0014 CHURCH AT BROOKHILLS,U.S. Senate,,REP,Barry Moore,228
 Shelby,0014 CHURCH AT BROOKHILLS,U.S. Senate,,REP,Dale Shelton Deas Jr.,13
 Shelby,0014 CHURCH AT BROOKHILLS,U.S. Senate,,REP,Jared Hudson,229
@@ -1289,16 +1289,16 @@ Shelby,0015 MEADOWBROOK BAPTIST,"State Republican Executive Committee, Shleby Co
 Shelby,0015 MEADOWBROOK BAPTIST,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,138
 Shelby,0015 MEADOWBROOK BAPTIST,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,241
 Shelby,0015 MEADOWBROOK BAPTIST,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,261
-Shelby,0015 MEADOWBROOK BAPTIST,State Senate,15.0,REP,Dan Roberts,81
-Shelby,0015 MEADOWBROOK BAPTIST,State Senate,15.0,REP,Scott Ortis,85
-Shelby,0015 MEADOWBROOK BAPTIST,State Senate,16.0,REP,"J.T. ""Jabo"" Waggoner",283
-Shelby,0015 MEADOWBROOK BAPTIST,State Senate,16.0,REP,Nate Carlson,252
+Shelby,0015 MEADOWBROOK BAPTIST,State Senate,15,REP,Dan Roberts,81
+Shelby,0015 MEADOWBROOK BAPTIST,State Senate,15,REP,Scott Ortis,85
+Shelby,0015 MEADOWBROOK BAPTIST,State Senate,16,REP,"J.T. ""Jabo"" Waggoner",283
+Shelby,0015 MEADOWBROOK BAPTIST,State Senate,16,REP,Nate Carlson,252
 Shelby,0015 MEADOWBROOK BAPTIST,State Treasurer,,REP,Steve Lolley,171
 Shelby,0015 MEADOWBROOK BAPTIST,State Treasurer,,REP,Young Boozer,531
 Shelby,0015 MEADOWBROOK BAPTIST,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,446
 Shelby,0015 MEADOWBROOK BAPTIST,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,203
-Shelby,0015 MEADOWBROOK BAPTIST,U.S. House,6.0,REP,Case Dixon,147
-Shelby,0015 MEADOWBROOK BAPTIST,U.S. House,6.0,REP,Gary Palmer,600
+Shelby,0015 MEADOWBROOK BAPTIST,U.S. House,6,REP,Case Dixon,147
+Shelby,0015 MEADOWBROOK BAPTIST,U.S. House,6,REP,Gary Palmer,600
 Shelby,0015 MEADOWBROOK BAPTIST,U.S. Senate,,REP,Barry Moore,208
 Shelby,0015 MEADOWBROOK BAPTIST,U.S. Senate,,REP,Dale Shelton Deas Jr.,11
 Shelby,0015 MEADOWBROOK BAPTIST,U.S. Senate,,REP,Jared Hudson,270
@@ -1379,14 +1379,14 @@ Shelby,0016 NEW HOPE CUMB PRSBY,"State Republican Executive Committee, Shleby Co
 Shelby,0016 NEW HOPE CUMB PRSBY,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,95
 Shelby,0016 NEW HOPE CUMB PRSBY,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,202
 Shelby,0016 NEW HOPE CUMB PRSBY,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,172
-Shelby,0016 NEW HOPE CUMB PRSBY,State Senate,16.0,REP,"J.T. ""Jabo"" Waggoner",267
-Shelby,0016 NEW HOPE CUMB PRSBY,State Senate,16.0,REP,Nate Carlson,285
+Shelby,0016 NEW HOPE CUMB PRSBY,State Senate,16,REP,"J.T. ""Jabo"" Waggoner",267
+Shelby,0016 NEW HOPE CUMB PRSBY,State Senate,16,REP,Nate Carlson,285
 Shelby,0016 NEW HOPE CUMB PRSBY,State Treasurer,,REP,Steve Lolley,139
 Shelby,0016 NEW HOPE CUMB PRSBY,State Treasurer,,REP,Young Boozer,398
 Shelby,0016 NEW HOPE CUMB PRSBY,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,318
 Shelby,0016 NEW HOPE CUMB PRSBY,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,212
-Shelby,0016 NEW HOPE CUMB PRSBY,U.S. House,6.0,REP,Case Dixon,132
-Shelby,0016 NEW HOPE CUMB PRSBY,U.S. House,6.0,REP,Gary Palmer,458
+Shelby,0016 NEW HOPE CUMB PRSBY,U.S. House,6,REP,Case Dixon,132
+Shelby,0016 NEW HOPE CUMB PRSBY,U.S. House,6,REP,Gary Palmer,458
 Shelby,0016 NEW HOPE CUMB PRSBY,U.S. Senate,,REP,Barry Moore,173
 Shelby,0016 NEW HOPE CUMB PRSBY,U.S. Senate,,REP,Dale Shelton Deas Jr.,16
 Shelby,0016 NEW HOPE CUMB PRSBY,U.S. Senate,,REP,Jared Hudson,221
@@ -1467,14 +1467,14 @@ Shelby,0017 1ST CHRISTIAN CH,"State Republican Executive Committee, Shleby Count
 Shelby,0017 1ST CHRISTIAN CH,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,105
 Shelby,0017 1ST CHRISTIAN CH,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,206
 Shelby,0017 1ST CHRISTIAN CH,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,221
-Shelby,0017 1ST CHRISTIAN CH,State Senate,16.0,REP,"J.T. ""Jabo"" Waggoner",285
-Shelby,0017 1ST CHRISTIAN CH,State Senate,16.0,REP,Nate Carlson,269
+Shelby,0017 1ST CHRISTIAN CH,State Senate,16,REP,"J.T. ""Jabo"" Waggoner",285
+Shelby,0017 1ST CHRISTIAN CH,State Senate,16,REP,Nate Carlson,269
 Shelby,0017 1ST CHRISTIAN CH,State Treasurer,,REP,Steve Lolley,154
 Shelby,0017 1ST CHRISTIAN CH,State Treasurer,,REP,Young Boozer,408
 Shelby,0017 1ST CHRISTIAN CH,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,204
 Shelby,0017 1ST CHRISTIAN CH,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,87
-Shelby,0017 1ST CHRISTIAN CH,U.S. House,6.0,REP,Case Dixon,102
-Shelby,0017 1ST CHRISTIAN CH,U.S. House,6.0,REP,Gary Palmer,483
+Shelby,0017 1ST CHRISTIAN CH,U.S. House,6,REP,Case Dixon,102
+Shelby,0017 1ST CHRISTIAN CH,U.S. House,6,REP,Gary Palmer,483
 Shelby,0017 1ST CHRISTIAN CH,U.S. Senate,,REP,Barry Moore,175
 Shelby,0017 1ST CHRISTIAN CH,U.S. Senate,,REP,Dale Shelton Deas Jr.,11
 Shelby,0017 1ST CHRISTIAN CH,U.S. Senate,,REP,Jared Hudson,223
@@ -1555,14 +1555,14 @@ Shelby,0018 VALLEYDALE BAPTIST,"State Republican Executive Committee, Shleby Cou
 Shelby,0018 VALLEYDALE BAPTIST,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,227
 Shelby,0018 VALLEYDALE BAPTIST,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,399
 Shelby,0018 VALLEYDALE BAPTIST,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,420
-Shelby,0018 VALLEYDALE BAPTIST,State Senate,16.0,REP,"J.T. ""Jabo"" Waggoner",527
-Shelby,0018 VALLEYDALE BAPTIST,State Senate,16.0,REP,Nate Carlson,650
+Shelby,0018 VALLEYDALE BAPTIST,State Senate,16,REP,"J.T. ""Jabo"" Waggoner",527
+Shelby,0018 VALLEYDALE BAPTIST,State Senate,16,REP,Nate Carlson,650
 Shelby,0018 VALLEYDALE BAPTIST,State Treasurer,,REP,Steve Lolley,340
 Shelby,0018 VALLEYDALE BAPTIST,State Treasurer,,REP,Young Boozer,842
 Shelby,0018 VALLEYDALE BAPTIST,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,310
 Shelby,0018 VALLEYDALE BAPTIST,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,224
-Shelby,0018 VALLEYDALE BAPTIST,U.S. House,6.0,REP,Case Dixon,240
-Shelby,0018 VALLEYDALE BAPTIST,U.S. House,6.0,REP,Gary Palmer,996
+Shelby,0018 VALLEYDALE BAPTIST,U.S. House,6,REP,Case Dixon,240
+Shelby,0018 VALLEYDALE BAPTIST,U.S. House,6,REP,Gary Palmer,996
 Shelby,0018 VALLEYDALE BAPTIST,U.S. Senate,,REP,Barry Moore,400
 Shelby,0018 VALLEYDALE BAPTIST,U.S. Senate,,REP,Dale Shelton Deas Jr.,34
 Shelby,0018 VALLEYDALE BAPTIST,U.S. Senate,,REP,Jared Hudson,394
@@ -1645,14 +1645,14 @@ Shelby,0019 RIVERCHASE CH OF CHR,"State Republican Executive Committee, Shleby C
 Shelby,0019 RIVERCHASE CH OF CHR,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,176
 Shelby,0019 RIVERCHASE CH OF CHR,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,355
 Shelby,0019 RIVERCHASE CH OF CHR,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,261
-Shelby,0019 RIVERCHASE CH OF CHR,State Senate,16.0,REP,"J.T. ""Jabo"" Waggoner",331
-Shelby,0019 RIVERCHASE CH OF CHR,State Senate,16.0,REP,Nate Carlson,242
+Shelby,0019 RIVERCHASE CH OF CHR,State Senate,16,REP,"J.T. ""Jabo"" Waggoner",331
+Shelby,0019 RIVERCHASE CH OF CHR,State Senate,16,REP,Nate Carlson,242
 Shelby,0019 RIVERCHASE CH OF CHR,State Treasurer,,REP,Steve Lolley,243
 Shelby,0019 RIVERCHASE CH OF CHR,State Treasurer,,REP,Young Boozer,612
 Shelby,0019 RIVERCHASE CH OF CHR,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,5
 Shelby,0019 RIVERCHASE CH OF CHR,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,5
-Shelby,0019 RIVERCHASE CH OF CHR,U.S. House,6.0,REP,Case Dixon,157
-Shelby,0019 RIVERCHASE CH OF CHR,U.S. House,6.0,REP,Gary Palmer,751
+Shelby,0019 RIVERCHASE CH OF CHR,U.S. House,6,REP,Case Dixon,157
+Shelby,0019 RIVERCHASE CH OF CHR,U.S. House,6,REP,Gary Palmer,751
 Shelby,0019 RIVERCHASE CH OF CHR,U.S. Senate,,REP,Barry Moore,275
 Shelby,0019 RIVERCHASE CH OF CHR,U.S. Senate,,REP,Dale Shelton Deas Jr.,35
 Shelby,0019 RIVERCHASE CH OF CHR,U.S. Senate,,REP,Jared Hudson,346
@@ -1733,16 +1733,16 @@ Shelby,0020 PELHAM CIVIC COMPLEX,"State Republican Executive Committee, Shleby C
 Shelby,0020 PELHAM CIVIC COMPLEX,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,267
 Shelby,0020 PELHAM CIVIC COMPLEX,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,564
 Shelby,0020 PELHAM CIVIC COMPLEX,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,404
-Shelby,0020 PELHAM CIVIC COMPLEX,State Senate,15.0,REP,Dan Roberts,272
-Shelby,0020 PELHAM CIVIC COMPLEX,State Senate,15.0,REP,Scott Ortis,308
-Shelby,0020 PELHAM CIVIC COMPLEX,State Senate,16.0,REP,"J.T. ""Jabo"" Waggoner",25
-Shelby,0020 PELHAM CIVIC COMPLEX,State Senate,16.0,REP,Nate Carlson,25
+Shelby,0020 PELHAM CIVIC COMPLEX,State Senate,15,REP,Dan Roberts,272
+Shelby,0020 PELHAM CIVIC COMPLEX,State Senate,15,REP,Scott Ortis,308
+Shelby,0020 PELHAM CIVIC COMPLEX,State Senate,16,REP,"J.T. ""Jabo"" Waggoner",25
+Shelby,0020 PELHAM CIVIC COMPLEX,State Senate,16,REP,Nate Carlson,25
 Shelby,0020 PELHAM CIVIC COMPLEX,State Treasurer,,REP,Steve Lolley,393
 Shelby,0020 PELHAM CIVIC COMPLEX,State Treasurer,,REP,Young Boozer,882
 Shelby,0020 PELHAM CIVIC COMPLEX,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,2
 Shelby,0020 PELHAM CIVIC COMPLEX,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,8
-Shelby,0020 PELHAM CIVIC COMPLEX,U.S. House,6.0,REP,Case Dixon,270
-Shelby,0020 PELHAM CIVIC COMPLEX,U.S. House,6.0,REP,Gary Palmer,1061
+Shelby,0020 PELHAM CIVIC COMPLEX,U.S. House,6,REP,Case Dixon,270
+Shelby,0020 PELHAM CIVIC COMPLEX,U.S. House,6,REP,Gary Palmer,1061
 Shelby,0020 PELHAM CIVIC COMPLEX,U.S. Senate,,REP,Barry Moore,408
 Shelby,0020 PELHAM CIVIC COMPLEX,U.S. Senate,,REP,Dale Shelton Deas Jr.,36
 Shelby,0020 PELHAM CIVIC COMPLEX,U.S. Senate,,REP,Jared Hudson,495
@@ -1829,8 +1829,8 @@ Shelby,0021 HELENA COMM. CTR.,State Treasurer,,REP,Steve Lolley,410
 Shelby,0021 HELENA COMM. CTR.,State Treasurer,,REP,Young Boozer,918
 Shelby,0021 HELENA COMM. CTR.,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,621
 Shelby,0021 HELENA COMM. CTR.,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,694
-Shelby,0021 HELENA COMM. CTR.,U.S. House,6.0,REP,Case Dixon,354
-Shelby,0021 HELENA COMM. CTR.,U.S. House,6.0,REP,Gary Palmer,1027
+Shelby,0021 HELENA COMM. CTR.,U.S. House,6,REP,Case Dixon,354
+Shelby,0021 HELENA COMM. CTR.,U.S. House,6,REP,Gary Palmer,1027
 Shelby,0021 HELENA COMM. CTR.,U.S. Senate,,REP,Barry Moore,359
 Shelby,0021 HELENA COMM. CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,51
 Shelby,0021 HELENA COMM. CTR.,U.S. Senate,,REP,Jared Hudson,624
@@ -1910,8 +1910,8 @@ Shelby,0022 CHURCH AT CAHABA BEND,State Treasurer,,REP,Steve Lolley,201
 Shelby,0022 CHURCH AT CAHABA BEND,State Treasurer,,REP,Young Boozer,536
 Shelby,0022 CHURCH AT CAHABA BEND,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,260
 Shelby,0022 CHURCH AT CAHABA BEND,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,251
-Shelby,0022 CHURCH AT CAHABA BEND,U.S. House,6.0,REP,Case Dixon,155
-Shelby,0022 CHURCH AT CAHABA BEND,U.S. House,6.0,REP,Gary Palmer,634
+Shelby,0022 CHURCH AT CAHABA BEND,U.S. House,6,REP,Case Dixon,155
+Shelby,0022 CHURCH AT CAHABA BEND,U.S. House,6,REP,Gary Palmer,634
 Shelby,0022 CHURCH AT CAHABA BEND,U.S. Senate,,REP,Barry Moore,224
 Shelby,0022 CHURCH AT CAHABA BEND,U.S. Senate,,REP,Dale Shelton Deas Jr.,13
 Shelby,0022 CHURCH AT CAHABA BEND,U.S. Senate,,REP,Jared Hudson,363
@@ -1993,8 +1993,8 @@ Shelby,0023 CHURCH OF JESUS CHRIST,State Treasurer,,REP,Steve Lolley,168
 Shelby,0023 CHURCH OF JESUS CHRIST,State Treasurer,,REP,Young Boozer,413
 Shelby,0023 CHURCH OF JESUS CHRIST,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,64
 Shelby,0023 CHURCH OF JESUS CHRIST,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,82
-Shelby,0023 CHURCH OF JESUS CHRIST,U.S. House,6.0,REP,Case Dixon,127
-Shelby,0023 CHURCH OF JESUS CHRIST,U.S. House,6.0,REP,Gary Palmer,473
+Shelby,0023 CHURCH OF JESUS CHRIST,U.S. House,6,REP,Case Dixon,127
+Shelby,0023 CHURCH OF JESUS CHRIST,U.S. House,6,REP,Gary Palmer,473
 Shelby,0023 CHURCH OF JESUS CHRIST,U.S. Senate,,REP,Barry Moore,180
 Shelby,0023 CHURCH OF JESUS CHRIST,U.S. Senate,,REP,Dale Shelton Deas Jr.,19
 Shelby,0023 CHURCH OF JESUS CHRIST,U.S. Senate,,REP,Jared Hudson,192
@@ -2074,8 +2074,8 @@ Shelby,0024 KINGWOOD CHURCH,State Treasurer,,REP,Steve Lolley,370
 Shelby,0024 KINGWOOD CHURCH,State Treasurer,,REP,Young Boozer,895
 Shelby,0024 KINGWOOD CHURCH,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,16
 Shelby,0024 KINGWOOD CHURCH,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,25
-Shelby,0024 KINGWOOD CHURCH,U.S. House,6.0,REP,Case Dixon,259
-Shelby,0024 KINGWOOD CHURCH,U.S. House,6.0,REP,Gary Palmer,1038
+Shelby,0024 KINGWOOD CHURCH,U.S. House,6,REP,Case Dixon,259
+Shelby,0024 KINGWOOD CHURCH,U.S. House,6,REP,Gary Palmer,1038
 Shelby,0024 KINGWOOD CHURCH,U.S. Senate,,REP,Barry Moore,437
 Shelby,0024 KINGWOOD CHURCH,U.S. Senate,,REP,Dale Shelton Deas Jr.,31
 Shelby,0024 KINGWOOD CHURCH,U.S. Senate,,REP,Jared Hudson,411
@@ -2151,14 +2151,14 @@ Shelby,0025 WESTWOOD BAPT. CHURCH,"State Republican Executive Committee, Shleby 
 Shelby,0025 WESTWOOD BAPT. CHURCH,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,174
 Shelby,0025 WESTWOOD BAPT. CHURCH,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,370
 Shelby,0025 WESTWOOD BAPT. CHURCH,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,293
-Shelby,0025 WESTWOOD BAPT. CHURCH,State Senate,15.0,REP,Dan Roberts,228
-Shelby,0025 WESTWOOD BAPT. CHURCH,State Senate,15.0,REP,Scott Ortis,266
+Shelby,0025 WESTWOOD BAPT. CHURCH,State Senate,15,REP,Dan Roberts,228
+Shelby,0025 WESTWOOD BAPT. CHURCH,State Senate,15,REP,Scott Ortis,266
 Shelby,0025 WESTWOOD BAPT. CHURCH,State Treasurer,,REP,Steve Lolley,252
 Shelby,0025 WESTWOOD BAPT. CHURCH,State Treasurer,,REP,Young Boozer,639
 Shelby,0025 WESTWOOD BAPT. CHURCH,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,25
 Shelby,0025 WESTWOOD BAPT. CHURCH,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,35
-Shelby,0025 WESTWOOD BAPT. CHURCH,U.S. House,6.0,REP,Case Dixon,145
-Shelby,0025 WESTWOOD BAPT. CHURCH,U.S. House,6.0,REP,Gary Palmer,792
+Shelby,0025 WESTWOOD BAPT. CHURCH,U.S. House,6,REP,Case Dixon,145
+Shelby,0025 WESTWOOD BAPT. CHURCH,U.S. House,6,REP,Gary Palmer,792
 Shelby,0025 WESTWOOD BAPT. CHURCH,U.S. Senate,,REP,Barry Moore,366
 Shelby,0025 WESTWOOD BAPT. CHURCH,U.S. Senate,,REP,Dale Shelton Deas Jr.,20
 Shelby,0025 WESTWOOD BAPT. CHURCH,U.S. Senate,,REP,Jared Hudson,322
@@ -2238,8 +2238,8 @@ Shelby,0026 EVANGEL PRESBY. CH,State Treasurer,,REP,Steve Lolley,197
 Shelby,0026 EVANGEL PRESBY. CH,State Treasurer,,REP,Young Boozer,454
 Shelby,0026 EVANGEL PRESBY. CH,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,0
 Shelby,0026 EVANGEL PRESBY. CH,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,1
-Shelby,0026 EVANGEL PRESBY. CH,U.S. House,6.0,REP,Case Dixon,118
-Shelby,0026 EVANGEL PRESBY. CH,U.S. House,6.0,REP,Gary Palmer,556
+Shelby,0026 EVANGEL PRESBY. CH,U.S. House,6,REP,Case Dixon,118
+Shelby,0026 EVANGEL PRESBY. CH,U.S. House,6,REP,Gary Palmer,556
 Shelby,0026 EVANGEL PRESBY. CH,U.S. Senate,,REP,Barry Moore,208
 Shelby,0026 EVANGEL PRESBY. CH,U.S. Senate,,REP,Dale Shelton Deas Jr.,17
 Shelby,0026 EVANGEL PRESBY. CH,U.S. Senate,,REP,Jared Hudson,272
@@ -2319,8 +2319,8 @@ Shelby,0027 WILSONVILLE UMC,State Treasurer,,REP,Steve Lolley,207
 Shelby,0027 WILSONVILLE UMC,State Treasurer,,REP,Young Boozer,444
 Shelby,0027 WILSONVILLE UMC,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,309
 Shelby,0027 WILSONVILLE UMC,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,355
-Shelby,0027 WILSONVILLE UMC,U.S. House,6.0,REP,Case Dixon,132
-Shelby,0027 WILSONVILLE UMC,U.S. House,6.0,REP,Gary Palmer,557
+Shelby,0027 WILSONVILLE UMC,U.S. House,6,REP,Case Dixon,132
+Shelby,0027 WILSONVILLE UMC,U.S. House,6,REP,Gary Palmer,557
 Shelby,0027 WILSONVILLE UMC,U.S. Senate,,REP,Barry Moore,196
 Shelby,0027 WILSONVILLE UMC,U.S. Senate,,REP,Dale Shelton Deas Jr.,10
 Shelby,0027 WILSONVILLE UMC,U.S. Senate,,REP,Jared Hudson,229
@@ -2396,14 +2396,14 @@ Shelby,0028 CHELSEA COMM. CTR.,"State Republican Executive Committee, Shleby Cou
 Shelby,0028 CHELSEA COMM. CTR.,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,100
 Shelby,0028 CHELSEA COMM. CTR.,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,191
 Shelby,0028 CHELSEA COMM. CTR.,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,199
-Shelby,0028 CHELSEA COMM. CTR.,State Senate,15.0,REP,Dan Roberts,193
-Shelby,0028 CHELSEA COMM. CTR.,State Senate,15.0,REP,Scott Ortis,247
+Shelby,0028 CHELSEA COMM. CTR.,State Senate,15,REP,Dan Roberts,193
+Shelby,0028 CHELSEA COMM. CTR.,State Senate,15,REP,Scott Ortis,247
 Shelby,0028 CHELSEA COMM. CTR.,State Treasurer,,REP,Steve Lolley,147
 Shelby,0028 CHELSEA COMM. CTR.,State Treasurer,,REP,Young Boozer,383
 Shelby,0028 CHELSEA COMM. CTR.,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,254
 Shelby,0028 CHELSEA COMM. CTR.,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,239
-Shelby,0028 CHELSEA COMM. CTR.,U.S. House,6.0,REP,Case Dixon,98
-Shelby,0028 CHELSEA COMM. CTR.,U.S. House,6.0,REP,Gary Palmer,452
+Shelby,0028 CHELSEA COMM. CTR.,U.S. House,6,REP,Case Dixon,98
+Shelby,0028 CHELSEA COMM. CTR.,U.S. House,6,REP,Gary Palmer,452
 Shelby,0028 CHELSEA COMM. CTR.,U.S. Senate,,REP,Barry Moore,141
 Shelby,0028 CHELSEA COMM. CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,7
 Shelby,0028 CHELSEA COMM. CTR.,U.S. Senate,,REP,Jared Hudson,269
@@ -2484,14 +2484,14 @@ Shelby,0029 HEARDMONT PARK SR CTR,"State Republican Executive Committee, Shleby 
 Shelby,0029 HEARDMONT PARK SR CTR,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,138
 Shelby,0029 HEARDMONT PARK SR CTR,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,261
 Shelby,0029 HEARDMONT PARK SR CTR,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,202
-Shelby,0029 HEARDMONT PARK SR CTR,State Senate,16.0,REP,"J.T. ""Jabo"" Waggoner",305
-Shelby,0029 HEARDMONT PARK SR CTR,State Senate,16.0,REP,Nate Carlson,346
+Shelby,0029 HEARDMONT PARK SR CTR,State Senate,16,REP,"J.T. ""Jabo"" Waggoner",305
+Shelby,0029 HEARDMONT PARK SR CTR,State Senate,16,REP,Nate Carlson,346
 Shelby,0029 HEARDMONT PARK SR CTR,State Treasurer,,REP,Steve Lolley,179
 Shelby,0029 HEARDMONT PARK SR CTR,State Treasurer,,REP,Young Boozer,489
 Shelby,0029 HEARDMONT PARK SR CTR,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,490
 Shelby,0029 HEARDMONT PARK SR CTR,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,198
-Shelby,0029 HEARDMONT PARK SR CTR,U.S. House,6.0,REP,Case Dixon,153
-Shelby,0029 HEARDMONT PARK SR CTR,U.S. House,6.0,REP,Gary Palmer,561
+Shelby,0029 HEARDMONT PARK SR CTR,U.S. House,6,REP,Case Dixon,153
+Shelby,0029 HEARDMONT PARK SR CTR,U.S. House,6,REP,Gary Palmer,561
 Shelby,0029 HEARDMONT PARK SR CTR,U.S. Senate,,REP,Barry Moore,201
 Shelby,0029 HEARDMONT PARK SR CTR,U.S. Senate,,REP,Dale Shelton Deas Jr.,23
 Shelby,0029 HEARDMONT PARK SR CTR,U.S. Senate,,REP,Jared Hudson,254
@@ -2571,8 +2571,8 @@ Shelby,0030 MCCHESNEY ST ACT CTR,State Treasurer,,REP,Steve Lolley,135
 Shelby,0030 MCCHESNEY ST ACT CTR,State Treasurer,,REP,Young Boozer,370
 Shelby,0030 MCCHESNEY ST ACT CTR,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,159
 Shelby,0030 MCCHESNEY ST ACT CTR,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,319
-Shelby,0030 MCCHESNEY ST ACT CTR,U.S. House,6.0,REP,Case Dixon,105
-Shelby,0030 MCCHESNEY ST ACT CTR,U.S. House,6.0,REP,Gary Palmer,414
+Shelby,0030 MCCHESNEY ST ACT CTR,U.S. House,6,REP,Case Dixon,105
+Shelby,0030 MCCHESNEY ST ACT CTR,U.S. House,6,REP,Gary Palmer,414
 Shelby,0030 MCCHESNEY ST ACT CTR,U.S. Senate,,REP,Barry Moore,143
 Shelby,0030 MCCHESNEY ST ACT CTR,U.S. Senate,,REP,Dale Shelton Deas Jr.,11
 Shelby,0030 MCCHESNEY ST ACT CTR,U.S. Senate,,REP,Jared Hudson,172
@@ -2652,8 +2652,8 @@ Shelby,0031 PEA RIDGE COMM. CTR.,State Treasurer,,REP,Steve Lolley,36
 Shelby,0031 PEA RIDGE COMM. CTR.,State Treasurer,,REP,Young Boozer,67
 Shelby,0031 PEA RIDGE COMM. CTR.,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,42
 Shelby,0031 PEA RIDGE COMM. CTR.,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,58
-Shelby,0031 PEA RIDGE COMM. CTR.,U.S. House,6.0,REP,Case Dixon,14
-Shelby,0031 PEA RIDGE COMM. CTR.,U.S. House,6.0,REP,Gary Palmer,98
+Shelby,0031 PEA RIDGE COMM. CTR.,U.S. House,6,REP,Case Dixon,14
+Shelby,0031 PEA RIDGE COMM. CTR.,U.S. House,6,REP,Gary Palmer,98
 Shelby,0031 PEA RIDGE COMM. CTR.,U.S. Senate,,REP,Barry Moore,37
 Shelby,0031 PEA RIDGE COMM. CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,4
 Shelby,0031 PEA RIDGE COMM. CTR.,U.S. Senate,,REP,Jared Hudson,38
@@ -2734,14 +2734,14 @@ Shelby,0032 RIVERCHASE BAPTIST,"State Republican Executive Committee, Shleby Cou
 Shelby,0032 RIVERCHASE BAPTIST,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,84
 Shelby,0032 RIVERCHASE BAPTIST,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,157
 Shelby,0032 RIVERCHASE BAPTIST,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,149
-Shelby,0032 RIVERCHASE BAPTIST,State Senate,16.0,REP,"J.T. ""Jabo"" Waggoner",252
-Shelby,0032 RIVERCHASE BAPTIST,State Senate,16.0,REP,Nate Carlson,163
+Shelby,0032 RIVERCHASE BAPTIST,State Senate,16,REP,"J.T. ""Jabo"" Waggoner",252
+Shelby,0032 RIVERCHASE BAPTIST,State Senate,16,REP,Nate Carlson,163
 Shelby,0032 RIVERCHASE BAPTIST,State Treasurer,,REP,Steve Lolley,111
 Shelby,0032 RIVERCHASE BAPTIST,State Treasurer,,REP,Young Boozer,310
 Shelby,0032 RIVERCHASE BAPTIST,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,17
 Shelby,0032 RIVERCHASE BAPTIST,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,11
-Shelby,0032 RIVERCHASE BAPTIST,U.S. House,6.0,REP,Case Dixon,77
-Shelby,0032 RIVERCHASE BAPTIST,U.S. House,6.0,REP,Gary Palmer,362
+Shelby,0032 RIVERCHASE BAPTIST,U.S. House,6,REP,Case Dixon,77
+Shelby,0032 RIVERCHASE BAPTIST,U.S. House,6,REP,Gary Palmer,362
 Shelby,0032 RIVERCHASE BAPTIST,U.S. Senate,,REP,Barry Moore,141
 Shelby,0032 RIVERCHASE BAPTIST,U.S. Senate,,REP,Dale Shelton Deas Jr.,6
 Shelby,0032 RIVERCHASE BAPTIST,U.S. Senate,,REP,Jared Hudson,174
@@ -2822,14 +2822,14 @@ Shelby,0033 CHRIST CHURCH BIRMINGHAM,"State Republican Executive Committee, Shle
 Shelby,0033 CHRIST CHURCH BIRMINGHAM,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,55
 Shelby,0033 CHRIST CHURCH BIRMINGHAM,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,134
 Shelby,0033 CHRIST CHURCH BIRMINGHAM,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,151
-Shelby,0033 CHRIST CHURCH BIRMINGHAM,State Senate,16.0,REP,"J.T. ""Jabo"" Waggoner",210
-Shelby,0033 CHRIST CHURCH BIRMINGHAM,State Senate,16.0,REP,Nate Carlson,192
+Shelby,0033 CHRIST CHURCH BIRMINGHAM,State Senate,16,REP,"J.T. ""Jabo"" Waggoner",210
+Shelby,0033 CHRIST CHURCH BIRMINGHAM,State Senate,16,REP,Nate Carlson,192
 Shelby,0033 CHRIST CHURCH BIRMINGHAM,State Treasurer,,REP,Steve Lolley,105
 Shelby,0033 CHRIST CHURCH BIRMINGHAM,State Treasurer,,REP,Young Boozer,311
 Shelby,0033 CHRIST CHURCH BIRMINGHAM,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,27
 Shelby,0033 CHRIST CHURCH BIRMINGHAM,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,22
-Shelby,0033 CHRIST CHURCH BIRMINGHAM,U.S. House,6.0,REP,Case Dixon,57
-Shelby,0033 CHRIST CHURCH BIRMINGHAM,U.S. House,6.0,REP,Gary Palmer,389
+Shelby,0033 CHRIST CHURCH BIRMINGHAM,U.S. House,6,REP,Case Dixon,57
+Shelby,0033 CHRIST CHURCH BIRMINGHAM,U.S. House,6,REP,Gary Palmer,389
 Shelby,0033 CHRIST CHURCH BIRMINGHAM,U.S. Senate,,REP,Barry Moore,139
 Shelby,0033 CHRIST CHURCH BIRMINGHAM,U.S. Senate,,REP,Dale Shelton Deas Jr.,5
 Shelby,0033 CHRIST CHURCH BIRMINGHAM,U.S. Senate,,REP,Jared Hudson,156
@@ -2909,8 +2909,8 @@ Shelby,0034 CALERA BAPT. CHURCH,State Treasurer,,REP,Steve Lolley,170
 Shelby,0034 CALERA BAPT. CHURCH,State Treasurer,,REP,Young Boozer,401
 Shelby,0034 CALERA BAPT. CHURCH,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,223
 Shelby,0034 CALERA BAPT. CHURCH,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,364
-Shelby,0034 CALERA BAPT. CHURCH,U.S. House,6.0,REP,Case Dixon,129
-Shelby,0034 CALERA BAPT. CHURCH,U.S. House,6.0,REP,Gary Palmer,476
+Shelby,0034 CALERA BAPT. CHURCH,U.S. House,6,REP,Case Dixon,129
+Shelby,0034 CALERA BAPT. CHURCH,U.S. House,6,REP,Gary Palmer,476
 Shelby,0034 CALERA BAPT. CHURCH,U.S. Senate,,REP,Barry Moore,182
 Shelby,0034 CALERA BAPT. CHURCH,U.S. Senate,,REP,Dale Shelton Deas Jr.,6
 Shelby,0034 CALERA BAPT. CHURCH,U.S. Senate,,REP,Jared Hudson,208
@@ -2990,8 +2990,8 @@ Shelby,0035 HOPE MOUNTAIN CH,State Treasurer,,REP,Steve Lolley,233
 Shelby,0035 HOPE MOUNTAIN CH,State Treasurer,,REP,Young Boozer,457
 Shelby,0035 HOPE MOUNTAIN CH,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,249
 Shelby,0035 HOPE MOUNTAIN CH,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,417
-Shelby,0035 HOPE MOUNTAIN CH,U.S. House,6.0,REP,Case Dixon,180
-Shelby,0035 HOPE MOUNTAIN CH,U.S. House,6.0,REP,Gary Palmer,531
+Shelby,0035 HOPE MOUNTAIN CH,U.S. House,6,REP,Case Dixon,180
+Shelby,0035 HOPE MOUNTAIN CH,U.S. House,6,REP,Gary Palmer,531
 Shelby,0035 HOPE MOUNTAIN CH,U.S. Senate,,REP,Barry Moore,197
 Shelby,0035 HOPE MOUNTAIN CH,U.S. Senate,,REP,Dale Shelton Deas Jr.,18
 Shelby,0035 HOPE MOUNTAIN CH,U.S. Senate,,REP,Jared Hudson,266
@@ -3071,8 +3071,8 @@ Shelby,0036 SOUTH SHELBY BAPT. CH,State Treasurer,,REP,Steve Lolley,154
 Shelby,0036 SOUTH SHELBY BAPT. CH,State Treasurer,,REP,Young Boozer,421
 Shelby,0036 SOUTH SHELBY BAPT. CH,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,277
 Shelby,0036 SOUTH SHELBY BAPT. CH,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,305
-Shelby,0036 SOUTH SHELBY BAPT. CH,U.S. House,6.0,REP,Case Dixon,138
-Shelby,0036 SOUTH SHELBY BAPT. CH,U.S. House,6.0,REP,Gary Palmer,453
+Shelby,0036 SOUTH SHELBY BAPT. CH,U.S. House,6,REP,Case Dixon,138
+Shelby,0036 SOUTH SHELBY BAPT. CH,U.S. House,6,REP,Gary Palmer,453
 Shelby,0036 SOUTH SHELBY BAPT. CH,U.S. Senate,,REP,Barry Moore,182
 Shelby,0036 SOUTH SHELBY BAPT. CH,U.S. Senate,,REP,Dale Shelton Deas Jr.,14
 Shelby,0036 SOUTH SHELBY BAPT. CH,U.S. Senate,,REP,Jared Hudson,216
@@ -3152,8 +3152,8 @@ Shelby,0037 OLD MILL SQUARE,State Treasurer,,REP,Steve Lolley,268
 Shelby,0037 OLD MILL SQUARE,State Treasurer,,REP,Young Boozer,665
 Shelby,0037 OLD MILL SQUARE,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,414
 Shelby,0037 OLD MILL SQUARE,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,594
-Shelby,0037 OLD MILL SQUARE,U.S. House,6.0,REP,Case Dixon,205
-Shelby,0037 OLD MILL SQUARE,U.S. House,6.0,REP,Gary Palmer,772
+Shelby,0037 OLD MILL SQUARE,U.S. House,6,REP,Case Dixon,205
+Shelby,0037 OLD MILL SQUARE,U.S. House,6,REP,Gary Palmer,772
 Shelby,0037 OLD MILL SQUARE,U.S. Senate,,REP,Barry Moore,235
 Shelby,0037 OLD MILL SQUARE,U.S. Senate,,REP,Dale Shelton Deas Jr.,15
 Shelby,0037 OLD MILL SQUARE,U.S. Senate,,REP,Jared Hudson,384
@@ -3229,14 +3229,14 @@ Shelby,0038 CHELSEA COMM CHURCH,"State Republican Executive Committee, Shleby Co
 Shelby,0038 CHELSEA COMM CHURCH,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,125
 Shelby,0038 CHELSEA COMM CHURCH,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,207
 Shelby,0038 CHELSEA COMM CHURCH,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,175
-Shelby,0038 CHELSEA COMM CHURCH,State Senate,15.0,REP,Dan Roberts,222
-Shelby,0038 CHELSEA COMM CHURCH,State Senate,15.0,REP,Scott Ortis,264
+Shelby,0038 CHELSEA COMM CHURCH,State Senate,15,REP,Dan Roberts,222
+Shelby,0038 CHELSEA COMM CHURCH,State Senate,15,REP,Scott Ortis,264
 Shelby,0038 CHELSEA COMM CHURCH,State Treasurer,,REP,Steve Lolley,157
 Shelby,0038 CHELSEA COMM CHURCH,State Treasurer,,REP,Young Boozer,339
 Shelby,0038 CHELSEA COMM CHURCH,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,258
 Shelby,0038 CHELSEA COMM CHURCH,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,238
-Shelby,0038 CHELSEA COMM CHURCH,U.S. House,6.0,REP,Case Dixon,126
-Shelby,0038 CHELSEA COMM CHURCH,U.S. House,6.0,REP,Gary Palmer,396
+Shelby,0038 CHELSEA COMM CHURCH,U.S. House,6,REP,Case Dixon,126
+Shelby,0038 CHELSEA COMM CHURCH,U.S. House,6,REP,Gary Palmer,396
 Shelby,0038 CHELSEA COMM CHURCH,U.S. Senate,,REP,Barry Moore,152
 Shelby,0038 CHELSEA COMM CHURCH,U.S. Senate,,REP,Dale Shelton Deas Jr.,7
 Shelby,0038 CHELSEA COMM CHURCH,U.S. Senate,,REP,Jared Hudson,198
@@ -3305,11 +3305,11 @@ Shelby,0039 PROVISIONAL,Shelby County Sheriff,,REP,John Samaniego,8
 Shelby,0039 PROVISIONAL,Shelby County Sheriff,,REP,"Ken ""Chief"" Bailey",4
 Shelby,0039 PROVISIONAL,State Auditor,,REP,Andrew Sorrell,8
 Shelby,0039 PROVISIONAL,State Auditor,,REP,Derek Chen,4
-Shelby,0039 PROVISIONAL,State House,45.0,REP,John Dawson,0
-Shelby,0039 PROVISIONAL,State House,45.0,REP,Susan DuBose,0
-Shelby,0039 PROVISIONAL,State House,48.0,REP,Jim Carns,0
-Shelby,0039 PROVISIONAL,State House,48.0,REP,Lloyd Peeples,2
-Shelby,0039 PROVISIONAL,State House,48.0,REP,William Wentowski,0
+Shelby,0039 PROVISIONAL,State House,45,REP,John Dawson,0
+Shelby,0039 PROVISIONAL,State House,45,REP,Susan DuBose,0
+Shelby,0039 PROVISIONAL,State House,48,REP,Jim Carns,0
+Shelby,0039 PROVISIONAL,State House,48,REP,Lloyd Peeples,2
+Shelby,0039 PROVISIONAL,State House,48,REP,William Wentowski,0
 Shelby,0039 PROVISIONAL,"State Republican Executive Committee, Shelby County Place 2",,REP,Demus Copeland,1
 Shelby,0039 PROVISIONAL,"State Republican Executive Committee, Shelby County Place 2",,REP,Paul Garris,6
 Shelby,0039 PROVISIONAL,"State Republican Executive Committee, Shelby County Place 2",,REP,Stephanie Smith,4
@@ -3326,16 +3326,16 @@ Shelby,0039 PROVISIONAL,"State Republican Executive Committee, Shleby County Pla
 Shelby,0039 PROVISIONAL,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,2
 Shelby,0039 PROVISIONAL,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,6
 Shelby,0039 PROVISIONAL,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,4
-Shelby,0039 PROVISIONAL,State Senate,15.0,REP,Dan Roberts,2
-Shelby,0039 PROVISIONAL,State Senate,15.0,REP,Scott Ortis,2
-Shelby,0039 PROVISIONAL,State Senate,16.0,REP,"J.T. ""Jabo"" Waggoner",4
-Shelby,0039 PROVISIONAL,State Senate,16.0,REP,Nate Carlson,0
+Shelby,0039 PROVISIONAL,State Senate,15,REP,Dan Roberts,2
+Shelby,0039 PROVISIONAL,State Senate,15,REP,Scott Ortis,2
+Shelby,0039 PROVISIONAL,State Senate,16,REP,"J.T. ""Jabo"" Waggoner",4
+Shelby,0039 PROVISIONAL,State Senate,16,REP,Nate Carlson,0
 Shelby,0039 PROVISIONAL,State Treasurer,,REP,Steve Lolley,4
 Shelby,0039 PROVISIONAL,State Treasurer,,REP,Young Boozer,8
 Shelby,0039 PROVISIONAL,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,6
 Shelby,0039 PROVISIONAL,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,4
-Shelby,0039 PROVISIONAL,U.S. House,6.0,REP,Case Dixon,0
-Shelby,0039 PROVISIONAL,U.S. House,6.0,REP,Gary Palmer,14
+Shelby,0039 PROVISIONAL,U.S. House,6,REP,Case Dixon,0
+Shelby,0039 PROVISIONAL,U.S. House,6,REP,Gary Palmer,14
 Shelby,0039 PROVISIONAL,U.S. Senate,,REP,Barry Moore,6
 Shelby,0039 PROVISIONAL,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
 Shelby,0039 PROVISIONAL,U.S. Senate,,REP,Jared Hudson,3
@@ -3404,11 +3404,11 @@ Shelby,0041 ABSENTEE,Shelby County Sheriff,,REP,John Samaniego,292
 Shelby,0041 ABSENTEE,Shelby County Sheriff,,REP,"Ken ""Chief"" Bailey",94
 Shelby,0041 ABSENTEE,State Auditor,,REP,Andrew Sorrell,242
 Shelby,0041 ABSENTEE,State Auditor,,REP,Derek Chen,124
-Shelby,0041 ABSENTEE,State House,45.0,REP,John Dawson,6
-Shelby,0041 ABSENTEE,State House,45.0,REP,Susan DuBose,40
-Shelby,0041 ABSENTEE,State House,48.0,REP,Jim Carns,7
-Shelby,0041 ABSENTEE,State House,48.0,REP,Lloyd Peeples,11
-Shelby,0041 ABSENTEE,State House,48.0,REP,William Wentowski,1
+Shelby,0041 ABSENTEE,State House,45,REP,John Dawson,6
+Shelby,0041 ABSENTEE,State House,45,REP,Susan DuBose,40
+Shelby,0041 ABSENTEE,State House,48,REP,Jim Carns,7
+Shelby,0041 ABSENTEE,State House,48,REP,Lloyd Peeples,11
+Shelby,0041 ABSENTEE,State House,48,REP,William Wentowski,1
 Shelby,0041 ABSENTEE,"State Republican Executive Committee, Shelby County Place 2",,REP,Demus Copeland,47
 Shelby,0041 ABSENTEE,"State Republican Executive Committee, Shelby County Place 2",,REP,Paul Garris,55
 Shelby,0041 ABSENTEE,"State Republican Executive Committee, Shelby County Place 2",,REP,Stephanie Smith,182
@@ -3425,16 +3425,16 @@ Shelby,0041 ABSENTEE,"State Republican Executive Committee, Shleby County Place 
 Shelby,0041 ABSENTEE,"State Republican Executive Committee, Shleby County Place 8",,REP,Emma White,94
 Shelby,0041 ABSENTEE,"State Republican Executive Committee, Shelby County Place 9",,REP,Bryan Taylor,141
 Shelby,0041 ABSENTEE,"State Republican Executive Committee, Shelby County Place 9",,REP,Grady Thornton,128
-Shelby,0041 ABSENTEE,State Senate,15.0,REP,Dan Roberts,85
-Shelby,0041 ABSENTEE,State Senate,15.0,REP,Scott Ortis,62
-Shelby,0041 ABSENTEE,State Senate,16.0,REP,"J.T. ""Jabo"" Waggoner",35
-Shelby,0041 ABSENTEE,State Senate,16.0,REP,Nate Carlson,59
+Shelby,0041 ABSENTEE,State Senate,15,REP,Dan Roberts,85
+Shelby,0041 ABSENTEE,State Senate,15,REP,Scott Ortis,62
+Shelby,0041 ABSENTEE,State Senate,16,REP,"J.T. ""Jabo"" Waggoner",35
+Shelby,0041 ABSENTEE,State Senate,16,REP,Nate Carlson,59
 Shelby,0041 ABSENTEE,State Treasurer,,REP,Steve Lolley,106
 Shelby,0041 ABSENTEE,State Treasurer,,REP,Young Boozer,266
 Shelby,0041 ABSENTEE,"Superintendent, Shelby County Board of Education",,REP,Andrew Gunn,111
 Shelby,0041 ABSENTEE,"Superintendent, Shelby County Board of Education",,REP,Joel C. Dixon,124
-Shelby,0041 ABSENTEE,U.S. House,6.0,REP,Case Dixon,92
-Shelby,0041 ABSENTEE,U.S. House,6.0,REP,Gary Palmer,306
+Shelby,0041 ABSENTEE,U.S. House,6,REP,Case Dixon,92
+Shelby,0041 ABSENTEE,U.S. House,6,REP,Gary Palmer,306
 Shelby,0041 ABSENTEE,U.S. Senate,,REP,Barry Moore,109
 Shelby,0041 ABSENTEE,U.S. Senate,,REP,Dale Shelton Deas Jr.,7
 Shelby,0041 ABSENTEE,U.S. Senate,,REP,Jared Hudson,138

@@ -22,9 +22,9 @@ Limestone,0001 ATHENS REC. CTR.,State Democratic Exec Comm (Female) - District N
 Limestone,0001 ATHENS REC. CTR.,State Democratic Exec Comm (Female) - District No 5,,DEM,Shirley Harvell Fletcher,141
 Limestone,0001 ATHENS REC. CTR.,State Democratic Exec Comm (Male) - District No 5,,DEM,Bryan A. Lorge,76
 Limestone,0001 ATHENS REC. CTR.,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,156
-Limestone,0001 ATHENS REC. CTR.,U.S. House,5.0,DEM,Andrew Sneed,52
-Limestone,0001 ATHENS REC. CTR.,U.S. House,5.0,DEM,Candice Dollar Duvieilh,90
-Limestone,0001 ATHENS REC. CTR.,U.S. House,5.0,DEM,Jeremy Devito,98
+Limestone,0001 ATHENS REC. CTR.,U.S. House,5,DEM,Andrew Sneed,52
+Limestone,0001 ATHENS REC. CTR.,U.S. House,5,DEM,Candice Dollar Duvieilh,90
+Limestone,0001 ATHENS REC. CTR.,U.S. House,5,DEM,Jeremy Devito,98
 Limestone,0001 ATHENS REC. CTR.,U.S. Senate,,DEM,Dakarai Larriett,90
 Limestone,0001 ATHENS REC. CTR.,U.S. Senate,,DEM,Everett Wess,56
 Limestone,0001 ATHENS REC. CTR.,U.S. Senate,,DEM,Kyle Sweetser,29
@@ -62,9 +62,9 @@ Limestone,0001 ATHENS REC. CTR.,Secretary of State,,REP,Christopher Christian Ho
 Limestone,0001 ATHENS REC. CTR.,Secretary of State,,REP,Glenda S. Jackson,82
 Limestone,0001 ATHENS REC. CTR.,State Auditor,,REP,Andrew Sorrell,431
 Limestone,0001 ATHENS REC. CTR.,State Auditor,,REP,Derek Chen,180
-Limestone,0001 ATHENS REC. CTR.,State Board of Education,8.0,REP,Connie Spears,104
-Limestone,0001 ATHENS REC. CTR.,State Board of Education,8.0,REP,Emily Jones,266
-Limestone,0001 ATHENS REC. CTR.,State Board of Education,8.0,REP,William Matthews,231
+Limestone,0001 ATHENS REC. CTR.,State Board of Education,8,REP,Connie Spears,104
+Limestone,0001 ATHENS REC. CTR.,State Board of Education,8,REP,Emily Jones,266
+Limestone,0001 ATHENS REC. CTR.,State Board of Education,8,REP,William Matthews,231
 Limestone,0001 ATHENS REC. CTR.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,95
 Limestone,0001 ATHENS REC. CTR.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,369
 Limestone,0001 ATHENS REC. CTR.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,36
@@ -109,9 +109,9 @@ Limestone,0002 LINDSAY LANE BAPTIST CH,State Democratic Exec Comm (Female) - Dis
 Limestone,0002 LINDSAY LANE BAPTIST CH,State Democratic Exec Comm (Female) - District No 5,,DEM,Shirley Harvell Fletcher,246
 Limestone,0002 LINDSAY LANE BAPTIST CH,State Democratic Exec Comm (Male) - District No 5,,DEM,Bryan A. Lorge,133
 Limestone,0002 LINDSAY LANE BAPTIST CH,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,263
-Limestone,0002 LINDSAY LANE BAPTIST CH,U.S. House,5.0,DEM,Andrew Sneed,130
-Limestone,0002 LINDSAY LANE BAPTIST CH,U.S. House,5.0,DEM,Candice Dollar Duvieilh,127
-Limestone,0002 LINDSAY LANE BAPTIST CH,U.S. House,5.0,DEM,Jeremy Devito,153
+Limestone,0002 LINDSAY LANE BAPTIST CH,U.S. House,5,DEM,Andrew Sneed,130
+Limestone,0002 LINDSAY LANE BAPTIST CH,U.S. House,5,DEM,Candice Dollar Duvieilh,127
+Limestone,0002 LINDSAY LANE BAPTIST CH,U.S. House,5,DEM,Jeremy Devito,153
 Limestone,0002 LINDSAY LANE BAPTIST CH,U.S. Senate,,DEM,Dakarai Larriett,137
 Limestone,0002 LINDSAY LANE BAPTIST CH,U.S. Senate,,DEM,Everett Wess,129
 Limestone,0002 LINDSAY LANE BAPTIST CH,U.S. Senate,,DEM,Kyle Sweetser,62
@@ -149,9 +149,9 @@ Limestone,0002 LINDSAY LANE BAPTIST CH,Secretary of State,,REP,Christopher Chris
 Limestone,0002 LINDSAY LANE BAPTIST CH,Secretary of State,,REP,Glenda S. Jackson,74
 Limestone,0002 LINDSAY LANE BAPTIST CH,State Auditor,,REP,Andrew Sorrell,651
 Limestone,0002 LINDSAY LANE BAPTIST CH,State Auditor,,REP,Derek Chen,259
-Limestone,0002 LINDSAY LANE BAPTIST CH,State Board of Education,8.0,REP,Connie Spears,166
-Limestone,0002 LINDSAY LANE BAPTIST CH,State Board of Education,8.0,REP,Emily Jones,428
-Limestone,0002 LINDSAY LANE BAPTIST CH,State Board of Education,8.0,REP,William Matthews,269
+Limestone,0002 LINDSAY LANE BAPTIST CH,State Board of Education,8,REP,Connie Spears,166
+Limestone,0002 LINDSAY LANE BAPTIST CH,State Board of Education,8,REP,Emily Jones,428
+Limestone,0002 LINDSAY LANE BAPTIST CH,State Board of Education,8,REP,William Matthews,269
 Limestone,0002 LINDSAY LANE BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,147
 Limestone,0002 LINDSAY LANE BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,504
 Limestone,0002 LINDSAY LANE BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,45
@@ -199,9 +199,9 @@ Limestone,0003 PINCHAM-LINCOLN CTR.,State Democratic Exec Comm (Female) - Distri
 Limestone,0003 PINCHAM-LINCOLN CTR.,State Democratic Exec Comm (Male) - District No 2,,DEM,Rick Pressnell,0
 Limestone,0003 PINCHAM-LINCOLN CTR.,State Democratic Exec Comm (Male) - District No 5,,DEM,Bryan A. Lorge,95
 Limestone,0003 PINCHAM-LINCOLN CTR.,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,448
-Limestone,0003 PINCHAM-LINCOLN CTR.,U.S. House,5.0,DEM,Andrew Sneed,173
-Limestone,0003 PINCHAM-LINCOLN CTR.,U.S. House,5.0,DEM,Candice Dollar Duvieilh,229
-Limestone,0003 PINCHAM-LINCOLN CTR.,U.S. House,5.0,DEM,Jeremy Devito,130
+Limestone,0003 PINCHAM-LINCOLN CTR.,U.S. House,5,DEM,Andrew Sneed,173
+Limestone,0003 PINCHAM-LINCOLN CTR.,U.S. House,5,DEM,Candice Dollar Duvieilh,229
+Limestone,0003 PINCHAM-LINCOLN CTR.,U.S. House,5,DEM,Jeremy Devito,130
 Limestone,0003 PINCHAM-LINCOLN CTR.,U.S. Senate,,DEM,Dakarai Larriett,181
 Limestone,0003 PINCHAM-LINCOLN CTR.,U.S. Senate,,DEM,Everett Wess,252
 Limestone,0003 PINCHAM-LINCOLN CTR.,U.S. Senate,,DEM,Kyle Sweetser,37
@@ -239,9 +239,9 @@ Limestone,0003 PINCHAM-LINCOLN CTR.,Secretary of State,,REP,Christopher Christia
 Limestone,0003 PINCHAM-LINCOLN CTR.,Secretary of State,,REP,Glenda S. Jackson,40
 Limestone,0003 PINCHAM-LINCOLN CTR.,State Auditor,,REP,Andrew Sorrell,257
 Limestone,0003 PINCHAM-LINCOLN CTR.,State Auditor,,REP,Derek Chen,93
-Limestone,0003 PINCHAM-LINCOLN CTR.,State Board of Education,8.0,REP,Connie Spears,47
-Limestone,0003 PINCHAM-LINCOLN CTR.,State Board of Education,8.0,REP,Emily Jones,146
-Limestone,0003 PINCHAM-LINCOLN CTR.,State Board of Education,8.0,REP,William Matthews,136
+Limestone,0003 PINCHAM-LINCOLN CTR.,State Board of Education,8,REP,Connie Spears,47
+Limestone,0003 PINCHAM-LINCOLN CTR.,State Board of Education,8,REP,Emily Jones,146
+Limestone,0003 PINCHAM-LINCOLN CTR.,State Board of Education,8,REP,William Matthews,136
 Limestone,0003 PINCHAM-LINCOLN CTR.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,53
 Limestone,0003 PINCHAM-LINCOLN CTR.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,163
 Limestone,0003 PINCHAM-LINCOLN CTR.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,20
@@ -289,9 +289,9 @@ Limestone,0004 FRIENDSHIP CHURCH,State Democratic Exec Comm (Female) - District 
 Limestone,0004 FRIENDSHIP CHURCH,State Democratic Exec Comm (Male) - District No 2,,DEM,Rick Pressnell,8
 Limestone,0004 FRIENDSHIP CHURCH,State Democratic Exec Comm (Male) - District No 5,,DEM,Bryan A. Lorge,54
 Limestone,0004 FRIENDSHIP CHURCH,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,172
-Limestone,0004 FRIENDSHIP CHURCH,U.S. House,5.0,DEM,Andrew Sneed,67
-Limestone,0004 FRIENDSHIP CHURCH,U.S. House,5.0,DEM,Candice Dollar Duvieilh,95
-Limestone,0004 FRIENDSHIP CHURCH,U.S. House,5.0,DEM,Jeremy Devito,83
+Limestone,0004 FRIENDSHIP CHURCH,U.S. House,5,DEM,Andrew Sneed,67
+Limestone,0004 FRIENDSHIP CHURCH,U.S. House,5,DEM,Candice Dollar Duvieilh,95
+Limestone,0004 FRIENDSHIP CHURCH,U.S. House,5,DEM,Jeremy Devito,83
 Limestone,0004 FRIENDSHIP CHURCH,U.S. Senate,,DEM,Dakarai Larriett,99
 Limestone,0004 FRIENDSHIP CHURCH,U.S. Senate,,DEM,Everett Wess,71
 Limestone,0004 FRIENDSHIP CHURCH,U.S. Senate,,DEM,Kyle Sweetser,26
@@ -326,9 +326,9 @@ Limestone,0004 FRIENDSHIP CHURCH,Secretary of State,,REP,Christopher Christian H
 Limestone,0004 FRIENDSHIP CHURCH,Secretary of State,,REP,Glenda S. Jackson,72
 Limestone,0004 FRIENDSHIP CHURCH,State Auditor,,REP,Andrew Sorrell,380
 Limestone,0004 FRIENDSHIP CHURCH,State Auditor,,REP,Derek Chen,161
-Limestone,0004 FRIENDSHIP CHURCH,State Board of Education,8.0,REP,Connie Spears,93
-Limestone,0004 FRIENDSHIP CHURCH,State Board of Education,8.0,REP,Emily Jones,224
-Limestone,0004 FRIENDSHIP CHURCH,State Board of Education,8.0,REP,William Matthews,197
+Limestone,0004 FRIENDSHIP CHURCH,State Board of Education,8,REP,Connie Spears,93
+Limestone,0004 FRIENDSHIP CHURCH,State Board of Education,8,REP,Emily Jones,224
+Limestone,0004 FRIENDSHIP CHURCH,State Board of Education,8,REP,William Matthews,197
 Limestone,0004 FRIENDSHIP CHURCH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,71
 Limestone,0004 FRIENDSHIP CHURCH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,284
 Limestone,0004 FRIENDSHIP CHURCH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,41
@@ -376,9 +376,9 @@ Limestone,0005 ATHENS ACTIVITY CTR.,State Democratic Exec Comm (Female) - Distri
 Limestone,0005 ATHENS ACTIVITY CTR.,State Democratic Exec Comm (Male) - District No 2,,DEM,Rick Pressnell,1
 Limestone,0005 ATHENS ACTIVITY CTR.,State Democratic Exec Comm (Male) - District No 5,,DEM,Bryan A. Lorge,39
 Limestone,0005 ATHENS ACTIVITY CTR.,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,107
-Limestone,0005 ATHENS ACTIVITY CTR.,U.S. House,5.0,DEM,Andrew Sneed,39
-Limestone,0005 ATHENS ACTIVITY CTR.,U.S. House,5.0,DEM,Candice Dollar Duvieilh,57
-Limestone,0005 ATHENS ACTIVITY CTR.,U.S. House,5.0,DEM,Jeremy Devito,54
+Limestone,0005 ATHENS ACTIVITY CTR.,U.S. House,5,DEM,Andrew Sneed,39
+Limestone,0005 ATHENS ACTIVITY CTR.,U.S. House,5,DEM,Candice Dollar Duvieilh,57
+Limestone,0005 ATHENS ACTIVITY CTR.,U.S. House,5,DEM,Jeremy Devito,54
 Limestone,0005 ATHENS ACTIVITY CTR.,U.S. Senate,,DEM,Dakarai Larriett,51
 Limestone,0005 ATHENS ACTIVITY CTR.,U.S. Senate,,DEM,Everett Wess,36
 Limestone,0005 ATHENS ACTIVITY CTR.,U.S. Senate,,DEM,Kyle Sweetser,24
@@ -416,9 +416,9 @@ Limestone,0005 ATHENS ACTIVITY CTR.,Secretary of State,,REP,Christopher Christia
 Limestone,0005 ATHENS ACTIVITY CTR.,Secretary of State,,REP,Glenda S. Jackson,27
 Limestone,0005 ATHENS ACTIVITY CTR.,State Auditor,,REP,Andrew Sorrell,154
 Limestone,0005 ATHENS ACTIVITY CTR.,State Auditor,,REP,Derek Chen,63
-Limestone,0005 ATHENS ACTIVITY CTR.,State Board of Education,8.0,REP,Connie Spears,38
-Limestone,0005 ATHENS ACTIVITY CTR.,State Board of Education,8.0,REP,Emily Jones,80
-Limestone,0005 ATHENS ACTIVITY CTR.,State Board of Education,8.0,REP,William Matthews,96
+Limestone,0005 ATHENS ACTIVITY CTR.,State Board of Education,8,REP,Connie Spears,38
+Limestone,0005 ATHENS ACTIVITY CTR.,State Board of Education,8,REP,Emily Jones,80
+Limestone,0005 ATHENS ACTIVITY CTR.,State Board of Education,8,REP,William Matthews,96
 Limestone,0005 ATHENS ACTIVITY CTR.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,29
 Limestone,0005 ATHENS ACTIVITY CTR.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,127
 Limestone,0005 ATHENS ACTIVITY CTR.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,16
@@ -463,9 +463,9 @@ Limestone,0006 ELKTON ROAD BAPTIST CH,State Democratic Exec Comm (Female) - Dist
 Limestone,0006 ELKTON ROAD BAPTIST CH,State Democratic Exec Comm (Female) - District No 5,,DEM,Shirley Harvell Fletcher,55
 Limestone,0006 ELKTON ROAD BAPTIST CH,State Democratic Exec Comm (Male) - District No 5,,DEM,Bryan A. Lorge,24
 Limestone,0006 ELKTON ROAD BAPTIST CH,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,68
-Limestone,0006 ELKTON ROAD BAPTIST CH,U.S. House,5.0,DEM,Andrew Sneed,22
-Limestone,0006 ELKTON ROAD BAPTIST CH,U.S. House,5.0,DEM,Candice Dollar Duvieilh,35
-Limestone,0006 ELKTON ROAD BAPTIST CH,U.S. House,5.0,DEM,Jeremy Devito,38
+Limestone,0006 ELKTON ROAD BAPTIST CH,U.S. House,5,DEM,Andrew Sneed,22
+Limestone,0006 ELKTON ROAD BAPTIST CH,U.S. House,5,DEM,Candice Dollar Duvieilh,35
+Limestone,0006 ELKTON ROAD BAPTIST CH,U.S. House,5,DEM,Jeremy Devito,38
 Limestone,0006 ELKTON ROAD BAPTIST CH,U.S. Senate,,DEM,Dakarai Larriett,31
 Limestone,0006 ELKTON ROAD BAPTIST CH,U.S. Senate,,DEM,Everett Wess,27
 Limestone,0006 ELKTON ROAD BAPTIST CH,U.S. Senate,,DEM,Kyle Sweetser,16
@@ -503,9 +503,9 @@ Limestone,0006 ELKTON ROAD BAPTIST CH,Secretary of State,,REP,Christopher Christ
 Limestone,0006 ELKTON ROAD BAPTIST CH,Secretary of State,,REP,Glenda S. Jackson,44
 Limestone,0006 ELKTON ROAD BAPTIST CH,State Auditor,,REP,Andrew Sorrell,295
 Limestone,0006 ELKTON ROAD BAPTIST CH,State Auditor,,REP,Derek Chen,108
-Limestone,0006 ELKTON ROAD BAPTIST CH,State Board of Education,8.0,REP,Connie Spears,74
-Limestone,0006 ELKTON ROAD BAPTIST CH,State Board of Education,8.0,REP,Emily Jones,146
-Limestone,0006 ELKTON ROAD BAPTIST CH,State Board of Education,8.0,REP,William Matthews,160
+Limestone,0006 ELKTON ROAD BAPTIST CH,State Board of Education,8,REP,Connie Spears,74
+Limestone,0006 ELKTON ROAD BAPTIST CH,State Board of Education,8,REP,Emily Jones,146
+Limestone,0006 ELKTON ROAD BAPTIST CH,State Board of Education,8,REP,William Matthews,160
 Limestone,0006 ELKTON ROAD BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,55
 Limestone,0006 ELKTON ROAD BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,244
 Limestone,0006 ELKTON ROAD BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,26
@@ -550,9 +550,9 @@ Limestone,0007 ISOM'S CHAPEL CHURCH,State Democratic Exec Comm (Female) - Distri
 Limestone,0007 ISOM'S CHAPEL CHURCH,State Democratic Exec Comm (Female) - District No 5,,DEM,Shirley Harvell Fletcher,184
 Limestone,0007 ISOM'S CHAPEL CHURCH,State Democratic Exec Comm (Male) - District No 5,,DEM,Bryan A. Lorge,102
 Limestone,0007 ISOM'S CHAPEL CHURCH,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,179
-Limestone,0007 ISOM'S CHAPEL CHURCH,U.S. House,5.0,DEM,Andrew Sneed,88
-Limestone,0007 ISOM'S CHAPEL CHURCH,U.S. House,5.0,DEM,Candice Dollar Duvieilh,114
-Limestone,0007 ISOM'S CHAPEL CHURCH,U.S. House,5.0,DEM,Jeremy Devito,93
+Limestone,0007 ISOM'S CHAPEL CHURCH,U.S. House,5,DEM,Andrew Sneed,88
+Limestone,0007 ISOM'S CHAPEL CHURCH,U.S. House,5,DEM,Candice Dollar Duvieilh,114
+Limestone,0007 ISOM'S CHAPEL CHURCH,U.S. House,5,DEM,Jeremy Devito,93
 Limestone,0007 ISOM'S CHAPEL CHURCH,U.S. Senate,,DEM,Dakarai Larriett,114
 Limestone,0007 ISOM'S CHAPEL CHURCH,U.S. Senate,,DEM,Everett Wess,81
 Limestone,0007 ISOM'S CHAPEL CHURCH,U.S. Senate,,DEM,Kyle Sweetser,45
@@ -587,9 +587,9 @@ Limestone,0007 ISOM'S CHAPEL CHURCH,Secretary of State,,REP,Christopher Christia
 Limestone,0007 ISOM'S CHAPEL CHURCH,Secretary of State,,REP,Glenda S. Jackson,67
 Limestone,0007 ISOM'S CHAPEL CHURCH,State Auditor,,REP,Andrew Sorrell,397
 Limestone,0007 ISOM'S CHAPEL CHURCH,State Auditor,,REP,Derek Chen,153
-Limestone,0007 ISOM'S CHAPEL CHURCH,State Board of Education,8.0,REP,Connie Spears,102
-Limestone,0007 ISOM'S CHAPEL CHURCH,State Board of Education,8.0,REP,Emily Jones,222
-Limestone,0007 ISOM'S CHAPEL CHURCH,State Board of Education,8.0,REP,William Matthews,191
+Limestone,0007 ISOM'S CHAPEL CHURCH,State Board of Education,8,REP,Connie Spears,102
+Limestone,0007 ISOM'S CHAPEL CHURCH,State Board of Education,8,REP,Emily Jones,222
+Limestone,0007 ISOM'S CHAPEL CHURCH,State Board of Education,8,REP,William Matthews,191
 Limestone,0007 ISOM'S CHAPEL CHURCH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,65
 Limestone,0007 ISOM'S CHAPEL CHURCH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,326
 Limestone,0007 ISOM'S CHAPEL CHURCH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,31
@@ -636,12 +636,12 @@ Limestone,0008 COPELAND PRESBYTERIAN CH,State Democratic Exec Comm (Male) - Dist
 Limestone,0008 COPELAND PRESBYTERIAN CH,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,63
 Limestone,0008 COPELAND PRESBYTERIAN CH,State Democratic Exec Comm (Male) - District No 6,,DEM,Benard Simelton,51
 Limestone,0008 COPELAND PRESBYTERIAN CH,State Democratic Exec Comm (Male) - District No 6,,DEM,Guy Sotomayor,26
-Limestone,0008 COPELAND PRESBYTERIAN CH,State Senate,2.0,DEM,Alex House,19
-Limestone,0008 COPELAND PRESBYTERIAN CH,State Senate,2.0,DEM,Guy Sotomayor,23
-Limestone,0008 COPELAND PRESBYTERIAN CH,State Senate,2.0,DEM,Rudolph Valentino Drake,36
-Limestone,0008 COPELAND PRESBYTERIAN CH,U.S. House,5.0,DEM,Andrew Sneed,57
-Limestone,0008 COPELAND PRESBYTERIAN CH,U.S. House,5.0,DEM,Candice Dollar Duvieilh,56
-Limestone,0008 COPELAND PRESBYTERIAN CH,U.S. House,5.0,DEM,Jeremy Devito,54
+Limestone,0008 COPELAND PRESBYTERIAN CH,State Senate,2,DEM,Alex House,19
+Limestone,0008 COPELAND PRESBYTERIAN CH,State Senate,2,DEM,Guy Sotomayor,23
+Limestone,0008 COPELAND PRESBYTERIAN CH,State Senate,2,DEM,Rudolph Valentino Drake,36
+Limestone,0008 COPELAND PRESBYTERIAN CH,U.S. House,5,DEM,Andrew Sneed,57
+Limestone,0008 COPELAND PRESBYTERIAN CH,U.S. House,5,DEM,Candice Dollar Duvieilh,56
+Limestone,0008 COPELAND PRESBYTERIAN CH,U.S. House,5,DEM,Jeremy Devito,54
 Limestone,0008 COPELAND PRESBYTERIAN CH,U.S. Senate,,DEM,Dakarai Larriett,67
 Limestone,0008 COPELAND PRESBYTERIAN CH,U.S. Senate,,DEM,Everett Wess,43
 Limestone,0008 COPELAND PRESBYTERIAN CH,U.S. Senate,,DEM,Kyle Sweetser,29
@@ -679,9 +679,9 @@ Limestone,0008 COPELAND PRESBYTERIAN CH,Secretary of State,,REP,Christopher Chri
 Limestone,0008 COPELAND PRESBYTERIAN CH,Secretary of State,,REP,Glenda S. Jackson,54
 Limestone,0008 COPELAND PRESBYTERIAN CH,State Auditor,,REP,Andrew Sorrell,274
 Limestone,0008 COPELAND PRESBYTERIAN CH,State Auditor,,REP,Derek Chen,116
-Limestone,0008 COPELAND PRESBYTERIAN CH,State Board of Education,8.0,REP,Connie Spears,63
-Limestone,0008 COPELAND PRESBYTERIAN CH,State Board of Education,8.0,REP,Emily Jones,175
-Limestone,0008 COPELAND PRESBYTERIAN CH,State Board of Education,8.0,REP,William Matthews,137
+Limestone,0008 COPELAND PRESBYTERIAN CH,State Board of Education,8,REP,Connie Spears,63
+Limestone,0008 COPELAND PRESBYTERIAN CH,State Board of Education,8,REP,Emily Jones,175
+Limestone,0008 COPELAND PRESBYTERIAN CH,State Board of Education,8,REP,William Matthews,137
 Limestone,0008 COPELAND PRESBYTERIAN CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,53
 Limestone,0008 COPELAND PRESBYTERIAN CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,195
 Limestone,0008 COPELAND PRESBYTERIAN CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,23
@@ -732,14 +732,14 @@ Limestone,0009 CAPSHAW BAPTIST CH,State Democratic Exec Comm (Male) - District N
 Limestone,0009 CAPSHAW BAPTIST CH,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,15
 Limestone,0009 CAPSHAW BAPTIST CH,State Democratic Exec Comm (Male) - District No 6,,DEM,Benard Simelton,319
 Limestone,0009 CAPSHAW BAPTIST CH,State Democratic Exec Comm (Male) - District No 6,,DEM,Guy Sotomayor,184
-Limestone,0009 CAPSHAW BAPTIST CH,State House,25.0,DEM,Allison T Montgomery,90
-Limestone,0009 CAPSHAW BAPTIST CH,State House,25.0,DEM,Damon Eubanks,46
-Limestone,0009 CAPSHAW BAPTIST CH,State Senate,2.0,DEM,Alex House,237
-Limestone,0009 CAPSHAW BAPTIST CH,State Senate,2.0,DEM,Guy Sotomayor,193
-Limestone,0009 CAPSHAW BAPTIST CH,State Senate,2.0,DEM,Rudolph Valentino Drake,227
-Limestone,0009 CAPSHAW BAPTIST CH,U.S. House,5.0,DEM,Andrew Sneed,268
-Limestone,0009 CAPSHAW BAPTIST CH,U.S. House,5.0,DEM,Candice Dollar Duvieilh,269
-Limestone,0009 CAPSHAW BAPTIST CH,U.S. House,5.0,DEM,Jeremy Devito,144
+Limestone,0009 CAPSHAW BAPTIST CH,State House,25,DEM,Allison T Montgomery,90
+Limestone,0009 CAPSHAW BAPTIST CH,State House,25,DEM,Damon Eubanks,46
+Limestone,0009 CAPSHAW BAPTIST CH,State Senate,2,DEM,Alex House,237
+Limestone,0009 CAPSHAW BAPTIST CH,State Senate,2,DEM,Guy Sotomayor,193
+Limestone,0009 CAPSHAW BAPTIST CH,State Senate,2,DEM,Rudolph Valentino Drake,227
+Limestone,0009 CAPSHAW BAPTIST CH,U.S. House,5,DEM,Andrew Sneed,268
+Limestone,0009 CAPSHAW BAPTIST CH,U.S. House,5,DEM,Candice Dollar Duvieilh,269
+Limestone,0009 CAPSHAW BAPTIST CH,U.S. House,5,DEM,Jeremy Devito,144
 Limestone,0009 CAPSHAW BAPTIST CH,U.S. Senate,,DEM,Dakarai Larriett,268
 Limestone,0009 CAPSHAW BAPTIST CH,U.S. Senate,,DEM,Everett Wess,246
 Limestone,0009 CAPSHAW BAPTIST CH,U.S. Senate,,DEM,Kyle Sweetser,71
@@ -774,9 +774,9 @@ Limestone,0009 CAPSHAW BAPTIST CH,Secretary of State,,REP,Christopher Christian 
 Limestone,0009 CAPSHAW BAPTIST CH,Secretary of State,,REP,Glenda S. Jackson,50
 Limestone,0009 CAPSHAW BAPTIST CH,State Auditor,,REP,Andrew Sorrell,328
 Limestone,0009 CAPSHAW BAPTIST CH,State Auditor,,REP,Derek Chen,135
-Limestone,0009 CAPSHAW BAPTIST CH,State Board of Education,8.0,REP,Connie Spears,122
-Limestone,0009 CAPSHAW BAPTIST CH,State Board of Education,8.0,REP,Emily Jones,175
-Limestone,0009 CAPSHAW BAPTIST CH,State Board of Education,8.0,REP,William Matthews,146
+Limestone,0009 CAPSHAW BAPTIST CH,State Board of Education,8,REP,Connie Spears,122
+Limestone,0009 CAPSHAW BAPTIST CH,State Board of Education,8,REP,Emily Jones,175
+Limestone,0009 CAPSHAW BAPTIST CH,State Board of Education,8,REP,William Matthews,146
 Limestone,0009 CAPSHAW BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,79
 Limestone,0009 CAPSHAW BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,198
 Limestone,0009 CAPSHAW BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,40
@@ -823,12 +823,12 @@ Limestone,0010 BETHEL CH OF CHRIST,State Democratic Exec Comm (Male) - District 
 Limestone,0010 BETHEL CH OF CHRIST,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,234
 Limestone,0010 BETHEL CH OF CHRIST,State Democratic Exec Comm (Male) - District No 6,,DEM,Benard Simelton,16
 Limestone,0010 BETHEL CH OF CHRIST,State Democratic Exec Comm (Male) - District No 6,,DEM,Guy Sotomayor,2
-Limestone,0010 BETHEL CH OF CHRIST,State Senate,2.0,DEM,Alex House,28
-Limestone,0010 BETHEL CH OF CHRIST,State Senate,2.0,DEM,Guy Sotomayor,20
-Limestone,0010 BETHEL CH OF CHRIST,State Senate,2.0,DEM,Rudolph Valentino Drake,22
-Limestone,0010 BETHEL CH OF CHRIST,U.S. House,5.0,DEM,Andrew Sneed,112
-Limestone,0010 BETHEL CH OF CHRIST,U.S. House,5.0,DEM,Candice Dollar Duvieilh,146
-Limestone,0010 BETHEL CH OF CHRIST,U.S. House,5.0,DEM,Jeremy Devito,106
+Limestone,0010 BETHEL CH OF CHRIST,State Senate,2,DEM,Alex House,28
+Limestone,0010 BETHEL CH OF CHRIST,State Senate,2,DEM,Guy Sotomayor,20
+Limestone,0010 BETHEL CH OF CHRIST,State Senate,2,DEM,Rudolph Valentino Drake,22
+Limestone,0010 BETHEL CH OF CHRIST,U.S. House,5,DEM,Andrew Sneed,112
+Limestone,0010 BETHEL CH OF CHRIST,U.S. House,5,DEM,Candice Dollar Duvieilh,146
+Limestone,0010 BETHEL CH OF CHRIST,U.S. House,5,DEM,Jeremy Devito,106
 Limestone,0010 BETHEL CH OF CHRIST,U.S. Senate,,DEM,Dakarai Larriett,125
 Limestone,0010 BETHEL CH OF CHRIST,U.S. Senate,,DEM,Everett Wess,107
 Limestone,0010 BETHEL CH OF CHRIST,U.S. Senate,,DEM,Kyle Sweetser,50
@@ -863,9 +863,9 @@ Limestone,0010 BETHEL CH OF CHRIST,Secretary of State,,REP,Christopher Christian
 Limestone,0010 BETHEL CH OF CHRIST,Secretary of State,,REP,Glenda S. Jackson,59
 Limestone,0010 BETHEL CH OF CHRIST,State Auditor,,REP,Andrew Sorrell,473
 Limestone,0010 BETHEL CH OF CHRIST,State Auditor,,REP,Derek Chen,176
-Limestone,0010 BETHEL CH OF CHRIST,State Board of Education,8.0,REP,Connie Spears,154
-Limestone,0010 BETHEL CH OF CHRIST,State Board of Education,8.0,REP,Emily Jones,259
-Limestone,0010 BETHEL CH OF CHRIST,State Board of Education,8.0,REP,William Matthews,211
+Limestone,0010 BETHEL CH OF CHRIST,State Board of Education,8,REP,Connie Spears,154
+Limestone,0010 BETHEL CH OF CHRIST,State Board of Education,8,REP,Emily Jones,259
+Limestone,0010 BETHEL CH OF CHRIST,State Board of Education,8,REP,William Matthews,211
 Limestone,0010 BETHEL CH OF CHRIST,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,91
 Limestone,0010 BETHEL CH OF CHRIST,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,368
 Limestone,0010 BETHEL CH OF CHRIST,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,35
@@ -914,14 +914,14 @@ Limestone,0011 FIRST BIBLE CHURCH,State Democratic Exec Comm (Male) - District N
 Limestone,0011 FIRST BIBLE CHURCH,State Democratic Exec Comm (Male) - District No 25,,DEM,Joseph Rucker,78
 Limestone,0011 FIRST BIBLE CHURCH,State Democratic Exec Comm (Male) - District No 5,,DEM,Bryan A. Lorge,52
 Limestone,0011 FIRST BIBLE CHURCH,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,129
-Limestone,0011 FIRST BIBLE CHURCH,State House,25.0,DEM,Allison T Montgomery,78
-Limestone,0011 FIRST BIBLE CHURCH,State House,25.0,DEM,Damon Eubanks,45
-Limestone,0011 FIRST BIBLE CHURCH,State Senate,2.0,DEM,Alex House,60
-Limestone,0011 FIRST BIBLE CHURCH,State Senate,2.0,DEM,Guy Sotomayor,33
-Limestone,0011 FIRST BIBLE CHURCH,State Senate,2.0,DEM,Rudolph Valentino Drake,45
-Limestone,0011 FIRST BIBLE CHURCH,U.S. House,5.0,DEM,Andrew Sneed,94
-Limestone,0011 FIRST BIBLE CHURCH,U.S. House,5.0,DEM,Candice Dollar Duvieilh,125
-Limestone,0011 FIRST BIBLE CHURCH,U.S. House,5.0,DEM,Jeremy Devito,101
+Limestone,0011 FIRST BIBLE CHURCH,State House,25,DEM,Allison T Montgomery,78
+Limestone,0011 FIRST BIBLE CHURCH,State House,25,DEM,Damon Eubanks,45
+Limestone,0011 FIRST BIBLE CHURCH,State Senate,2,DEM,Alex House,60
+Limestone,0011 FIRST BIBLE CHURCH,State Senate,2,DEM,Guy Sotomayor,33
+Limestone,0011 FIRST BIBLE CHURCH,State Senate,2,DEM,Rudolph Valentino Drake,45
+Limestone,0011 FIRST BIBLE CHURCH,U.S. House,5,DEM,Andrew Sneed,94
+Limestone,0011 FIRST BIBLE CHURCH,U.S. House,5,DEM,Candice Dollar Duvieilh,125
+Limestone,0011 FIRST BIBLE CHURCH,U.S. House,5,DEM,Jeremy Devito,101
 Limestone,0011 FIRST BIBLE CHURCH,U.S. Senate,,DEM,Dakarai Larriett,116
 Limestone,0011 FIRST BIBLE CHURCH,U.S. Senate,,DEM,Everett Wess,82
 Limestone,0011 FIRST BIBLE CHURCH,U.S. Senate,,DEM,Kyle Sweetser,51
@@ -956,9 +956,9 @@ Limestone,0011 FIRST BIBLE CHURCH,Secretary of State,,REP,Christopher Christian 
 Limestone,0011 FIRST BIBLE CHURCH,Secretary of State,,REP,Glenda S. Jackson,22
 Limestone,0011 FIRST BIBLE CHURCH,State Auditor,,REP,Andrew Sorrell,226
 Limestone,0011 FIRST BIBLE CHURCH,State Auditor,,REP,Derek Chen,89
-Limestone,0011 FIRST BIBLE CHURCH,State Board of Education,8.0,REP,Connie Spears,63
-Limestone,0011 FIRST BIBLE CHURCH,State Board of Education,8.0,REP,Emily Jones,125
-Limestone,0011 FIRST BIBLE CHURCH,State Board of Education,8.0,REP,William Matthews,113
+Limestone,0011 FIRST BIBLE CHURCH,State Board of Education,8,REP,Connie Spears,63
+Limestone,0011 FIRST BIBLE CHURCH,State Board of Education,8,REP,Emily Jones,125
+Limestone,0011 FIRST BIBLE CHURCH,State Board of Education,8,REP,William Matthews,113
 Limestone,0011 FIRST BIBLE CHURCH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,43
 Limestone,0011 FIRST BIBLE CHURCH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,151
 Limestone,0011 FIRST BIBLE CHURCH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,24
@@ -1005,9 +1005,9 @@ Limestone,0012 ARDMORE SR. CENTER,State Democratic Exec Comm (Male) - District N
 Limestone,0012 ARDMORE SR. CENTER,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,1
 Limestone,0012 ARDMORE SR. CENTER,State Democratic Exec Comm (Male) - District No 6,,DEM,Benard Simelton,16
 Limestone,0012 ARDMORE SR. CENTER,State Democratic Exec Comm (Male) - District No 6,,DEM,Guy Sotomayor,21
-Limestone,0012 ARDMORE SR. CENTER,U.S. House,5.0,DEM,Andrew Sneed,14
-Limestone,0012 ARDMORE SR. CENTER,U.S. House,5.0,DEM,Candice Dollar Duvieilh,15
-Limestone,0012 ARDMORE SR. CENTER,U.S. House,5.0,DEM,Jeremy Devito,11
+Limestone,0012 ARDMORE SR. CENTER,U.S. House,5,DEM,Andrew Sneed,14
+Limestone,0012 ARDMORE SR. CENTER,U.S. House,5,DEM,Candice Dollar Duvieilh,15
+Limestone,0012 ARDMORE SR. CENTER,U.S. House,5,DEM,Jeremy Devito,11
 Limestone,0012 ARDMORE SR. CENTER,U.S. Senate,,DEM,Dakarai Larriett,9
 Limestone,0012 ARDMORE SR. CENTER,U.S. Senate,,DEM,Everett Wess,14
 Limestone,0012 ARDMORE SR. CENTER,U.S. Senate,,DEM,Kyle Sweetser,6
@@ -1045,9 +1045,9 @@ Limestone,0012 ARDMORE SR. CENTER,Secretary of State,,REP,Christopher Christian 
 Limestone,0012 ARDMORE SR. CENTER,Secretary of State,,REP,Glenda S. Jackson,45
 Limestone,0012 ARDMORE SR. CENTER,State Auditor,,REP,Andrew Sorrell,235
 Limestone,0012 ARDMORE SR. CENTER,State Auditor,,REP,Derek Chen,79
-Limestone,0012 ARDMORE SR. CENTER,State Board of Education,8.0,REP,Connie Spears,54
-Limestone,0012 ARDMORE SR. CENTER,State Board of Education,8.0,REP,Emily Jones,112
-Limestone,0012 ARDMORE SR. CENTER,State Board of Education,8.0,REP,William Matthews,118
+Limestone,0012 ARDMORE SR. CENTER,State Board of Education,8,REP,Connie Spears,54
+Limestone,0012 ARDMORE SR. CENTER,State Board of Education,8,REP,Emily Jones,112
+Limestone,0012 ARDMORE SR. CENTER,State Board of Education,8,REP,William Matthews,118
 Limestone,0012 ARDMORE SR. CENTER,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,47
 Limestone,0012 ARDMORE SR. CENTER,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,159
 Limestone,0012 ARDMORE SR. CENTER,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,21
@@ -1094,9 +1094,9 @@ Limestone,0013 SARDIS SPRINGS BAPTIST,State Democratic Exec Comm (Male) - Distri
 Limestone,0013 SARDIS SPRINGS BAPTIST,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,12
 Limestone,0013 SARDIS SPRINGS BAPTIST,State Democratic Exec Comm (Male) - District No 6,,DEM,Benard Simelton,18
 Limestone,0013 SARDIS SPRINGS BAPTIST,State Democratic Exec Comm (Male) - District No 6,,DEM,Guy Sotomayor,6
-Limestone,0013 SARDIS SPRINGS BAPTIST,U.S. House,5.0,DEM,Andrew Sneed,7
-Limestone,0013 SARDIS SPRINGS BAPTIST,U.S. House,5.0,DEM,Candice Dollar Duvieilh,18
-Limestone,0013 SARDIS SPRINGS BAPTIST,U.S. House,5.0,DEM,Jeremy Devito,19
+Limestone,0013 SARDIS SPRINGS BAPTIST,U.S. House,5,DEM,Andrew Sneed,7
+Limestone,0013 SARDIS SPRINGS BAPTIST,U.S. House,5,DEM,Candice Dollar Duvieilh,18
+Limestone,0013 SARDIS SPRINGS BAPTIST,U.S. House,5,DEM,Jeremy Devito,19
 Limestone,0013 SARDIS SPRINGS BAPTIST,U.S. Senate,,DEM,Dakarai Larriett,19
 Limestone,0013 SARDIS SPRINGS BAPTIST,U.S. Senate,,DEM,Everett Wess,9
 Limestone,0013 SARDIS SPRINGS BAPTIST,U.S. Senate,,DEM,Kyle Sweetser,9
@@ -1134,9 +1134,9 @@ Limestone,0013 SARDIS SPRINGS BAPTIST,Secretary of State,,REP,Christopher Christ
 Limestone,0013 SARDIS SPRINGS BAPTIST,Secretary of State,,REP,Glenda S. Jackson,52
 Limestone,0013 SARDIS SPRINGS BAPTIST,State Auditor,,REP,Andrew Sorrell,270
 Limestone,0013 SARDIS SPRINGS BAPTIST,State Auditor,,REP,Derek Chen,93
-Limestone,0013 SARDIS SPRINGS BAPTIST,State Board of Education,8.0,REP,Connie Spears,55
-Limestone,0013 SARDIS SPRINGS BAPTIST,State Board of Education,8.0,REP,Emily Jones,155
-Limestone,0013 SARDIS SPRINGS BAPTIST,State Board of Education,8.0,REP,William Matthews,126
+Limestone,0013 SARDIS SPRINGS BAPTIST,State Board of Education,8,REP,Connie Spears,55
+Limestone,0013 SARDIS SPRINGS BAPTIST,State Board of Education,8,REP,Emily Jones,155
+Limestone,0013 SARDIS SPRINGS BAPTIST,State Board of Education,8,REP,William Matthews,126
 Limestone,0013 SARDIS SPRINGS BAPTIST,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,38
 Limestone,0013 SARDIS SPRINGS BAPTIST,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,211
 Limestone,0013 SARDIS SPRINGS BAPTIST,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,22
@@ -1183,9 +1183,9 @@ Limestone,0014 WOOLEY SPRINGS BAPTIST,State Democratic Exec Comm (Male) - Distri
 Limestone,0014 WOOLEY SPRINGS BAPTIST,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,4
 Limestone,0014 WOOLEY SPRINGS BAPTIST,State Democratic Exec Comm (Male) - District No 6,,DEM,Benard Simelton,45
 Limestone,0014 WOOLEY SPRINGS BAPTIST,State Democratic Exec Comm (Male) - District No 6,,DEM,Guy Sotomayor,32
-Limestone,0014 WOOLEY SPRINGS BAPTIST,U.S. House,5.0,DEM,Andrew Sneed,27
-Limestone,0014 WOOLEY SPRINGS BAPTIST,U.S. House,5.0,DEM,Candice Dollar Duvieilh,35
-Limestone,0014 WOOLEY SPRINGS BAPTIST,U.S. House,5.0,DEM,Jeremy Devito,28
+Limestone,0014 WOOLEY SPRINGS BAPTIST,U.S. House,5,DEM,Andrew Sneed,27
+Limestone,0014 WOOLEY SPRINGS BAPTIST,U.S. House,5,DEM,Candice Dollar Duvieilh,35
+Limestone,0014 WOOLEY SPRINGS BAPTIST,U.S. House,5,DEM,Jeremy Devito,28
 Limestone,0014 WOOLEY SPRINGS BAPTIST,U.S. Senate,,DEM,Dakarai Larriett,37
 Limestone,0014 WOOLEY SPRINGS BAPTIST,U.S. Senate,,DEM,Everett Wess,14
 Limestone,0014 WOOLEY SPRINGS BAPTIST,U.S. Senate,,DEM,Kyle Sweetser,20
@@ -1223,9 +1223,9 @@ Limestone,0014 WOOLEY SPRINGS BAPTIST,Secretary of State,,REP,Christopher Christ
 Limestone,0014 WOOLEY SPRINGS BAPTIST,Secretary of State,,REP,Glenda S. Jackson,38
 Limestone,0014 WOOLEY SPRINGS BAPTIST,State Auditor,,REP,Andrew Sorrell,344
 Limestone,0014 WOOLEY SPRINGS BAPTIST,State Auditor,,REP,Derek Chen,130
-Limestone,0014 WOOLEY SPRINGS BAPTIST,State Board of Education,8.0,REP,Connie Spears,85
-Limestone,0014 WOOLEY SPRINGS BAPTIST,State Board of Education,8.0,REP,Emily Jones,147
-Limestone,0014 WOOLEY SPRINGS BAPTIST,State Board of Education,8.0,REP,William Matthews,214
+Limestone,0014 WOOLEY SPRINGS BAPTIST,State Board of Education,8,REP,Connie Spears,85
+Limestone,0014 WOOLEY SPRINGS BAPTIST,State Board of Education,8,REP,Emily Jones,147
+Limestone,0014 WOOLEY SPRINGS BAPTIST,State Board of Education,8,REP,William Matthews,214
 Limestone,0014 WOOLEY SPRINGS BAPTIST,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,65
 Limestone,0014 WOOLEY SPRINGS BAPTIST,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,194
 Limestone,0014 WOOLEY SPRINGS BAPTIST,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,54
@@ -1273,9 +1273,9 @@ Limestone,0015 ELKMONT FIRE DEPT.,State Democratic Exec Comm (Female) - District
 Limestone,0015 ELKMONT FIRE DEPT.,State Democratic Exec Comm (Male) - District No 2,,DEM,Rick Pressnell,0
 Limestone,0015 ELKMONT FIRE DEPT.,State Democratic Exec Comm (Male) - District No 5,,DEM,Bryan A. Lorge,19
 Limestone,0015 ELKMONT FIRE DEPT.,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,30
-Limestone,0015 ELKMONT FIRE DEPT.,U.S. House,5.0,DEM,Andrew Sneed,15
-Limestone,0015 ELKMONT FIRE DEPT.,U.S. House,5.0,DEM,Candice Dollar Duvieilh,11
-Limestone,0015 ELKMONT FIRE DEPT.,U.S. House,5.0,DEM,Jeremy Devito,24
+Limestone,0015 ELKMONT FIRE DEPT.,U.S. House,5,DEM,Andrew Sneed,15
+Limestone,0015 ELKMONT FIRE DEPT.,U.S. House,5,DEM,Candice Dollar Duvieilh,11
+Limestone,0015 ELKMONT FIRE DEPT.,U.S. House,5,DEM,Jeremy Devito,24
 Limestone,0015 ELKMONT FIRE DEPT.,U.S. Senate,,DEM,Dakarai Larriett,14
 Limestone,0015 ELKMONT FIRE DEPT.,U.S. Senate,,DEM,Everett Wess,15
 Limestone,0015 ELKMONT FIRE DEPT.,U.S. Senate,,DEM,Kyle Sweetser,13
@@ -1313,9 +1313,9 @@ Limestone,0015 ELKMONT FIRE DEPT.,Secretary of State,,REP,Christopher Christian 
 Limestone,0015 ELKMONT FIRE DEPT.,Secretary of State,,REP,Glenda S. Jackson,45
 Limestone,0015 ELKMONT FIRE DEPT.,State Auditor,,REP,Andrew Sorrell,288
 Limestone,0015 ELKMONT FIRE DEPT.,State Auditor,,REP,Derek Chen,119
-Limestone,0015 ELKMONT FIRE DEPT.,State Board of Education,8.0,REP,Connie Spears,51
-Limestone,0015 ELKMONT FIRE DEPT.,State Board of Education,8.0,REP,Emily Jones,151
-Limestone,0015 ELKMONT FIRE DEPT.,State Board of Education,8.0,REP,William Matthews,178
+Limestone,0015 ELKMONT FIRE DEPT.,State Board of Education,8,REP,Connie Spears,51
+Limestone,0015 ELKMONT FIRE DEPT.,State Board of Education,8,REP,Emily Jones,151
+Limestone,0015 ELKMONT FIRE DEPT.,State Board of Education,8,REP,William Matthews,178
 Limestone,0015 ELKMONT FIRE DEPT.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,59
 Limestone,0015 ELKMONT FIRE DEPT.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,197
 Limestone,0015 ELKMONT FIRE DEPT.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,36
@@ -1359,9 +1359,9 @@ Limestone,0016 GOODSPRINGS SR. CTR.,"Public Service Commission, Place No 1",,DEM
 Limestone,0016 GOODSPRINGS SR. CTR.,State Democratic Exec Comm (Female) - District No 2,,DEM,Caroline Self,3
 Limestone,0016 GOODSPRINGS SR. CTR.,State Democratic Exec Comm (Female) - District No 2,,DEM,Sharon Johnson King,0
 Limestone,0016 GOODSPRINGS SR. CTR.,State Democratic Exec Comm (Male) - District No 2,,DEM,Rick Pressnell,2
-Limestone,0016 GOODSPRINGS SR. CTR.,U.S. House,5.0,DEM,Andrew Sneed,1
-Limestone,0016 GOODSPRINGS SR. CTR.,U.S. House,5.0,DEM,Candice Dollar Duvieilh,1
-Limestone,0016 GOODSPRINGS SR. CTR.,U.S. House,5.0,DEM,Jeremy Devito,1
+Limestone,0016 GOODSPRINGS SR. CTR.,U.S. House,5,DEM,Andrew Sneed,1
+Limestone,0016 GOODSPRINGS SR. CTR.,U.S. House,5,DEM,Candice Dollar Duvieilh,1
+Limestone,0016 GOODSPRINGS SR. CTR.,U.S. House,5,DEM,Jeremy Devito,1
 Limestone,0016 GOODSPRINGS SR. CTR.,U.S. Senate,,DEM,Dakarai Larriett,0
 Limestone,0016 GOODSPRINGS SR. CTR.,U.S. Senate,,DEM,Everett Wess,1
 Limestone,0016 GOODSPRINGS SR. CTR.,U.S. Senate,,DEM,Kyle Sweetser,1
@@ -1396,9 +1396,9 @@ Limestone,0016 GOODSPRINGS SR. CTR.,Secretary of State,,REP,Christopher Christia
 Limestone,0016 GOODSPRINGS SR. CTR.,Secretary of State,,REP,Glenda S. Jackson,8
 Limestone,0016 GOODSPRINGS SR. CTR.,State Auditor,,REP,Andrew Sorrell,72
 Limestone,0016 GOODSPRINGS SR. CTR.,State Auditor,,REP,Derek Chen,30
-Limestone,0016 GOODSPRINGS SR. CTR.,State Board of Education,8.0,REP,Connie Spears,10
-Limestone,0016 GOODSPRINGS SR. CTR.,State Board of Education,8.0,REP,Emily Jones,29
-Limestone,0016 GOODSPRINGS SR. CTR.,State Board of Education,8.0,REP,William Matthews,53
+Limestone,0016 GOODSPRINGS SR. CTR.,State Board of Education,8,REP,Connie Spears,10
+Limestone,0016 GOODSPRINGS SR. CTR.,State Board of Education,8,REP,Emily Jones,29
+Limestone,0016 GOODSPRINGS SR. CTR.,State Board of Education,8,REP,William Matthews,53
 Limestone,0016 GOODSPRINGS SR. CTR.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,5
 Limestone,0016 GOODSPRINGS SR. CTR.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,67
 Limestone,0016 GOODSPRINGS SR. CTR.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,5
@@ -1442,9 +1442,9 @@ Limestone,0017 WEST LIMESTONE FIRE DEPT.,"Public Service Commission, Place No 1"
 Limestone,0017 WEST LIMESTONE FIRE DEPT.,State Democratic Exec Comm (Female) - District No 2,,DEM,Caroline Self,15
 Limestone,0017 WEST LIMESTONE FIRE DEPT.,State Democratic Exec Comm (Female) - District No 2,,DEM,Sharon Johnson King,8
 Limestone,0017 WEST LIMESTONE FIRE DEPT.,State Democratic Exec Comm (Male) - District No 2,,DEM,Rick Pressnell,12
-Limestone,0017 WEST LIMESTONE FIRE DEPT.,U.S. House,5.0,DEM,Andrew Sneed,5
-Limestone,0017 WEST LIMESTONE FIRE DEPT.,U.S. House,5.0,DEM,Candice Dollar Duvieilh,10
-Limestone,0017 WEST LIMESTONE FIRE DEPT.,U.S. House,5.0,DEM,Jeremy Devito,9
+Limestone,0017 WEST LIMESTONE FIRE DEPT.,U.S. House,5,DEM,Andrew Sneed,5
+Limestone,0017 WEST LIMESTONE FIRE DEPT.,U.S. House,5,DEM,Candice Dollar Duvieilh,10
+Limestone,0017 WEST LIMESTONE FIRE DEPT.,U.S. House,5,DEM,Jeremy Devito,9
 Limestone,0017 WEST LIMESTONE FIRE DEPT.,U.S. Senate,,DEM,Dakarai Larriett,6
 Limestone,0017 WEST LIMESTONE FIRE DEPT.,U.S. Senate,,DEM,Everett Wess,6
 Limestone,0017 WEST LIMESTONE FIRE DEPT.,U.S. Senate,,DEM,Kyle Sweetser,4
@@ -1479,9 +1479,9 @@ Limestone,0017 WEST LIMESTONE FIRE DEPT.,Secretary of State,,REP,Christopher Chr
 Limestone,0017 WEST LIMESTONE FIRE DEPT.,Secretary of State,,REP,Glenda S. Jackson,32
 Limestone,0017 WEST LIMESTONE FIRE DEPT.,State Auditor,,REP,Andrew Sorrell,140
 Limestone,0017 WEST LIMESTONE FIRE DEPT.,State Auditor,,REP,Derek Chen,58
-Limestone,0017 WEST LIMESTONE FIRE DEPT.,State Board of Education,8.0,REP,Connie Spears,28
-Limestone,0017 WEST LIMESTONE FIRE DEPT.,State Board of Education,8.0,REP,Emily Jones,64
-Limestone,0017 WEST LIMESTONE FIRE DEPT.,State Board of Education,8.0,REP,William Matthews,100
+Limestone,0017 WEST LIMESTONE FIRE DEPT.,State Board of Education,8,REP,Connie Spears,28
+Limestone,0017 WEST LIMESTONE FIRE DEPT.,State Board of Education,8,REP,Emily Jones,64
+Limestone,0017 WEST LIMESTONE FIRE DEPT.,State Board of Education,8,REP,William Matthews,100
 Limestone,0017 WEST LIMESTONE FIRE DEPT.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,26
 Limestone,0017 WEST LIMESTONE FIRE DEPT.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,108
 Limestone,0017 WEST LIMESTONE FIRE DEPT.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,20
@@ -1525,9 +1525,9 @@ Limestone,0018 LESTER TOWN HALL,"Public Service Commission, Place No 1",,DEM,Joh
 Limestone,0018 LESTER TOWN HALL,State Democratic Exec Comm (Female) - District No 2,,DEM,Caroline Self,2
 Limestone,0018 LESTER TOWN HALL,State Democratic Exec Comm (Female) - District No 2,,DEM,Sharon Johnson King,3
 Limestone,0018 LESTER TOWN HALL,State Democratic Exec Comm (Male) - District No 2,,DEM,Rick Pressnell,3
-Limestone,0018 LESTER TOWN HALL,U.S. House,5.0,DEM,Andrew Sneed,3
-Limestone,0018 LESTER TOWN HALL,U.S. House,5.0,DEM,Candice Dollar Duvieilh,1
-Limestone,0018 LESTER TOWN HALL,U.S. House,5.0,DEM,Jeremy Devito,1
+Limestone,0018 LESTER TOWN HALL,U.S. House,5,DEM,Andrew Sneed,3
+Limestone,0018 LESTER TOWN HALL,U.S. House,5,DEM,Candice Dollar Duvieilh,1
+Limestone,0018 LESTER TOWN HALL,U.S. House,5,DEM,Jeremy Devito,1
 Limestone,0018 LESTER TOWN HALL,U.S. Senate,,DEM,Dakarai Larriett,2
 Limestone,0018 LESTER TOWN HALL,U.S. Senate,,DEM,Everett Wess,2
 Limestone,0018 LESTER TOWN HALL,U.S. Senate,,DEM,Kyle Sweetser,0
@@ -1562,9 +1562,9 @@ Limestone,0018 LESTER TOWN HALL,Secretary of State,,REP,Christopher Christian Ho
 Limestone,0018 LESTER TOWN HALL,Secretary of State,,REP,Glenda S. Jackson,7
 Limestone,0018 LESTER TOWN HALL,State Auditor,,REP,Andrew Sorrell,36
 Limestone,0018 LESTER TOWN HALL,State Auditor,,REP,Derek Chen,10
-Limestone,0018 LESTER TOWN HALL,State Board of Education,8.0,REP,Connie Spears,4
-Limestone,0018 LESTER TOWN HALL,State Board of Education,8.0,REP,Emily Jones,12
-Limestone,0018 LESTER TOWN HALL,State Board of Education,8.0,REP,William Matthews,25
+Limestone,0018 LESTER TOWN HALL,State Board of Education,8,REP,Connie Spears,4
+Limestone,0018 LESTER TOWN HALL,State Board of Education,8,REP,Emily Jones,12
+Limestone,0018 LESTER TOWN HALL,State Board of Education,8,REP,William Matthews,25
 Limestone,0018 LESTER TOWN HALL,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,7
 Limestone,0018 LESTER TOWN HALL,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,14
 Limestone,0018 LESTER TOWN HALL,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,2
@@ -1608,9 +1608,9 @@ Limestone,0019 PLEASANT GROVE FIRE DEPT.,"Public Service Commission, Place No 1"
 Limestone,0019 PLEASANT GROVE FIRE DEPT.,State Democratic Exec Comm (Female) - District No 2,,DEM,Caroline Self,13
 Limestone,0019 PLEASANT GROVE FIRE DEPT.,State Democratic Exec Comm (Female) - District No 2,,DEM,Sharon Johnson King,7
 Limestone,0019 PLEASANT GROVE FIRE DEPT.,State Democratic Exec Comm (Male) - District No 2,,DEM,Rick Pressnell,12
-Limestone,0019 PLEASANT GROVE FIRE DEPT.,U.S. House,5.0,DEM,Andrew Sneed,5
-Limestone,0019 PLEASANT GROVE FIRE DEPT.,U.S. House,5.0,DEM,Candice Dollar Duvieilh,8
-Limestone,0019 PLEASANT GROVE FIRE DEPT.,U.S. House,5.0,DEM,Jeremy Devito,7
+Limestone,0019 PLEASANT GROVE FIRE DEPT.,U.S. House,5,DEM,Andrew Sneed,5
+Limestone,0019 PLEASANT GROVE FIRE DEPT.,U.S. House,5,DEM,Candice Dollar Duvieilh,8
+Limestone,0019 PLEASANT GROVE FIRE DEPT.,U.S. House,5,DEM,Jeremy Devito,7
 Limestone,0019 PLEASANT GROVE FIRE DEPT.,U.S. Senate,,DEM,Dakarai Larriett,8
 Limestone,0019 PLEASANT GROVE FIRE DEPT.,U.S. Senate,,DEM,Everett Wess,3
 Limestone,0019 PLEASANT GROVE FIRE DEPT.,U.S. Senate,,DEM,Kyle Sweetser,4
@@ -1645,9 +1645,9 @@ Limestone,0019 PLEASANT GROVE FIRE DEPT.,Secretary of State,,REP,Christopher Chr
 Limestone,0019 PLEASANT GROVE FIRE DEPT.,Secretary of State,,REP,Glenda S. Jackson,24
 Limestone,0019 PLEASANT GROVE FIRE DEPT.,State Auditor,,REP,Andrew Sorrell,160
 Limestone,0019 PLEASANT GROVE FIRE DEPT.,State Auditor,,REP,Derek Chen,38
-Limestone,0019 PLEASANT GROVE FIRE DEPT.,State Board of Education,8.0,REP,Connie Spears,29
-Limestone,0019 PLEASANT GROVE FIRE DEPT.,State Board of Education,8.0,REP,Emily Jones,63
-Limestone,0019 PLEASANT GROVE FIRE DEPT.,State Board of Education,8.0,REP,William Matthews,83
+Limestone,0019 PLEASANT GROVE FIRE DEPT.,State Board of Education,8,REP,Connie Spears,29
+Limestone,0019 PLEASANT GROVE FIRE DEPT.,State Board of Education,8,REP,Emily Jones,63
+Limestone,0019 PLEASANT GROVE FIRE DEPT.,State Board of Education,8,REP,William Matthews,83
 Limestone,0019 PLEASANT GROVE FIRE DEPT.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,19
 Limestone,0019 PLEASANT GROVE FIRE DEPT.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,99
 Limestone,0019 PLEASANT GROVE FIRE DEPT.,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,12
@@ -1691,9 +1691,9 @@ Limestone,0020 OWENS CAMPUS,"Public Service Commission, Place No 1",,DEM,John No
 Limestone,0020 OWENS CAMPUS,State Democratic Exec Comm (Female) - District No 2,,DEM,Caroline Self,60
 Limestone,0020 OWENS CAMPUS,State Democratic Exec Comm (Female) - District No 2,,DEM,Sharon Johnson King,76
 Limestone,0020 OWENS CAMPUS,State Democratic Exec Comm (Male) - District No 2,,DEM,Rick Pressnell,72
-Limestone,0020 OWENS CAMPUS,U.S. House,5.0,DEM,Andrew Sneed,41
-Limestone,0020 OWENS CAMPUS,U.S. House,5.0,DEM,Candice Dollar Duvieilh,50
-Limestone,0020 OWENS CAMPUS,U.S. House,5.0,DEM,Jeremy Devito,46
+Limestone,0020 OWENS CAMPUS,U.S. House,5,DEM,Andrew Sneed,41
+Limestone,0020 OWENS CAMPUS,U.S. House,5,DEM,Candice Dollar Duvieilh,50
+Limestone,0020 OWENS CAMPUS,U.S. House,5,DEM,Jeremy Devito,46
 Limestone,0020 OWENS CAMPUS,U.S. Senate,,DEM,Dakarai Larriett,35
 Limestone,0020 OWENS CAMPUS,U.S. Senate,,DEM,Everett Wess,34
 Limestone,0020 OWENS CAMPUS,U.S. Senate,,DEM,Kyle Sweetser,33
@@ -1728,9 +1728,9 @@ Limestone,0020 OWENS CAMPUS,Secretary of State,,REP,Christopher Christian Horn,1
 Limestone,0020 OWENS CAMPUS,Secretary of State,,REP,Glenda S. Jackson,83
 Limestone,0020 OWENS CAMPUS,State Auditor,,REP,Andrew Sorrell,497
 Limestone,0020 OWENS CAMPUS,State Auditor,,REP,Derek Chen,162
-Limestone,0020 OWENS CAMPUS,State Board of Education,8.0,REP,Connie Spears,72
-Limestone,0020 OWENS CAMPUS,State Board of Education,8.0,REP,Emily Jones,218
-Limestone,0020 OWENS CAMPUS,State Board of Education,8.0,REP,William Matthews,340
+Limestone,0020 OWENS CAMPUS,State Board of Education,8,REP,Connie Spears,72
+Limestone,0020 OWENS CAMPUS,State Board of Education,8,REP,Emily Jones,218
+Limestone,0020 OWENS CAMPUS,State Board of Education,8,REP,William Matthews,340
 Limestone,0020 OWENS CAMPUS,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,85
 Limestone,0020 OWENS CAMPUS,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,379
 Limestone,0020 OWENS CAMPUS,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,33
@@ -1774,9 +1774,9 @@ Limestone,0021 CLEMENTS BAPTIST CH,"Public Service Commission, Place No 1",,DEM,
 Limestone,0021 CLEMENTS BAPTIST CH,State Democratic Exec Comm (Female) - District No 2,,DEM,Caroline Self,31
 Limestone,0021 CLEMENTS BAPTIST CH,State Democratic Exec Comm (Female) - District No 2,,DEM,Sharon Johnson King,49
 Limestone,0021 CLEMENTS BAPTIST CH,State Democratic Exec Comm (Male) - District No 2,,DEM,Rick Pressnell,52
-Limestone,0021 CLEMENTS BAPTIST CH,U.S. House,5.0,DEM,Andrew Sneed,27
-Limestone,0021 CLEMENTS BAPTIST CH,U.S. House,5.0,DEM,Candice Dollar Duvieilh,31
-Limestone,0021 CLEMENTS BAPTIST CH,U.S. House,5.0,DEM,Jeremy Devito,19
+Limestone,0021 CLEMENTS BAPTIST CH,U.S. House,5,DEM,Andrew Sneed,27
+Limestone,0021 CLEMENTS BAPTIST CH,U.S. House,5,DEM,Candice Dollar Duvieilh,31
+Limestone,0021 CLEMENTS BAPTIST CH,U.S. House,5,DEM,Jeremy Devito,19
 Limestone,0021 CLEMENTS BAPTIST CH,U.S. Senate,,DEM,Dakarai Larriett,30
 Limestone,0021 CLEMENTS BAPTIST CH,U.S. Senate,,DEM,Everett Wess,26
 Limestone,0021 CLEMENTS BAPTIST CH,U.S. Senate,,DEM,Kyle Sweetser,10
@@ -1811,9 +1811,9 @@ Limestone,0021 CLEMENTS BAPTIST CH,Secretary of State,,REP,Christopher Christian
 Limestone,0021 CLEMENTS BAPTIST CH,Secretary of State,,REP,Glenda S. Jackson,47
 Limestone,0021 CLEMENTS BAPTIST CH,State Auditor,,REP,Andrew Sorrell,211
 Limestone,0021 CLEMENTS BAPTIST CH,State Auditor,,REP,Derek Chen,112
-Limestone,0021 CLEMENTS BAPTIST CH,State Board of Education,8.0,REP,Connie Spears,72
-Limestone,0021 CLEMENTS BAPTIST CH,State Board of Education,8.0,REP,Emily Jones,115
-Limestone,0021 CLEMENTS BAPTIST CH,State Board of Education,8.0,REP,William Matthews,107
+Limestone,0021 CLEMENTS BAPTIST CH,State Board of Education,8,REP,Connie Spears,72
+Limestone,0021 CLEMENTS BAPTIST CH,State Board of Education,8,REP,Emily Jones,115
+Limestone,0021 CLEMENTS BAPTIST CH,State Board of Education,8,REP,William Matthews,107
 Limestone,0021 CLEMENTS BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,45
 Limestone,0021 CLEMENTS BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,148
 Limestone,0021 CLEMENTS BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,20
@@ -1857,9 +1857,9 @@ Limestone,0022 RIDDLES HALL,"Public Service Commission, Place No 1",,DEM,John No
 Limestone,0022 RIDDLES HALL,State Democratic Exec Comm (Female) - District No 2,,DEM,Caroline Self,17
 Limestone,0022 RIDDLES HALL,State Democratic Exec Comm (Female) - District No 2,,DEM,Sharon Johnson King,34
 Limestone,0022 RIDDLES HALL,State Democratic Exec Comm (Male) - District No 2,,DEM,Rick Pressnell,20
-Limestone,0022 RIDDLES HALL,U.S. House,5.0,DEM,Andrew Sneed,14
-Limestone,0022 RIDDLES HALL,U.S. House,5.0,DEM,Candice Dollar Duvieilh,20
-Limestone,0022 RIDDLES HALL,U.S. House,5.0,DEM,Jeremy Devito,10
+Limestone,0022 RIDDLES HALL,U.S. House,5,DEM,Andrew Sneed,14
+Limestone,0022 RIDDLES HALL,U.S. House,5,DEM,Candice Dollar Duvieilh,20
+Limestone,0022 RIDDLES HALL,U.S. House,5,DEM,Jeremy Devito,10
 Limestone,0022 RIDDLES HALL,U.S. Senate,,DEM,Dakarai Larriett,11
 Limestone,0022 RIDDLES HALL,U.S. Senate,,DEM,Everett Wess,13
 Limestone,0022 RIDDLES HALL,U.S. Senate,,DEM,Kyle Sweetser,5
@@ -1894,9 +1894,9 @@ Limestone,0022 RIDDLES HALL,Secretary of State,,REP,Christopher Christian Horn,3
 Limestone,0022 RIDDLES HALL,Secretary of State,,REP,Glenda S. Jackson,19
 Limestone,0022 RIDDLES HALL,State Auditor,,REP,Andrew Sorrell,98
 Limestone,0022 RIDDLES HALL,State Auditor,,REP,Derek Chen,49
-Limestone,0022 RIDDLES HALL,State Board of Education,8.0,REP,Connie Spears,15
-Limestone,0022 RIDDLES HALL,State Board of Education,8.0,REP,Emily Jones,48
-Limestone,0022 RIDDLES HALL,State Board of Education,8.0,REP,William Matthews,67
+Limestone,0022 RIDDLES HALL,State Board of Education,8,REP,Connie Spears,15
+Limestone,0022 RIDDLES HALL,State Board of Education,8,REP,Emily Jones,48
+Limestone,0022 RIDDLES HALL,State Board of Education,8,REP,William Matthews,67
 Limestone,0022 RIDDLES HALL,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,22
 Limestone,0022 RIDDLES HALL,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,63
 Limestone,0022 RIDDLES HALL,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,6
@@ -1940,9 +1940,9 @@ Limestone,0023 ROUND ISLAND BAPTIST CH,"Public Service Commission, Place No 1",,
 Limestone,0023 ROUND ISLAND BAPTIST CH,State Democratic Exec Comm (Female) - District No 2,,DEM,Caroline Self,57
 Limestone,0023 ROUND ISLAND BAPTIST CH,State Democratic Exec Comm (Female) - District No 2,,DEM,Sharon Johnson King,200
 Limestone,0023 ROUND ISLAND BAPTIST CH,State Democratic Exec Comm (Male) - District No 2,,DEM,Rick Pressnell,94
-Limestone,0023 ROUND ISLAND BAPTIST CH,U.S. House,5.0,DEM,Andrew Sneed,72
-Limestone,0023 ROUND ISLAND BAPTIST CH,U.S. House,5.0,DEM,Candice Dollar Duvieilh,108
-Limestone,0023 ROUND ISLAND BAPTIST CH,U.S. House,5.0,DEM,Jeremy Devito,71
+Limestone,0023 ROUND ISLAND BAPTIST CH,U.S. House,5,DEM,Andrew Sneed,72
+Limestone,0023 ROUND ISLAND BAPTIST CH,U.S. House,5,DEM,Candice Dollar Duvieilh,108
+Limestone,0023 ROUND ISLAND BAPTIST CH,U.S. House,5,DEM,Jeremy Devito,71
 Limestone,0023 ROUND ISLAND BAPTIST CH,U.S. Senate,,DEM,Dakarai Larriett,58
 Limestone,0023 ROUND ISLAND BAPTIST CH,U.S. Senate,,DEM,Everett Wess,128
 Limestone,0023 ROUND ISLAND BAPTIST CH,U.S. Senate,,DEM,Kyle Sweetser,26
@@ -1977,9 +1977,9 @@ Limestone,0023 ROUND ISLAND BAPTIST CH,Secretary of State,,REP,Christopher Chris
 Limestone,0023 ROUND ISLAND BAPTIST CH,Secretary of State,,REP,Glenda S. Jackson,42
 Limestone,0023 ROUND ISLAND BAPTIST CH,State Auditor,,REP,Andrew Sorrell,299
 Limestone,0023 ROUND ISLAND BAPTIST CH,State Auditor,,REP,Derek Chen,131
-Limestone,0023 ROUND ISLAND BAPTIST CH,State Board of Education,8.0,REP,Connie Spears,58
-Limestone,0023 ROUND ISLAND BAPTIST CH,State Board of Education,8.0,REP,Emily Jones,127
-Limestone,0023 ROUND ISLAND BAPTIST CH,State Board of Education,8.0,REP,William Matthews,216
+Limestone,0023 ROUND ISLAND BAPTIST CH,State Board of Education,8,REP,Connie Spears,58
+Limestone,0023 ROUND ISLAND BAPTIST CH,State Board of Education,8,REP,Emily Jones,127
+Limestone,0023 ROUND ISLAND BAPTIST CH,State Board of Education,8,REP,William Matthews,216
 Limestone,0023 ROUND ISLAND BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,66
 Limestone,0023 ROUND ISLAND BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,225
 Limestone,0023 ROUND ISLAND BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,28
@@ -2020,9 +2020,9 @@ Limestone,0024 BELMOR BAPTIST CH,Lieutenant Governor,,DEM,Phillip Ensler,147
 Limestone,0024 BELMOR BAPTIST CH,"Public Service Commission, Place No 1",,DEM,James O. Gordon,168
 Limestone,0024 BELMOR BAPTIST CH,"Public Service Commission, Place No 1",,DEM,Jeff Ramsey,54
 Limestone,0024 BELMOR BAPTIST CH,"Public Service Commission, Place No 1",,DEM,John Northrop,32
-Limestone,0024 BELMOR BAPTIST CH,U.S. House,5.0,DEM,Andrew Sneed,88
-Limestone,0024 BELMOR BAPTIST CH,U.S. House,5.0,DEM,Candice Dollar Duvieilh,93
-Limestone,0024 BELMOR BAPTIST CH,U.S. House,5.0,DEM,Jeremy Devito,81
+Limestone,0024 BELMOR BAPTIST CH,U.S. House,5,DEM,Andrew Sneed,88
+Limestone,0024 BELMOR BAPTIST CH,U.S. House,5,DEM,Candice Dollar Duvieilh,93
+Limestone,0024 BELMOR BAPTIST CH,U.S. House,5,DEM,Jeremy Devito,81
 Limestone,0024 BELMOR BAPTIST CH,U.S. Senate,,DEM,Dakarai Larriett,87
 Limestone,0024 BELMOR BAPTIST CH,U.S. Senate,,DEM,Everett Wess,97
 Limestone,0024 BELMOR BAPTIST CH,U.S. Senate,,DEM,Kyle Sweetser,41
@@ -2057,9 +2057,9 @@ Limestone,0024 BELMOR BAPTIST CH,Secretary of State,,REP,Christopher Christian H
 Limestone,0024 BELMOR BAPTIST CH,Secretary of State,,REP,Glenda S. Jackson,6
 Limestone,0024 BELMOR BAPTIST CH,State Auditor,,REP,Andrew Sorrell,57
 Limestone,0024 BELMOR BAPTIST CH,State Auditor,,REP,Derek Chen,20
-Limestone,0024 BELMOR BAPTIST CH,State Board of Education,8.0,REP,Connie Spears,14
-Limestone,0024 BELMOR BAPTIST CH,State Board of Education,8.0,REP,Emily Jones,32
-Limestone,0024 BELMOR BAPTIST CH,State Board of Education,8.0,REP,William Matthews,26
+Limestone,0024 BELMOR BAPTIST CH,State Board of Education,8,REP,Connie Spears,14
+Limestone,0024 BELMOR BAPTIST CH,State Board of Education,8,REP,Emily Jones,32
+Limestone,0024 BELMOR BAPTIST CH,State Board of Education,8,REP,William Matthews,26
 Limestone,0024 BELMOR BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,14
 Limestone,0024 BELMOR BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,33
 Limestone,0024 BELMOR BAPTIST CH,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,5
@@ -2100,12 +2100,12 @@ Limestone,0025 JAMES CLEMENS HIGH SCHOOL,Lieutenant Governor,,DEM,Phillip Ensler
 Limestone,0025 JAMES CLEMENS HIGH SCHOOL,"Public Service Commission, Place No 1",,DEM,James O. Gordon,407
 Limestone,0025 JAMES CLEMENS HIGH SCHOOL,"Public Service Commission, Place No 1",,DEM,Jeff Ramsey,229
 Limestone,0025 JAMES CLEMENS HIGH SCHOOL,"Public Service Commission, Place No 1",,DEM,John Northrop,133
-Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Senate,2.0,DEM,Alex House,57
-Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Senate,2.0,DEM,Guy Sotomayor,52
-Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Senate,2.0,DEM,Rudolph Valentino Drake,53
-Limestone,0025 JAMES CLEMENS HIGH SCHOOL,U.S. House,5.0,DEM,Andrew Sneed,327
-Limestone,0025 JAMES CLEMENS HIGH SCHOOL,U.S. House,5.0,DEM,Candice Dollar Duvieilh,302
-Limestone,0025 JAMES CLEMENS HIGH SCHOOL,U.S. House,5.0,DEM,Jeremy Devito,190
+Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Senate,2,DEM,Alex House,57
+Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Senate,2,DEM,Guy Sotomayor,52
+Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Senate,2,DEM,Rudolph Valentino Drake,53
+Limestone,0025 JAMES CLEMENS HIGH SCHOOL,U.S. House,5,DEM,Andrew Sneed,327
+Limestone,0025 JAMES CLEMENS HIGH SCHOOL,U.S. House,5,DEM,Candice Dollar Duvieilh,302
+Limestone,0025 JAMES CLEMENS HIGH SCHOOL,U.S. House,5,DEM,Jeremy Devito,190
 Limestone,0025 JAMES CLEMENS HIGH SCHOOL,U.S. Senate,,DEM,Dakarai Larriett,309
 Limestone,0025 JAMES CLEMENS HIGH SCHOOL,U.S. Senate,,DEM,Everett Wess,241
 Limestone,0025 JAMES CLEMENS HIGH SCHOOL,U.S. Senate,,DEM,Kyle Sweetser,104
@@ -2140,9 +2140,9 @@ Limestone,0025 JAMES CLEMENS HIGH SCHOOL,Secretary of State,,REP,Christopher Chr
 Limestone,0025 JAMES CLEMENS HIGH SCHOOL,Secretary of State,,REP,Glenda S. Jackson,72
 Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Auditor,,REP,Andrew Sorrell,563
 Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Auditor,,REP,Derek Chen,192
-Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Board of Education,8.0,REP,Connie Spears,269
-Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Board of Education,8.0,REP,Emily Jones,278
-Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Board of Education,8.0,REP,William Matthews,210
+Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Board of Education,8,REP,Connie Spears,269
+Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Board of Education,8,REP,Emily Jones,278
+Limestone,0025 JAMES CLEMENS HIGH SCHOOL,State Board of Education,8,REP,William Matthews,210
 Limestone,0025 JAMES CLEMENS HIGH SCHOOL,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,142
 Limestone,0025 JAMES CLEMENS HIGH SCHOOL,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,283
 Limestone,0025 JAMES CLEMENS HIGH SCHOOL,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,43
@@ -2187,9 +2187,9 @@ Limestone,0026 FIRST BAPTIST CH TANNER,State Democratic Exec Comm (Female) - Dis
 Limestone,0026 FIRST BAPTIST CH TANNER,State Democratic Exec Comm (Female) - District No 5,,DEM,Shirley Harvell Fletcher,125
 Limestone,0026 FIRST BAPTIST CH TANNER,State Democratic Exec Comm (Male) - District No 5,,DEM,Bryan A. Lorge,32
 Limestone,0026 FIRST BAPTIST CH TANNER,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,100
-Limestone,0026 FIRST BAPTIST CH TANNER,U.S. House,5.0,DEM,Andrew Sneed,50
-Limestone,0026 FIRST BAPTIST CH TANNER,U.S. House,5.0,DEM,Candice Dollar Duvieilh,56
-Limestone,0026 FIRST BAPTIST CH TANNER,U.S. House,5.0,DEM,Jeremy Devito,27
+Limestone,0026 FIRST BAPTIST CH TANNER,U.S. House,5,DEM,Andrew Sneed,50
+Limestone,0026 FIRST BAPTIST CH TANNER,U.S. House,5,DEM,Candice Dollar Duvieilh,56
+Limestone,0026 FIRST BAPTIST CH TANNER,U.S. House,5,DEM,Jeremy Devito,27
 Limestone,0026 FIRST BAPTIST CH TANNER,U.S. Senate,,DEM,Dakarai Larriett,48
 Limestone,0026 FIRST BAPTIST CH TANNER,U.S. Senate,,DEM,Everett Wess,60
 Limestone,0026 FIRST BAPTIST CH TANNER,U.S. Senate,,DEM,Kyle Sweetser,21
@@ -2224,9 +2224,9 @@ Limestone,0026 FIRST BAPTIST CH TANNER,Secretary of State,,REP,Christopher Chris
 Limestone,0026 FIRST BAPTIST CH TANNER,Secretary of State,,REP,Glenda S. Jackson,13
 Limestone,0026 FIRST BAPTIST CH TANNER,State Auditor,,REP,Andrew Sorrell,66
 Limestone,0026 FIRST BAPTIST CH TANNER,State Auditor,,REP,Derek Chen,34
-Limestone,0026 FIRST BAPTIST CH TANNER,State Board of Education,8.0,REP,Connie Spears,18
-Limestone,0026 FIRST BAPTIST CH TANNER,State Board of Education,8.0,REP,Emily Jones,35
-Limestone,0026 FIRST BAPTIST CH TANNER,State Board of Education,8.0,REP,William Matthews,39
+Limestone,0026 FIRST BAPTIST CH TANNER,State Board of Education,8,REP,Connie Spears,18
+Limestone,0026 FIRST BAPTIST CH TANNER,State Board of Education,8,REP,Emily Jones,35
+Limestone,0026 FIRST BAPTIST CH TANNER,State Board of Education,8,REP,William Matthews,39
 Limestone,0026 FIRST BAPTIST CH TANNER,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,17
 Limestone,0026 FIRST BAPTIST CH TANNER,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,39
 Limestone,0026 FIRST BAPTIST CH TANNER,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,15
@@ -2280,14 +2280,14 @@ Limestone,0027 ABSENTEE,State Democratic Exec Comm (Male) - District No 5,,DEM,B
 Limestone,0027 ABSENTEE,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,17
 Limestone,0027 ABSENTEE,State Democratic Exec Comm (Male) - District No 6,,DEM,Benard Simelton,3
 Limestone,0027 ABSENTEE,State Democratic Exec Comm (Male) - District No 6,,DEM,Guy Sotomayor,8
-Limestone,0027 ABSENTEE,State House,25.0,DEM,Allison T Montgomery,3
-Limestone,0027 ABSENTEE,State House,25.0,DEM,Damon Eubanks,0
-Limestone,0027 ABSENTEE,State Senate,2.0,DEM,Alex House,4
-Limestone,0027 ABSENTEE,State Senate,2.0,DEM,Guy Sotomayor,7
-Limestone,0027 ABSENTEE,State Senate,2.0,DEM,Rudolph Valentino Drake,4
-Limestone,0027 ABSENTEE,U.S. House,5.0,DEM,Andrew Sneed,24
-Limestone,0027 ABSENTEE,U.S. House,5.0,DEM,Candice Dollar Duvieilh,15
-Limestone,0027 ABSENTEE,U.S. House,5.0,DEM,Jeremy Devito,20
+Limestone,0027 ABSENTEE,State House,25,DEM,Allison T Montgomery,3
+Limestone,0027 ABSENTEE,State House,25,DEM,Damon Eubanks,0
+Limestone,0027 ABSENTEE,State Senate,2,DEM,Alex House,4
+Limestone,0027 ABSENTEE,State Senate,2,DEM,Guy Sotomayor,7
+Limestone,0027 ABSENTEE,State Senate,2,DEM,Rudolph Valentino Drake,4
+Limestone,0027 ABSENTEE,U.S. House,5,DEM,Andrew Sneed,24
+Limestone,0027 ABSENTEE,U.S. House,5,DEM,Candice Dollar Duvieilh,15
+Limestone,0027 ABSENTEE,U.S. House,5,DEM,Jeremy Devito,20
 Limestone,0027 ABSENTEE,U.S. Senate,,DEM,Dakarai Larriett,22
 Limestone,0027 ABSENTEE,U.S. Senate,,DEM,Everett Wess,10
 Limestone,0027 ABSENTEE,U.S. Senate,,DEM,Kyle Sweetser,13
@@ -2325,9 +2325,9 @@ Limestone,0027 ABSENTEE,Secretary of State,,REP,Christopher Christian Horn,33
 Limestone,0027 ABSENTEE,Secretary of State,,REP,Glenda S. Jackson,23
 Limestone,0027 ABSENTEE,State Auditor,,REP,Andrew Sorrell,116
 Limestone,0027 ABSENTEE,State Auditor,,REP,Derek Chen,62
-Limestone,0027 ABSENTEE,State Board of Education,8.0,REP,Connie Spears,46
-Limestone,0027 ABSENTEE,State Board of Education,8.0,REP,Emily Jones,83
-Limestone,0027 ABSENTEE,State Board of Education,8.0,REP,William Matthews,42
+Limestone,0027 ABSENTEE,State Board of Education,8,REP,Connie Spears,46
+Limestone,0027 ABSENTEE,State Board of Education,8,REP,Emily Jones,83
+Limestone,0027 ABSENTEE,State Board of Education,8,REP,William Matthews,42
 Limestone,0027 ABSENTEE,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,21
 Limestone,0027 ABSENTEE,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,97
 Limestone,0027 ABSENTEE,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,12
@@ -2381,14 +2381,14 @@ Limestone,0028 PROVISIONAL,State Democratic Exec Comm (Male) - District No 5,,DE
 Limestone,0028 PROVISIONAL,State Democratic Exec Comm (Male) - District No 5,,DEM,Mike Bailey,11
 Limestone,0028 PROVISIONAL,State Democratic Exec Comm (Male) - District No 6,,DEM,Benard Simelton,0
 Limestone,0028 PROVISIONAL,State Democratic Exec Comm (Male) - District No 6,,DEM,Guy Sotomayor,0
-Limestone,0028 PROVISIONAL,State House,25.0,DEM,Allison T Montgomery,0
-Limestone,0028 PROVISIONAL,State House,25.0,DEM,Damon Eubanks,0
-Limestone,0028 PROVISIONAL,State Senate,2.0,DEM,Alex House,0
-Limestone,0028 PROVISIONAL,State Senate,2.0,DEM,Guy Sotomayor,0
-Limestone,0028 PROVISIONAL,State Senate,2.0,DEM,Rudolph Valentino Drake,0
-Limestone,0028 PROVISIONAL,U.S. House,5.0,DEM,Andrew Sneed,2
-Limestone,0028 PROVISIONAL,U.S. House,5.0,DEM,Candice Dollar Duvieilh,10
-Limestone,0028 PROVISIONAL,U.S. House,5.0,DEM,Jeremy Devito,7
+Limestone,0028 PROVISIONAL,State House,25,DEM,Allison T Montgomery,0
+Limestone,0028 PROVISIONAL,State House,25,DEM,Damon Eubanks,0
+Limestone,0028 PROVISIONAL,State Senate,2,DEM,Alex House,0
+Limestone,0028 PROVISIONAL,State Senate,2,DEM,Guy Sotomayor,0
+Limestone,0028 PROVISIONAL,State Senate,2,DEM,Rudolph Valentino Drake,0
+Limestone,0028 PROVISIONAL,U.S. House,5,DEM,Andrew Sneed,2
+Limestone,0028 PROVISIONAL,U.S. House,5,DEM,Candice Dollar Duvieilh,10
+Limestone,0028 PROVISIONAL,U.S. House,5,DEM,Jeremy Devito,7
 Limestone,0028 PROVISIONAL,U.S. Senate,,DEM,Dakarai Larriett,7
 Limestone,0028 PROVISIONAL,U.S. Senate,,DEM,Everett Wess,8
 Limestone,0028 PROVISIONAL,U.S. Senate,,DEM,Kyle Sweetser,1
@@ -2426,9 +2426,9 @@ Limestone,0028 PROVISIONAL,Secretary of State,,REP,Christopher Christian Horn,5
 Limestone,0028 PROVISIONAL,Secretary of State,,REP,Glenda S. Jackson,4
 Limestone,0028 PROVISIONAL,State Auditor,,REP,Andrew Sorrell,19
 Limestone,0028 PROVISIONAL,State Auditor,,REP,Derek Chen,3
-Limestone,0028 PROVISIONAL,State Board of Education,8.0,REP,Connie Spears,1
-Limestone,0028 PROVISIONAL,State Board of Education,8.0,REP,Emily Jones,14
-Limestone,0028 PROVISIONAL,State Board of Education,8.0,REP,William Matthews,6
+Limestone,0028 PROVISIONAL,State Board of Education,8,REP,Connie Spears,1
+Limestone,0028 PROVISIONAL,State Board of Education,8,REP,Emily Jones,14
+Limestone,0028 PROVISIONAL,State Board of Education,8,REP,William Matthews,6
 Limestone,0028 PROVISIONAL,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Elizabeth Stewart,3
 Limestone,0028 PROVISIONAL,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Johnny Turner,10
 Limestone,0028 PROVISIONAL,"State Republican Exec Comm, Limestone Co - Pl No 1",,REP,Martha C. Fisher,4

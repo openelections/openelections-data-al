@@ -1,5 +1,8 @@
 county,precinct,office,district,party,candidate,votes
+Elmore,0001 TALLAWEKA BAPT.,Governor,,DEM,"Chad ""Chig"" Martin",7
+Elmore,0001 TALLAWEKA BAPT.,Governor,,DEM,Doug Jones,72
 Elmore,0001 TALLAWEKA BAPT.,Governor,,DEM,Jamel J. Brown,22
+Elmore,0001 TALLAWEKA BAPT.,Governor,,DEM,"Nathan ""Nate"" Mathis",2
 Elmore,0001 TALLAWEKA BAPT.,Governor,,DEM,Will Boyd,13
 Elmore,0001 TALLAWEKA BAPT.,Governor,,DEM,Yolanda Rochelle Flowers,11
 Elmore,0001 TALLAWEKA BAPT.,Lieutenant Governor,,DEM,Darryl D. Perryman,52
@@ -7,10 +10,63 @@ Elmore,0001 TALLAWEKA BAPT.,Lieutenant Governor,,DEM,Phillip Ensler,65
 Elmore,0001 TALLAWEKA BAPT.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,58
 Elmore,0001 TALLAWEKA BAPT.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,40
 Elmore,0001 TALLAWEKA BAPT.,"Public Service Commissioner, Place 1",,DEM,John Northrop,21
+Elmore,0001 TALLAWEKA BAPT.,State Democratic Executive Committee,,DEM,Lee Lindsay,38
+Elmore,0001 TALLAWEKA BAPT.,State Democratic Executive Committee,,DEM,Walter C. Lacey,76
+Elmore,0001 TALLAWEKA BAPT.,U.S. Senate,,DEM,Dakarai Larriett,49
+Elmore,0001 TALLAWEKA BAPT.,U.S. Senate,,DEM,Everett Wess,21
+Elmore,0001 TALLAWEKA BAPT.,U.S. Senate,,DEM,Kyle Sweetser,17
+Elmore,0001 TALLAWEKA BAPT.,U.S. Senate,,DEM,Mark S. Wheeler II,34
+Elmore,0001 TALLAWEKA BAPT.,Governor,,REP,"""Alabama"" Will Santivasci",4
 Elmore,0001 TALLAWEKA BAPT.,Governor,,REP,Ken McFeeters,16
+Elmore,0001 TALLAWEKA BAPT.,Governor,,REP,Thomas Tuberville,437
+Elmore,0001 TALLAWeka BAPT.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,68
 Elmore,0001 TALLAWeka BAPT.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,80
+Elmore,0001 TALLAWeka BAPT.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,252
 Elmore,0001 TALLAWeka BAPT.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,22
+Elmore,0001 TALLAWEKA BAPT.,Attorney General,,REP,Jay Mitchell,174
+Elmore,0001 TALLAWEKA BAPT.,Attorney General,,REP,Katherine Robertson,158
+Elmore,0001 TALLAWEKA BAPT.,Attorney General,,REP,Pamela L. Casey,98
+Elmore,0001 TALLAWEKA BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,45
+Elmore,0001 TALLAWEKA BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,168
+Elmore,0001 TALLAWEKA BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,201
+Elmore,0001 TALLAWEKA BAPT.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,133
+Elmore,0001 TALLAWEKA BAPT.,Commissioner of Agriculture and Industries,,REP,Cory Hill,176
+Elmore,0001 TALLAWEKA BAPT.,Commissioner of Agriculture and Industries,,REP,Jack Williams,113
+Elmore,0001 TALLAWEKA BAPT.,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,190
+Elmore,0001 TALLAWEKA BAPT.,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",227
+Elmore,0001 TALLAWEKA BAPT.,Lieutenant Governor,,REP,George Childress,2
+Elmore,0001 TALLAWEKA BAPT.,Lieutenant Governor,,REP,John Wahl,148
+Elmore,0001 TALLAWEKA BAPT.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,10
+Elmore,0001 TALLAWEKA BAPT.,Lieutenant Governor,,REP,Pat Bishop,7
+Elmore,0001 TALLAWEKA BAPT.,Lieutenant Governor,,REP,Rick Pate,78
+Elmore,0001 TALLAWEKA BAPT.,Lieutenant Governor,,REP,Stewart Hill Tankersley,29
+Elmore,0001 TALLAWEKA BAPT.,Lieutenant Governor,,REP,Wes Allen,173
+Elmore,0001 TALLAWEKA BAPT.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,110
+Elmore,0001 TALLAWEKA BAPT.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,298
+Elmore,0001 TALLAWEKA BAPT.,Secretary of State,,REP,Caroleene Dobson,308
+Elmore,0001 TALLAWEKA BAPT.,Secretary of State,,REP,Christopher Christian Horn,75
+Elmore,0001 TALLAWEKA BAPT.,Secretary of State,,REP,Glenda S. Jackson,39
+Elmore,0001 TALLAWEKA BAPT.,State Auditor,,REP,Andrew Sorrell,273
+Elmore,0001 TALLAWEKA BAPT.,State Auditor,,REP,Derek Chen,155
+Elmore,0001 TALLAWEKA BAPT.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,102
+Elmore,0001 TALLAWEKA BAPT.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,314
+Elmore,0001 TALLAWEKA BAPT.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,131
+Elmore,0001 TALLAWEKA BAPT.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,266
+Elmore,0001 TALLAWEKA BAPT.,State Treasurer,,REP,Steve Lolley,69
+Elmore,0001 TALLAWEKA BAPT.,State Treasurer,,REP,Young Boozer,380
+Elmore,0001 TALLAWEKA BAPT.,U.S. House,6,REP,Case Dixon,78
+Elmore,0001 TALLAWEKA BAPT.,U.S. House,6,REP,Gary Palmer,341
+Elmore,0001 TALLAWEKA BAPT.,U.S. Senate,,REP,Barry Moore,248
+Elmore,0001 TALLAWEKA BAPT.,U.S. Senate,,REP,Dale Shelton Deas Jr.,5
+Elmore,0001 TALLAWEKA BAPT.,U.S. Senate,,REP,Jared Hudson,100
+Elmore,0001 TALLAWEKA BAPT.,U.S. Senate,,REP,Morgan Murphy,2
+Elmore,0001 TALLAWEKA BAPT.,U.S. Senate,,REP,Rodney Walker,8
+Elmore,0001 TALLAWEKA BAPT.,U.S. Senate,,REP,Seth Burton,6
+Elmore,0001 TALLAWEKA BAPT.,U.S. Senate,,REP,Steve Marshall,88
+Elmore,0002 GOD'S CONGREGATIONAL,Governor,,DEM,"Chad ""Chig"" Martin",1
+Elmore,0002 GOD'S CONGREGATIONAL,Governor,,DEM,Doug Jones,32
 Elmore,0002 GOD'S CONGREGATIONAL,Governor,,DEM,Jamel J. Brown,7
+Elmore,0002 GOD'S CONGREGATIONAL,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0002 GOD'S CONGREGATIONAL,Governor,,DEM,Will Boyd,7
 Elmore,0002 GOD'S CONGREGATIONAL,Governor,,DEM,Yolanda Rochelle Flowers,4
 Elmore,0002 GOD'S CONGREGATIONAL,Lieutenant Governor,,DEM,Darryl D. Perryman,21
@@ -18,10 +74,63 @@ Elmore,0002 GOD'S CONGREGATIONAL,Lieutenant Governor,,DEM,Phillip Ensler,23
 Elmore,0002 GOD'S CONGREGATIONAL,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,25
 Elmore,0002 GOD'S CONGREGATIONAL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,12
 Elmore,0002 GOD'S CONGREGATIONAL,"Public Service Commissioner, Place 1",,DEM,John Northrop,6
+Elmore,0002 GOD'S CONGREGATIONAL,State Democratic Executive Committee,,DEM,Lee Lindsay,10
+Elmore,0002 GOD'S CONGREGATIONAL,State Democratic Executive Committee,,DEM,Walter C. Lacey,36
+Elmore,0002 GOD'S CONGREGATIONAL,U.S. Senate,,DEM,Dakarai Larriett,22
+Elmore,0002 GOD'S CONGREGATIONAL,U.S. Senate,,DEM,Everett Wess,10
+Elmore,0002 GOD'S CONGREGATIONAL,U.S. Senate,,DEM,Kyle Sweetser,5
+Elmore,0002 GOD'S CONGREGATIONAL,U.S. Senate,,DEM,Mark S. Wheeler II,8
+Elmore,0002 GOD'S CONGREGATIONAL,Governor,,REP,"""Alabama"" Will Santivasci",0
 Elmore,0002 GOD'S CONGREGATIONAL,Governor,,REP,Ken McFeeters,0
+Elmore,0002 GOD'S CONGREGATIONAL,Governor,,REP,Thomas Tuberville,1
+Elmore,0002 GOD'S CONGREGATIONAL,"Public Service Commission, Place No. 2",,REP,Brent Woodall,1
 Elmore,0002 GOD'S CONGREGATIONAL,"Public Service Commission, Place No. 2",,REP,Chris Beeker,0
+Elmore,0002 GOD'S CONGREGATIONAL,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,0
 Elmore,0002 GOD'S CONGREGATIONAL,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,0
+Elmore,0002 GOD'S CONGREGATIONAL,Attorney General,,REP,Jay Mitchell,1
+Elmore,0002 GOD'S CONGREGATIONAL,Attorney General,,REP,Katherine Robertson,0
+Elmore,0002 GOD'S CONGREGATIONAL,Attorney General,,REP,Pamela L. Casey,0
+Elmore,0002 GOD'S CONGREGATIONAL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,0
+Elmore,0002 GOD'S CONGREGATIONAL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,1
+Elmore,0002 GOD'S CONGREGATIONAL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,0
+Elmore,0002 GOD'S CONGREGATIONAL,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,1
+Elmore,0002 GOD'S CONGREGATIONAL,Commissioner of Agriculture and Industries,,REP,Cory Hill,0
+Elmore,0002 GOD'S CONGREGATIONAL,Commissioner of Agriculture and Industries,,REP,Jack Williams,0
+Elmore,0002 GOD'S CONGREGATIONAL,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,1
+Elmore,0002 GOD'S CONGREGATIONAL,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",0
+Elmore,0002 GOD'S CONGREGATIONAL,Lieutenant Governor,,REP,George Childress,0
+Elmore,0002 GOD'S CONGREGATIONAL,Lieutenant Governor,,REP,John Wahl,1
+Elmore,0002 GOD'S CONGREGATIONAL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+Elmore,0002 GOD'S CONGREGATIONAL,Lieutenant Governor,,REP,Pat Bishop,0
+Elmore,0002 GOD'S CONGREGATIONAL,Lieutenant Governor,,REP,Rick Pate,0
+Elmore,0002 GOD'S CONGREGATIONAL,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Elmore,0002 GOD'S CONGREGATIONAL,Lieutenant Governor,,REP,Wes Allen,0
+Elmore,0002 GOD'S CONGREGATIONAL,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,0
+Elmore,0002 GOD'S CONGREGATIONAL,"Public Service Commission, Place No. 1",,REP,Matt Gentry,1
+Elmore,0002 GOD'S CONGREGATIONAL,Secretary of State,,REP,Caroleene Dobson,1
+Elmore,0002 GOD'S CONGREGATIONAL,Secretary of State,,REP,Christopher Christian Horn,0
+Elmore,0002 GOD'S CONGREGATIONAL,Secretary of State,,REP,Glenda S. Jackson,0
+Elmore,0002 GOD'S CONGREGATIONAL,State Auditor,,REP,Andrew Sorrell,1
+Elmore,0002 GOD'S CONGREGATIONAL,State Auditor,,REP,Derek Chen,0
+Elmore,0002 GOD'S CONGREGATIONAL,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,0
+Elmore,0002 GOD'S CONGREGATIONAL,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,1
+Elmore,0002 GOD'S CONGREGATIONAL,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,1
+Elmore,0002 GOD'S CONGREGATIONAL,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,0
+Elmore,0002 GOD'S CONGREGATIONAL,State Treasurer,,REP,Steve Lolley,1
+Elmore,0002 GOD'S CONGREGATIONAL,State Treasurer,,REP,Young Boozer,0
+Elmore,0002 GOD'S CONGREGATIONAL,U.S. House,6,REP,Case Dixon,1
+Elmore,0002 GOD'S CONGREGATIONAL,U.S. House,6,REP,Gary Palmer,0
+Elmore,0002 GOD'S CONGREGATIONAL,U.S. Senate,,REP,Barry Moore,1
+Elmore,0002 GOD'S CONGREGATIONAL,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Elmore,0002 GOD'S CONGREGATIONAL,U.S. Senate,,REP,Jared Hudson,0
+Elmore,0002 GOD'S CONGREGATIONAL,U.S. Senate,,REP,Morgan Murphy,0
+Elmore,0002 GOD'S CONGREGATIONAL,U.S. Senate,,REP,Rodney Walker,0
+Elmore,0002 GOD'S CONGREGATIONAL,U.S. Senate,,REP,Seth Burton,0
+Elmore,0002 GOD'S CONGREGATIONAL,U.S. Senate,,REP,Steve Marshall,0
+Elmore,0003 WETUMPKA CIVIC CTR.,Governor,,DEM,"Chad ""Chig"" Martin",8
+Elmore,0003 WETUMPKA CIVIC CTR.,Governor,,DEM,Doug Jones,159
 Elmore,0003 WETUMPKA CIVIC CTR.,Governor,,DEM,Jamel J. Brown,13
+Elmore,0003 WETUMPKA CIVIC CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",2
 Elmore,0003 WETUMPKA CIVIC CTR.,Governor,,DEM,Will Boyd,18
 Elmore,0003 WETUMPKA CIVIC CTR.,Governor,,DEM,Yolanda Rochelle Flowers,11
 Elmore,0003 WETUMPKA CIVIC CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,87
@@ -29,10 +138,64 @@ Elmore,0003 WETUMPKA CIVIC CTR.,Lieutenant Governor,,DEM,Phillip Ensler,114
 Elmore,0003 WETUMPKA CIVIC CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,90
 Elmore,0003 WETUMPKA CIVIC CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,63
 Elmore,0003 WETUMPKA CIVIC CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,41
+Elmore,0003 WETUMPKA CIVIC CTR.,State Democratic Executive Committee,,DEM,David S. Barley,42
+Elmore,0003 WETUMPKA CIVIC CTR.,State Democratic Executive Committee,,DEM,"James R. Lawlor, IV",32
+Elmore,0003 WETUMPKA CIVIC CTR.,State Democratic Executive Committee,,DEM,Willie J. Parker,115
+Elmore,0003 WETUMPKA CIVIC CTR.,U.S. Senate,,DEM,Dakarai Larriett,76
+Elmore,0003 WETUMPKA CIVIC CTR.,U.S. Senate,,DEM,Everett Wess,66
+Elmore,0003 WETUMPKA CIVIC CTR.,U.S. Senate,,DEM,Kyle Sweetser,20
+Elmore,0003 WETUMPKA CIVIC CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,41
+Elmore,0003 WETUMPKA CIVIC CTR.,Governor,,REP,"""Alabama"" Will Santivasci",19
 Elmore,0003 WETUMPKA CIVIC CTR.,Governor,,REP,Ken McFeeters,46
+Elmore,0003 WETUMPKA CIVIC CTR.,Governor,,REP,Thomas Tuberville,702
+Elmore,0003 WETUMPKA CIVIC CTR.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,131
 Elmore,0003 WETUMPKA CIVIC CTR.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,131
+Elmore,0003 WETUMPKA CIVIC CTR.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,347
 Elmore,0003 WETUMPKA CIVIC CTR.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,74
+Elmore,0003 WETUMPKA CIVIC CTR.,Attorney General,,REP,Jay Mitchell,317
+Elmore,0003 WETUMPKA CIVIC CTR.,Attorney General,,REP,Katherine Robertson,262
+Elmore,0003 WETUMPKA CIVIC CTR.,Attorney General,,REP,Pamela L. Casey,174
+Elmore,0003 WETUMPKA CIVIC CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,50
+Elmore,0003 WETUMPKA CIVIC CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,282
+Elmore,0003 WETUMPKA CIVIC CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,358
+Elmore,0003 WETUMPKA CIVIC CTR.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,275
+Elmore,0003 WETUMPKA CIVIC CTR.,Commissioner of Agriculture and Industries,,REP,Cory Hill,248
+Elmore,0003 WETUMPKA CIVIC CTR.,Commissioner of Agriculture and Industries,,REP,Jack Williams,178
+Elmore,0003 WETUMPKA CIVIC CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,329
+Elmore,0003 WETUMPKA CIVIC CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",396
+Elmore,0003 WETUMPKA CIVIC CTR.,Lieutenant Governor,,REP,George Childress,9
+Elmore,0003 WETUMPKA CIVIC CTR.,Lieutenant Governor,,REP,John Wahl,256
+Elmore,0003 WETUMPKA CIVIC CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,25
+Elmore,0003 WETUMPKA CIVIC CTR.,Lieutenant Governor,,REP,Pat Bishop,14
+Elmore,0003 WETUMPKA CIVIC CTR.,Lieutenant Governor,,REP,Rick Pate,108
+Elmore,0003 WETUMPKA CIVIC CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,67
+Elmore,0003 WETUMPKA CIVIC CTR.,Lieutenant Governor,,REP,Wes Allen,273
+Elmore,0003 WETUMPKA CIVIC CTR.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,145
+Elmore,0003 WETUMPKA CIVIC CTR.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,529
+Elmore,0003 WETUMPKA CIVIC CTR.,Secretary of State,,REP,Caroleene Dobson,562
+Elmore,0003 WETUMPKA CIVIC CTR.,Secretary of State,,REP,Christopher Christian Horn,101
+Elmore,0003 WETUMPKA CIVIC CTR.,Secretary of State,,REP,Glenda S. Jackson,55
+Elmore,0003 WETUMPKA CIVIC CTR.,State Auditor,,REP,Andrew Sorrell,456
+Elmore,0003 WETUMPKA CIVIC CTR.,State Auditor,,REP,Derek Chen,262
+Elmore,0003 WETUMPKA CIVIC CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,151
+Elmore,0003 WETUMPKA CIVIC CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,556
+Elmore,0003 WETUMPKA CIVIC CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,308
+Elmore,0003 WETUMPKA CIVIC CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,372
+Elmore,0003 WETUMPKA CIVIC CTR.,State Treasurer,,REP,Steve Lolley,114
+Elmore,0003 WETUMPKA CIVIC CTR.,State Treasurer,,REP,Young Boozer,633
+Elmore,0003 WETUMPKA CIVIC CTR.,U.S. House,6,REP,Case Dixon,149
+Elmore,0003 WETUMPKA CIVIC CTR.,U.S. House,6,REP,Gary Palmer,543
+Elmore,0003 WETUMPKA CIVIC CTR.,U.S. Senate,,REP,Barry Moore,393
+Elmore,0003 WETUMPKA CIVIC CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,8
+Elmore,0003 WETUMPKA CIVIC CTR.,U.S. Senate,,REP,Jared Hudson,143
+Elmore,0003 WETUMPKA CIVIC CTR.,U.S. Senate,,REP,Morgan Murphy,3
+Elmore,0003 WETUMPKA CIVIC CTR.,U.S. Senate,,REP,Rodney Walker,17
+Elmore,0003 WETUMPKA CIVIC CTR.,U.S. Senate,,REP,Seth Burton,8
+Elmore,0003 WETUMPKA CIVIC CTR.,U.S. Senate,,REP,Steve Marshall,190
+Elmore,0004 FRIENDSHIP COMM CTR,Governor,,DEM,"Chad ""Chig"" Martin",1
+Elmore,0004 FRIENDSHIP COMM CTR,Governor,,DEM,Doug Jones,48
 Elmore,0004 FRIENDSHIP COMM CTR,Governor,,DEM,Jamel J. Brown,6
+Elmore,0004 FRIENDSHIP COMM CTR,Governor,,DEM,"Nathan ""Nate"" Mathis",1
 Elmore,0004 FRIENDSHIP COMM CTR,Governor,,DEM,Will Boyd,8
 Elmore,0004 FRIENDSHIP COMM CTR,Governor,,DEM,Yolanda Rochelle Flowers,8
 Elmore,0004 FRIENDSHIP COMM CTR,Lieutenant Governor,,DEM,Darryl D. Perryman,34
@@ -40,10 +203,64 @@ Elmore,0004 FRIENDSHIP COMM CTR,Lieutenant Governor,,DEM,Phillip Ensler,30
 Elmore,0004 FRIENDSHIP COMM CTR,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,26
 Elmore,0004 FRIENDSHIP COMM CTR,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,22
 Elmore,0004 FRIENDSHIP COMM CTR,"Public Service Commissioner, Place 1",,DEM,John Northrop,16
+Elmore,0004 FRIENDSHIP COMM CTR,State Democratic Executive Committee,,DEM,David S. Barley,15
+Elmore,0004 FRIENDSHIP COMM CTR,State Democratic Executive Committee,,DEM,"James R. Lawlor, IV",12
+Elmore,0004 FRIENDSHIP COMM CTR,State Democratic Executive Committee,,DEM,Willie J. Parker,38
+Elmore,0004 FRIENDSHIP COMM CTR,U.S. Senate,,DEM,Dakarai Larriett,28
+Elmore,0004 FRIENDSHIP COMM CTR,U.S. Senate,,DEM,Everett Wess,11
+Elmore,0004 FRIENDSHIP COMM CTR,U.S. Senate,,DEM,Kyle Sweetser,11
+Elmore,0004 FRIENDSHIP COMM CTR,U.S. Senate,,DEM,Mark S. Wheeler II,14
+Elmore,0004 FRIENDSHIP COMM CTR,Governor,,REP,"""Alabama"" Will Santivasci",5
 Elmore,0004 FRIENDSHIP COMM CTR,Governor,,REP,Ken McFeeters,12
+Elmore,0004 FRIENDSHIP COMM CTR,Governor,,REP,Thomas Tuberville,146
+Elmore,0004 FRIENDSHIP COMM CTR,"Public Service Commission, Place No. 2",,REP,Brent Woodall,33
 Elmore,0004 FRIENDSHIP COMM CTR,"Public Service Commission, Place No. 2",,REP,Chris Beeker,20
+Elmore,0004 FRIENDSHIP COMM CTR,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,82
 Elmore,0004 FRIENDSHIP COMM CTR,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,15
+Elmore,0004 FRIENDSHIP COMM CTR,Attorney General,,REP,Jay Mitchell,73
+Elmore,0004 FRIENDSHIP COMM CTR,Attorney General,,REP,Katherine Robertson,41
+Elmore,0004 FRIENDSHIP COMM CTR,Attorney General,,REP,Pamela L. Casey,40
+Elmore,0004 FRIENDSHIP COMM CTR,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,19
+Elmore,0004 FRIENDSHIP COMM CTR,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,55
+Elmore,0004 FRIENDSHIP COMM CTR,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,74
+Elmore,0004 FRIENDSHIP COMM CTR,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,51
+Elmore,0004 FRIENDSHIP COMM CTR,Commissioner of Agriculture and Industries,,REP,Cory Hill,67
+Elmore,0004 FRIENDSHIP COMM CTR,Commissioner of Agriculture and Industries,,REP,Jack Williams,36
+Elmore,0004 FRIENDSHIP COMM CTR,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,64
+Elmore,0004 FRIENDSHIP COMM CTR,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",84
+Elmore,0004 FRIENDSHIP COMM CTR,Lieutenant Governor,,REP,George Childress,0
+Elmore,0004 FRIENDSHIP COMM CTR,Lieutenant Governor,,REP,John Wahl,49
+Elmore,0004 FRIENDSHIP COMM CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,11
+Elmore,0004 FRIENDSHIP COMM CTR,Lieutenant Governor,,REP,Pat Bishop,4
+Elmore,0004 FRIENDSHIP COMM CTR,Lieutenant Governor,,REP,Rick Pate,21
+Elmore,0004 FRIENDSHIP COMM CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,8
+Elmore,0004 FRIENDSHIP COMM CTR,Lieutenant Governor,,REP,Wes Allen,64
+Elmore,0004 FRIENDSHIP COMM CTR,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,30
+Elmore,0004 FRIENDSHIP COMM CTR,"Public Service Commission, Place No. 1",,REP,Matt Gentry,118
+Elmore,0004 FRIENDSHIP COMM CTR,Secretary of State,,REP,Caroleene Dobson,101
+Elmore,0004 FRIENDSHIP COMM CTR,Secretary of State,,REP,Christopher Christian Horn,37
+Elmore,0004 FRIENDSHIP COMM CTR,Secretary of State,,REP,Glenda S. Jackson,18
+Elmore,0004 FRIENDSHIP COMM CTR,State Auditor,,REP,Andrew Sorrell,109
+Elmore,0004 FRIENDSHIP COMM CTR,State Auditor,,REP,Derek Chen,44
+Elmore,0004 FRIENDSHIP COMM CTR,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,37
+Elmore,0004 FRIENDSHIP COMM CTR,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,107
+Elmore,0004 FRIENDSHIP COMM CTR,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,58
+Elmore,0004 FRIENDSHIP COMM CTR,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,80
+Elmore,0004 FRIENDSHIP COMM CTR,State Treasurer,,REP,Steve Lolley,38
+Elmore,0004 FRIENDSHIP COMM CTR,State Treasurer,,REP,Young Boozer,121
+Elmore,0004 FRIENDSHIP COMM CTR,U.S. House,6,REP,Case Dixon,32
+Elmore,0004 FRIENDSHIP COMM CTR,U.S. House,6,REP,Gary Palmer,112
+Elmore,0004 FRIENDSHIP COMM CTR,U.S. Senate,,REP,Barry Moore,78
+Elmore,0004 FRIENDSHIP COMM CTR,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
+Elmore,0004 FRIENDSHIP COMM CTR,U.S. Senate,,REP,Jared Hudson,36
+Elmore,0004 FRIENDSHIP COMM CTR,U.S. Senate,,REP,Morgan Murphy,2
+Elmore,0004 FRIENDSHIP COMM CTR,U.S. Senate,,REP,Rodney Walker,4
+Elmore,0004 FRIENDSHIP COMM CTR,U.S. Senate,,REP,Seth Burton,4
+Elmore,0004 FRIENDSHIP COMM CTR,U.S. Senate,,REP,Steve Marshall,36
+Elmore,0005 BETHLEHEM EAST BAPT.,Governor,,DEM,"Chad ""Chig"" Martin",4
+Elmore,0005 BETHLEHEM EAST BAPT.,Governor,,DEM,Doug Jones,25
 Elmore,0005 BETHLEHEM EAST BAPT.,Governor,,DEM,Jamel J. Brown,2
+Elmore,0005 BETHLEHEM EAST BAPT.,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0005 BETHLEHEM EAST BAPT.,Governor,,DEM,Will Boyd,5
 Elmore,0005 BETHLEHEM EAST BAPT.,Governor,,DEM,Yolanda Rochelle Flowers,3
 Elmore,0005 BETHLEHEM EAST BAPT.,Lieutenant Governor,,DEM,Darryl D. Perryman,14
@@ -51,10 +268,63 @@ Elmore,0005 BETHLEHEM EAST BAPT.,Lieutenant Governor,,DEM,Phillip Ensler,21
 Elmore,0005 BETHLEHEM EAST BAPT.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,16
 Elmore,0005 BETHLEHEM EAST BAPT.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,13
 Elmore,0005 BETHLEHEM EAST BAPT.,"Public Service Commissioner, Place 1",,DEM,John Northrop,5
+Elmore,0005 BETHLEHEM EAST BAPT.,State Democratic Executive Committee,,DEM,Lee Lindsay,10
+Elmore,0005 BETHLEHEM EAST BAPT.,State Democratic Executive Committee,,DEM,Walter C. Lacey,24
+Elmore,0005 BETHLEHEM EAST BAPT.,U.S. Senate,,DEM,Dakarai Larriett,17
+Elmore,0005 BETHLEHEM EAST BAPT.,U.S. Senate,,DEM,Everett Wess,5
+Elmore,0005 BETHLEHEM EAST BAPT.,U.S. Senate,,DEM,Kyle Sweetser,8
+Elmore,0005 BETHLEHEM EAST BAPT.,U.S. Senate,,DEM,Mark S. Wheeler II,5
+Elmore,0005 BETHLEHEM EAST BAPT.,Governor,,REP,"""Alabama"" Will Santivasci",7
 Elmore,0005 BETHLEHEM EAST BAPT.,Governor,,REP,Ken McFeeters,12
+Elmore,0005 BETHLEHEM EAST BAPT.,Governor,,REP,Thomas Tuberville,339
+Elmore,0005 BETHLEHEM EAST BAPT.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,71
 Elmore,0005 BETHLEHEM EAST BAPT.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,51
+Elmore,0005 BETHLEHEM EAST BAPT.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,167
 Elmore,0005 BETHLEHEM EAST BAPT.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,29
+Elmore,0005 BETHLEHEM EAST BAPT.,Attorney General,,REP,Jay Mitchell,159
+Elmore,0005 BETHLEHEM EAST BAPT.,Attorney General,,REP,Katherine Robertson,96
+Elmore,0005 BETHLEHEM EAST BAPT.,Attorney General,,REP,Pamela L. Casey,90
+Elmore,0005 BETHLEHEM EAST BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,31
+Elmore,0005 BETHLEHEM EAST BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,114
+Elmore,0005 BETHLEHEM EAST BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,170
+Elmore,0005 BETHLEHEM EAST BAPT.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,107
+Elmore,0005 BETHLEHEM EAST BAPT.,Commissioner of Agriculture and Industries,,REP,Cory Hill,140
+Elmore,0005 BETHLEHEM EAST BAPT.,Commissioner of Agriculture and Industries,,REP,Jack Williams,71
+Elmore,0005 BETHLEHEM EAST BAPT.,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,143
+Elmore,0005 BETHLEHEM EAST BAPT.,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",177
+Elmore,0005 BETHLEHEM EAST BAPT.,Lieutenant Governor,,REP,George Childress,4
+Elmore,0005 BETHLEHEM EAST BAPT.,Lieutenant Governor,,REP,John Wahl,118
+Elmore,0005 BETHLEHEM EAST BAPT.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,10
+Elmore,0005 BETHLEHEM EAST BAPT.,Lieutenant Governor,,REP,Pat Bishop,4
+Elmore,0005 BETHLEHEM EAST BAPT.,Lieutenant Governor,,REP,Rick Pate,38
+Elmore,0005 BETHLEHEM EAST BAPT.,Lieutenant Governor,,REP,Stewart Hill Tankersley,34
+Elmore,0005 BETHLEHEM EAST BAPT.,Lieutenant Governor,,REP,Wes Allen,136
+Elmore,0005 BETHLEHEM EAST BAPT.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,62
+Elmore,0005 BETHLEHEM EAST BAPT.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,249
+Elmore,0005 BETHLEHEM EAST BAPT.,Secretary of State,,REP,Caroleene Dobson,246
+Elmore,0005 BETHLEHEM EAST BAPT.,Secretary of State,,REP,Christopher Christian Horn,57
+Elmore,0005 BETHLEHEM EAST BAPT.,Secretary of State,,REP,Glenda S. Jackson,29
+Elmore,0005 BETHLEHEM EAST BAPT.,State Auditor,,REP,Andrew Sorrell,228
+Elmore,0005 BETHLEHEM EAST BAPT.,State Auditor,,REP,Derek Chen,100
+Elmore,0005 BETHLEHEM EAST BAPT.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,64
+Elmore,0005 BETHLEHEM EAST BAPT.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,242
+Elmore,0005 BETHLEHEM EAST BAPT.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,130
+Elmore,0005 BETHLEHEM EAST BAPT.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,163
+Elmore,0005 BETHLEHEM EAST BAPT.,State Treasurer,,REP,Steve Lolley,64
+Elmore,0005 BETHLEHEM EAST BAPT.,State Treasurer,,REP,Young Boozer,272
+Elmore,0005 BETHLEHEM EAST BAPT.,U.S. House,6,REP,Case Dixon,57
+Elmore,0005 BETHLEHEM EAST BAPT.,U.S. House,6,REP,Gary Palmer,260
+Elmore,0005 BETHLEHEM EAST BAPT.,U.S. Senate,,REP,Barry Moore,193
+Elmore,0005 BETHLEHEM EAST BAPT.,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Elmore,0005 BETHLEHEM EAST BAPT.,U.S. Senate,,REP,Jared Hudson,78
+Elmore,0005 BETHLEHEM EAST BAPT.,U.S. Senate,,REP,Morgan Murphy,3
+Elmore,0005 BETHLEHEM EAST BAPT.,U.S. Senate,,REP,Rodney Walker,6
+Elmore,0005 BETHLEHEM EAST BAPT.,U.S. Senate,,REP,Seth Burton,7
+Elmore,0005 BETHLEHEM EAST BAPT.,U.S. Senate,,REP,Steve Marshall,66
+Elmore,0006 KOWALIGA VFD,Governor,,DEM,"Chad ""Chig"" Martin",0
+Elmore,0006 KOWALIGA VFD,Governor,,DEM,Doug Jones,36
 Elmore,0006 KOWALIGA VFD,Governor,,DEM,Jamel J. Brown,3
+Elmore,0006 KOWALIGA VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",1
 Elmore,0006 KOWALIGA VFD,Governor,,DEM,Will Boyd,1
 Elmore,0006 KOWALIGA VFD,Governor,,DEM,Yolanda Rochelle Flowers,3
 Elmore,0006 KOWALIGA VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,5
@@ -62,10 +332,63 @@ Elmore,0006 KOWALIGA VFD,Lieutenant Governor,,DEM,Phillip Ensler,37
 Elmore,0006 KOWALIGA VFD,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,26
 Elmore,0006 KOWALIGA VFD,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,11
 Elmore,0006 KOWALIGA VFD,"Public Service Commissioner, Place 1",,DEM,John Northrop,4
+Elmore,0006 KOWALIGA VFD,State Democratic Executive Committee,,DEM,Lee Lindsay,5
+Elmore,0006 KOWALIGA VFD,State Democratic Executive Committee,,DEM,Walter C. Lacey,35
+Elmore,0006 KOWALIGA VFD,U.S. Senate,,DEM,Dakarai Larriett,18
+Elmore,0006 KOWALIGA VFD,U.S. Senate,,DEM,Everett Wess,8
+Elmore,0006 KOWALIGA VFD,U.S. Senate,,DEM,Kyle Sweetser,7
+Elmore,0006 KOWALIGA VFD,U.S. Senate,,DEM,Mark S. Wheeler II,11
+Elmore,0006 KOWALIGA VFD,Governor,,REP,"""Alabama"" Will Santivasci",10
 Elmore,0006 KOWALIGA VFD,Governor,,REP,Ken McFeeters,9
+Elmore,0006 KOWALIGA VFD,Governor,,REP,Thomas Tuberville,315
+Elmore,0006 KOWALIGA VFD,"Public Service Commission, Place No. 2",,REP,Brent Woodall,35
 Elmore,0006 KOWALIGA VFD,"Public Service Commission, Place No. 2",,REP,Chris Beeker,69
+Elmore,0006 KOWALIGA VFD,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,174
 Elmore,0006 KOWALIGA VFD,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,23
+Elmore,0006 KOWALIGA VFD,Attorney General,,REP,Jay Mitchell,133
+Elmore,0006 KOWALIGA VFD,Attorney General,,REP,Katherine Robertson,113
+Elmore,0006 KOWALIGA VFD,Attorney General,,REP,Pamela L. Casey,75
+Elmore,0006 KOWALIGA VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,26
+Elmore,0006 KOWALIGA VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,155
+Elmore,0006 KOWALIGA VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,111
+Elmore,0006 KOWALIGA VFD,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,106
+Elmore,0006 KOWALIGA VFD,Commissioner of Agriculture and Industries,,REP,Cory Hill,122
+Elmore,0006 KOWALIGA VFD,Commissioner of Agriculture and Industries,,REP,Jack Williams,81
+Elmore,0006 KOWALIGA VFD,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,158
+Elmore,0006 KOWALIGA VFD,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",159
+Elmore,0006 KOWALIGA VFD,Lieutenant Governor,,REP,George Childress,2
+Elmore,0006 KOWALIGA VFD,Lieutenant Governor,,REP,John Wahl,118
+Elmore,0006 KOWALIGA VFD,Lieutenant Governor,,REP,Nicole Jones Wadsworth,9
+Elmore,0006 KOWALIGA VFD,Lieutenant Governor,,REP,Pat Bishop,3
+Elmore,0006 KOWALIGA VFD,Lieutenant Governor,,REP,Rick Pate,42
+Elmore,0006 KOWALIGA VFD,Lieutenant Governor,,REP,Stewart Hill Tankersley,26
+Elmore,0006 KOWALIGA VFD,Lieutenant Governor,,REP,Wes Allen,134
+Elmore,0006 KOWALIGA VFD,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,78
+Elmore,0006 KOWALIGA VFD,"Public Service Commission, Place No. 1",,REP,Matt Gentry,222
+Elmore,0006 KOWALIGA VFD,Secretary of State,,REP,Caroleene Dobson,233
+Elmore,0006 KOWALIGA VFD,Secretary of State,,REP,Christopher Christian Horn,47
+Elmore,0006 KOWALIGA VFD,Secretary of State,,REP,Glenda S. Jackson,21
+Elmore,0006 KOWALIGA VFD,State Auditor,,REP,Andrew Sorrell,189
+Elmore,0006 KOWALIGA VFD,State Auditor,,REP,Derek Chen,127
+Elmore,0006 KOWALIGA VFD,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,65
+Elmore,0006 KOWALIGA VFD,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,235
+Elmore,0006 KOWALIGA VFD,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,128
+Elmore,0006 KOWALIGA VFD,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,150
+Elmore,0006 KOWALIGA VFD,State Treasurer,,REP,Steve Lolley,48
+Elmore,0006 KOWALIGA VFD,State Treasurer,,REP,Young Boozer,277
+Elmore,0006 KOWALIGA VFD,U.S. House,6,REP,Case Dixon,51
+Elmore,0006 KOWALIGA VFD,U.S. House,6,REP,Gary Palmer,241
+Elmore,0006 KOWALIGA VFD,U.S. Senate,,REP,Barry Moore,185
+Elmore,0006 KOWALIGA VFD,U.S. Senate,,REP,Dale Shelton Deas Jr.,2
+Elmore,0006 KOWALIGA VFD,U.S. Senate,,REP,Jared Hudson,73
+Elmore,0006 KOWALIGA VFD,U.S. Senate,,REP,Morgan Murphy,0
+Elmore,0006 KOWALIGA VFD,U.S. Senate,,REP,Rodney Walker,6
+Elmore,0006 KOWALIGA VFD,U.S. Senate,,REP,Seth Burton,3
+Elmore,0006 KOWALIGA VFD,U.S. Senate,,REP,Steve Marshall,64
+Elmore,0007 REDHILL COMM.,Governor,,DEM,"Chad ""Chig"" Martin",1
+Elmore,0007 REDHILL COMM.,Governor,,DEM,Doug Jones,21
 Elmore,0007 REDHILL COMM.,Governor,,DEM,Jamel J. Brown,1
+Elmore,0007 REDHILL COMM.,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0007 REDHILL COMM.,Governor,,DEM,Will Boyd,2
 Elmore,0007 REDHILL COMM.,Governor,,DEM,Yolanda Rochelle Flowers,1
 Elmore,0007 REDHILL COMM.,Lieutenant Governor,,DEM,Darryl D. Perryman,4
@@ -73,10 +396,63 @@ Elmore,0007 REDHILL COMM.,Lieutenant Governor,,DEM,Phillip Ensler,20
 Elmore,0007 REDHILL COMM.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,9
 Elmore,0007 REDHILL COMM.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,11
 Elmore,0007 REDHILL COMM.,"Public Service Commissioner, Place 1",,DEM,John Northrop,5
+Elmore,0007 REDHILL COMM.,State Democratic Executive Committee,,DEM,Lee Lindsay,12
+Elmore,0007 REDHILL COMM.,State Democratic Executive Committee,,DEM,Walter C. Lacey,14
+Elmore,0007 REDHILL COMM.,U.S. Senate,,DEM,Dakarai Larriett,6
+Elmore,0007 REDHILL COMM.,U.S. Senate,,DEM,Everett Wess,8
+Elmore,0007 REDHILL COMM.,U.S. Senate,,DEM,Kyle Sweetser,6
+Elmore,0007 REDHILL COMM.,U.S. Senate,,DEM,Mark S. Wheeler II,6
+Elmore,0007 REDHILL COMM.,Governor,,REP,"""Alabama"" Will Santivasci",7
 Elmore,0007 REDHILL COMM.,Governor,,REP,Ken McFeeters,13
+Elmore,0007 REDHILL COMM.,Governor,,REP,Thomas Tuberville,210
+Elmore,0007 REDHILL COMM.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,35
 Elmore,0007 REDHILL COMM.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,35
+Elmore,0007 REDHILL COMM.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,124
 Elmore,0007 REDHILL COMM.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,15
+Elmore,0007 REDHILL COMM.,Attorney General,,REP,Jay Mitchell,92
+Elmore,0007 REDHILL COMM.,Attorney General,,REP,Katherine Robertson,69
+Elmore,0007 REDHILL COMM.,Attorney General,,REP,Pamela L. Casey,57
+Elmore,0007 REDHILL COMM.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,19
+Elmore,0007 REDHILL COMM.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,77
+Elmore,0007 REDHILL COMM.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,89
+Elmore,0007 REDHILL COMM.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,73
+Elmore,0007 REDHILL COMM.,Commissioner of Agriculture and Industries,,REP,Cory Hill,82
+Elmore,0007 REDHILL COMM.,Commissioner of Agriculture and Industries,,REP,Jack Williams,55
+Elmore,0007 REDHILL COMM.,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,86
+Elmore,0007 REDHILL COMM.,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",111
+Elmore,0007 REDHILL COMM.,Lieutenant Governor,,REP,George Childress,1
+Elmore,0007 REDHILL COMM.,Lieutenant Governor,,REP,John Wahl,83
+Elmore,0007 REDHILL COMM.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,9
+Elmore,0007 REDHILL COMM.,Lieutenant Governor,,REP,Pat Bishop,2
+Elmore,0007 REDHILL COMM.,Lieutenant Governor,,REP,Rick Pate,32
+Elmore,0007 REDHILL COMM.,Lieutenant Governor,,REP,Stewart Hill Tankersley,19
+Elmore,0007 REDHILL COMM.,Lieutenant Governor,,REP,Wes Allen,83
+Elmore,0007 REDHILL COMM.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,40
+Elmore,0007 REDHILL COMM.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,157
+Elmore,0007 REDHILL COMM.,Secretary of State,,REP,Caroleene Dobson,162
+Elmore,0007 REDHILL COMM.,Secretary of State,,REP,Christopher Christian Horn,29
+Elmore,0007 REDHILL COMM.,Secretary of State,,REP,Glenda S. Jackson,17
+Elmore,0007 REDHILL COMM.,State Auditor,,REP,Andrew Sorrell,136
+Elmore,0007 REDHILL COMM.,State Auditor,,REP,Derek Chen,69
+Elmore,0007 REDHILL COMM.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,41
+Elmore,0007 REDHILL COMM.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,135
+Elmore,0007 REDHILL COMM.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,63
+Elmore,0007 REDHILL COMM.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,107
+Elmore,0007 REDHILL COMM.,State Treasurer,,REP,Steve Lolley,27
+Elmore,0007 REDHILL COMM.,State Treasurer,,REP,Young Boozer,194
+Elmore,0007 REDHILL COMM.,U.S. House,6,REP,Case Dixon,43
+Elmore,0007 REDHILL COMM.,U.S. House,6,REP,Gary Palmer,164
+Elmore,0007 REDHILL COMM.,U.S. Senate,,REP,Barry Moore,130
+Elmore,0007 REDHILL COMM.,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Elmore,0007 REDHILL COMM.,U.S. Senate,,REP,Jared Hudson,47
+Elmore,0007 REDHILL COMM.,U.S. Senate,,REP,Morgan Murphy,2
+Elmore,0007 REDHILL COMM.,U.S. Senate,,REP,Rodney Walker,6
+Elmore,0007 REDHILL COMM.,U.S. Senate,,REP,Seth Burton,1
+Elmore,0007 REDHILL COMM.,U.S. Senate,,REP,Steve Marshall,41
+Elmore,0008 ECLECTIC METHODIST,Governor,,DEM,"Chad ""Chig"" Martin",3
+Elmore,0008 ECLECTIC METHODIST,Governor,,DEM,Doug Jones,56
 Elmore,0008 ECLECTIC METHODIST,Governor,,DEM,Jamel J. Brown,19
+Elmore,0008 ECLECTIC METHODIST,Governor,,DEM,"Nathan ""Nate"" Mathis",1
 Elmore,0008 ECLECTIC METHODIST,Governor,,DEM,Will Boyd,10
 Elmore,0008 ECLECTIC METHODIST,Governor,,DEM,Yolanda Rochelle Flowers,4
 Elmore,0008 ECLECTIC METHODIST,Lieutenant Governor,,DEM,Darryl D. Perryman,52
@@ -84,10 +460,63 @@ Elmore,0008 ECLECTIC METHODIST,Lieutenant Governor,,DEM,Phillip Ensler,37
 Elmore,0008 ECLECTIC METHODIST,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,39
 Elmore,0008 ECLECTIC METHODIST,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,34
 Elmore,0008 ECLECTIC METHODIST,"Public Service Commissioner, Place 1",,DEM,John Northrop,14
+Elmore,0008 ECLECTIC METHODIST,State Democratic Executive Committee,,DEM,Lee Lindsay,23
+Elmore,0008 ECLECTIC METHODIST,State Democratic Executive Committee,,DEM,Walter C. Lacey,64
+Elmore,0008 ECLECTIC METHODIST,U.S. Senate,,DEM,Dakarai Larriett,27
+Elmore,0008 ECLECTIC METHODIST,U.S. Senate,,DEM,Everett Wess,29
+Elmore,0008 ECLECTIC METHODIST,U.S. Senate,,DEM,Kyle Sweetser,10
+Elmore,0008 ECLECTIC METHODIST,U.S. Senate,,DEM,Mark S. Wheeler II,24
+Elmore,0008 ECLECTIC METHODIST,Governor,,REP,"""Alabama"" Will Santivasci",3
 Elmore,0008 ECLECTIC METHODIST,Governor,,REP,Ken McFeeters,25
+Elmore,0008 ECLECTIC METHODIST,Governor,,REP,Thomas Tuberville,229
+Elmore,0008 ECLECTIC METHODIST,"Public Service Commission, Place No. 2",,REP,Brent Woodall,46
 Elmore,0008 ECLECTIC METHODIST,"Public Service Commission, Place No. 2",,REP,Chris Beeker,56
+Elmore,0008 ECLECTIC METHODIST,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,105
 Elmore,0008 ECLECTIC METHODIST,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,31
+Elmore,0008 ECLECTIC METHODIST,Attorney General,,REP,Jay Mitchell,98
+Elmore,0008 ECLECTIC METHODIST,Attorney General,,REP,Katherine Robertson,89
+Elmore,0008 ECLECTIC METHODIST,Attorney General,,REP,Pamela L. Casey,63
+Elmore,0008 ECLECTIC METHODIST,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,23
+Elmore,0008 ECLECTIC METHODIST,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,96
+Elmore,0008 ECLECTIC METHODIST,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,122
+Elmore,0008 ECLECTIC METHODIST,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,83
+Elmore,0008 ECLECTIC METHODIST,Commissioner of Agriculture and Industries,,REP,Cory Hill,100
+Elmore,0008 ECLECTIC METHODIST,Commissioner of Agriculture and Industries,,REP,Jack Williams,61
+Elmore,0008 ECLECTIC METHODIST,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,129
+Elmore,0008 ECLECTIC METHODIST,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",118
+Elmore,0008 ECLECTIC METHODIST,Lieutenant Governor,,REP,George Childress,7
+Elmore,0008 ECLECTIC METHODIST,Lieutenant Governor,,REP,John Wahl,76
+Elmore,0008 ECLECTIC METHODIST,Lieutenant Governor,,REP,Nicole Jones Wadsworth,12
+Elmore,0008 ECLECTIC METHODIST,Lieutenant Governor,,REP,Pat Bishop,7
+Elmore,0008 ECLECTIC METHODIST,Lieutenant Governor,,REP,Rick Pate,27
+Elmore,0008 ECLECTIC METHODIST,Lieutenant Governor,,REP,Stewart Hill Tankersley,15
+Elmore,0008 ECLECTIC METHODIST,Lieutenant Governor,,REP,Wes Allen,111
+Elmore,0008 ECLECTIC METHODIST,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,55
+Elmore,0008 ECLECTIC METHODIST,"Public Service Commission, Place No. 1",,REP,Matt Gentry,190
+Elmore,0008 ECLECTIC METHODIST,Secretary of State,,REP,Caroleene Dobson,183
+Elmore,0008 ECLECTIC METHODIST,Secretary of State,,REP,Christopher Christian Horn,39
+Elmore,0008 ECLECTIC METHODIST,Secretary of State,,REP,Glenda S. Jackson,26
+Elmore,0008 ECLECTIC METHODIST,State Auditor,,REP,Andrew Sorrell,153
+Elmore,0008 ECLECTIC METHODIST,State Auditor,,REP,Derek Chen,94
+Elmore,0008 ECLECTIC METHODIST,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,72
+Elmore,0008 ECLECTIC METHODIST,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,173
+Elmore,0008 ECLECTIC METHODIST,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,99
+Elmore,0008 ECLECTIC METHODIST,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,138
+Elmore,0008 ECLECTIC METHODIST,State Treasurer,,REP,Steve Lolley,49
+Elmore,0008 ECLECTIC METHODIST,State Treasurer,,REP,Young Boozer,202
+Elmore,0008 ECLECTIC METHODIST,U.S. House,6,REP,Case Dixon,55
+Elmore,0008 ECLECTIC METHODIST,U.S. House,6,REP,Gary Palmer,185
+Elmore,0008 ECLECTIC METHODIST,U.S. Senate,,REP,Barry Moore,130
+Elmore,0008 ECLECTIC METHODIST,U.S. Senate,,REP,Dale Shelton Deas Jr.,4
+Elmore,0008 ECLECTIC METHODIST,U.S. Senate,,REP,Jared Hudson,48
+Elmore,0008 ECLECTIC METHODIST,U.S. Senate,,REP,Morgan Murphy,7
+Elmore,0008 ECLECTIC METHODIST,U.S. Senate,,REP,Rodney Walker,9
+Elmore,0008 ECLECTIC METHODIST,U.S. Senate,,REP,Seth Burton,3
+Elmore,0008 ECLECTIC METHODIST,U.S. Senate,,REP,Steve Marshall,57
+Elmore,0009 SEMAN CONGR CC,Governor,,DEM,"Chad ""Chig"" Martin",0
+Elmore,0009 SEMAN CONGR CC,Governor,,DEM,Doug Jones,17
 Elmore,0009 SEMAN CONGR CC,Governor,,DEM,Jamel J. Brown,1
+Elmore,0009 SEMAN CONGR CC,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0009 SEMAN CONGR CC,Governor,,DEM,Will Boyd,3
 Elmore,0009 SEMAN CONGR CC,Governor,,DEM,Yolanda Rochelle Flowers,0
 Elmore,0009 SEMAN CONGR CC,Lieutenant Governor,,DEM,Darryl D. Perryman,8
@@ -95,10 +524,63 @@ Elmore,0009 SEMAN CONGR CC,Lieutenant Governor,,DEM,Phillip Ensler,12
 Elmore,0009 SEMAN CONGR CC,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,8
 Elmore,0009 SEMAN CONGR CC,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,10
 Elmore,0009 SEMAN CONGR CC,"Public Service Commissioner, Place 1",,DEM,John Northrop,1
+Elmore,0009 SEMAN CONGR CC,State Democratic Executive Committee,,DEM,Lee Lindsay,8
+Elmore,0009 SEMAN CONGR CC,State Democratic Executive Committee,,DEM,Walter C. Lacey,12
+Elmore,0009 SEMAN CONGR CC,U.S. Senate,,DEM,Dakarai Larriett,8
+Elmore,0009 SEMAN CONGR CC,U.S. Senate,,DEM,Everett Wess,2
+Elmore,0009 SEMAN CONGR CC,U.S. Senate,,DEM,Kyle Sweetser,5
+Elmore,0009 SEMAN CONGR CC,U.S. Senate,,DEM,Mark S. Wheeler II,4
+Elmore,0009 SEMAN CONGR CC,Governor,,REP,"""Alabama"" Will Santivasci",3
 Elmore,0009 SEMAN CONGR CC,Governor,,REP,Ken McFeeters,22
+Elmore,0009 SEMAN CONGR CC,Governor,,REP,Thomas Tuberville,325
+Elmore,0009 SEMAN CONGR CC,"Public Service Commission, Place No. 2",,REP,Brent Woodall,58
 Elmore,0009 SEMAN CONGR CC,"Public Service Commission, Place No. 2",,REP,Chris Beeker,65
+Elmore,0009 SEMAN CONGR CC,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,144
 Elmore,0009 SEMAN CONGR CC,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,39
+Elmore,0009 SEMAN CONGR CC,Attorney General,,REP,Jay Mitchell,119
+Elmore,0009 SEMAN CONGR CC,Attorney General,,REP,Katherine Robertson,125
+Elmore,0009 SEMAN CONGR CC,Attorney General,,REP,Pamela L. Casey,96
+Elmore,0009 SEMAN CONGR CC,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,38
+Elmore,0009 SEMAN CONGR CC,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,118
+Elmore,0009 SEMAN CONGR CC,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,140
+Elmore,0009 SEMAN CONGR CC,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,104
+Elmore,0009 SEMAN CONGR CC,Commissioner of Agriculture and Industries,,REP,Cory Hill,114
+Elmore,0009 SEMAN CONGR CC,Commissioner of Agriculture and Industries,,REP,Jack Williams,91
+Elmore,0009 SEMAN CONGR CC,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,130
+Elmore,0009 SEMAN CONGR CC,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",175
+Elmore,0009 SEMAN CONGR CC,Lieutenant Governor,,REP,George Childress,5
+Elmore,0009 SEMAN CONGR CC,Lieutenant Governor,,REP,John Wahl,103
+Elmore,0009 SEMAN CONGR CC,Lieutenant Governor,,REP,Nicole Jones Wadsworth,8
+Elmore,0009 SEMAN CONGR CC,Lieutenant Governor,,REP,Pat Bishop,4
+Elmore,0009 SEMAN CONGR CC,Lieutenant Governor,,REP,Rick Pate,53
+Elmore,0009 SEMAN CONGR CC,Lieutenant Governor,,REP,Stewart Hill Tankersley,15
+Elmore,0009 SEMAN CONGR CC,Lieutenant Governor,,REP,Wes Allen,149
+Elmore,0009 SEMAN CONGR CC,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,66
+Elmore,0009 SEMAN CONGR CC,"Public Service Commission, Place No. 1",,REP,Matt Gentry,226
+Elmore,0009 SEMAN CONGR CC,Secretary of State,,REP,Caroleene Dobson,247
+Elmore,0009 SEMAN CONGR CC,Secretary of State,,REP,Christopher Christian Horn,47
+Elmore,0009 SEMAN CONGR CC,Secretary of State,,REP,Glenda S. Jackson,23
+Elmore,0009 SEMAN CONGR CC,State Auditor,,REP,Andrew Sorrell,192
+Elmore,0009 SEMAN CONGR CC,State Auditor,,REP,Derek Chen,116
+Elmore,0009 SEMAN CONGR CC,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,76
+Elmore,0009 SEMAN CONGR CC,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,228
+Elmore,0009 SEMAN CONGR CC,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,118
+Elmore,0009 SEMAN CONGR CC,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,170
+Elmore,0009 SEMAN CONGR CC,State Treasurer,,REP,Steve Lolley,51
+Elmore,0009 SEMAN CONGR CC,State Treasurer,,REP,Young Boozer,272
+Elmore,0009 SEMAN CONGR CC,U.S. House,6,REP,Case Dixon,68
+Elmore,0009 SEMAN CONGR CC,U.S. House,6,REP,Gary Palmer,229
+Elmore,0009 SEMAN CONGR CC,U.S. Senate,,REP,Barry Moore,188
+Elmore,0009 SEMAN CONGR CC,U.S. Senate,,REP,Dale Shelton Deas Jr.,11
+Elmore,0009 SEMAN CONGR CC,U.S. Senate,,REP,Jared Hudson,71
+Elmore,0009 SEMAN CONGR CC,U.S. Senate,,REP,Morgan Murphy,1
+Elmore,0009 SEMAN CONGR CC,U.S. Senate,,REP,Rodney Walker,7
+Elmore,0009 SEMAN CONGR CC,U.S. Senate,,REP,Seth Burton,2
+Elmore,0009 SEMAN CONGR CC,U.S. Senate,,REP,Steve Marshall,71
+Elmore,0010 SANTUCK COMM. CTR.,Governor,,DEM,"Chad ""Chig"" Martin",7
+Elmore,0010 SANTUCK COMM. CTR.,Governor,,DEM,Doug Jones,100
 Elmore,0010 SANTUCK COMM. CTR.,Governor,,DEM,Jamel J. Brown,7
+Elmore,0010 SANTUCK COMM. CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",1
 Elmore,0010 SANTUCK COMM. CTR.,Governor,,DEM,Will Boyd,14
 Elmore,0010 SANTUCK COMM. CTR.,Governor,,DEM,Yolanda Rochelle Flowers,10
 Elmore,0010 SANTUCK COMM. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,50
@@ -106,10 +588,63 @@ Elmore,0010 SANTUCK COMM. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,82
 Elmore,0010 SANTUCK COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,82
 Elmore,0010 SANTUCK COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,34
 Elmore,0010 SANTUCK COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,12
+Elmore,0010 SANTUCK COMM. CTR.,State Democratic Executive Committee,,DEM,Lee Lindsay,15
+Elmore,0010 SANTUCK COMM. CTR.,State Democratic Executive Committee,,DEM,Walter C. Lacey,112
+Elmore,0010 SANTUCK COMM. CTR.,U.S. Senate,,DEM,Dakarai Larriett,53
+Elmore,0010 SANTUCK COMM. CTR.,U.S. Senate,,DEM,Everett Wess,48
+Elmore,0010 SANTUCK COMM. CTR.,U.S. Senate,,DEM,Kyle Sweetser,13
+Elmore,0010 SANTUCK COMM. CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,19
+Elmore,0010 SANTUCK COMM. CTR.,Governor,,REP,"""Alabama"" Will Santivasci",10
 Elmore,0010 SANTUCK COMM. CTR.,Governor,,REP,Ken McFeeters,22
+Elmore,0010 SANTUCK COMM. CTR.,Governor,,REP,Thomas Tuberville,371
+Elmore,0010 SANTUCK COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,70
 Elmore,0010 SANTUCK COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,67
+Elmore,0010 SANTUCK COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,166
 Elmore,0010 SANTUCK COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,52
+Elmore,0010 SANTUCK COMM. CTR.,Attorney General,,REP,Jay Mitchell,174
+Elmore,0010 SANTUCK COMM. CTR.,Attorney General,,REP,Katherine Robertson,103
+Elmore,0010 SANTUCK COMM. CTR.,Attorney General,,REP,Pamela L. Casey,107
+Elmore,0010 SANTUCK COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,31
+Elmore,0010 SANTUCK COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,177
+Elmore,0010 SANTUCK COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,138
+Elmore,0010 SANTUCK COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,115
+Elmore,0010 SANTUCK COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Cory Hill,177
+Elmore,0010 SANTUCK COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Jack Williams,72
+Elmore,0010 SANTUCK COMM. CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,164
+Elmore,0010 SANTUCK COMM. CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",209
+Elmore,0010 SANTUCK COMM. CTR.,Lieutenant Governor,,REP,George Childress,4
+Elmore,0010 SANTUCK COMM. CTR.,Lieutenant Governor,,REP,John Wahl,150
+Elmore,0010 SANTUCK COMM. CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,15
+Elmore,0010 SANTUCK COMM. CTR.,Lieutenant Governor,,REP,Pat Bishop,4
+Elmore,0010 SANTUCK COMM. CTR.,Lieutenant Governor,,REP,Rick Pate,52
+Elmore,0010 SANTUCK COMM. CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,20
+Elmore,0010 SANTUCK COMM. CTR.,Lieutenant Governor,,REP,Wes Allen,148
+Elmore,0010 SANTUCK COMM. CTR.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,59
+Elmore,0010 SANTUCK COMM. CTR.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,284
+Elmore,0010 SANTUCK COMM. CTR.,Secretary of State,,REP,Caroleene Dobson,274
+Elmore,0010 SANTUCK COMM. CTR.,Secretary of State,,REP,Christopher Christian Horn,61
+Elmore,0010 SANTUCK COMM. CTR.,Secretary of State,,REP,Glenda S. Jackson,24
+Elmore,0010 SANTUCK COMM. CTR.,State Auditor,,REP,Andrew Sorrell,223
+Elmore,0010 SANTUCK COMM. CTR.,State Auditor,,REP,Derek Chen,135
+Elmore,0010 SANTUCK COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,91
+Elmore,0010 SANTUCK COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,277
+Elmore,0010 SANTUCK COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,156
+Elmore,0010 SANTUCK COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,195
+Elmore,0010 SANTUCK COMM. CTR.,State Treasurer,,REP,Steve Lolley,61
+Elmore,0010 SANTUCK COMM. CTR.,State Treasurer,,REP,Young Boozer,325
+Elmore,0010 SANTUCK COMM. CTR.,U.S. House,6,REP,Case Dixon,95
+Elmore,0010 SANTUCK COMM. CTR.,U.S. House,6,REP,Gary Palmer,272
+Elmore,0010 SANTUCK COMM. CTR.,U.S. Senate,,REP,Barry Moore,209
+Elmore,0010 SANTUCK COMM. CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,4
+Elmore,0010 SANTUCK COMM. CTR.,U.S. Senate,,REP,Jared Hudson,92
+Elmore,0010 SANTUCK COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,2
+Elmore,0010 SANTUCK COMM. CTR.,U.S. Senate,,REP,Rodney Walker,8
+Elmore,0010 SANTUCK COMM. CTR.,U.S. Senate,,REP,Seth Burton,2
+Elmore,0010 SANTUCK COMM. CTR.,U.S. Senate,,REP,Steve Marshall,85
+Elmore,0011 WALLSBORO COMM. CTR.,Governor,,DEM,"Chad ""Chig"" Martin",4
+Elmore,0011 WALLSBORO COMM. CTR.,Governor,,DEM,Doug Jones,91
 Elmore,0011 WALLSBORO COMM. CTR.,Governor,,DEM,Jamel J. Brown,10
+Elmore,0011 WALLSBORO COMM. CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0011 WALLSBORO COMM. CTR.,Governor,,DEM,Will Boyd,12
 Elmore,0011 WALLSBORO COMM. CTR.,Governor,,DEM,Yolanda Rochelle Flowers,6
 Elmore,0011 WALLSBORO COMM. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,43
@@ -117,10 +652,63 @@ Elmore,0011 WALLSBORO COMM. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,66
 Elmore,0011 WALLSBORO COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,74
 Elmore,0011 WALLSBORO COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,24
 Elmore,0011 WALLSBORO COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,14
+Elmore,0011 WALLSBORO COMM. CTR.,State Democratic Executive Committee,,DEM,Lee Lindsay,8
+Elmore,0011 WALLSBORO COMM. CTR.,State Democratic Executive Committee,,DEM,Walter C. Lacey,108
+Elmore,0011 WALLSBORO COMM. CTR.,U.S. Senate,,DEM,Dakarai Larriett,34
+Elmore,0011 WALLSBORO COMM. CTR.,U.S. Senate,,DEM,Everett Wess,47
+Elmore,0011 WALLSBORO COMM. CTR.,U.S. Senate,,DEM,Kyle Sweetser,15
+Elmore,0011 WALLSBORO COMM. CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,16
+Elmore,0011 WALLSBORO COMM. CTR.,Governor,,REP,"""Alabama"" Will Santivasci",13
 Elmore,0011 WALLSBORO COMM. CTR.,Governor,,REP,Ken McFeeters,34
+Elmore,0011 WALLSBORO COMM. CTR.,Governor,,REP,Thomas Tuberville,309
+Elmore,0011 WALLSBORO COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,58
 Elmore,0011 WALLSBORO COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,44
+Elmore,0011 WALLSBORO COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,182
 Elmore,0011 WALLSBORO COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,36
+Elmore,0011 WALLSBORO COMM. CTR.,Attorney General,,REP,Jay Mitchell,135
+Elmore,0011 WALLSBORO COMM. CTR.,Attorney General,,REP,Katherine Robertson,116
+Elmore,0011 WALLSBORO COMM. CTR.,Attorney General,,REP,Pamela L. Casey,99
+Elmore,0011 WALLSBORO COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,31
+Elmore,0011 WALLSBORO COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,156
+Elmore,0011 WALLSBORO COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,149
+Elmore,0011 WALLSBORO COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,119
+Elmore,0011 WALLSBORO COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Cory Hill,117
+Elmore,0011 WALLSBORO COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Jack Williams,86
+Elmore,0011 WALLSBORO COMM. CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,151
+Elmore,0011 WALLSBORO COMM. CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",190
+Elmore,0011 WALLSBORO COMM. CTR.,Lieutenant Governor,,REP,George Childress,2
+Elmore,0011 WALLSBORO COMM. CTR.,Lieutenant Governor,,REP,John Wahl,112
+Elmore,0011 WALLSBORO COMM. CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,9
+Elmore,0011 WALLSBORO COMM. CTR.,Lieutenant Governor,,REP,Pat Bishop,0
+Elmore,0011 WALLSBORO COMM. CTR.,Lieutenant Governor,,REP,Rick Pate,61
+Elmore,0011 WALLSBORO COMM. CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,27
+Elmore,0011 WALLSBORO COMM. CTR.,Lieutenant Governor,,REP,Wes Allen,136
+Elmore,0011 WALLSBORO COMM. CTR.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,77
+Elmore,0011 WALLSBORO COMM. CTR.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,238
+Elmore,0011 WALLSBORO COMM. CTR.,Secretary of State,,REP,Caroleene Dobson,245
+Elmore,0011 WALLSBORO COMM. CTR.,Secretary of State,,REP,Christopher Christian Horn,50
+Elmore,0011 WALLSBORO COMM. CTR.,Secretary of State,,REP,Glenda S. Jackson,34
+Elmore,0011 WALLSBORO COMM. CTR.,State Auditor,,REP,Andrew Sorrell,201
+Elmore,0011 WALLSBORO COMM. CTR.,State Auditor,,REP,Derek Chen,136
+Elmore,0011 WALLSBORO COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,74
+Elmore,0011 WALLSBORO COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,270
+Elmore,0011 WALLSBORO COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,169
+Elmore,0011 WALLSBORO COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,165
+Elmore,0011 WALLSBORO COMM. CTR.,State Treasurer,,REP,Steve Lolley,54
+Elmore,0011 WALLSBORO COMM. CTR.,State Treasurer,,REP,Young Boozer,288
+Elmore,0011 WALLSBORO COMM. CTR.,U.S. House,6,REP,Case Dixon,84
+Elmore,0011 WALLSBORO COMM. CTR.,U.S. House,6,REP,Gary Palmer,248
+Elmore,0011 WALLSBORO COMM. CTR.,U.S. Senate,,REP,Barry Moore,185
+Elmore,0011 WALLSBORO COMM. CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,3
+Elmore,0011 WALLSBORO COMM. CTR.,U.S. Senate,,REP,Jared Hudson,65
+Elmore,0011 WALLSBORO COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,4
+Elmore,0011 WALLSBORO COMM. CTR.,U.S. Senate,,REP,Rodney Walker,15
+Elmore,0011 WALLSBORO COMM. CTR.,U.S. Senate,,REP,Seth Burton,3
+Elmore,0011 WALLSBORO COMM. CTR.,U.S. Senate,,REP,Steve Marshall,85
+Elmore,0012 WEOKA COMM. CTR.,Governor,,DEM,"Chad ""Chig"" Martin",1
+Elmore,0012 WEOKA COMM. CTR.,Governor,,DEM,Doug Jones,18
 Elmore,0012 WEOKA COMM. CTR.,Governor,,DEM,Jamel J. Brown,1
+Elmore,0012 WEOKA COMM. CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0012 WEOKA COMM. CTR.,Governor,,DEM,Will Boyd,3
 Elmore,0012 WEOKA COMM. CTR.,Governor,,DEM,Yolanda Rochelle Flowers,2
 Elmore,0012 WEOKA COMM. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,4
@@ -128,10 +716,63 @@ Elmore,0012 WEOKA COMM. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,21
 Elmore,0012 WEOKA COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,15
 Elmore,0012 WEOKA COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,5
 Elmore,0012 WEOKA COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,5
+Elmore,0012 WEOKA COMM. CTR.,State Democratic Executive Committee,,DEM,Lee Lindsay,5
+Elmore,0012 WEOKA COMM. CTR.,State Democratic Executive Committee,,DEM,Walter C. Lacey,20
+Elmore,0012 WEOKA COMM. CTR.,U.S. Senate,,DEM,Dakarai Larriett,5
+Elmore,0012 WEOKA COMM. CTR.,U.S. Senate,,DEM,Everett Wess,11
+Elmore,0012 WEOKA COMM. CTR.,U.S. Senate,,DEM,Kyle Sweetser,3
+Elmore,0012 WEOKA COMM. CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,6
+Elmore,0012 WEOKA COMM. CTR.,Governor,,REP,"""Alabama"" Will Santivasci",8
 Elmore,0012 WEOKA COMM. CTR.,Governor,,REP,Ken McFeeters,10
+Elmore,0012 WEOKA COMM. CTR.,Governor,,REP,Thomas Tuberville,193
+Elmore,0012 WEOKA COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,44
 Elmore,0012 WEOKA COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,31
+Elmore,0012 WEOKA COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,99
 Elmore,0012 WEOKA COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,11
+Elmore,0012 WEOKA COMM. CTR.,Attorney General,,REP,Jay Mitchell,81
+Elmore,0012 WEOKA COMM. CTR.,Attorney General,,REP,Katherine Robertson,78
+Elmore,0012 WEOKA COMM. CTR.,Attorney General,,REP,Pamela L. Casey,39
+Elmore,0012 WEOKA COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,10
+Elmore,0012 WEOKA COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,81
+Elmore,0012 WEOKA COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,95
+Elmore,0012 WEOKA COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,55
+Elmore,0012 WEOKA COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Cory Hill,78
+Elmore,0012 WEOKA COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Jack Williams,52
+Elmore,0012 WEOKA COMM. CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,81
+Elmore,0012 WEOKA COMM. CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",110
+Elmore,0012 WEOKA COMM. CTR.,Lieutenant Governor,,REP,George Childress,2
+Elmore,0012 WEOKA COMM. CTR.,Lieutenant Governor,,REP,John Wahl,70
+Elmore,0012 WEOKA COMM. CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,8
+Elmore,0012 WEOKA COMM. CTR.,Lieutenant Governor,,REP,Pat Bishop,3
+Elmore,0012 WEOKA COMM. CTR.,Lieutenant Governor,,REP,Rick Pate,23
+Elmore,0012 WEOKA COMM. CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,10
+Elmore,0012 WEOKA COMM. CTR.,Lieutenant Governor,,REP,Wes Allen,85
+Elmore,0012 WEOKA COMM. CTR.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,28
+Elmore,0012 WEOKA COMM. CTR.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,149
+Elmore,0012 WEOKA COMM. CTR.,Secretary of State,,REP,Caroleene Dobson,149
+Elmore,0012 WEOKA COMM. CTR.,Secretary of State,,REP,Christopher Christian Horn,30
+Elmore,0012 WEOKA COMM. CTR.,Secretary of State,,REP,Glenda S. Jackson,12
+Elmore,0012 WEOKA COMM. CTR.,State Auditor,,REP,Andrew Sorrell,123
+Elmore,0012 WEOKA COMM. CTR.,State Auditor,,REP,Derek Chen,62
+Elmore,0012 WEOKA COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,58
+Elmore,0012 WEOKA COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,125
+Elmore,0012 WEOKA COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,100
+Elmore,0012 WEOKA COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,86
+Elmore,0012 WEOKA COMM. CTR.,State Treasurer,,REP,Steve Lolley,39
+Elmore,0012 WEOKA COMM. CTR.,State Treasurer,,REP,Young Boozer,158
+Elmore,0012 WEOKA COMM. CTR.,U.S. House,6,REP,Case Dixon,48
+Elmore,0012 WEOKA COMM. CTR.,U.S. House,6,REP,Gary Palmer,135
+Elmore,0012 WEOKA COMM. CTR.,U.S. Senate,,REP,Barry Moore,134
+Elmore,0012 WEOKA COMM. CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,3
+Elmore,0012 WEOKA COMM. CTR.,U.S. Senate,,REP,Jared Hudson,35
+Elmore,0012 WEOKA COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,2
+Elmore,0012 WEOKA COMM. CTR.,U.S. Senate,,REP,Rodney Walker,0
+Elmore,0012 WEOKA COMM. CTR.,U.S. Senate,,REP,Seth Burton,3
+Elmore,0012 WEOKA COMM. CTR.,U.S. Senate,,REP,Steve Marshall,32
+Elmore,0013 NEW HOME BAPT-TITUS,Governor,,DEM,"Chad ""Chig"" Martin",0
+Elmore,0013 NEW HOME BAPT-TITUS,Governor,,DEM,Doug Jones,23
 Elmore,0013 NEW HOME BAPT-TITUS,Governor,,DEM,Jamel J. Brown,1
+Elmore,0013 NEW HOME BAPT-TITUS,Governor,,DEM,"Nathan ""Nate"" Mathis",1
 Elmore,0013 NEW HOME BAPT-TITUS,Governor,,DEM,Will Boyd,1
 Elmore,0013 NEW HOME BAPT-TITUS,Governor,,DEM,Yolanda Rochelle Flowers,0
 Elmore,0013 NEW HOME BAPT-TITUS,Lieutenant Governor,,DEM,Darryl D. Perryman,7
@@ -139,10 +780,63 @@ Elmore,0013 NEW HOME BAPT-TITUS,Lieutenant Governor,,DEM,Phillip Ensler,18
 Elmore,0013 NEW HOME BAPT-TITUS,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,20
 Elmore,0013 NEW HOME BAPT-TITUS,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,5
 Elmore,0013 NEW HOME BAPT-TITUS,"Public Service Commissioner, Place 1",,DEM,John Northrop,1
+Elmore,0013 NEW HOME BAPT-TITUS,State Democratic Executive Committee,,DEM,Lee Lindsay,5
+Elmore,0013 NEW HOME BAPT-TITUS,State Democratic Executive Committee,,DEM,Walter C. Lacey,15
+Elmore,0013 NEW HOME BAPT-TITUS,U.S. Senate,,DEM,Dakarai Larriett,8
+Elmore,0013 NEW HOME BAPT-TITUS,U.S. Senate,,DEM,Everett Wess,11
+Elmore,0013 NEW HOME BAPT-TITUS,U.S. Senate,,DEM,Kyle Sweetser,2
+Elmore,0013 NEW HOME BAPT-TITUS,U.S. Senate,,DEM,Mark S. Wheeler II,5
+Elmore,0013 NEW HOME BAPT-TITUS,Governor,,REP,"""Alabama"" Will Santivasci",20
 Elmore,0013 NEW HOME BAPT-TITUS,Governor,,REP,Ken McFeeters,22
+Elmore,0013 NEW HOME BAPT-TITUS,Governor,,REP,Thomas Tuberville,358
+Elmore,0013 NEW HOME BAPT-TITUS,"Public Service Commission, Place No. 2",,REP,Brent Woodall,80
 Elmore,0013 NEW HOME BAPT-TITUS,"Public Service Commission, Place No. 2",,REP,Chris Beeker,83
+Elmore,0013 NEW HOME BAPT-TITUS,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,166
 Elmore,0013 NEW HOME BAPT-TITUS,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,28
+Elmore,0013 NEW HOME BAPT-TITUS,Attorney General,,REP,Jay Mitchell,165
+Elmore,0013 NEW HOME BAPT-TITUS,Attorney General,,REP,Katherine Robertson,121
+Elmore,0013 NEW HOME BAPT-TITUS,Attorney General,,REP,Pamela L. Casey,105
+Elmore,0013 NEW HOME BAPT-TITUS,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,24
+Elmore,0013 NEW HOME BAPT-TITUS,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,182
+Elmore,0013 NEW HOME BAPT-TITUS,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,148
+Elmore,0013 NEW HOME BAPT-TITUS,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,136
+Elmore,0013 NEW HOME BAPT-TITUS,Commissioner of Agriculture and Industries,,REP,Cory Hill,144
+Elmore,0013 NEW HOME BAPT-TITUS,Commissioner of Agriculture and Industries,,REP,Jack Williams,89
+Elmore,0013 NEW HOME BAPT-TITUS,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,135
+Elmore,0013 NEW HOME BAPT-TITUS,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",243
+Elmore,0013 NEW HOME BAPT-TITUS,Lieutenant Governor,,REP,George Childress,0
+Elmore,0013 NEW HOME BAPT-TITUS,Lieutenant Governor,,REP,John Wahl,122
+Elmore,0013 NEW HOME BAPT-TITUS,Lieutenant Governor,,REP,Nicole Jones Wadsworth,14
+Elmore,0013 NEW HOME BAPT-TITUS,Lieutenant Governor,,REP,Pat Bishop,4
+Elmore,0013 NEW HOME BAPT-TITUS,Lieutenant Governor,,REP,Rick Pate,57
+Elmore,0013 NEW HOME BAPT-TITUS,Lieutenant Governor,,REP,Stewart Hill Tankersley,30
+Elmore,0013 NEW HOME BAPT-TITUS,Lieutenant Governor,,REP,Wes Allen,167
+Elmore,0013 NEW HOME BAPT-TITUS,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,82
+Elmore,0013 NEW HOME BAPT-TITUS,"Public Service Commission, Place No. 1",,REP,Matt Gentry,279
+Elmore,0013 NEW HOME BAPT-TITUS,Secretary of State,,REP,Caroleene Dobson,278
+Elmore,0013 NEW HOME BAPT-TITUS,Secretary of State,,REP,Christopher Christian Horn,62
+Elmore,0013 NEW HOME BAPT-TITUS,Secretary of State,,REP,Glenda S. Jackson,29
+Elmore,0013 NEW HOME BAPT-TITUS,State Auditor,,REP,Andrew Sorrell,239
+Elmore,0013 NEW HOME BAPT-TITUS,State Auditor,,REP,Derek Chen,134
+Elmore,0013 NEW HOME BAPT-TITUS,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,102
+Elmore,0013 NEW HOME BAPT-TITUS,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,259
+Elmore,0013 NEW HOME BAPT-TITUS,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,158
+Elmore,0013 NEW HOME BAPT-TITUS,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,207
+Elmore,0013 NEW HOME BAPT-TITUS,State Treasurer,,REP,Steve Lolley,82
+Elmore,0013 NEW HOME BAPT-TITUS,State Treasurer,,REP,Young Boozer,301
+Elmore,0013 NEW HOME BAPT-TITUS,U.S. House,6,REP,Case Dixon,104
+Elmore,0013 NEW HOME BAPT-TITUS,U.S. House,6,REP,Gary Palmer,270
+Elmore,0013 NEW HOME BAPT-TITUS,U.S. Senate,,REP,Barry Moore,223
+Elmore,0013 NEW HOME BAPT-TITUS,U.S. Senate,,REP,Dale Shelton Deas Jr.,7
+Elmore,0013 NEW HOME BAPT-TITUS,U.S. Senate,,REP,Jared Hudson,73
+Elmore,0013 NEW HOME BAPT-TITUS,U.S. Senate,,REP,Morgan Murphy,0
+Elmore,0013 NEW HOME BAPT-TITUS,U.S. Senate,,REP,Rodney Walker,9
+Elmore,0013 NEW HOME BAPT-TITUS,U.S. Senate,,REP,Seth Burton,4
+Elmore,0013 NEW HOME BAPT-TITUS,U.S. Senate,,REP,Steve Marshall,84
+Elmore,0014 TITUS COMM. CTR.,Governor,,DEM,"Chad ""Chig"" Martin",0
+Elmore,0014 TITUS COMM. CTR.,Governor,,DEM,Doug Jones,14
 Elmore,0014 TITUS COMM. CTR.,Governor,,DEM,Jamel J. Brown,2
+Elmore,0014 TITUS COMM. CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0014 TITUS COMM. CTR.,Governor,,DEM,Will Boyd,3
 Elmore,0014 TITUS COMM. CTR.,Governor,,DEM,Yolanda Rochelle Flowers,0
 Elmore,0014 TITUS COMM. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,14
@@ -150,10 +844,63 @@ Elmore,0014 TITUS COMM. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,5
 Elmore,0014 TITUS COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,12
 Elmore,0014 TITUS COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,5
 Elmore,0014 TITUS COMM. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,1
+Elmore,0014 TITUS COMM. CTR.,State Democratic Executive Committee,,DEM,Lee Lindsay,3
+Elmore,0014 TITUS COMM. CTR.,State Democratic Executive Committee,,DEM,Walter C. Lacey,14
+Elmore,0014 TITUS COMM. CTR.,U.S. Senate,,DEM,Dakarai Larriett,9
+Elmore,0014 TITUS COMM. CTR.,U.S. Senate,,DEM,Everett Wess,3
+Elmore,0014 TITUS COMM. CTR.,U.S. Senate,,DEM,Kyle Sweetser,1
+Elmore,0014 TITUS COMM. CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,6
+Elmore,0014 TITUS COMM. CTR.,Governor,,REP,"""Alabama"" Will Santivasci",9
 Elmore,0014 TITUS COMM. CTR.,Governor,,REP,Ken McFeeters,20
+Elmore,0014 TITUS COMM. CTR.,Governor,,REP,Thomas Tuberville,154
+Elmore,0014 TITUS COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,29
 Elmore,0014 TITUS COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,29
+Elmore,0014 TITUS COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,90
 Elmore,0014 TITUS COMM. CTR.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,15
+Elmore,0014 TITUS COMM. CTR.,Attorney General,,REP,Jay Mitchell,68
+Elmore,0014 TITUS COMM. CTR.,Attorney General,,REP,Katherine Robertson,64
+Elmore,0014 TITUS COMM. CTR.,Attorney General,,REP,Pamela L. Casey,50
+Elmore,0014 TITUS COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,20
+Elmore,0014 TITUS COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,64
+Elmore,0014 TITUS COMM. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,81
+Elmore,0014 TITUS COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,81
+Elmore,0014 TITUS COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Cory Hill,50
+Elmore,0014 TITUS COMM. CTR.,Commissioner of Agriculture and Industries,,REP,Jack Williams,39
+Elmore,0014 TITUS COMM. CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,55
+Elmore,0014 TITUS COMM. CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",117
+Elmore,0014 TITUS COMM. CTR.,Lieutenant Governor,,REP,George Childress,3
+Elmore,0014 TITUS COMM. CTR.,Lieutenant Governor,,REP,John Wahl,63
+Elmore,0014 TITUS COMM. CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,10
+Elmore,0014 TITUS COMM. CTR.,Lieutenant Governor,,REP,Pat Bishop,8
+Elmore,0014 TITUS COMM. CTR.,Lieutenant Governor,,REP,Rick Pate,24
+Elmore,0014 TITUS COMM. CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,12
+Elmore,0014 TITUS COMM. CTR.,Lieutenant Governor,,REP,Wes Allen,63
+Elmore,0014 TITUS COMM. CTR.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,34
+Elmore,0014 TITUS COMM. CTR.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,124
+Elmore,0014 TITUS COMM. CTR.,Secretary of State,,REP,Caroleene Dobson,136
+Elmore,0014 TITUS COMM. CTR.,Secretary of State,,REP,Christopher Christian Horn,26
+Elmore,0014 TITUS COMM. CTR.,Secretary of State,,REP,Glenda S. Jackson,12
+Elmore,0014 TITUS COMM. CTR.,State Auditor,,REP,Andrew Sorrell,117
+Elmore,0014 TITUS COMM. CTR.,State Auditor,,REP,Derek Chen,53
+Elmore,0014 TITUS COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,43
+Elmore,0014 TITUS COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,115
+Elmore,0014 TITUS COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,53
+Elmore,0014 TITUS COMM. CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,101
+Elmore,0014 TITUS COMM. CTR.,State Treasurer,,REP,Steve Lolley,35
+Elmore,0014 TITUS COMM. CTR.,State Treasurer,,REP,Young Boozer,143
+Elmore,0014 TITUS COMM. CTR.,U.S. House,6,REP,Case Dixon,44
+Elmore,0014 TITUS COMM. CTR.,U.S. House,6,REP,Gary Palmer,130
+Elmore,0014 TITUS COMM. CTR.,U.S. Senate,,REP,Barry Moore,83
+Elmore,0014 TITUS COMM. CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,4
+Elmore,0014 TITUS COMM. CTR.,U.S. Senate,,REP,Jared Hudson,46
+Elmore,0014 TITUS COMM. CTR.,U.S. Senate,,REP,Morgan Murphy,0
+Elmore,0014 TITUS COMM. CTR.,U.S. Senate,,REP,Rodney Walker,2
+Elmore,0014 TITUS COMM. CTR.,U.S. Senate,,REP,Seth Burton,8
+Elmore,0014 TITUS COMM. CTR.,U.S. Senate,,REP,Steve Marshall,42
+Elmore,0015 NEW HOPE BAPT.,Governor,,DEM,"Chad ""Chig"" Martin",0
+Elmore,0015 NEW HOPE BAPT.,Governor,,DEM,Doug Jones,9
 Elmore,0015 NEW HOPE BAPT.,Governor,,DEM,Jamel J. Brown,0
+Elmore,0015 NEW HOPE BAPT.,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0015 NEW HOPE BAPT.,Governor,,DEM,Will Boyd,2
 Elmore,0015 NEW HOPE BAPT.,Governor,,DEM,Yolanda Rochelle Flowers,0
 Elmore,0015 NEW HOPE BAPT.,Lieutenant Governor,,DEM,Darryl D. Perryman,1
@@ -161,10 +908,63 @@ Elmore,0015 NEW HOPE BAPT.,Lieutenant Governor,,DEM,Phillip Ensler,9
 Elmore,0015 NEW HOPE BAPT.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,4
 Elmore,0015 NEW HOPE BAPT.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,1
 Elmore,0015 NEW HOPE BAPT.,"Public Service Commissioner, Place 1",,DEM,John Northrop,4
+Elmore,0015 NEW HOPE BAPT.,State Democratic Executive Committee,,DEM,Lee Lindsay,2
+Elmore,0015 NEW HOPE BAPT.,State Democratic Executive Committee,,DEM,Walter C. Lacey,7
+Elmore,0015 NEW HOPE BAPT.,U.S. Senate,,DEM,Dakarai Larriett,2
+Elmore,0015 NEW HOPE BAPT.,U.S. Senate,,DEM,Everett Wess,1
+Elmore,0015 NEW HOPE BAPT.,U.S. Senate,,DEM,Kyle Sweetser,4
+Elmore,0015 NEW HOPE BAPT.,U.S. Senate,,DEM,Mark S. Wheeler II,3
+Elmore,0015 NEW HOPE BAPT.,Governor,,REP,"""Alabama"" Will Santivasci",12
 Elmore,0015 NEW HOPE BAPT.,Governor,,REP,Ken McFeeters,14
+Elmore,0015 NEW HOPE BAPT.,Governor,,REP,Thomas Tuberville,262
+Elmore,0015 NEW HOPE BAPT.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,69
 Elmore,0015 NEW HOPE BAPT.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,45
+Elmore,0015 NEW HOPE BAPT.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,122
 Elmore,0015 NEW HOPE BAPT.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,22
+Elmore,0015 NEW HOPE BAPT.,Attorney General,,REP,Jay Mitchell,158
+Elmore,0015 NEW HOPE BAPT.,Attorney General,,REP,Katherine Robertson,82
+Elmore,0015 NEW HOPE BAPT.,Attorney General,,REP,Pamela L. Casey,33
+Elmore,0015 NEW HOPE BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,17
+Elmore,0015 NEW HOPE BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,72
+Elmore,0015 NEW HOPE BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,176
+Elmore,0015 NEW HOPE BAPT.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,70
+Elmore,0015 NEW HOPE BAPT.,Commissioner of Agriculture and Industries,,REP,Cory Hill,105
+Elmore,0015 NEW HOPE BAPT.,Commissioner of Agriculture and Industries,,REP,Jack Williams,89
+Elmore,0015 NEW HOPE BAPT.,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,120
+Elmore,0015 NEW HOPE BAPT.,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",146
+Elmore,0015 NEW HOPE BAPT.,Lieutenant Governor,,REP,George Childress,6
+Elmore,0015 NEW HOPE BAPT.,Lieutenant Governor,,REP,John Wahl,107
+Elmore,0015 NEW HOPE BAPT.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,10
+Elmore,0015 NEW HOPE BAPT.,Lieutenant Governor,,REP,Pat Bishop,6
+Elmore,0015 NEW HOPE BAPT.,Lieutenant Governor,,REP,Rick Pate,42
+Elmore,0015 NEW HOPE BAPT.,Lieutenant Governor,,REP,Stewart Hill Tankersley,13
+Elmore,0015 NEW HOPE BAPT.,Lieutenant Governor,,REP,Wes Allen,89
+Elmore,0015 NEW HOPE BAPT.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,52
+Elmore,0015 NEW HOPE BAPT.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,200
+Elmore,0015 NEW HOPE BAPT.,Secretary of State,,REP,Caroleene Dobson,175
+Elmore,0015 NEW HOPE BAPT.,Secretary of State,,REP,Christopher Christian Horn,73
+Elmore,0015 NEW HOPE BAPT.,Secretary of State,,REP,Glenda S. Jackson,14
+Elmore,0015 NEW HOPE BAPT.,State Auditor,,REP,Andrew Sorrell,159
+Elmore,0015 NEW HOPE BAPT.,State Auditor,,REP,Derek Chen,104
+Elmore,0015 NEW HOPE BAPT.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,76
+Elmore,0015 NEW HOPE BAPT.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,182
+Elmore,0015 NEW HOPE BAPT.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,165
+Elmore,0015 NEW HOPE BAPT.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,97
+Elmore,0015 NEW HOPE BAPT.,State Treasurer,,REP,Steve Lolley,55
+Elmore,0015 NEW HOPE BAPT.,State Treasurer,,REP,Young Boozer,213
+Elmore,0015 NEW HOPE BAPT.,U.S. House,6,REP,Case Dixon,67
+Elmore,0015 NEW HOPE BAPT.,U.S. House,6,REP,Gary Palmer,193
+Elmore,0015 NEW HOPE BAPT.,U.S. Senate,,REP,Barry Moore,141
+Elmore,0015 NEW HOPE BAPT.,U.S. Senate,,REP,Dale Shelton Deas Jr.,4
+Elmore,0015 NEW HOPE BAPT.,U.S. Senate,,REP,Jared Hudson,63
+Elmore,0015 NEW HOPE BAPT.,U.S. Senate,,REP,Morgan Murphy,1
+Elmore,0015 NEW HOPE BAPT.,U.S. Senate,,REP,Rodney Walker,8
+Elmore,0015 NEW HOPE BAPT.,U.S. Senate,,REP,Seth Burton,1
+Elmore,0015 NEW HOPE BAPT.,U.S. Senate,,REP,Steve Marshall,63
+Elmore,0016 CAINS CHAPEL LIFE CTR,Governor,,DEM,"Chad ""Chig"" Martin",3
+Elmore,0016 CAINS CHAPEL LIFE CTR,Governor,,DEM,Doug Jones,60
 Elmore,0016 CAINS CHAPEL LIFE CTR,Governor,,DEM,Jamel J. Brown,4
+Elmore,0016 CAINS CHAPEL LIFE CTR,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0016 CAINS CHAPEL LIFE CTR,Governor,,DEM,Will Boyd,6
 Elmore,0016 CAINS CHAPEL LIFE CTR,Governor,,DEM,Yolanda Rochelle Flowers,7
 Elmore,0016 CAINS CHAPEL LIFE CTR,Lieutenant Governor,,DEM,Darryl D. Perryman,34
@@ -172,10 +972,63 @@ Elmore,0016 CAINS CHAPEL LIFE CTR,Lieutenant Governor,,DEM,Phillip Ensler,41
 Elmore,0016 CAINS CHAPEL LIFE CTR,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,31
 Elmore,0016 CAINS CHAPEL LIFE CTR,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,22
 Elmore,0016 CAINS CHAPEL LIFE CTR,"Public Service Commissioner, Place 1",,DEM,John Northrop,15
+Elmore,0016 CAINS CHAPEL LIFE CTR,State Democratic Executive Committee,,DEM,Lee Lindsay,20
+Elmore,0016 CAINS CHAPEL LIFE CTR,State Democratic Executive Committee,,DEM,Walter C. Lacey,49
+Elmore,0016 CAINS CHAPEL LIFE CTR,U.S. Senate,,DEM,Dakarai Larriett,23
+Elmore,0016 CAINS CHAPEL LIFE CTR,U.S. Senate,,DEM,Everett Wess,23
+Elmore,0016 CAINS CHAPEL LIFE CTR,U.S. Senate,,DEM,Kyle Sweetser,9
+Elmore,0016 CAINS CHAPEL LIFE CTR,U.S. Senate,,DEM,Mark S. Wheeler II,13
+Elmore,0016 CAINS CHAPEL LIFE CTR,Governor,,REP,"""Alabama"" Will Santivasci",32
 Elmore,0016 CAINS CHAPEL LIFE CTR,Governor,,REP,Ken McFeeters,48
+Elmore,0016 CAINS CHAPEL LIFE CTR,Governor,,REP,Thomas Tuberville,690
+Elmore,0016 CAINS CHAPEL LIFE CTR,"Public Service Commission, Place No. 2",,REP,Brent Woodall,143
 Elmore,0016 CAINS CHAPEL LIFE CTR,"Public Service Commission, Place No. 2",,REP,Chris Beeker,143
+Elmore,0016 CAINS CHAPEL LIFE CTR,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,327
 Elmore,0016 CAINS CHAPEL LIFE CTR,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,57
+Elmore,0016 CAINS CHAPEL LIFE CTR,Attorney General,,REP,Jay Mitchell,349
+Elmore,0016 CAINS CHAPEL LIFE CTR,Attorney General,,REP,Katherine Robertson,231
+Elmore,0016 CAINS CHAPEL LIFE CTR,Attorney General,,REP,Pamela L. Casey,161
+Elmore,0016 CAINS CHAPEL LIFE CTR,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,35
+Elmore,0016 CAINS CHAPEL LIFE CTR,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,184
+Elmore,0016 CAINS CHAPEL LIFE CTR,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,499
+Elmore,0016 CAINS CHAPEL LIFE CTR,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,209
+Elmore,0016 CAINS CHAPEL LIFE CTR,Commissioner of Agriculture and Industries,,REP,Cory Hill,285
+Elmore,0016 CAINS CHAPEL LIFE CTR,Commissioner of Agriculture and Industries,,REP,Jack Williams,182
+Elmore,0016 CAINS CHAPEL LIFE CTR,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,386
+Elmore,0016 CAINS CHAPEL LIFE CTR,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",334
+Elmore,0016 CAINS CHAPEL LIFE CTR,Lieutenant Governor,,REP,George Childress,7
+Elmore,0016 CAINS CHAPEL LIFE CTR,Lieutenant Governor,,REP,John Wahl,230
+Elmore,0016 CAINS CHAPEL LIFE CTR,Lieutenant Governor,,REP,Nicole Jones Wadsworth,32
+Elmore,0016 CAINS CHAPEL LIFE CTR,Lieutenant Governor,,REP,Pat Bishop,20
+Elmore,0016 CAINS CHAPEL LIFE CTR,Lieutenant Governor,,REP,Rick Pate,116
+Elmore,0016 CAINS CHAPEL LIFE CTR,Lieutenant Governor,,REP,Stewart Hill Tankersley,30
+Elmore,0016 CAINS CHAPEL LIFE CTR,Lieutenant Governor,,REP,Wes Allen,310
+Elmore,0016 CAINS CHAPEL LIFE CTR,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,154
+Elmore,0016 CAINS CHAPEL LIFE CTR,"Public Service Commission, Place No. 1",,REP,Matt Gentry,505
+Elmore,0016 CAINS CHAPEL LIFE CTR,Secretary of State,,REP,Caroleene Dobson,535
+Elmore,0016 CAINS CHAPEL LIFE CTR,Secretary of State,,REP,Christopher Christian Horn,113
+Elmore,0016 CAINS CHAPEL LIFE CTR,Secretary of State,,REP,Glenda S. Jackson,41
+Elmore,0016 CAINS CHAPEL LIFE CTR,State Auditor,,REP,Andrew Sorrell,446
+Elmore,0016 CAINS CHAPEL LIFE CTR,State Auditor,,REP,Derek Chen,251
+Elmore,0016 CAINS CHAPEL LIFE CTR,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,141
+Elmore,0016 CAINS CHAPEL LIFE CTR,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,563
+Elmore,0016 CAINS CHAPEL LIFE CTR,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,434
+Elmore,0016 CAINS CHAPEL LIFE CTR,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,272
+Elmore,0016 CAINS CHAPEL LIFE CTR,State Treasurer,,REP,Steve Lolley,145
+Elmore,0016 CAINS CHAPEL LIFE CTR,State Treasurer,,REP,Young Boozer,574
+Elmore,0016 CAINS CHAPEL LIFE CTR,U.S. House,6,REP,Case Dixon,156
+Elmore,0016 CAINS CHAPEL LIFE CTR,U.S. House,6,REP,Gary Palmer,532
+Elmore,0016 CAINS CHAPEL LIFE CTR,U.S. Senate,,REP,Barry Moore,370
+Elmore,0016 CAINS CHAPEL LIFE CTR,U.S. Senate,,REP,Dale Shelton Deas Jr.,13
+Elmore,0016 CAINS CHAPEL LIFE CTR,U.S. Senate,,REP,Jared Hudson,182
+Elmore,0016 CAINS CHAPEL LIFE CTR,U.S. Senate,,REP,Morgan Murphy,5
+Elmore,0016 CAINS CHAPEL LIFE CTR,U.S. Senate,,REP,Rodney Walker,10
+Elmore,0016 CAINS CHAPEL LIFE CTR,U.S. Senate,,REP,Seth Burton,7
+Elmore,0016 CAINS CHAPEL LIFE CTR,U.S. Senate,,REP,Steve Marshall,173
+Elmore,0017 DEATSVILLE VFD,Governor,,DEM,"Chad ""Chig"" Martin",3
+Elmore,0017 DEATSVILLE VFD,Governor,,DEM,Doug Jones,129
 Elmore,0017 DEATSVILLE VFD,Governor,,DEM,Jamel J. Brown,8
+Elmore,0017 DEATSVILLE VFD,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0017 DEATSVILLE VFD,Governor,,DEM,Will Boyd,16
 Elmore,0017 DEATSVILLE VFD,Governor,,DEM,Yolanda Rochelle Flowers,9
 Elmore,0017 DEATSVILLE VFD,Lieutenant Governor,,DEM,Darryl D. Perryman,83
@@ -183,10 +1036,63 @@ Elmore,0017 DEATSVILLE VFD,Lieutenant Governor,,DEM,Phillip Ensler,78
 Elmore,0017 DEATSVILLE VFD,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,88
 Elmore,0017 DEATSVILLE VFD,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,47
 Elmore,0017 DEATSVILLE VFD,"Public Service Commissioner, Place 1",,DEM,John Northrop,24
+Elmore,0017 DEATSVILLE VFD,State Democratic Executive Committee,,DEM,Lee Lindsay,31
+Elmore,0017 DEATSVILLE VFD,State Democratic Executive Committee,,DEM,Walter C. Lacey,125
+Elmore,0017 DEATSVILLE VFD,U.S. Senate,,DEM,Dakarai Larriett,72
+Elmore,0017 DEATSVILLE VFD,U.S. Senate,,DEM,Everett Wess,51
+Elmore,0017 DEATSVILLE VFD,U.S. Senate,,DEM,Kyle Sweetser,18
+Elmore,0017 DEATSVILLE VFD,U.S. Senate,,DEM,Mark S. Wheeler II,23
+Elmore,0017 DEATSVILLE VFD,Governor,,REP,"""Alabama"" Will Santivasci",9
 Elmore,0017 DEATSVILLE VFD,Governor,,REP,Ken McFeeters,28
+Elmore,0017 DEATSVILLE VFD,Governor,,REP,Thomas Tuberville,310
+Elmore,0017 DEATSVILLE VFD,"Public Service Commission, Place No. 2",,REP,Brent Woodall,46
 Elmore,0017 DEATSVILLE VFD,"Public Service Commission, Place No. 2",,REP,Chris Beeker,67
+Elmore,0017 DEATSVILLE VFD,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,157
 Elmore,0017 DEATSVILLE VFD,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,29
+Elmore,0017 DEATSVILLE VFD,Attorney General,,REP,Jay Mitchell,135
+Elmore,0017 DEATSVILLE VFD,Attorney General,,REP,Katherine Robertson,127
+Elmore,0017 DEATSVILLE VFD,Attorney General,,REP,Pamela L. Casey,74
+Elmore,0017 DEATSVILLE VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,22
+Elmore,0017 DEATSVILLE VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,128
+Elmore,0017 DEATSVILLE VFD,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,168
+Elmore,0017 DEATSVILLE VFD,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,109
+Elmore,0017 DEATSVILLE VFD,Commissioner of Agriculture and Industries,,REP,Cory Hill,115
+Elmore,0017 DEATSVILLE VFD,Commissioner of Agriculture and Industries,,REP,Jack Williams,85
+Elmore,0017 DEATSVILLE VFD,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,138
+Elmore,0017 DEATSVILLE VFD,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",174
+Elmore,0017 DEATSVILLE VFD,Lieutenant Governor,,REP,George Childress,5
+Elmore,0017 DEATSVILLE VFD,Lieutenant Governor,,REP,John Wahl,120
+Elmore,0017 DEATSVILLE VFD,Lieutenant Governor,,REP,Nicole Jones Wadsworth,17
+Elmore,0017 DEATSVILLE VFD,Lieutenant Governor,,REP,Pat Bishop,4
+Elmore,0017 DEATSVILLE VFD,Lieutenant Governor,,REP,Rick Pate,52
+Elmore,0017 DEATSVILLE VFD,Lieutenant Governor,,REP,Stewart Hill Tankersley,13
+Elmore,0017 DEATSVILLE VFD,Lieutenant Governor,,REP,Wes Allen,128
+Elmore,0017 DEATSVILLE VFD,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,107
+Elmore,0017 DEATSVILLE VFD,"Public Service Commission, Place No. 1",,REP,Matt Gentry,198
+Elmore,0017 DEATSVILLE VFD,Secretary of State,,REP,Caroleene Dobson,228
+Elmore,0017 DEATSVILLE VFD,Secretary of State,,REP,Christopher Christian Horn,67
+Elmore,0017 DEATSVILLE VFD,Secretary of State,,REP,Glenda S. Jackson,22
+Elmore,0017 DEATSVILLE VFD,State Auditor,,REP,Andrew Sorrell,204
+Elmore,0017 DEATSVILLE VFD,State Auditor,,REP,Derek Chen,115
+Elmore,0017 DEATSVILLE VFD,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,71
+Elmore,0017 DEATSVILLE VFD,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,245
+Elmore,0017 DEATSVILLE VFD,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,179
+Elmore,0017 DEATSVILLE VFD,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,131
+Elmore,0017 DEATSVILLE VFD,State Treasurer,,REP,Steve Lolley,69
+Elmore,0017 DEATSVILLE VFD,State Treasurer,,REP,Young Boozer,260
+Elmore,0017 DEATSVILLE VFD,U.S. House,6,REP,Case Dixon,66
+Elmore,0017 DEATSVILLE VFD,U.S. House,6,REP,Gary Palmer,248
+Elmore,0017 DEATSVILLE VFD,U.S. Senate,,REP,Barry Moore,177
+Elmore,0017 DEATSVILLE VFD,U.S. Senate,,REP,Dale Shelton Deas Jr.,4
+Elmore,0017 DEATSVILLE VFD,U.S. Senate,,REP,Jared Hudson,73
+Elmore,0017 DEATSVILLE VFD,U.S. Senate,,REP,Morgan Murphy,0
+Elmore,0017 DEATSVILLE VFD,U.S. Senate,,REP,Rodney Walker,5
+Elmore,0017 DEATSVILLE VFD,U.S. Senate,,REP,Seth Burton,6
+Elmore,0017 DEATSVILLE VFD,U.S. Senate,,REP,Steve Marshall,83
+Elmore,0018 CRENSHAW PARK COMM,Governor,,DEM,"Chad ""Chig"" Martin",3
+Elmore,0018 CRENSHAW PARK COMM,Governor,,DEM,Doug Jones,124
 Elmore,0018 CRENSHAW PARK COMM,Governor,,DEM,Jamel J. Brown,21
+Elmore,0018 CRENSHAW PARK COMM,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0018 CRENSHAW PARK COMM,Governor,,DEM,Will Boyd,12
 Elmore,0018 CRENSHAW PARK COMM,Governor,,DEM,Yolanda Rochelle Flowers,7
 Elmore,0018 CRENSHAW PARK COMM,Lieutenant Governor,,DEM,Darryl D. Perryman,70
@@ -194,10 +1100,63 @@ Elmore,0018 CRENSHAW PARK COMM,Lieutenant Governor,,DEM,Phillip Ensler,80
 Elmore,0018 CRENSHAW PARK COMM,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,80
 Elmore,0018 CRENSHAW PARK COMM,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,37
 Elmore,0018 CRENSHAW PARK COMM,"Public Service Commissioner, Place 1",,DEM,John Northrop,27
+Elmore,0018 CRENSHAW PARK COMM,State Democratic Executive Committee,,DEM,Lee Lindsay,10
+Elmore,0018 CRENSHAW PARK COMM,State Democratic Executive Committee,,DEM,Walter C. Lacey,151
+Elmore,0018 CRENSHAW PARK COMM,U.S. Senate,,DEM,Dakarai Larriett,45
+Elmore,0018 CRENSHAW PARK COMM,U.S. Senate,,DEM,Everett Wess,47
+Elmore,0018 CRENSHAW PARK COMM,U.S. Senate,,DEM,Kyle Sweetser,24
+Elmore,0018 CRENSHAW PARK COMM,U.S. Senate,,DEM,Mark S. Wheeler II,33
+Elmore,0018 CRENSHAW PARK COMM,Governor,,REP,"""Alabama"" Will Santivasci",0
 Elmore,0018 CRENSHAW PARK COMM,Governor,,REP,Ken McFeeters,14
+Elmore,0018 CRENSHAW PARK COMM,Governor,,REP,Thomas Tuberville,58
+Elmore,0018 CRENSHAW PARK COMM,"Public Service Commission, Place No. 2",,REP,Brent Woodall,6
 Elmore,0018 CRENSHAW PARK COMM,"Public Service Commission, Place No. 2",,REP,Chris Beeker,18
+Elmore,0018 CRENSHAW PARK COMM,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,37
 Elmore,0018 CRENSHAW PARK COMM,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,8
+Elmore,0018 CRENSHAW PARK COMM,Attorney General,,REP,Jay Mitchell,22
+Elmore,0018 CRENSHAW PARK COMM,Attorney General,,REP,Katherine Robertson,26
+Elmore,0018 CRENSHAW PARK COMM,Attorney General,,REP,Pamela L. Casey,25
+Elmore,0018 CRENSHAW PARK COMM,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,4
+Elmore,0018 CRENSHAW PARK COMM,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,24
+Elmore,0018 CRENSHAW PARK COMM,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,43
+Elmore,0018 CRENSHAW PARK COMM,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,28
+Elmore,0018 CRENSHAW PARK COMM,Commissioner of Agriculture and Industries,,REP,Cory Hill,22
+Elmore,0018 CRENSHAW PARK COMM,Commissioner of Agriculture and Industries,,REP,Jack Williams,17
+Elmore,0018 CRENSHAW PARK COMM,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,47
+Elmore,0018 CRENSHAW PARK COMM,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",26
+Elmore,0018 CRENSHAW PARK COMM,Lieutenant Governor,,REP,George Childress,4
+Elmore,0018 CRENSHAW PARK COMM,Lieutenant Governor,,REP,John Wahl,23
+Elmore,0018 CRENSHAW PARK COMM,Lieutenant Governor,,REP,Nicole Jones Wadsworth,3
+Elmore,0018 CRENSHAW PARK COMM,Lieutenant Governor,,REP,Pat Bishop,2
+Elmore,0018 CRENSHAW PARK COMM,Lieutenant Governor,,REP,Rick Pate,10
+Elmore,0018 CRENSHAW PARK COMM,Lieutenant Governor,,REP,Stewart Hill Tankersley,5
+Elmore,0018 CRENSHAW PARK COMM,Lieutenant Governor,,REP,Wes Allen,23
+Elmore,0018 CRENSHAW PARK COMM,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,17
+Elmore,0018 CRENSHAW PARK COMM,"Public Service Commission, Place No. 1",,REP,Matt Gentry,47
+Elmore,0018 CRENSHAW PARK COMM,Secretary of State,,REP,Caroleene Dobson,51
+Elmore,0018 CRENSHAW PARK COMM,Secretary of State,,REP,Christopher Christian Horn,8
+Elmore,0018 CRENSHAW PARK COMM,Secretary of State,,REP,Glenda S. Jackson,8
+Elmore,0018 CRENSHAW PARK COMM,State Auditor,,REP,Andrew Sorrell,49
+Elmore,0018 CRENSHAW PARK COMM,State Auditor,,REP,Derek Chen,18
+Elmore,0018 CRENSHAW PARK COMM,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,13
+Elmore,0018 CRENSHAW PARK COMM,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,53
+Elmore,0018 CRENSHAW PARK COMM,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,48
+Elmore,0018 CRENSHAW PARK COMM,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,23
+Elmore,0018 CRENSHAW PARK COMM,State Treasurer,,REP,Steve Lolley,18
+Elmore,0018 CRENSHAW PARK COMM,State Treasurer,,REP,Young Boozer,48
+Elmore,0018 CRENSHAW PARK COMM,U.S. House,6,REP,Case Dixon,9
+Elmore,0018 CRENSHAW PARK COMM,U.S. House,6,REP,Gary Palmer,57
+Elmore,0018 CRENSHAW PARK COMM,U.S. Senate,,REP,Barry Moore,38
+Elmore,0018 CRENSHAW PARK COMM,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
+Elmore,0018 CRENSHAW PARK COMM,U.S. Senate,,REP,Jared Hudson,10
+Elmore,0018 CRENSHAW PARK COMM,U.S. Senate,,REP,Morgan Murphy,1
+Elmore,0018 CRENSHAW PARK COMM,U.S. Senate,,REP,Rodney Walker,1
+Elmore,0018 CRENSHAW PARK COMM,U.S. Senate,,REP,Seth Burton,0
+Elmore,0018 CRENSHAW PARK COMM,U.S. Senate,,REP,Steve Marshall,22
+Elmore,0019 NEW HOME BAPT WETUMPKA,Governor,,DEM,"Chad ""Chig"" Martin",4
+Elmore,0019 NEW HOME BAPT WETUMPKA,Governor,,DEM,Doug Jones,63
 Elmore,0019 NEW HOME BAPT WETUMPKA,Governor,,DEM,Jamel J. Brown,12
+Elmore,0019 NEW HOME BAPT WETUMPKA,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0019 NEW HOME BAPT WETUMPKA,Governor,,DEM,Will Boyd,11
 Elmore,0019 NEW HOME BAPT WETUMPKA,Governor,,DEM,Yolanda Rochelle Flowers,7
 Elmore,0019 NEW HOME BAPT WETUMPKA,Lieutenant Governor,,DEM,Darryl D. Perryman,46
@@ -205,10 +1164,63 @@ Elmore,0019 NEW HOME BAPT WETUMPKA,Lieutenant Governor,,DEM,Phillip Ensler,49
 Elmore,0019 NEW HOME BAPT WETUMPKA,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,47
 Elmore,0019 NEW HOME BAPT WETUMPKA,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,30
 Elmore,0019 NEW HOME BAPT WETUMPKA,"Public Service Commissioner, Place 1",,DEM,John Northrop,13
+Elmore,0019 NEW HOME BAPT WETUMPKA,State Democratic Executive Committee,,DEM,Lee Lindsay,15
+Elmore,0019 NEW HOME BAPT WETUMPKA,State Democratic Executive Committee,,DEM,Walter C. Lacey,77
+Elmore,0019 NEW HOME BAPT WETUMPKA,U.S. Senate,,DEM,Dakarai Larriett,32
+Elmore,0019 NEW HOME BAPT WETUMPKA,U.S. Senate,,DEM,Everett Wess,27
+Elmore,0019 NEW HOME BAPT WETUMPKA,U.S. Senate,,DEM,Kyle Sweetser,13
+Elmore,0019 NEW HOME BAPT WETUMPKA,U.S. Senate,,DEM,Mark S. Wheeler II,20
+Elmore,0019 NEW HOME BAPT WETUMPKA,Governor,,REP,"""Alabama"" Will Santivasci",10
 Elmore,0019 NEW HOME BAPT WETUMPKA,Governor,,REP,Ken McFeeters,21
+Elmore,0019 NEW HOME BAPT WETUMPKA,Governor,,REP,Thomas Tuberville,212
+Elmore,0019 NEW HOME BAPT WETUMPKA,"Public Service Commission, Place No. 2",,REP,Brent Woodall,57
 Elmore,0019 NEW HOME BAPT WETUMPKA,"Public Service Commission, Place No. 2",,REP,Chris Beeker,47
+Elmore,0019 NEW HOME BAPT WETUMPKA,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,98
 Elmore,0019 NEW HOME BAPT WETUMPKA,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,22
+Elmore,0019 NEW HOME BAPT WETUMPKA,Attorney General,,REP,Jay Mitchell,113
+Elmore,0019 NEW HOME BAPT WETUMPKA,Attorney General,,REP,Katherine Robertson,67
+Elmore,0019 NEW HOME BAPT WETUMPKA,Attorney General,,REP,Pamela L. Casey,54
+Elmore,0019 NEW HOME BAPT WETUMPKA,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,30
+Elmore,0019 NEW HOME BAPT WETUMPKA,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,76
+Elmore,0019 NEW HOME BAPT WETUMPKA,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,120
+Elmore,0019 NEW HOME BAPT WETUMPKA,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,73
+Elmore,0019 NEW HOME BAPT WETUMPKA,Commissioner of Agriculture and Industries,,REP,Cory Hill,89
+Elmore,0019 NEW HOME BAPT WETUMPKA,Commissioner of Agriculture and Industries,,REP,Jack Williams,59
+Elmore,0019 NEW HOME BAPT WETUMPKA,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,124
+Elmore,0019 NEW HOME BAPT WETUMPKA,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",109
+Elmore,0019 NEW HOME BAPT WETUMPKA,Lieutenant Governor,,REP,George Childress,6
+Elmore,0019 NEW HOME BAPT WETUMPKA,Lieutenant Governor,,REP,John Wahl,82
+Elmore,0019 NEW HOME BAPT WETUMPKA,Lieutenant Governor,,REP,Nicole Jones Wadsworth,6
+Elmore,0019 NEW HOME BAPT WETUMPKA,Lieutenant Governor,,REP,Pat Bishop,4
+Elmore,0019 NEW HOME BAPT WETUMPKA,Lieutenant Governor,,REP,Rick Pate,28
+Elmore,0019 NEW HOME BAPT WETUMPKA,Lieutenant Governor,,REP,Stewart Hill Tankersley,11
+Elmore,0019 NEW HOME BAPT WETUMPKA,Lieutenant Governor,,REP,Wes Allen,96
+Elmore,0019 NEW HOME BAPT WETUMPKA,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,49
+Elmore,0019 NEW HOME BAPT WETUMPKA,"Public Service Commission, Place No. 1",,REP,Matt Gentry,170
+Elmore,0019 NEW HOME BAPT WETUMPKA,Secretary of State,,REP,Caroleene Dobson,160
+Elmore,0019 NEW HOME BAPT WETUMPKA,Secretary of State,,REP,Christopher Christian Horn,43
+Elmore,0019 NEW HOME BAPT WETUMPKA,Secretary of State,,REP,Glenda S. Jackson,15
+Elmore,0019 NEW HOME BAPT WETUMPKA,State Auditor,,REP,Andrew Sorrell,161
+Elmore,0019 NEW HOME BAPT WETUMPKA,State Auditor,,REP,Derek Chen,62
+Elmore,0019 NEW HOME BAPT WETUMPKA,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,69
+Elmore,0019 NEW HOME BAPT WETUMPKA,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,159
+Elmore,0019 NEW HOME BAPT WETUMPKA,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,141
+Elmore,0019 NEW HOME BAPT WETUMPKA,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,96
+Elmore,0019 NEW HOME BAPT WETUMPKA,State Treasurer,,REP,Steve Lolley,55
+Elmore,0019 NEW HOME BAPT WETUMPKA,State Treasurer,,REP,Young Boozer,180
+Elmore,0019 NEW HOME BAPT WETUMPKA,U.S. House,6,REP,Case Dixon,61
+Elmore,0019 NEW HOME BAPT WETUMPKA,U.S. House,6,REP,Gary Palmer,166
+Elmore,0019 NEW HOME BAPT WETUMPKA,U.S. Senate,,REP,Barry Moore,130
+Elmore,0019 NEW HOME BAPT WETUMPKA,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
+Elmore,0019 NEW HOME BAPT WETUMPKA,U.S. Senate,,REP,Jared Hudson,45
+Elmore,0019 NEW HOME BAPT WETUMPKA,U.S. Senate,,REP,Morgan Murphy,1
+Elmore,0019 NEW HOME BAPT WETUMPKA,U.S. Senate,,REP,Rodney Walker,7
+Elmore,0019 NEW HOME BAPT WETUMPKA,U.S. Senate,,REP,Seth Burton,3
+Elmore,0019 NEW HOME BAPT WETUMPKA,U.S. Senate,,REP,Steve Marshall,55
+Elmore,0020 COOSADA BAPT. CH,Governor,,DEM,"Chad ""Chig"" Martin",3
+Elmore,0020 COOSADA BAPT. CH,Governor,,DEM,Doug Jones,120
 Elmore,0020 COOSADA BAPT. CH,Governor,,DEM,Jamel J. Brown,20
+Elmore,0020 COOSADA BAPT. CH,Governor,,DEM,"Nathan ""Nate"" Mathis",2
 Elmore,0020 COOSADA BAPT. CH,Governor,,DEM,Will Boyd,19
 Elmore,0020 COOSADA BAPT. CH,Governor,,DEM,Yolanda Rochelle Flowers,7
 Elmore,0020 COOSADA BAPT. CH,Lieutenant Governor,,DEM,Darryl D. Perryman,66
@@ -216,10 +1228,63 @@ Elmore,0020 COOSADA BAPT. CH,Lieutenant Governor,,DEM,Phillip Ensler,95
 Elmore,0020 COOSADA BAPT. CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,95
 Elmore,0020 COOSADA BAPT. CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,41
 Elmore,0020 COOSADA BAPT. CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,21
+Elmore,0020 COOSADA BAPT. CH,State Democratic Executive Committee,,DEM,Lee Lindsay,16
+Elmore,0020 COOSADA BAPT. CH,State Democratic Executive Committee,,DEM,Walter C. Lacey,147
+Elmore,0020 COOSADA BAPT. CH,U.S. Senate,,DEM,Dakarai Larriett,44
+Elmore,0020 COOSADA BAPT. CH,U.S. Senate,,DEM,Everett Wess,63
+Elmore,0020 COOSADA BAPT. CH,U.S. Senate,,DEM,Kyle Sweetser,21
+Elmore,0020 COOSADA BAPT. CH,U.S. Senate,,DEM,Mark S. Wheeler II,30
+Elmore,0020 COOSADA BAPT. CH,Governor,,REP,"""Alabama"" Will Santivasci",8
 Elmore,0020 COOSADA BAPT. CH,Governor,,REP,Ken McFeeters,16
+Elmore,0020 COOSADA BAPT. CH,Governor,,REP,Thomas Tuberville,156
+Elmore,0020 COOSADA BAPT. CH,"Public Service Commission, Place No. 2",,REP,Brent Woodall,24
 Elmore,0020 COOSADA BAPT. CH,"Public Service Commission, Place No. 2",,REP,Chris Beeker,28
+Elmore,0020 COOSADA BAPT. CH,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,84
 Elmore,0020 COOSADA BAPT. CH,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,19
+Elmore,0020 COOSADA BAPT. CH,Attorney General,,REP,Jay Mitchell,74
+Elmore,0020 COOSADA BAPT. CH,Attorney General,,REP,Katherine Robertson,60
+Elmore,0020 COOSADA BAPT. CH,Attorney General,,REP,Pamela L. Casey,35
+Elmore,0020 COOSADA BAPT. CH,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,9
+Elmore,0020 COOSADA BAPT. CH,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,85
+Elmore,0020 COOSADA BAPT. CH,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,74
+Elmore,0020 COOSADA BAPT. CH,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,57
+Elmore,0020 COOSADA BAPT. CH,Commissioner of Agriculture and Industries,,REP,Cory Hill,48
+Elmore,0020 COOSADA BAPT. CH,Commissioner of Agriculture and Industries,,REP,Jack Williams,53
+Elmore,0020 COOSADA BAPT. CH,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,98
+Elmore,0020 COOSADA BAPT. CH,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",75
+Elmore,0020 COOSADA BAPT. CH,Lieutenant Governor,,REP,George Childress,0
+Elmore,0020 COOSADA BAPT. CH,Lieutenant Governor,,REP,John Wahl,52
+Elmore,0020 COOSADA BAPT. CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,10
+Elmore,0020 COOSADA BAPT. CH,Lieutenant Governor,,REP,Pat Bishop,2
+Elmore,0020 COOSADA BAPT. CH,Lieutenant Governor,,REP,Rick Pate,15
+Elmore,0020 COOSADA BAPT. CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,23
+Elmore,0020 COOSADA BAPT. CH,Lieutenant Governor,,REP,Wes Allen,73
+Elmore,0020 COOSADA BAPT. CH,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,35
+Elmore,0020 COOSADA BAPT. CH,"Public Service Commission, Place No. 1",,REP,Matt Gentry,119
+Elmore,0020 COOSADA BAPT. CH,Secretary of State,,REP,Caroleene Dobson,123
+Elmore,0020 COOSADA BAPT. CH,Secretary of State,,REP,Christopher Christian Horn,25
+Elmore,0020 COOSADA BAPT. CH,Secretary of State,,REP,Glenda S. Jackson,16
+Elmore,0020 COOSADA BAPT. CH,State Auditor,,REP,Andrew Sorrell,106
+Elmore,0020 COOSADA BAPT. CH,State Auditor,,REP,Derek Chen,59
+Elmore,0020 COOSADA BAPT. CH,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,39
+Elmore,0020 COOSADA BAPT. CH,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,120
+Elmore,0020 COOSADA BAPT. CH,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,97
+Elmore,0020 COOSADA BAPT. CH,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,69
+Elmore,0020 COOSADA BAPT. CH,State Treasurer,,REP,Steve Lolley,56
+Elmore,0020 COOSADA BAPT. CH,State Treasurer,,REP,Young Boozer,114
+Elmore,0020 COOSADA BAPT. CH,U.S. House,6,REP,Case Dixon,36
+Elmore,0020 COOSADA BAPT. CH,U.S. House,6,REP,Gary Palmer,123
+Elmore,0020 COOSADA BAPT. CH,U.S. Senate,,REP,Barry Moore,97
+Elmore,0020 COOSADA BAPT. CH,U.S. Senate,,REP,Dale Shelton Deas Jr.,3
+Elmore,0020 COOSADA BAPT. CH,U.S. Senate,,REP,Jared Hudson,38
+Elmore,0020 COOSADA BAPT. CH,U.S. Senate,,REP,Morgan Murphy,3
+Elmore,0020 COOSADA BAPT. CH,U.S. Senate,,REP,Rodney Walker,3
+Elmore,0020 COOSADA BAPT. CH,U.S. Senate,,REP,Seth Burton,1
+Elmore,0020 COOSADA BAPT. CH,U.S. Senate,,REP,Steve Marshall,33
+Elmore,0021 TRI-CITY BAPT.,Governor,,DEM,"Chad ""Chig"" Martin",4
+Elmore,0021 TRI-CITY BAPT.,Governor,,DEM,Doug Jones,211
 Elmore,0021 TRI-CITY BAPT.,Governor,,DEM,Jamel J. Brown,17
+Elmore,0021 TRI-CITY BAPT.,Governor,,DEM,"Nathan ""Nate"" Mathis",2
 Elmore,0021 TRI-CITY BAPT.,Governor,,DEM,Will Boyd,36
 Elmore,0021 TRI-CITY BAPT.,Governor,,DEM,Yolanda Rochelle Flowers,18
 Elmore,0021 TRI-CITY BAPT.,Lieutenant Governor,,DEM,Darryl D. Perryman,125
@@ -227,10 +1292,61 @@ Elmore,0021 TRI-CITY BAPT.,Lieutenant Governor,,DEM,Phillip Ensler,152
 Elmore,0021 TRI-CITY BAPT.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,157
 Elmore,0021 TRI-CITY BAPT.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,68
 Elmore,0021 TRI-CITY BAPT.,"Public Service Commissioner, Place 1",,DEM,John Northrop,38
+Elmore,0021 TRI-CITY BAPT.,U.S. Senate,,DEM,Dakarai Larriett,113
+Elmore,0021 TRI-CITY BAPT.,U.S. Senate,,DEM,Everett Wess,80
+Elmore,0021 TRI-CITY BAPT.,U.S. Senate,,DEM,Kyle Sweetser,25
+Elmore,0021 TRI-CITY BAPT.,U.S. Senate,,DEM,Mark S. Wheeler II,50
+Elmore,0021 TRI-CITY BAPT.,Governor,,REP,"""Alabama"" Will Santivasci",22
 Elmore,0021 TRI-CITY BAPT.,Governor,,REP,Ken McFeeters,39
+Elmore,0021 TRI-CITY BAPT.,Governor,,REP,Thomas Tuberville,355
+Elmore,0021 TRI-CITY BAPT.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,65
 Elmore,0021 TRI-CITY BAPT.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,76
+Elmore,0021 TRI-CITY BAPT.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,181
 Elmore,0021 TRI-CITY BAPT.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,37
+Elmore,0021 TRI-CITY BAPT.,Attorney General,,REP,Jay Mitchell,165
+Elmore,0021 TRI-CITY BAPT.,Attorney General,,REP,Katherine Robertson,136
+Elmore,0021 TRI-CITY BAPT.,Attorney General,,REP,Pamela L. Casey,90
+Elmore,0021 TRI-CITY BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,31
+Elmore,0021 TRI-CITY BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,184
+Elmore,0021 TRI-CITY BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,150
+Elmore,0021 TRI-CITY BAPT.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,122
+Elmore,0021 TRI-CITY BAPT.,Commissioner of Agriculture and Industries,,REP,Cory Hill,141
+Elmore,0021 TRI-CITY BAPT.,Commissioner of Agriculture and Industries,,REP,Jack Williams,98
+Elmore,0021 TRI-CITY BAPT.,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,179
+Elmore,0021 TRI-CITY BAPT.,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",183
+Elmore,0021 TRI-CITY BAPT.,Lieutenant Governor,,REP,George Childress,3
+Elmore,0021 TRI-CITY BAPT.,Lieutenant Governor,,REP,John Wahl,157
+Elmore,0021 TRI-CITY BAPT.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,12
+Elmore,0021 TRI-CITY BAPT.,Lieutenant Governor,,REP,Pat Bishop,8
+Elmore,0021 TRI-CITY BAPT.,Lieutenant Governor,,REP,Rick Pate,60
+Elmore,0021 TRI-CITY BAPT.,Lieutenant Governor,,REP,Stewart Hill Tankersley,32
+Elmore,0021 TRI-CITY BAPT.,Lieutenant Governor,,REP,Wes Allen,126
+Elmore,0021 TRI-CITY BAPT.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,92
+Elmore,0021 TRI-CITY BAPT.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,261
+Elmore,0021 TRI-CITY BAPT.,Secretary of State,,REP,Caroleene Dobson,285
+Elmore,0021 TRI-CITY BAPT.,Secretary of State,,REP,Christopher Christian Horn,54
+Elmore,0021 TRI-CITY BAPT.,Secretary of State,,REP,Glenda S. Jackson,32
+Elmore,0021 TRI-CITY BAPT.,State Auditor,,REP,Andrew Sorrell,247
+Elmore,0021 TRI-CITY BAPT.,State Auditor,,REP,Derek Chen,122
+Elmore,0021 TRI-CITY BAPT.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,98
+Elmore,0021 TRI-CITY BAPT.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,262
+Elmore,0021 TRI-CITY BAPT.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,215
+Elmore,0021 TRI-CITY BAPT.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,151
+Elmore,0021 TRI-CITY BAPT.,State Treasurer,,REP,Steve Lolley,79
+Elmore,0021 TRI-CITY BAPT.,State Treasurer,,REP,Young Boozer,301
+Elmore,0021 TRI-CITY BAPT.,U.S. House,6,REP,Case Dixon,85
+Elmore,0021 TRI-CITY BAPT.,U.S. House,6,REP,Gary Palmer,280
+Elmore,0021 TRI-CITY BAPT.,U.S. Senate,,REP,Barry Moore,204
+Elmore,0021 TRI-CITY BAPT.,U.S. Senate,,REP,Dale Shelton Deas Jr.,8
+Elmore,0021 TRI-CITY BAPT.,U.S. Senate,,REP,Jared Hudson,77
+Elmore,0021 TRI-CITY BAPT.,U.S. Senate,,REP,Morgan Murphy,7
+Elmore,0021 TRI-CITY BAPT.,U.S. Senate,,REP,Rodney Walker,11
+Elmore,0021 TRI-CITY BAPT.,U.S. Senate,,REP,Seth Burton,6
+Elmore,0021 TRI-CITY BAPT.,U.S. Senate,,REP,Steve Marshall,88
+Elmore,0022 RIVER REGION CH NAZ,Governor,,DEM,"Chad ""Chig"" Martin",10
+Elmore,0022 RIVER REGION CH NAZ,Governor,,DEM,Doug Jones,275
 Elmore,0022 RIVER REGION CH NAZ,Governor,,DEM,Jamel J. Brown,23
+Elmore,0022 RIVER REGION CH NAZ,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0022 RIVER REGION CH NAZ,Governor,,DEM,Will Boyd,48
 Elmore,0022 RIVER REGION CH NAZ,Governor,,DEM,Yolanda Rochelle Flowers,17
 Elmore,0022 RIVER REGION CH NAZ,Lieutenant Governor,,DEM,Darryl D. Perryman,149
@@ -238,10 +1354,63 @@ Elmore,0022 RIVER REGION CH NAZ,Lieutenant Governor,,DEM,Phillip Ensler,209
 Elmore,0022 RIVER REGION CH NAZ,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,178
 Elmore,0022 RIVER REGION CH NAZ,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,105
 Elmore,0022 RIVER REGION CH NAZ,"Public Service Commissioner, Place 1",,DEM,John Northrop,51
+Elmore,0022 RIVER REGION CH NAZ,State Democratic Executive Committee,,DEM,Lee Lindsay,0
+Elmore,0022 RIVER REGION CH NAZ,State Democratic Executive Committee,,DEM,Walter C. Lacey,0
+Elmore,0022 RIVER REGION CH NAZ,U.S. Senate,,DEM,Dakarai Larriett,144
+Elmore,0022 RIVER REGION CH NAZ,U.S. Senate,,DEM,Everett Wess,115
+Elmore,0022 RIVER REGION CH NAZ,U.S. Senate,,DEM,Kyle Sweetser,35
+Elmore,0022 RIVER REGION CH NAZ,U.S. Senate,,DEM,Mark S. Wheeler II,46
+Elmore,0022 RIVER REGION CH NAZ,Governor,,REP,"""Alabama"" Will Santivasci",31
 Elmore,0022 RIVER REGION CH NAZ,Governor,,REP,Ken McFeeters,80
+Elmore,0022 RIVER REGION CH NAZ,Governor,,REP,Thomas Tuberville,690
+Elmore,0022 RIVER REGION CH NAZ,"Public Service Commission, Place No. 2",,REP,Brent Woodall,127
 Elmore,0022 RIVER REGION CH NAZ,"Public Service Commission, Place No. 2",,REP,Chris Beeker,137
+Elmore,0022 RIVER REGION CH NAZ,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,366
 Elmore,0022 RIVER REGION CH NAZ,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,95
+Elmore,0022 RIVER REGION CH NAZ,Attorney General,,REP,Jay Mitchell,315
+Elmore,0022 RIVER REGION CH NAZ,Attorney General,,REP,Katherine Robertson,276
+Elmore,0022 RIVER REGION CH NAZ,Attorney General,,REP,Pamela L. Casey,188
+Elmore,0022 RIVER REGION CH NAZ,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,61
+Elmore,0022 RIVER REGION CH NAZ,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,391
+Elmore,0022 RIVER REGION CH NAZ,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,288
+Elmore,0022 RIVER REGION CH NAZ,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,283
+Elmore,0022 RIVER REGION CH NAZ,Commissioner of Agriculture and Industries,,REP,Cory Hill,273
+Elmore,0022 RIVER REGION CH NAZ,Commissioner of Agriculture and Industries,,REP,Jack Williams,173
+Elmore,0022 RIVER REGION CH NAZ,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,394
+Elmore,0022 RIVER REGION CH NAZ,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",356
+Elmore,0022 RIVER REGION CH NAZ,Lieutenant Governor,,REP,George Childress,9
+Elmore,0022 RIVER REGION CH NAZ,Lieutenant Governor,,REP,John Wahl,290
+Elmore,0022 RIVER REGION CH NAZ,Lieutenant Governor,,REP,Nicole Jones Wadsworth,34
+Elmore,0022 RIVER REGION CH NAZ,Lieutenant Governor,,REP,Pat Bishop,19
+Elmore,0022 RIVER REGION CH NAZ,Lieutenant Governor,,REP,Rick Pate,94
+Elmore,0022 RIVER REGION CH NAZ,Lieutenant Governor,,REP,Stewart Hill Tankersley,54
+Elmore,0022 RIVER REGION CH NAZ,Lieutenant Governor,,REP,Wes Allen,281
+Elmore,0022 RIVER REGION CH NAZ,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,170
+Elmore,0022 RIVER REGION CH NAZ,"Public Service Commission, Place No. 1",,REP,Matt Gentry,545
+Elmore,0022 RIVER REGION CH NAZ,Secretary of State,,REP,Caroleene Dobson,549
+Elmore,0022 RIVER REGION CH NAZ,Secretary of State,,REP,Christopher Christian Horn,135
+Elmore,0022 RIVER REGION CH NAZ,Secretary of State,,REP,Glenda S. Jackson,67
+Elmore,0022 RIVER REGION CH NAZ,State Auditor,,REP,Andrew Sorrell,486
+Elmore,0022 RIVER REGION CH NAZ,State Auditor,,REP,Derek Chen,260
+Elmore,0022 RIVER REGION CH NAZ,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,229
+Elmore,0022 RIVER REGION CH NAZ,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,492
+Elmore,0022 RIVER REGION CH NAZ,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,368
+Elmore,0022 RIVER REGION CH NAZ,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,349
+Elmore,0022 RIVER REGION CH NAZ,State Treasurer,,REP,Steve Lolley,178
+Elmore,0022 RIVER REGION CH NAZ,State Treasurer,,REP,Young Boozer,590
+Elmore,0022 RIVER REGION CH NAZ,U.S. House,6,REP,Case Dixon,159
+Elmore,0022 RIVER REGION CH NAZ,U.S. House,6,REP,Gary Palmer,574
+Elmore,0022 RIVER REGION CH NAZ,U.S. Senate,,REP,Barry Moore,409
+Elmore,0022 RIVER REGION CH NAZ,U.S. Senate,,REP,Dale Shelton Deas Jr.,8
+Elmore,0022 RIVER REGION CH NAZ,U.S. Senate,,REP,Jared Hudson,157
+Elmore,0022 RIVER REGION CH NAZ,U.S. Senate,,REP,Morgan Murphy,6
+Elmore,0022 RIVER REGION CH NAZ,U.S. Senate,,REP,Rodney Walker,20
+Elmore,0022 RIVER REGION CH NAZ,U.S. Senate,,REP,Seth Burton,17
+Elmore,0022 RIVER REGION CH NAZ,U.S. Senate,,REP,Steve Marshall,186
+Elmore,0023 FLDHSE AT 17 SPRINGS,Governor,,DEM,"Chad ""Chig"" Martin",2
+Elmore,0023 FLDHSE AT 17 SPRINGS,Governor,,DEM,Doug Jones,197
 Elmore,0023 FLDHSE AT 17 SPRINGS,Governor,,DEM,Jamel J. Brown,18
+Elmore,0023 FLDHSE AT 17 SPRINGS,Governor,,DEM,"Nathan ""Nate"" Mathis",2
 Elmore,0023 FLDHSE AT 17 SPRINGS,Governor,,DEM,Will Boyd,32
 Elmore,0023 FLDHSE AT 17 SPRINGS,Governor,,DEM,Yolanda Rochelle Flowers,17
 Elmore,0023 FLDHSE AT 17 SPRINGS,Lieutenant Governor,,DEM,Darryl D. Perryman,117
@@ -249,10 +1418,61 @@ Elmore,0023 FLDHSE AT 17 SPRINGS,Lieutenant Governor,,DEM,Phillip Ensler,136
 Elmore,0023 FLDHSE AT 17 SPRINGS,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,136
 Elmore,0023 FLDHSE AT 17 SPRINGS,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,72
 Elmore,0023 FLDHSE AT 17 SPRINGS,"Public Service Commissioner, Place 1",,DEM,John Northrop,40
+Elmore,0023 FLDHSE AT 17 SPRINGS,U.S. Senate,,DEM,Dakarai Larriett,117
+Elmore,0023 FLDHSE AT 17 SPRINGS,U.S. Senate,,DEM,Everett Wess,63
+Elmore,0023 FLDHSE AT 17 SPRINGS,U.S. Senate,,DEM,Kyle Sweetser,28
+Elmore,0023 FLDHSE AT 17 SPRINGS,U.S. Senate,,DEM,Mark S. Wheeler II,46
+Elmore,0023 FLDHSE AT 17 SPRINGS,Governor,,REP,"""Alabama"" Will Santivasci",21
 Elmore,0023 FLDHSE AT 17 SPRINGS,Governor,,REP,Ken McFeeters,42
+Elmore,0023 FLDHSE AT 17 SPRINGS,Governor,,REP,Thomas Tuberville,408
+Elmore,0023 FLDHSE AT 17 SPRINGS,"Public Service Commission, Place No. 2",,REP,Brent Woodall,87
 Elmore,0023 FLDHSE AT 17 SPRINGS,"Public Service Commission, Place No. 2",,REP,Chris Beeker,87
+Elmore,0023 FLDHSE AT 17 SPRINGS,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,211
 Elmore,0023 FLDHSE AT 17 SPRINGS,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,44
+Elmore,0023 FLDHSE AT 17 SPRINGS,Attorney General,,REP,Jay Mitchell,191
+Elmore,0023 FLDHSE AT 17 SPRINGS,Attorney General,,REP,Katherine Robertson,165
+Elmore,0023 FLDHSE AT 17 SPRINGS,Attorney General,,REP,Pamela L. Casey,106
+Elmore,0023 FLDHSE AT 17 SPRINGS,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,39
+Elmore,0023 FLDHSE AT 17 SPRINGS,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,218
+Elmore,0023 FLDHSE AT 17 SPRINGS,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,174
+Elmore,0023 FLDHSE AT 17 SPRINGS,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,163
+Elmore,0023 FLDHSE AT 17 SPRINGS,Commissioner of Agriculture and Industries,,REP,Cory Hill,167
+Elmore,0023 FLDHSE AT 17 SPRINGS,Commissioner of Agriculture and Industries,,REP,Jack Williams,105
+Elmore,0023 FLDHSE AT 17 SPRINGS,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,195
+Elmore,0023 FLDHSE AT 17 SPRINGS,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",239
+Elmore,0023 FLDHSE AT 17 SPRINGS,Lieutenant Governor,,REP,George Childress,7
+Elmore,0023 FLDHSE AT 17 SPRINGS,Lieutenant Governor,,REP,John Wahl,182
+Elmore,0023 FLDHSE AT 17 SPRINGS,Lieutenant Governor,,REP,Nicole Jones Wadsworth,20
+Elmore,0023 FLDHSE AT 17 SPRINGS,Lieutenant Governor,,REP,Pat Bishop,5
+Elmore,0023 FLDHSE AT 17 SPRINGS,Lieutenant Governor,,REP,Rick Pate,64
+Elmore,0023 FLDHSE AT 17 SPRINGS,Lieutenant Governor,,REP,Stewart Hill Tankersley,22
+Elmore,0023 FLDHSE AT 17 SPRINGS,Lieutenant Governor,,REP,Wes Allen,167
+Elmore,0023 FLDHSE AT 17 SPRINGS,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,91
+Elmore,0023 FLDHSE AT 17 SPRINGS,"Public Service Commission, Place No. 1",,REP,Matt Gentry,331
+Elmore,0023 FLDHSE AT 17 SPRINGS,Secretary of State,,REP,Caroleene Dobson,338
+Elmore,0023 FLDHSE AT 17 SPRINGS,Secretary of State,,REP,Christopher Christian Horn,90
+Elmore,0023 FLDHSE AT 17 SPRINGS,Secretary of State,,REP,Glenda S. Jackson,26
+Elmore,0023 FLDHSE AT 17 SPRINGS,State Auditor,,REP,Andrew Sorrell,275
+Elmore,0023 FLDHSE AT 17 SPRINGS,State Auditor,,REP,Derek Chen,162
+Elmore,0023 FLDHSE AT 17 SPRINGS,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,123
+Elmore,0023 FLDHSE AT 17 SPRINGS,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,297
+Elmore,0023 FLDHSE AT 17 SPRINGS,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,214
+Elmore,0023 FLDHSE AT 17 SPRINGS,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,207
+Elmore,0023 FLDHSE AT 17 SPRINGS,State Treasurer,,REP,Steve Lolley,108
+Elmore,0023 FLDHSE AT 17 SPRINGS,State Treasurer,,REP,Young Boozer,347
+Elmore,0023 FLDHSE AT 17 SPRINGS,U.S. House,6,REP,Case Dixon,114
+Elmore,0023 FLDHSE AT 17 SPRINGS,U.S. House,6,REP,Gary Palmer,322
+Elmore,0023 FLDHSE AT 17 SPRINGS,U.S. Senate,,REP,Barry Moore,239
+Elmore,0023 FLDHSE AT 17 SPRINGS,U.S. Senate,,REP,Dale Shelton Deas Jr.,8
+Elmore,0023 FLDHSE AT 17 SPRINGS,U.S. Senate,,REP,Jared Hudson,83
+Elmore,0023 FLDHSE AT 17 SPRINGS,U.S. Senate,,REP,Morgan Murphy,1
+Elmore,0023 FLDHSE AT 17 SPRINGS,U.S. Senate,,REP,Rodney Walker,16
+Elmore,0023 FLDHSE AT 17 SPRINGS,U.S. Senate,,REP,Seth Burton,8
+Elmore,0023 FLDHSE AT 17 SPRINGS,U.S. Senate,,REP,Steve Marshall,120
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Governor,,DEM,"Chad ""Chig"" Martin",10
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Governor,,DEM,Doug Jones,439
 Elmore,0024 MILLBROOK MEMORIAL CTR.,Governor,,DEM,Jamel J. Brown,46
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",4
 Elmore,0024 MILLBROOK MEMORIAL CTR.,Governor,,DEM,Will Boyd,81
 Elmore,0024 MILLBROOK MEMORIAL CTR.,Governor,,DEM,Yolanda Rochelle Flowers,34
 Elmore,0024 MILLBROOK MEMORIAL CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,229
@@ -260,10 +1480,61 @@ Elmore,0024 MILLBROOK MEMORIAL CTR.,Lieutenant Governor,,DEM,Phillip Ensler,363
 Elmore,0024 MILLBROOK MEMORIAL CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,356
 Elmore,0024 MILLBROOK MEMORIAL CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,163
 Elmore,0024 MILLBROOK MEMORIAL CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,64
+Elmore,0024 MILLBROOK MEMORIAL CTR.,U.S. Senate,,DEM,Dakarai Larriett,201
+Elmore,0024 MILLBROOK MEMORIAL CTR.,U.S. Senate,,DEM,Everett Wess,221
+Elmore,0024 MILLBROOK MEMORIAL CTR.,U.S. Senate,,DEM,Kyle Sweetser,77
+Elmore,0024 MILLBROOK MEMORIAL CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,93
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Governor,,REP,"""Alabama"" Will Santivasci",17
 Elmore,0024 MILLBROOK MEMORIAL CTR.,Governor,,REP,Ken McFeeters,49
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Governor,,REP,Thomas Tuberville,456
+Elmore,0024 MILLBROOK MEMORIAL CTR.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,75
 Elmore,0024 MILLBROOK MEMORIAL CTR.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,87
+Elmore,0024 MILLBROOK MEMORIAL CTR.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,244
 Elmore,0024 MILLBROOK MEMORIAL CTR.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,64
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Attorney General,,REP,Jay Mitchell,195
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Attorney General,,REP,Katherine Robertson,182
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Attorney General,,REP,Pamela L. Casey,128
+Elmore,0024 MILLBROOK MEMORIAL CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,43
+Elmore,0024 MILLBROOK MEMORIAL CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,259
+Elmore,0024 MILLBROOK MEMORIAL CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,175
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,175
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Commissioner of Agriculture and Industries,,REP,Cory Hill,167
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Commissioner of Agriculture and Industries,,REP,Jack Williams,132
+Elmore,0024 MILLBROOK MEMORIAL CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,287
+Elmore,0024 MILLBROOK MEMORIAL CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",190
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Lieutenant Governor,,REP,George Childress,13
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Lieutenant Governor,,REP,John Wahl,182
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,17
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Lieutenant Governor,,REP,Pat Bishop,12
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Lieutenant Governor,,REP,Rick Pate,54
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,48
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Lieutenant Governor,,REP,Wes Allen,180
+Elmore,0024 MILLBROOK MEMORIAL CTR.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,123
+Elmore,0024 MILLBROOK MEMORIAL CTR.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,335
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Secretary of State,,REP,Caroleene Dobson,345
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Secretary of State,,REP,Christopher Christian Horn,95
+Elmore,0024 MILLBROOK MEMORIAL CTR.,Secretary of State,,REP,Glenda S. Jackson,50
+Elmore,0024 MILLBROOK MEMORIAL CTR.,State Auditor,,REP,Andrew Sorrell,287
+Elmore,0024 MILLBROOK MEMORIAL CTR.,State Auditor,,REP,Derek Chen,201
+Elmore,0024 MILLBROOK MEMORIAL CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,124
+Elmore,0024 MILLBROOK MEMORIAL CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,338
+Elmore,0024 MILLBROOK MEMORIAL CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,219
+Elmore,0024 MILLBROOK MEMORIAL CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,222
+Elmore,0024 MILLBROOK MEMORIAL CTR.,State Treasurer,,REP,Steve Lolley,114
+Elmore,0024 MILLBROOK MEMORIAL CTR.,State Treasurer,,REP,Young Boozer,389
+Elmore,0024 MILLBROOK MEMORIAL CTR.,U.S. House,6,REP,Case Dixon,92
+Elmore,0024 MILLBROOK MEMORIAL CTR.,U.S. House,6,REP,Gary Palmer,395
+Elmore,0024 MILLBROOK MEMORIAL CTR.,U.S. Senate,,REP,Barry Moore,268
+Elmore,0024 MILLBROOK MEMORIAL CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,8
+Elmore,0024 MILLBROOK MEMORIAL CTR.,U.S. Senate,,REP,Jared Hudson,93
+Elmore,0024 MILLBROOK MEMORIAL CTR.,U.S. Senate,,REP,Morgan Murphy,11
+Elmore,0024 MILLBROOK MEMORIAL CTR.,U.S. Senate,,REP,Rodney Walker,6
+Elmore,0024 MILLBROOK MEMORIAL CTR.,U.S. Senate,,REP,Seth Burton,13
+Elmore,0024 MILLBROOK MEMORIAL CTR.,U.S. Senate,,REP,Steve Marshall,125
+Elmore,0025 MLK JR REC. CTR.,Governor,,DEM,"Chad ""Chig"" Martin",9
+Elmore,0025 MLK JR REC. CTR.,Governor,,DEM,Doug Jones,310
 Elmore,0025 MLK JR REC. CTR.,Governor,,DEM,Jamel J. Brown,37
+Elmore,0025 MLK JR REC. CTR.,Governor,,DEM,"Nathan ""Nate"" Mathis",1
 Elmore,0025 MLK JR REC. CTR.,Governor,,DEM,Will Boyd,44
 Elmore,0025 MLK JR REC. CTR.,Governor,,DEM,Yolanda Rochelle Flowers,22
 Elmore,0025 MLK JR REC. CTR.,Lieutenant Governor,,DEM,Darryl D. Perryman,165
@@ -271,10 +1542,63 @@ Elmore,0025 MLK JR REC. CTR.,Lieutenant Governor,,DEM,Phillip Ensler,235
 Elmore,0025 MLK JR REC. CTR.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,223
 Elmore,0025 MLK JR REC. CTR.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,110
 Elmore,0025 MLK JR REC. CTR.,"Public Service Commissioner, Place 1",,DEM,John Northrop,56
+Elmore,0025 MLK JR REC. CTR.,State Democratic Executive Committee,,DEM,Lee Lindsay,65
+Elmore,0025 MLK JR REC. CTR.,State Democratic Executive Committee,,DEM,Walter C. Lacey,333
+Elmore,0025 MLK JR REC. CTR.,U.S. Senate,,DEM,Dakarai Larriett,136
+Elmore,0025 MLK JR REC. CTR.,U.S. Senate,,DEM,Everett Wess,136
+Elmore,0025 MLK JR REC. CTR.,U.S. Senate,,DEM,Kyle Sweetser,50
+Elmore,0025 MLK JR REC. CTR.,U.S. Senate,,DEM,Mark S. Wheeler II,72
+Elmore,0025 MLK JR REC. CTR.,Governor,,REP,"""Alabama"" Will Santivasci",15
 Elmore,0025 MLK JR REC. CTR.,Governor,,REP,Ken McFeeters,47
+Elmore,0025 MLK JR REC. CTR.,Governor,,REP,Thomas Tuberville,373
+Elmore,0025 MLK JR REC. CTR.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,66
 Elmore,0025 MLK JR REC. CTR.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,76
+Elmore,0025 MLK JR REC. CTR.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,199
 Elmore,0025 MLK JR REC. CTR.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,45
+Elmore,0025 MLK JR REC. CTR.,Attorney General,,REP,Jay Mitchell,156
+Elmore,0025 MLK JR REC. CTR.,Attorney General,,REP,Katherine Robertson,141
+Elmore,0025 MLK JR REC. CTR.,Attorney General,,REP,Pamela L. Casey,119
+Elmore,0025 MLK JR REC. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,33
+Elmore,0025 MLK JR REC. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,161
+Elmore,0025 MLK JR REC. CTR.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,204
+Elmore,0025 MLK JR REC. CTR.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,148
+Elmore,0025 MLK JR REC. CTR.,Commissioner of Agriculture and Industries,,REP,Cory Hill,138
+Elmore,0025 MLK JR REC. CTR.,Commissioner of Agriculture and Industries,,REP,Jack Williams,100
+Elmore,0025 MLK JR REC. CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,249
+Elmore,0025 MLK JR REC. CTR.,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",181
+Elmore,0025 MLK JR REC. CTR.,Lieutenant Governor,,REP,George Childress,7
+Elmore,0025 MLK JR REC. CTR.,Lieutenant Governor,,REP,John Wahl,140
+Elmore,0025 MLK JR REC. CTR.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,33
+Elmore,0025 MLK JR REC. CTR.,Lieutenant Governor,,REP,Pat Bishop,9
+Elmore,0025 MLK JR REC. CTR.,Lieutenant Governor,,REP,Rick Pate,57
+Elmore,0025 MLK JR REC. CTR.,Lieutenant Governor,,REP,Stewart Hill Tankersley,29
+Elmore,0025 MLK JR REC. CTR.,Lieutenant Governor,,REP,Wes Allen,152
+Elmore,0025 MLK JR REC. CTR.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,74
+Elmore,0025 MLK JR REC. CTR.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,294
+Elmore,0025 MLK JR REC. CTR.,Secretary of State,,REP,Caroleene Dobson,295
+Elmore,0025 MLK JR REC. CTR.,Secretary of State,,REP,Christopher Christian Horn,69
+Elmore,0025 MLK JR REC. CTR.,Secretary of State,,REP,Glenda S. Jackson,39
+Elmore,0025 MLK JR REC. CTR.,State Auditor,,REP,Andrew Sorrell,247
+Elmore,0025 MLK JR REC. CTR.,State Auditor,,REP,Derek Chen,151
+Elmore,0025 MLK JR REC. CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,110
+Elmore,0025 MLK JR REC. CTR.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,283
+Elmore,0025 MLK JR REC. CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,195
+Elmore,0025 MLK JR REC. CTR.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,199
+Elmore,0025 MLK JR REC. CTR.,State Treasurer,,REP,Steve Lolley,83
+Elmore,0025 MLK JR REC. CTR.,State Treasurer,,REP,Young Boozer,332
+Elmore,0025 MLK JR REC. CTR.,U.S. House,6,REP,Case Dixon,101
+Elmore,0025 MLK JR REC. CTR.,U.S. House,6,REP,Gary Palmer,294
+Elmore,0025 MLK JR REC. CTR.,U.S. Senate,,REP,Barry Moore,221
+Elmore,0025 MLK JR REC. CTR.,U.S. Senate,,REP,Dale Shelton Deas Jr.,5
+Elmore,0025 MLK JR REC. CTR.,U.S. Senate,,REP,Jared Hudson,70
+Elmore,0025 MLK JR REC. CTR.,U.S. Senate,,REP,Morgan Murphy,8
+Elmore,0025 MLK JR REC. CTR.,U.S. Senate,,REP,Rodney Walker,23
+Elmore,0025 MLK JR REC. CTR.,U.S. Senate,,REP,Seth Burton,8
+Elmore,0025 MLK JR REC. CTR.,U.S. Senate,,REP,Steve Marshall,102
+Elmore,0026 RUSHENVILLE BAPT.,Governor,,DEM,"Chad ""Chig"" Martin",7
+Elmore,0026 RUSHENVILLE BAPT.,Governor,,DEM,Doug Jones,9
 Elmore,0026 RUSHENVILLE BAPT.,Governor,,DEM,Jamel J. Brown,3
+Elmore,0026 RUSHENVILLE BAPT.,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0026 RUSHENVILLE BAPT.,Governor,,DEM,Will Boyd,3
 Elmore,0026 RUSHENVILLE BAPT.,Governor,,DEM,Yolanda Rochelle Flowers,2
 Elmore,0026 RUSHENVILLE BAPT.,Lieutenant Governor,,DEM,Darryl D. Perryman,11
@@ -282,10 +1606,63 @@ Elmore,0026 RUSHENVILLE BAPT.,Lieutenant Governor,,DEM,Phillip Ensler,13
 Elmore,0026 RUSHENVILLE BAPT.,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,6
 Elmore,0026 RUSHENVILLE BAPT.,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,12
 Elmore,0026 RUSHENVILLE BAPT.,"Public Service Commissioner, Place 1",,DEM,John Northrop,6
+Elmore,0026 RUSHENVILLE BAPT.,State Democratic Executive Committee,,DEM,Lee Lindsay,6
+Elmore,0026 RUSHENVILLE BAPT.,State Democratic Executive Committee,,DEM,Walter C. Lacey,18
+Elmore,0026 RUSHENVILLE BAPT.,U.S. Senate,,DEM,Dakarai Larriett,11
+Elmore,0026 RUSHENVILLE BAPT.,U.S. Senate,,DEM,Everett Wess,2
+Elmore,0026 RUSHENVILLE BAPT.,U.S. Senate,,DEM,Kyle Sweetser,5
+Elmore,0026 RUSHENVILLE BAPT.,U.S. Senate,,DEM,Mark S. Wheeler II,6
+Elmore,0026 RUSHENVILLE BAPT.,Governor,,REP,"""Alabama"" Will Santivasci",2
 Elmore,0026 RUSHENVILLE BAPT.,Governor,,REP,Ken McFeeters,7
+Elmore,0026 RUSHENVILLE BAPT.,Governor,,REP,Thomas Tuberville,297
+Elmore,0026 RUSHENVILLE BAPT.,"Public Service Commission, Place No. 2",,REP,Brent Woodall,38
 Elmore,0026 RUSHENVILLE BAPT.,"Public Service Commission, Place No. 2",,REP,Chris Beeker,73
+Elmore,0026 RUSHENVILLE BAPT.,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,139
 Elmore,0026 RUSHENVILLE BAPT.,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,23
+Elmore,0026 RUSHENVILLE BAPT.,Attorney General,,REP,Jay Mitchell,121
+Elmore,0026 RUSHENVILLE BAPT.,Attorney General,,REP,Katherine Robertson,112
+Elmore,0026 RUSHENVILLE BAPT.,Attorney General,,REP,Pamela L. Casey,63
+Elmore,0026 RUSHENVILLE BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,21
+Elmore,0026 RUSHENVILLE BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,91
+Elmore,0026 RUSHENVILLE BAPT.,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,161
+Elmore,0026 RUSHENVILLE BAPT.,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,79
+Elmore,0026 RUSHENVILLE BAPT.,Commissioner of Agriculture and Industries,,REP,Cory Hill,115
+Elmore,0026 RUSHENVILLE BAPT.,Commissioner of Agriculture and Industries,,REP,Jack Williams,82
+Elmore,0026 RUSHENVILLE BAPT.,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,123
+Elmore,0026 RUSHENVILLE BAPT.,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",167
+Elmore,0026 RUSHENVILLE BAPT.,Lieutenant Governor,,REP,George Childress,2
+Elmore,0026 RUSHENVILLE BAPT.,Lieutenant Governor,,REP,John Wahl,99
+Elmore,0026 RUSHENVILLE BAPT.,Lieutenant Governor,,REP,Nicole Jones Wadsworth,10
+Elmore,0026 RUSHENVILLE BAPT.,Lieutenant Governor,,REP,Pat Bishop,3
+Elmore,0026 RUSHENVILLE BAPT.,Lieutenant Governor,,REP,Rick Pate,46
+Elmore,0026 RUSHENVILLE BAPT.,Lieutenant Governor,,REP,Stewart Hill Tankersley,13
+Elmore,0026 RUSHENVILLE BAPT.,Lieutenant Governor,,REP,Wes Allen,126
+Elmore,0026 RUSHENVILLE BAPT.,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,55
+Elmore,0026 RUSHENVILLE BAPT.,"Public Service Commission, Place No. 1",,REP,Matt Gentry,210
+Elmore,0026 RUSHENVILLE BAPT.,Secretary of State,,REP,Caroleene Dobson,202
+Elmore,0026 RUSHENVILLE BAPT.,Secretary of State,,REP,Christopher Christian Horn,48
+Elmore,0026 RUSHENVILLE BAPT.,Secretary of State,,REP,Glenda S. Jackson,28
+Elmore,0026 RUSHENVILLE BAPT.,State Auditor,,REP,Andrew Sorrell,168
+Elmore,0026 RUSHENVILLE BAPT.,State Auditor,,REP,Derek Chen,108
+Elmore,0026 RUSHENVILLE BAPT.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,57
+Elmore,0026 RUSHENVILLE BAPT.,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,223
+Elmore,0026 RUSHENVILLE BAPT.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,134
+Elmore,0026 RUSHENVILLE BAPT.,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,135
+Elmore,0026 RUSHENVILLE BAPT.,State Treasurer,,REP,Steve Lolley,57
+Elmore,0026 RUSHENVILLE BAPT.,State Treasurer,,REP,Young Boozer,231
+Elmore,0026 RUSHENVILLE BAPT.,U.S. House,6,REP,Case Dixon,75
+Elmore,0026 RUSHENVILLE BAPT.,U.S. House,6,REP,Gary Palmer,202
+Elmore,0026 RUSHENVILLE BAPT.,U.S. Senate,,REP,Barry Moore,172
+Elmore,0026 RUSHENVILLE BAPT.,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
+Elmore,0026 RUSHENVILLE BAPT.,U.S. Senate,,REP,Jared Hudson,55
+Elmore,0026 RUSHENVILLE BAPT.,U.S. Senate,,REP,Morgan Murphy,1
+Elmore,0026 RUSHENVILLE BAPT.,U.S. Senate,,REP,Rodney Walker,7
+Elmore,0026 RUSHENVILLE BAPT.,U.S. Senate,,REP,Seth Burton,3
+Elmore,0026 RUSHENVILLE BAPT.,U.S. Senate,,REP,Steve Marshall,66
+Elmore,0027 BLUE RIDGE BAPT CH,Governor,,DEM,"Chad ""Chig"" Martin",6
+Elmore,0027 BLUE RIDGE BAPT CH,Governor,,DEM,Doug Jones,46
 Elmore,0027 BLUE RIDGE BAPT CH,Governor,,DEM,Jamel J. Brown,1
+Elmore,0027 BLUE RIDGE BAPT CH,Governor,,DEM,"Nathan ""Nate"" Mathis",0
 Elmore,0027 BLUE RIDGE BAPT CH,Governor,,DEM,Will Boyd,3
 Elmore,0027 BLUE RIDGE BAPT CH,Governor,,DEM,Yolanda Rochelle Flowers,8
 Elmore,0027 BLUE RIDGE BAPT CH,Lieutenant Governor,,DEM,Darryl D. Perryman,18
@@ -293,10 +1670,64 @@ Elmore,0027 BLUE RIDGE BAPT CH,Lieutenant Governor,,DEM,Phillip Ensler,41
 Elmore,0027 BLUE RIDGE BAPT CH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,27
 Elmore,0027 BLUE RIDGE BAPT CH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,17
 Elmore,0027 BLUE RIDGE BAPT CH,"Public Service Commissioner, Place 1",,DEM,John Northrop,7
+Elmore,0027 BLUE RIDGE BAPT CH,State Democratic Executive Committee,,DEM,David S. Barley,11
+Elmore,0027 BLUE RIDGE BAPT CH,State Democratic Executive Committee,,DEM,"James R. Lawlor, IV",7
+Elmore,0027 BLUE RIDGE BAPT CH,State Democratic Executive Committee,,DEM,Willie J. Parker,33
+Elmore,0027 BLUE RIDGE BAPT CH,U.S. Senate,,DEM,Dakarai Larriett,19
+Elmore,0027 BLUE RIDGE BAPT CH,U.S. Senate,,DEM,Everett Wess,15
+Elmore,0027 BLUE RIDGE BAPT CH,U.S. Senate,,DEM,Kyle Sweetser,11
+Elmore,0027 BLUE RIDGE BAPT CH,U.S. Senate,,DEM,Mark S. Wheeler II,11
+Elmore,0027 BLUE RIDGE BAPT CH,Governor,,REP,"""Alabama"" Will Santivasci",14
 Elmore,0027 BLUE RIDGE BAPT CH,Governor,,REP,Ken McFeeters,27
+Elmore,0027 BLUE RIDGE BAPT CH,Governor,,REP,Thomas Tuberville,343
+Elmore,0027 BLUE RIDGE BAPT CH,"Public Service Commission, Place No. 2",,REP,Brent Woodall,58
 Elmore,0027 BLUE RIDGE BAPT CH,"Public Service Commission, Place No. 2",,REP,Chris Beeker,72
+Elmore,0027 BLUE RIDGE BAPT CH,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,179
 Elmore,0027 BLUE RIDGE BAPT CH,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,33
+Elmore,0027 BLUE RIDGE BAPT CH,Attorney General,,REP,Jay Mitchell,138
+Elmore,0027 BLUE RIDGE BAPT CH,Attorney General,,REP,Katherine Robertson,119
+Elmore,0027 BLUE RIDGE BAPT CH,Attorney General,,REP,Pamela L. Casey,110
+Elmore,0027 BLUE RIDGE BAPT CH,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,34
+Elmore,0027 BLUE RIDGE BAPT CH,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,149
+Elmore,0027 BLUE RIDGE BAPT CH,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,153
+Elmore,0027 BLUE RIDGE BAPT CH,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,130
+Elmore,0027 BLUE RIDGE BAPT CH,Commissioner of Agriculture and Industries,,REP,Cory Hill,125
+Elmore,0027 BLUE RIDGE BAPT CH,Commissioner of Agriculture and Industries,,REP,Jack Williams,90
+Elmore,0027 BLUE RIDGE BAPT CH,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,156
+Elmore,0027 BLUE RIDGE BAPT CH,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",192
+Elmore,0027 BLUE RIDGE BAPT CH,Lieutenant Governor,,REP,George Childress,3
+Elmore,0027 BLUE RIDGE BAPT CH,Lieutenant Governor,,REP,John Wahl,107
+Elmore,0027 BLUE RIDGE BAPT CH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,17
+Elmore,0027 BLUE RIDGE BAPT CH,Lieutenant Governor,,REP,Pat Bishop,8
+Elmore,0027 BLUE RIDGE BAPT CH,Lieutenant Governor,,REP,Rick Pate,53
+Elmore,0027 BLUE RIDGE BAPT CH,Lieutenant Governor,,REP,Stewart Hill Tankersley,47
+Elmore,0027 BLUE RIDGE BAPT CH,Lieutenant Governor,,REP,Wes Allen,134
+Elmore,0027 BLUE RIDGE BAPT CH,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,94
+Elmore,0027 BLUE RIDGE BAPT CH,"Public Service Commission, Place No. 1",,REP,Matt Gentry,235
+Elmore,0027 BLUE RIDGE BAPT CH,Secretary of State,,REP,Caroleene Dobson,273
+Elmore,0027 BLUE RIDGE BAPT CH,Secretary of State,,REP,Christopher Christian Horn,57
+Elmore,0027 BLUE RIDGE BAPT CH,Secretary of State,,REP,Glenda S. Jackson,17
+Elmore,0027 BLUE RIDGE BAPT CH,State Auditor,,REP,Andrew Sorrell,235
+Elmore,0027 BLUE RIDGE BAPT CH,State Auditor,,REP,Derek Chen,120
+Elmore,0027 BLUE RIDGE BAPT CH,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,88
+Elmore,0027 BLUE RIDGE BAPT CH,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,261
+Elmore,0027 BLUE RIDGE BAPT CH,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,157
+Elmore,0027 BLUE RIDGE BAPT CH,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,177
+Elmore,0027 BLUE RIDGE BAPT CH,State Treasurer,,REP,Steve Lolley,72
+Elmore,0027 BLUE RIDGE BAPT CH,State Treasurer,,REP,Young Boozer,302
+Elmore,0027 BLUE RIDGE BAPT CH,U.S. House,6,REP,Case Dixon,70
+Elmore,0027 BLUE RIDGE BAPT CH,U.S. House,6,REP,Gary Palmer,269
+Elmore,0027 BLUE RIDGE BAPT CH,U.S. Senate,,REP,Barry Moore,175
+Elmore,0027 BLUE RIDGE BAPT CH,U.S. Senate,,REP,Dale Shelton Deas Jr.,6
+Elmore,0027 BLUE RIDGE BAPT CH,U.S. Senate,,REP,Jared Hudson,70
+Elmore,0027 BLUE RIDGE BAPT CH,U.S. Senate,,REP,Morgan Murphy,3
+Elmore,0027 BLUE RIDGE BAPT CH,U.S. Senate,,REP,Rodney Walker,14
+Elmore,0027 BLUE RIDGE BAPT CH,U.S. Senate,,REP,Seth Burton,8
+Elmore,0027 BLUE RIDGE BAPT CH,U.S. Senate,,REP,Steve Marshall,108
+Elmore,0028 MULDER CHURCH,Governor,,DEM,"Chad ""Chig"" Martin",8
+Elmore,0028 MULDER CHURCH,Governor,,DEM,Doug Jones,467
 Elmore,0028 MULDER CHURCH,Governor,,DEM,Jamel J. Brown,23
+Elmore,0028 MULDER CHURCH,Governor,,DEM,"Nathan ""Nate"" Mathis",3
 Elmore,0028 MULDER CHURCH,Governor,,DEM,Will Boyd,50
 Elmore,0028 MULDER CHURCH,Governor,,DEM,Yolanda Rochelle Flowers,22
 Elmore,0028 MULDER CHURCH,Lieutenant Governor,,DEM,Darryl D. Perryman,207
@@ -304,10 +1735,64 @@ Elmore,0028 MULDER CHURCH,Lieutenant Governor,,DEM,Phillip Ensler,357
 Elmore,0028 MULDER CHURCH,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,306
 Elmore,0028 MULDER CHURCH,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,146
 Elmore,0028 MULDER CHURCH,"Public Service Commissioner, Place 1",,DEM,John Northrop,96
+Elmore,0028 MULDER CHURCH,State Democratic Executive Committee,,DEM,David S. Barley,128
+Elmore,0028 MULDER CHURCH,State Democratic Executive Committee,,DEM,"James R. Lawlor, IV",94
+Elmore,0028 MULDER CHURCH,State Democratic Executive Committee,,DEM,Willie J. Parker,314
+Elmore,0028 MULDER CHURCH,U.S. Senate,,DEM,Dakarai Larriett,201
+Elmore,0028 MULDER CHURCH,U.S. Senate,,DEM,Everett Wess,161
+Elmore,0028 MULDER CHURCH,U.S. Senate,,DEM,Kyle Sweetser,74
+Elmore,0028 MULDER CHURCH,U.S. Senate,,DEM,Mark S. Wheeler II,119
+Elmore,0028 MULDER CHURCH,Governor,,REP,"""Alabama"" Will Santivasci",55
 Elmore,0028 MULDER CHURCH,Governor,,REP,Ken McFeeters,87
+Elmore,0028 MULDER CHURCH,Governor,,REP,Thomas Tuberville,1157
+Elmore,0028 MULDER CHURCH,"Public Service Commission, Place No. 2",,REP,Brent Woodall,209
 Elmore,0028 MULDER CHURCH,"Public Service Commission, Place No. 2",,REP,Chris Beeker,234
+Elmore,0028 MULDER CHURCH,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,601
 Elmore,0028 MULDER CHURCH,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,121
+Elmore,0028 MULDER CHURCH,Attorney General,,REP,Jay Mitchell,523
+Elmore,0028 MULDER CHURCH,Attorney General,,REP,Katherine Robertson,400
+Elmore,0028 MULDER CHURCH,Attorney General,,REP,Pamela L. Casey,327
+Elmore,0028 MULDER CHURCH,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,114
+Elmore,0028 MULDER CHURCH,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,433
+Elmore,0028 MULDER CHURCH,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,595
+Elmore,0028 MULDER CHURCH,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,445
+Elmore,0028 MULDER CHURCH,Commissioner of Agriculture and Industries,,REP,Cory Hill,439
+Elmore,0028 MULDER CHURCH,Commissioner of Agriculture and Industries,,REP,Jack Williams,294
+Elmore,0028 MULDER CHURCH,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,563
+Elmore,0028 MULDER CHURCH,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",613
+Elmore,0028 MULDER CHURCH,Lieutenant Governor,,REP,George Childress,15
+Elmore,0028 MULDER CHURCH,Lieutenant Governor,,REP,John Wahl,385
+Elmore,0028 MULDER CHURCH,Lieutenant Governor,,REP,Nicole Jones Wadsworth,41
+Elmore,0028 MULDER CHURCH,Lieutenant Governor,,REP,Pat Bishop,22
+Elmore,0028 MULDER CHURCH,Lieutenant Governor,,REP,Rick Pate,205
+Elmore,0028 MULDER CHURCH,Lieutenant Governor,,REP,Stewart Hill Tankersley,122
+Elmore,0028 MULDER CHURCH,Lieutenant Governor,,REP,Wes Allen,486
+Elmore,0028 MULDER CHURCH,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,237
+Elmore,0028 MULDER CHURCH,"Public Service Commission, Place No. 1",,REP,Matt Gentry,895
+Elmore,0028 MULDER CHURCH,Secretary of State,,REP,Caroleene Dobson,957
+Elmore,0028 MULDER CHURCH,Secretary of State,,REP,Christopher Christian Horn,171
+Elmore,0028 MULDER CHURCH,Secretary of State,,REP,Glenda S. Jackson,80
+Elmore,0028 MULDER CHURCH,State Auditor,,REP,Andrew Sorrell,768
+Elmore,0028 MULDER CHURCH,State Auditor,,REP,Derek Chen,422
+Elmore,0028 MULDER CHURCH,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,298
+Elmore,0028 MULDER CHURCH,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,845
+Elmore,0028 MULDER CHURCH,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,429
+Elmore,0028 MULDER CHURCH,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,682
+Elmore,0028 MULDER CHURCH,State Treasurer,,REP,Steve Lolley,227
+Elmore,0028 MULDER CHURCH,State Treasurer,,REP,Young Boozer,1016
+Elmore,0028 MULDER CHURCH,U.S. House,6,REP,Case Dixon,248
+Elmore,0028 MULDER CHURCH,U.S. House,6,REP,Gary Palmer,923
+Elmore,0028 MULDER CHURCH,U.S. Senate,,REP,Barry Moore,626
+Elmore,0028 MULDER CHURCH,U.S. Senate,,REP,Dale Shelton Deas Jr.,15
+Elmore,0028 MULDER CHURCH,U.S. Senate,,REP,Jared Hudson,233
+Elmore,0028 MULDER CHURCH,U.S. Senate,,REP,Morgan Murphy,10
+Elmore,0028 MULDER CHURCH,U.S. Senate,,REP,Rodney Walker,29
+Elmore,0028 MULDER CHURCH,U.S. Senate,,REP,Seth Burton,30
+Elmore,0028 MULDER CHURCH,U.S. Senate,,REP,Steve Marshall,350
+Elmore,0029 ROCK SPRGS. VTG HSE,Governor,,DEM,"Chad ""Chig"" Martin",2
+Elmore,0029 ROCK SPRGS. VTG HSE,Governor,,DEM,Doug Jones,29
 Elmore,0029 ROCK SPRGS. VTG HSE,Governor,,DEM,Jamel J. Brown,4
+Elmore,0029 ROCK SPRGS. VTG HSE,Governor,,DEM,"Nathan ""Nate"" Mathis",2
 Elmore,0029 ROCK SPRGS. VTG HSE,Governor,,DEM,Will Boyd,7
 Elmore,0029 ROCK SPRGS. VTG HSE,Governor,,DEM,Yolanda Rochelle Flowers,4
 Elmore,0029 ROCK SPRGS. VTG HSE,Lieutenant Governor,,DEM,Darryl D. Perryman,25
@@ -315,12 +1800,191 @@ Elmore,0029 ROCK SPRGS. VTG HSE,Lieutenant Governor,,DEM,Phillip Ensler,21
 Elmore,0029 ROCK SPRGS. VTG HSE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,18
 Elmore,0029 ROCK SPRGS. VTG HSE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,22
 Elmore,0029 ROCK SPRGS. VTG HSE,"Public Service Commissioner, Place 1",,DEM,John Northrop,6
+Elmore,0029 ROCK SPRGS. VTG HSE,State Democratic Executive Committee,,DEM,David S. Barley,19
+Elmore,0029 ROCK SPRGS. VTG HSE,State Democratic Executive Committee,,DEM,"James R. Lawlor, IV",4
+Elmore,0029 ROCK SPRGS. VTG HSE,State Democratic Executive Committee,,DEM,Willie J. Parker,23
+Elmore,0029 ROCK SPRGS. VTG HSE,U.S. Senate,,DEM,Dakarai Larriett,14
+Elmore,0029 ROCK SPRGS. VTG HSE,U.S. Senate,,DEM,Everett Wess,16
+Elmore,0029 ROCK SPRGS. VTG HSE,U.S. Senate,,DEM,Kyle Sweetser,4
+Elmore,0029 ROCK SPRGS. VTG HSE,U.S. Senate,,DEM,Mark S. Wheeler II,13
+Elmore,0029 ROCK SPRGS. VTG HSE,Governor,,REP,"""Alabama"" Will Santivasci",2
 Elmore,0029 ROCK SPRGS. VTG HSE,Governor,,REP,Ken McFeeters,11
+Elmore,0029 ROCK SPRGS. VTG HSE,Governor,,REP,Thomas Tuberville,113
+Elmore,0029 ROCK SPRGS. VTG HSE,"Public Service Commission, Place No. 2",,REP,Brent Woodall,17
 Elmore,0029 ROCK SPRGS. VTG HSE,"Public Service Commission, Place No. 2",,REP,Chris Beeker,22
+Elmore,0029 ROCK SPRGS. VTG HSE,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,61
 Elmore,0029 ROCK SPRGS. VTG HSE,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,7
+Elmore,0029 ROCK SPRGS. VTG HSE,Attorney General,,REP,Jay Mitchell,52
+Elmore,0029 ROCK SPRGS. VTG HSE,Attorney General,,REP,Katherine Robertson,41
+Elmore,0029 ROCK SPRGS. VTG HSE,Attorney General,,REP,Pamela L. Casey,23
+Elmore,0029 ROCK SPRGS. VTG HSE,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,6
+Elmore,0029 ROCK SPRGS. VTG HSE,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,47
+Elmore,0029 ROCK SPRGS. VTG HSE,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,54
+Elmore,0029 ROCK SPRGS. VTG HSE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,37
+Elmore,0029 ROCK SPRGS. VTG HSE,Commissioner of Agriculture and Industries,,REP,Cory Hill,57
+Elmore,0029 ROCK SPRGS. VTG HSE,Commissioner of Agriculture and Industries,,REP,Jack Williams,15
+Elmore,0029 ROCK SPRGS. VTG HSE,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,54
+Elmore,0029 ROCK SPRGS. VTG HSE,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",47
+Elmore,0029 ROCK SPRGS. VTG HSE,Lieutenant Governor,,REP,George Childress,1
+Elmore,0029 ROCK SPRGS. VTG HSE,Lieutenant Governor,,REP,John Wahl,38
+Elmore,0029 ROCK SPRGS. VTG HSE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,2
+Elmore,0029 ROCK SPRGS. VTG HSE,Lieutenant Governor,,REP,Pat Bishop,3
+Elmore,0029 ROCK SPRGS. VTG HSE,Lieutenant Governor,,REP,Rick Pate,15
+Elmore,0029 ROCK SPRGS. VTG HSE,Lieutenant Governor,,REP,Stewart Hill Tankersley,6
+Elmore,0029 ROCK SPRGS. VTG HSE,Lieutenant Governor,,REP,Wes Allen,55
+Elmore,0029 ROCK SPRGS. VTG HSE,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,24
+Elmore,0029 ROCK SPRGS. VTG HSE,"Public Service Commission, Place No. 1",,REP,Matt Gentry,79
+Elmore,0029 ROCK SPRGS. VTG HSE,Secretary of State,,REP,Caroleene Dobson,88
+Elmore,0029 ROCK SPRGS. VTG HSE,Secretary of State,,REP,Christopher Christian Horn,17
+Elmore,0029 ROCK SPRGS. VTG HSE,Secretary of State,,REP,Glenda S. Jackson,5
+Elmore,0029 ROCK SPRGS. VTG HSE,State Auditor,,REP,Andrew Sorrell,67
+Elmore,0029 ROCK SPRGS. VTG HSE,State Auditor,,REP,Derek Chen,43
+Elmore,0029 ROCK SPRGS. VTG HSE,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,18
+Elmore,0029 ROCK SPRGS. VTG HSE,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,86
+Elmore,0029 ROCK SPRGS. VTG HSE,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,44
+Elmore,0029 ROCK SPRGS. VTG HSE,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,53
+Elmore,0029 ROCK SPRGS. VTG HSE,State Treasurer,,REP,Steve Lolley,15
+Elmore,0029 ROCK SPRGS. VTG HSE,State Treasurer,,REP,Young Boozer,99
+Elmore,0029 ROCK SPRGS. VTG HSE,U.S. House,6,REP,Case Dixon,30
+Elmore,0029 ROCK SPRGS. VTG HSE,U.S. House,6,REP,Gary Palmer,75
+Elmore,0029 ROCK SPRGS. VTG HSE,U.S. Senate,,REP,Barry Moore,61
+Elmore,0029 ROCK SPRGS. VTG HSE,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Elmore,0029 ROCK SPRGS. VTG HSE,U.S. Senate,,REP,Jared Hudson,23
+Elmore,0029 ROCK SPRGS. VTG HSE,U.S. Senate,,REP,Morgan Murphy,0
+Elmore,0029 ROCK SPRGS. VTG HSE,U.S. Senate,,REP,Rodney Walker,2
+Elmore,0029 ROCK SPRGS. VTG HSE,U.S. Senate,,REP,Seth Burton,1
+Elmore,0029 ROCK SPRGS. VTG HSE,U.S. Senate,,REP,Steve Marshall,36
+Elmore,0030 ABSENTEE,Governor,,DEM,"Chad ""Chig"" Martin",2
+Elmore,0030 ABSENTEE,Governor,,DEM,Doug Jones,31
+Elmore,0030 ABSENTEE,Governor,,DEM,Jamel J. Brown,4
+Elmore,0030 ABSENTEE,Governor,,DEM,"Nathan ""Nate"" Mathis",0
+Elmore,0030 ABSENTEE,Governor,,DEM,Will Boyd,0
+Elmore,0030 ABSENTEE,Governor,,DEM,Yolanda Rochelle Flowers,3
+Elmore,0030 ABSENTEE,Lieutenant Governor,,DEM,Darryl D. Perryman,10
+Elmore,0030 ABSENTEE,Lieutenant Governor,,DEM,Phillip Ensler,25
 Elmore,0030 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,17
 Elmore,0030 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,8
 Elmore,0030 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,John Northrop,9
-Elmore,0031 PROVISIONAL,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,0
-Elmore,0031 PROVISIONAL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,0
+Elmore,0030 ABSENTEE,State Democratic Executive Committee,,DEM,David S. Barley,2
+Elmore,0030 ABSENTEE,State Democratic Executive Committee,,DEM,"James R. Lawlor, IV",0
+Elmore,0030 ABSENTEE,State Democratic Executive Committee,,DEM,Lee Lindsay,3
+Elmore,0030 ABSENTEE,State Democratic Executive Committee,,DEM,Walter C. Lacey,15
+Elmore,0030 ABSENTEE,State Democratic Executive Committee,,DEM,Willie J. Parker,4
+Elmore,0030 ABSENTEE,U.S. Senate,,DEM,Dakarai Larriett,12
+Elmore,0030 ABSENTEE,U.S. Senate,,DEM,Everett Wess,10
+Elmore,0030 ABSENTEE,U.S. Senate,,DEM,Kyle Sweetser,6
+Elmore,0030 ABSENTEE,U.S. Senate,,DEM,Mark S. Wheeler II,7
+Elmore,0030 ABSENTEE,Governor,,REP,"""Alabama"" Will Santivasci",3
+Elmore,0030 ABSENTEE,Governor,,REP,Ken McFeeters,16
+Elmore,0030 ABSENTEE,Governor,,REP,Thomas Tuberville,108
+Elmore,0030 ABSENTEE,"Public Service Commission, Place No. 2",,REP,Brent Woodall,23
+Elmore,0030 ABSENTEE,"Public Service Commission, Place No. 2",,REP,Chris Beeker,23
+Elmore,0030 ABSENTEE,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,60
+Elmore,0030 ABSENTEE,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,7
+Elmore,0030 ABSENTEE,Attorney General,,REP,Jay Mitchell,50
+Elmore,0030 ABSENTEE,Attorney General,,REP,Katherine Robertson,48
+Elmore,0030 ABSENTEE,Attorney General,,REP,Pamela L. Casey,27
+Elmore,0030 ABSENTEE,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,11
+Elmore,0030 ABSENTEE,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,39
+Elmore,0030 ABSENTEE,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,61
+Elmore,0030 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,29
+Elmore,0030 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Cory Hill,49
+Elmore,0030 ABSENTEE,Commissioner of Agriculture and Industries,,REP,Jack Williams,36
+Elmore,0030 ABSENTEE,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,74
+Elmore,0030 ABSENTEE,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",64
+Elmore,0030 ABSENTEE,Lieutenant Governor,,REP,George Childress,0
+Elmore,0030 ABSENTEE,Lieutenant Governor,,REP,John Wahl,25
+Elmore,0030 ABSENTEE,Lieutenant Governor,,REP,Nicole Jones Wadsworth,2
+Elmore,0030 ABSENTEE,Lieutenant Governor,,REP,Pat Bishop,3
+Elmore,0030 ABSENTEE,Lieutenant Governor,,REP,Rick Pate,18
+Elmore,0030 ABSENTEE,Lieutenant Governor,,REP,Stewart Hill Tankersley,8
+Elmore,0030 ABSENTEE,Lieutenant Governor,,REP,Wes Allen,68
+Elmore,0030 ABSENTEE,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,29
+Elmore,0030 ABSENTEE,"Public Service Commission, Place No. 1",,REP,Matt Gentry,78
+Elmore,0030 ABSENTEE,Secretary of State,,REP,Caroleene Dobson,84
+Elmore,0030 ABSENTEE,Secretary of State,,REP,Christopher Christian Horn,21
+Elmore,0030 ABSENTEE,Secretary of State,,REP,Glenda S. Jackson,17
+Elmore,0030 ABSENTEE,State Auditor,,REP,Andrew Sorrell,77
+Elmore,0030 ABSENTEE,State Auditor,,REP,Derek Chen,45
+Elmore,0030 ABSENTEE,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,26
+Elmore,0030 ABSENTEE,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,89
+Elmore,0030 ABSENTEE,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,61
+Elmore,0030 ABSENTEE,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,52
+Elmore,0030 ABSENTEE,State Treasurer,,REP,Steve Lolley,25
+Elmore,0030 ABSENTEE,State Treasurer,,REP,Young Boozer,97
+Elmore,0030 ABSENTEE,U.S. House,6,REP,Case Dixon,30
+Elmore,0030 ABSENTEE,U.S. House,6,REP,Gary Palmer,79
+Elmore,0030 ABSENTEE,U.S. Senate,,REP,Barry Moore,70
+Elmore,0030 ABSENTEE,U.S. Senate,,REP,Dale Shelton Deas Jr.,1
+Elmore,0030 ABSENTEE,U.S. Senate,,REP,Jared Hudson,26
+Elmore,0030 ABSENTEE,U.S. Senate,,REP,Morgan Murphy,3
+Elmore,0030 ABSENTEE,U.S. Senate,,REP,Rodney Walker,2
+Elmore,0030 ABSENTEE,U.S. Senate,,REP,Seth Burton,5
+Elmore,0030 ABSENTEE,U.S. Senate,,REP,Steve Marshall,20
+Elmore,0031 PROVISIONAL,Governor,,DEM,"Chad ""Chig"" Martin",0
+Elmore,0031 PROVISIONAL,Governor,,DEM,Doug Jones,4
+Elmore,0031 PROVISIONAL,Governor,,DEM,Jamel J. Brown,0
+Elmore,0031 PROVISIONAL,Governor,,DEM,"Nathan ""Nate"" Mathis",1
+Elmore,0031 PROVISIONAL,Governor,,DEM,Will Boyd,0
+Elmore,0031 PROVISIONAL,Governor,,DEM,Yolanda Rochelle Flowers,0
+Elmore,0031 PROVISIONAL,Lieutenant Governor,,DEM,Darryl D. Perryman,2
+Elmore,0031 PROVISIONAL,Lieutenant Governor,,DEM,Phillip Ensler,2
+Elmore,0031 PROVISIONAL,"Public Service Commissioner, Place 1",,DEM,James O. Gordon,1
+Elmore,0031 PROVISIONAL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,3
 Elmore,0031 PROVISIONAL,"Public Service Commissioner, Place 1",,DEM,John Northrop,0
+Elmore,0031 PROVISIONAL,State Democratic Executive Committee,,DEM,David S. Barley,0
+Elmore,0031 PROVISIONAL,State Democratic Executive Committee,,DEM,"James R. Lawlor, IV",0
+Elmore,0031 PROVISIONAL,State Democratic Executive Committee,,DEM,Lee Lindsay,1
+Elmore,0031 PROVISIONAL,State Democratic Executive Committee,,DEM,Walter C. Lacey,2
+Elmore,0031 PROVISIONAL,State Democratic Executive Committee,,DEM,Willie J. Parker,0
+Elmore,0031 PROVISIONAL,U.S. Senate,,DEM,Dakarai Larriett,0
+Elmore,0031 PROVISIONAL,U.S. Senate,,DEM,Everett Wess,2
+Elmore,0031 PROVISIONAL,U.S. Senate,,DEM,Kyle Sweetser,0
+Elmore,0031 PROVISIONAL,U.S. Senate,,DEM,Mark S. Wheeler II,1
+Elmore,0031 PROVISIONAL,Governor,,REP,"""Alabama"" Will Santivasci",0
+Elmore,0031 PROVISIONAL,Governor,,REP,Ken McFeeters,0
+Elmore,0031 PROVISIONAL,Governor,,REP,Thomas Tuberville,0
+Elmore,0031 PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Brent Woodall,0
+Elmore,0031 PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Chris Beeker,0
+Elmore,0031 PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Jim Zig Zeigler,0
+Elmore,0031 PROVISIONAL,"Public Service Commission, Place No. 2",,REP,Priscilla Andrews,0
+Elmore,0031 PROVISIONAL,Attorney General,,REP,Jay Mitchell,0
+Elmore,0031 PROVISIONAL,Attorney General,,REP,Katherine Robertson,0
+Elmore,0031 PROVISIONAL,Attorney General,,REP,Pamela L. Casey,0
+Elmore,0031 PROVISIONAL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Ali Patterson,0
+Elmore,0031 PROVISIONAL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Bradley Earl Ekdahl,0
+Elmore,0031 PROVISIONAL,"Circuit Court Judge, 19th Judicial Circuit, Place No. 5",,REP,Carol Cook Carter,0
+Elmore,0031 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Christina Woerner McInnis,0
+Elmore,0031 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Cory Hill,0
+Elmore,0031 PROVISIONAL,Commissioner of Agriculture and Industries,,REP,Jack Williams,0
+Elmore,0031 PROVISIONAL,"District Court Judge, Elmore County, Place No. 2",,REP,Desirae Lewis,0
+Elmore,0031 PROVISIONAL,"District Court Judge, Elmore County, Place No. 2",,REP,"Dwight ""Tray"" M. Richardson III",0
+Elmore,0031 PROVISIONAL,Lieutenant Governor,,REP,George Childress,0
+Elmore,0031 PROVISIONAL,Lieutenant Governor,,REP,John Wahl,0
+Elmore,0031 PROVISIONAL,Lieutenant Governor,,REP,Nicole Jones Wadsworth,0
+Elmore,0031 PROVISIONAL,Lieutenant Governor,,REP,Pat Bishop,0
+Elmore,0031 PROVISIONAL,Lieutenant Governor,,REP,Rick Pate,0
+Elmore,0031 PROVISIONAL,Lieutenant Governor,,REP,Stewart Hill Tankersley,0
+Elmore,0031 PROVISIONAL,Lieutenant Governor,,REP,Wes Allen,0
+Elmore,0031 PROVISIONAL,"Public Service Commission, Place No. 1",,REP,Jeremy H. Oden,0
+Elmore,0031 PROVISIONAL,"Public Service Commission, Place No. 1",,REP,Matt Gentry,0
+Elmore,0031 PROVISIONAL,Secretary of State,,REP,Caroleene Dobson,0
+Elmore,0031 PROVISIONAL,Secretary of State,,REP,Christopher Christian Horn,0
+Elmore,0031 PROVISIONAL,Secretary of State,,REP,Glenda S. Jackson,0
+Elmore,0031 PROVISIONAL,State Auditor,,REP,Andrew Sorrell,0
+Elmore,0031 PROVISIONAL,State Auditor,,REP,Derek Chen,0
+Elmore,0031 PROVISIONAL,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Aaron Wright,0
+Elmore,0031 PROVISIONAL,"State Republican Executive Committee, Elmore County, Place No. 1",,REP,Randall V. Houston,0
+Elmore,0031 PROVISIONAL,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Art Faulkner,0
+Elmore,0031 PROVISIONAL,"State Republican Executive Committee, Elmore County, Place No. 2",,REP,Nick J. Carter,0
+Elmore,0031 PROVISIONAL,State Treasurer,,REP,Steve Lolley,0
+Elmore,0031 PROVISIONAL,State Treasurer,,REP,Young Boozer,0
+Elmore,0031 PROVISIONAL,U.S. House,6,REP,Case Dixon,0
+Elmore,0031 PROVISIONAL,U.S. House,6,REP,Gary Palmer,0
+Elmore,0031 PROVISIONAL,U.S. Senate,,REP,Barry Moore,0
+Elmore,0031 PROVISIONAL,U.S. Senate,,REP,Dale Shelton Deas Jr.,0
+Elmore,0031 PROVISIONAL,U.S. Senate,,REP,Jared Hudson,0
+Elmore,0031 PROVISIONAL,U.S. Senate,,REP,Morgan Murphy,0
+Elmore,0031 PROVISIONAL,U.S. Senate,,REP,Rodney Walker,0
+Elmore,0031 PROVISIONAL,U.S. Senate,,REP,Seth Burton,0
+Elmore,0031 PROVISIONAL,U.S. Senate,,REP,Steve Marshall,0

@@ -23,8 +23,8 @@ Lowndes,0001 WHITE HALL TOWN HALL,"Public Service Commissioner, Place 1",,DEM,Je
 Lowndes,0001 WHITE HALL TOWN HALL,"Public Service Commissioner, Place 1",,DEM,John Northrop,27
 Lowndes,0001 WHITE HALL TOWN HALL,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,202
 Lowndes,0001 WHITE HALL TOWN HALL,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,146
-Lowndes,0001 WHITE HALL TOWN HALL,State House,69.0,DEM,Kelvin J Lawrence,357
-Lowndes,0001 WHITE HALL TOWN HALL,State House,69.0,DEM,Marshae R. Madison,72
+Lowndes,0001 WHITE HALL TOWN HALL,State House,69,DEM,Kelvin J Lawrence,357
+Lowndes,0001 WHITE HALL TOWN HALL,State House,69,DEM,Marshae R. Madison,72
 Lowndes,0001 WHITE HALL TOWN HALL,U.S. Senate,,DEM,Dakarai Larriett,55
 Lowndes,0001 WHITE HALL TOWN HALL,U.S. Senate,,DEM,Everett Wess,230
 Lowndes,0001 WHITE HALL TOWN HALL,U.S. Senate,,DEM,Kyle Sweetser,46
@@ -89,8 +89,8 @@ Lowndes,0002 LOWNDESBORO CME CHURCH,"Public Service Commissioner, Place 1",,DEM,
 Lowndes,0002 LOWNDESBORO CME CHURCH,"Public Service Commissioner, Place 1",,DEM,John Northrop,17
 Lowndes,0002 LOWNDESBORO CME CHURCH,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,53
 Lowndes,0002 LOWNDESBORO CME CHURCH,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,34
-Lowndes,0002 LOWNDESBORO CME CHURCH,State House,69.0,DEM,Kelvin J Lawrence,101
-Lowndes,0002 LOWNDESBORO CME CHURCH,State House,69.0,DEM,Marshae R. Madison,36
+Lowndes,0002 LOWNDESBORO CME CHURCH,State House,69,DEM,Kelvin J Lawrence,101
+Lowndes,0002 LOWNDESBORO CME CHURCH,State House,69,DEM,Marshae R. Madison,36
 Lowndes,0002 LOWNDESBORO CME CHURCH,U.S. Senate,,DEM,Dakarai Larriett,12
 Lowndes,0002 LOWNDESBORO CME CHURCH,U.S. Senate,,DEM,Everett Wess,27
 Lowndes,0002 LOWNDESBORO CME CHURCH,U.S. Senate,,DEM,Kyle Sweetser,17
@@ -150,8 +150,8 @@ Lowndes,0003 BETHEL CHURCH,"Public Service Commissioner, Place 1",,DEM,Jeff Rams
 Lowndes,0003 BETHEL CHURCH,"Public Service Commissioner, Place 1",,DEM,John Northrop,5
 Lowndes,0003 BETHEL CHURCH,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,90
 Lowndes,0003 BETHEL CHURCH,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,40
-Lowndes,0003 BETHEL CHURCH,State House,69.0,DEM,Kelvin J Lawrence,156
-Lowndes,0003 BETHEL CHURCH,State House,69.0,DEM,Marshae R. Madison,10
+Lowndes,0003 BETHEL CHURCH,State House,69,DEM,Kelvin J Lawrence,156
+Lowndes,0003 BETHEL CHURCH,State House,69,DEM,Marshae R. Madison,10
 Lowndes,0003 BETHEL CHURCH,U.S. Senate,,DEM,Dakarai Larriett,32
 Lowndes,0003 BETHEL CHURCH,U.S. Senate,,DEM,Everett Wess,69
 Lowndes,0003 BETHEL CHURCH,U.S. Senate,,DEM,Kyle Sweetser,16
@@ -211,8 +211,8 @@ Lowndes,0004 MOSSES TOWN HALL,"Public Service Commissioner, Place 1",,DEM,Jeff R
 Lowndes,0004 MOSSES TOWN HALL,"Public Service Commissioner, Place 1",,DEM,John Northrop,20
 Lowndes,0004 MOSSES TOWN HALL,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,116
 Lowndes,0004 MOSSES TOWN HALL,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,128
-Lowndes,0004 MOSSES TOWN HALL,State House,69.0,DEM,Kelvin J Lawrence,315
-Lowndes,0004 MOSSES TOWN HALL,State House,69.0,DEM,Marshae R. Madison,67
+Lowndes,0004 MOSSES TOWN HALL,State House,69,DEM,Kelvin J Lawrence,315
+Lowndes,0004 MOSSES TOWN HALL,State House,69,DEM,Marshae R. Madison,67
 Lowndes,0004 MOSSES TOWN HALL,U.S. Senate,,DEM,Dakarai Larriett,44
 Lowndes,0004 MOSSES TOWN HALL,U.S. Senate,,DEM,Everett Wess,205
 Lowndes,0004 MOSSES TOWN HALL,U.S. Senate,,DEM,Kyle Sweetser,31
@@ -272,8 +272,8 @@ Lowndes,0005 NEW SALEM CHURCH,"Public Service Commissioner, Place 1",,DEM,Jeff R
 Lowndes,0005 NEW SALEM CHURCH,"Public Service Commissioner, Place 1",,DEM,John Northrop,10
 Lowndes,0005 NEW SALEM CHURCH,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,91
 Lowndes,0005 NEW SALEM CHURCH,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,48
-Lowndes,0005 NEW SALEM CHURCH,State House,69.0,DEM,Kelvin J Lawrence,123
-Lowndes,0005 NEW SALEM CHURCH,State House,69.0,DEM,Marshae R. Madison,35
+Lowndes,0005 NEW SALEM CHURCH,State House,69,DEM,Kelvin J Lawrence,123
+Lowndes,0005 NEW SALEM CHURCH,State House,69,DEM,Marshae R. Madison,35
 Lowndes,0005 NEW SALEM CHURCH,U.S. Senate,,DEM,Dakarai Larriett,25
 Lowndes,0005 NEW SALEM CHURCH,U.S. Senate,,DEM,Everett Wess,85
 Lowndes,0005 NEW SALEM CHURCH,U.S. Senate,,DEM,Kyle Sweetser,16
@@ -340,8 +340,8 @@ Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Public Service Commissioner, Place 1",,DEM,J
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,"Public Service Commissioner, Place 1",,DEM,John Northrop,27
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,138
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,105
-Lowndes,0006 HAYNEVILLE C.H. ANNEX,State House,69.0,DEM,Kelvin J Lawrence,272
-Lowndes,0006 HAYNEVILLE C.H. ANNEX,State House,69.0,DEM,Marshae R. Madison,60
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,State House,69,DEM,Kelvin J Lawrence,272
+Lowndes,0006 HAYNEVILLE C.H. ANNEX,State House,69,DEM,Marshae R. Madison,60
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,U.S. Senate,,DEM,Dakarai Larriett,65
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,U.S. Senate,,DEM,Everett Wess,131
 Lowndes,0006 HAYNEVILLE C.H. ANNEX,U.S. Senate,,DEM,Kyle Sweetser,36
@@ -408,8 +408,8 @@ Lowndes,0007 BURKEVILLE VFD,"Public Service Commissioner, Place 1",,DEM,Jeff Ram
 Lowndes,0007 BURKEVILLE VFD,"Public Service Commissioner, Place 1",,DEM,John Northrop,15
 Lowndes,0007 BURKEVILLE VFD,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,82
 Lowndes,0007 BURKEVILLE VFD,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,99
-Lowndes,0007 BURKEVILLE VFD,State House,69.0,DEM,Kelvin J Lawrence,168
-Lowndes,0007 BURKEVILLE VFD,State House,69.0,DEM,Marshae R. Madison,50
+Lowndes,0007 BURKEVILLE VFD,State House,69,DEM,Kelvin J Lawrence,168
+Lowndes,0007 BURKEVILLE VFD,State House,69,DEM,Marshae R. Madison,50
 Lowndes,0007 BURKEVILLE VFD,U.S. Senate,,DEM,Dakarai Larriett,46
 Lowndes,0007 BURKEVILLE VFD,U.S. Senate,,DEM,Everett Wess,94
 Lowndes,0007 BURKEVILLE VFD,U.S. Senate,,DEM,Kyle Sweetser,20
@@ -471,8 +471,8 @@ Lowndes,0008 LILY BAPTIST CHURCH,"Public Service Commissioner, Place 1",,DEM,Jef
 Lowndes,0008 LILY BAPTIST CHURCH,"Public Service Commissioner, Place 1",,DEM,John Northrop,5
 Lowndes,0008 LILY BAPTIST CHURCH,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,29
 Lowndes,0008 LILY BAPTIST CHURCH,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,7
-Lowndes,0008 LILY BAPTIST CHURCH,State House,69.0,DEM,Kelvin J Lawrence,43
-Lowndes,0008 LILY BAPTIST CHURCH,State House,69.0,DEM,Marshae R. Madison,10
+Lowndes,0008 LILY BAPTIST CHURCH,State House,69,DEM,Kelvin J Lawrence,43
+Lowndes,0008 LILY BAPTIST CHURCH,State House,69,DEM,Marshae R. Madison,10
 Lowndes,0008 LILY BAPTIST CHURCH,U.S. Senate,,DEM,Dakarai Larriett,3
 Lowndes,0008 LILY BAPTIST CHURCH,U.S. Senate,,DEM,Everett Wess,24
 Lowndes,0008 LILY BAPTIST CHURCH,U.S. Senate,,DEM,Kyle Sweetser,4
@@ -532,8 +532,8 @@ Lowndes,0009 CALHOUN VOL FIRE,"Public Service Commissioner, Place 1",,DEM,Jeff R
 Lowndes,0009 CALHOUN VOL FIRE,"Public Service Commissioner, Place 1",,DEM,John Northrop,7
 Lowndes,0009 CALHOUN VOL FIRE,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,73
 Lowndes,0009 CALHOUN VOL FIRE,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,49
-Lowndes,0009 CALHOUN VOL FIRE,State House,69.0,DEM,Kelvin J Lawrence,142
-Lowndes,0009 CALHOUN VOL FIRE,State House,69.0,DEM,Marshae R. Madison,38
+Lowndes,0009 CALHOUN VOL FIRE,State House,69,DEM,Kelvin J Lawrence,142
+Lowndes,0009 CALHOUN VOL FIRE,State House,69,DEM,Marshae R. Madison,38
 Lowndes,0009 CALHOUN VOL FIRE,U.S. Senate,,DEM,Dakarai Larriett,39
 Lowndes,0009 CALHOUN VOL FIRE,U.S. Senate,,DEM,Everett Wess,59
 Lowndes,0009 CALHOUN VOL FIRE,U.S. Senate,,DEM,Kyle Sweetser,17
@@ -593,8 +593,8 @@ Lowndes,0010 FT. DEPOSIT ARMORY,"Public Service Commissioner, Place 1",,DEM,Jeff
 Lowndes,0010 FT. DEPOSIT ARMORY,"Public Service Commissioner, Place 1",,DEM,John Northrop,16
 Lowndes,0010 FT. DEPOSIT ARMORY,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,146
 Lowndes,0010 FT. DEPOSIT ARMORY,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,55
-Lowndes,0010 FT. DEPOSIT ARMORY,State House,69.0,DEM,Kelvin J Lawrence,188
-Lowndes,0010 FT. DEPOSIT ARMORY,State House,69.0,DEM,Marshae R. Madison,48
+Lowndes,0010 FT. DEPOSIT ARMORY,State House,69,DEM,Kelvin J Lawrence,188
+Lowndes,0010 FT. DEPOSIT ARMORY,State House,69,DEM,Marshae R. Madison,48
 Lowndes,0010 FT. DEPOSIT ARMORY,U.S. Senate,,DEM,Dakarai Larriett,29
 Lowndes,0010 FT. DEPOSIT ARMORY,U.S. Senate,,DEM,Everett Wess,121
 Lowndes,0010 FT. DEPOSIT ARMORY,U.S. Senate,,DEM,Kyle Sweetser,27
@@ -654,8 +654,8 @@ Lowndes,0011 SANDY RIDGE COMM CTR,"Public Service Commissioner, Place 1",,DEM,Je
 Lowndes,0011 SANDY RIDGE COMM CTR,"Public Service Commissioner, Place 1",,DEM,John Northrop,11
 Lowndes,0011 SANDY RIDGE COMM CTR,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,52
 Lowndes,0011 SANDY RIDGE COMM CTR,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,14
-Lowndes,0011 SANDY RIDGE COMM CTR,State House,69.0,DEM,Kelvin J Lawrence,66
-Lowndes,0011 SANDY RIDGE COMM CTR,State House,69.0,DEM,Marshae R. Madison,18
+Lowndes,0011 SANDY RIDGE COMM CTR,State House,69,DEM,Kelvin J Lawrence,66
+Lowndes,0011 SANDY RIDGE COMM CTR,State House,69,DEM,Marshae R. Madison,18
 Lowndes,0011 SANDY RIDGE COMM CTR,U.S. Senate,,DEM,Dakarai Larriett,31
 Lowndes,0011 SANDY RIDGE COMM CTR,U.S. Senate,,DEM,Everett Wess,22
 Lowndes,0011 SANDY RIDGE COMM CTR,U.S. Senate,,DEM,Kyle Sweetser,11
@@ -715,8 +715,8 @@ Lowndes,0012 BURKVILLE FS #2,"Public Service Commissioner, Place 1",,DEM,Jeff Ra
 Lowndes,0012 BURKVILLE FS #2,"Public Service Commissioner, Place 1",,DEM,John Northrop,13
 Lowndes,0012 BURKVILLE FS #2,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,50
 Lowndes,0012 BURKVILLE FS #2,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,43
-Lowndes,0012 BURKVILLE FS #2,State House,69.0,DEM,Kelvin J Lawrence,93
-Lowndes,0012 BURKVILLE FS #2,State House,69.0,DEM,Marshae R. Madison,27
+Lowndes,0012 BURKVILLE FS #2,State House,69,DEM,Kelvin J Lawrence,93
+Lowndes,0012 BURKVILLE FS #2,State House,69,DEM,Marshae R. Madison,27
 Lowndes,0012 BURKVILLE FS #2,U.S. Senate,,DEM,Dakarai Larriett,23
 Lowndes,0012 BURKVILLE FS #2,U.S. Senate,,DEM,Everett Wess,28
 Lowndes,0012 BURKVILLE FS #2,U.S. Senate,,DEM,Kyle Sweetser,23
@@ -783,8 +783,8 @@ Lowndes,0013 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey,15
 Lowndes,0013 ABSENTEE,"Public Service Commissioner, Place 1",,DEM,John Northrop,12
 Lowndes,0013 ABSENTEE,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,37
 Lowndes,0013 ABSENTEE,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,56
-Lowndes,0013 ABSENTEE,State House,69.0,DEM,Kelvin J Lawrence,115
-Lowndes,0013 ABSENTEE,State House,69.0,DEM,Marshae R. Madison,24
+Lowndes,0013 ABSENTEE,State House,69,DEM,Kelvin J Lawrence,115
+Lowndes,0013 ABSENTEE,State House,69,DEM,Marshae R. Madison,24
 Lowndes,0013 ABSENTEE,U.S. Senate,,DEM,Dakarai Larriett,17
 Lowndes,0013 ABSENTEE,U.S. Senate,,DEM,Everett Wess,41
 Lowndes,0013 ABSENTEE,U.S. Senate,,DEM,Kyle Sweetser,8
@@ -851,8 +851,8 @@ Lowndes,0014 PROVISIONAL,"Public Service Commissioner, Place 1",,DEM,Jeff Ramsey
 Lowndes,0014 PROVISIONAL,"Public Service Commissioner, Place 1",,DEM,John Northrop,0
 Lowndes,0014 PROVISIONAL,State Democratic Executive Committee,,DEM,ELANOUR GRAHAM,2
 Lowndes,0014 PROVISIONAL,State Democratic Executive Committee,,DEM,JO CELESTE PETTWAY,1
-Lowndes,0014 PROVISIONAL,State House,69.0,DEM,Kelvin J Lawrence,7
-Lowndes,0014 PROVISIONAL,State House,69.0,DEM,Marshae R. Madison,1
+Lowndes,0014 PROVISIONAL,State House,69,DEM,Kelvin J Lawrence,7
+Lowndes,0014 PROVISIONAL,State House,69,DEM,Marshae R. Madison,1
 Lowndes,0014 PROVISIONAL,U.S. Senate,,DEM,Dakarai Larriett,0
 Lowndes,0014 PROVISIONAL,U.S. Senate,,DEM,Everett Wess,2
 Lowndes,0014 PROVISIONAL,U.S. Senate,,DEM,Kyle Sweetser,2
