@@ -92,11 +92,14 @@ class Verifier(object):
 	# "Proposed Statewioe Amendment 1" or "Commissidner of Agriculture and
 	# Industries" still fail to match and get flagged. The county-local branch
 	# requires the word "County" plus a known office keyword, except judicial
-	# races which are titled by "Judicial Circuit" rather than a county.
+	# races which are titled by "Judicial Circuit" rather than a county. Fire
+	# district elections (Franklin 2026: "Belgreen Fire District Election
+	# Belgreen") are titled by their fire district, not a county.
 	validOfficeRE = re.compile(
 		r'^(?:'
 		r'Public Service Commission(?:er)?(?:,? Place(?: No\.?)? \d+)?'
 		r'|Proposed Statewide Amendment(?: (?:One|Two|\d+))?'
+		r'|(?=.*\bFire District\b).*'
 		r'|State (?:Democratic|Republican) Exec(?:utive)? Comm(?:ittee)?.*'
 		r'|(?:Circuit|District) Court Judge\b.*'
 		r'|(?=.*\bCounty\b)(?=.*\b(?:Sheriff|Coroner|Revenue Commissioner|Property Tax Commissioner|Commission|Board of Education|School Board|School District|Executive Committee|Superintendent|Chairman)\b).*'

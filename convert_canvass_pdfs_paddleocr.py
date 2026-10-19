@@ -58,6 +58,24 @@ def _token():
     raise SystemExit("No PaddleOCR token: set $PADDLEOCR_TOKEN or create .paddleocr_token")
 
 
+def _retry(fn, attempts=8, wait=5, what="request"):
+    """Retry a call. The AI Studio API drops ~half of all incoming TLS handshakes
+    (connection reset or 30s+ hang), so every HTTP call needs this wrapper."""
+    import requests
+    import urllib3
+    urllib3.disable_warnings()
+    last = None
+    for i in range(attempts):
+        try:
+            return fn()
+        except (requests.exceptions.ConnectionError, requests.exceptions.Timeout) as e:
+            last = e
+            print(f"    paddleocr {what} attempt {i+1}/{attempts} failed ({type(e).__name__}), retrying",
+                  flush=True)
+            time.sleep(wait)
+    raise RuntimeError(f"PaddleOCR {what} failed after {attempts} attempts") from last
+
+
 # ---------------------------------------------------------------------------
 # AI Studio job: submit whole PDF -> poll -> per-page markdown
 # ---------------------------------------------------------------------------
@@ -66,11 +84,17 @@ def _submit_job(pdf_path, token):
     import requests
     headers = {"Authorization": f"bearer {token}"}
     data = {"model": MODEL, "optionalPayload": json.dumps(OPTIONAL_PAYLOAD)}
-    with open(pdf_path, "rb") as f:
-        r = requests.post(JOB_URL, headers=headers, data=data, files={"file": f}, timeout=300)
-    if r.status_code != 200:
-        raise RuntimeError(f"PaddleOCR submit failed ({r.status_code}): {r.text[:400]}")
-    return r.json()["data"]["jobId"]
+
+    def call():
+        with open(pdf_path, "rb") as f:
+            r = requests.post(JOB_URL, headers=headers, data=data, files={"file": f}, timeout=300)
+        if r.status_code in (400, 401, 403, 422):
+            # API-level rejection: no point retrying the same payload
+            raise RuntimeError(f"PaddleOCR submit rejected ({r.status_code}): {r.text[:400]}")
+        r.raise_for_status()
+        return r.json()["data"]["jobId"]
+
+    return _retry(call, what="submit")
 
 
 def _poll_job(job_id, token):
@@ -78,9 +102,11 @@ def _poll_job(job_id, token):
     import requests
     headers = {"Authorization": f"bearer {token}"}
     while True:
-        r = requests.get(f"{JOB_URL}/{job_id}", headers=headers, timeout=60)
-        r.raise_for_status()
-        d = r.json()["data"]
+        try:
+            d = requests.get(f"{JOB_URL}/{job_id}", headers=headers, timeout=30).json()["data"]
+        except (requests.exceptions.ConnectionError, requests.exceptions.Timeout):
+            time.sleep(POLL_SECONDS)  # transient handshake drop; the job itself is fine
+            continue
         state = d["state"]
         if state == "done":
             return d["resultUrl"]["jsonUrl"]
@@ -96,8 +122,13 @@ def _poll_job(job_id, token):
 def _fetch_pages(jsonl_url):
     """Download the JSONL and return per-page markdown text, in page order."""
     import requests
-    r = requests.get(jsonl_url, timeout=120)
-    r.raise_for_status()
+
+    def call():
+        r = requests.get(jsonl_url, timeout=120)
+        r.raise_for_status()
+        return r
+
+    r = _retry(call, what="download")
     pages = []
     for line in r.text.strip().split("\n"):
         line = line.strip()
